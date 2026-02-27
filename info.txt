@@ -1,0 +1,101 @@
+----------------------------------------
+SUCCESS!
+Total Folders Found: 975
+Total Images Found:  7078
+Saved to:            Import_LC_Settlement_manifest.json
+----------------------------------------
+
+----------------------------------------
+SUCCESS!
+Total Folders Found: 556
+Total Images Found:  18488
+Saved to:            Import_LC_Acceptance_manifest.json
+----------------------------------------
+
+----------------------------------------
+SUCCESS!
+Total Folders Found: 482
+Total Images Found:  21324
+Saved to:            Import_LC_Drawing_manifest.json
+----------------------------------------
+
+3  test_image_set_creator.py 
+--- Sampling Strategy ---
+Target: 100 images total from 3 sources.
+Ideal target per source: ~33
+----------------------------------------
+FINAL COUNT: 100
+SAVED TO: balanced_sample_100.json
+----------------------------------------
+
+==================================================
+PROCESS COMPLETED
+Total Images:    100
+Total Time:      400.60 seconds
+Average Time:    4.01 seconds per image
+==================================================
+
+==================================================
+PROCESS COMPLETED
+Total Images in Manifest: 532
+Images Skipped (Existing): 0
+Images Processed Now:     532
+Total Time for Run:       2663.30 seconds
+Avg Time per Image:       5.01 seconds
+==================================================
+
+--------------------------------------------------
+COMPLETED
+Total Folders Scanned:    38
+Existing Images Skipped:  532
+Remaining Images Found:   512
+New Manifest Saved To:    /datadrive2/IDF_AL_MASRAF/remaining_untapped_images.json
+
+
+Loaded 38 folders to exclude.
+Source: Import_LC_Acceptance_manifest.json | Eligible Leaf-Folders: 869
+Source: Import_LC_Drawing_manifest.json | Eligible Leaf-Folders: 455
+Source: Import_LC_Settlement_manifest.json | Eligible Leaf-Folders: 1450
+Source 1 Result: Selected 361 images.
+Source 2 Result: Selected 361 images.
+Source 3 Result: Selected 336 images.
+----------------------------------------
+TOTAL IMAGES COLLECTED: 1058
+SAVED TO: /datadrive2/IDF_AL_MASRAF/final_balanced_sample.json
+
+
+--------------------------------------------------
+PROCESS COMPLETED
+Output Root: /datadrive2/IDF_AL_MASRAF/final_balanced_sample_images
+Total Subfolders (Leafs): 111
+Total Images Copied:      1058
+--------------------------------------------------
+
+--------------------------------------------------
+COMPLETED
+Destination: /datadrive2/IDF_AL_MASRAF/500_images_from_final_balanced_sample
+Final Image Count: 532
+--------------------------------------------------
+
+OVERALL TIME: 9101.99s --------> for 500 images 
+
+
+## save the before thining as reasoning 
+
+
+
+------------------------------
+SUCCESS: CSV saved at /datadrive2/IDF_AL_MASRAF/532_first_set_thinking_model_result.csv
+Total Rows: 532
+------------------------------
+
+CLASS DISTRIBUTION:
+others                    ----> 219
+Commercial_Invoice        ----> 118
+Covering_Schedule         ----> 94
+Bill_of_Exchange          ----> 38
+Packing_List              ----> 37
+Bill_of_Lading            ----> 23
+error                     ----> 2
+Certificate_of_Origin     ----> 1
+------------------------------
