@@ -1,0 +1,129 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210824112119_1.00_page_10.png,csh_ref_no,299T3U3212290004,,0,0,[],"[729, 1056, 1060, 1083]"
+1,Trade Finance_20210824112119_1.00_page_10.png,csh_bill_currency,AED,,0,0,[],"[732, 1156, 811, 1191]"
+2,Trade Finance_20210824112119_1.00_page_10.png,csh_bill_amount,"115,510.50","115,510.50",100,1,"[838, 1158, 1036, 1190]","[832, 1158, 1045, 1189]"
+3,Trade Finance_20210824112119_1.00_page_10.png,csh_drawn_under_rules,600,600,100,1,"[877, 1871, 1058, 1903]","[1346, 2813, 1430, 2856]"
+4,Trade Finance_20210824112119_1.00_page_10.png,tenor_type,FROM,FROM,100,1,"[920, 1229, 996, 1253]","[912, 1224, 999, 1262]"
+5,Trade Finance_20210824112119_1.00_page_10.png,usance_tenor,120,120,100,1,"[736, 1225, 793, 1253]","[728, 1225, 806, 1258]"
+6,Trade Finance_20210824112119_1.00_page_10.png,tenor_indicator,DAYS,DAYS,100,1,"[818, 1229, 895, 1253]","[813, 1224, 904, 1259]"
+7,Trade Finance_20210824112119_1.00_page_10.png,tenor_indicator_type,,,0,0,[],
+8,Trade Finance_20210824112119_1.00_page_10.png,tenor_indicator_date,DELIVERY DATE,DELIVERY DATE,100,1,"[1019, 1229, 1279, 1253]","[1011, 1226, 1283, 1262]"
+9,Trade Finance_20210824112119_1.00_page_10.png,drawer_bank_name,,ARAB BANK FOR INVESTMENT AND FOREIG,0,0,"[736, 1190, 1440, 1222]","[1475, 410, 1920, 532]"
+10,Trade Finance_20210824112119_1.00_page_10.png,drawer_bank_bic,(ADCBAEAA060),ADCBAEAA060,92,1,"[1222, 2075, 1473, 2110]","[1232, 2075, 1468, 2110]"
+11,Trade Finance_20210824112119_1.00_page_10.png,drawer_bank_address,,,100,1,[],"[485, 3079, 1081, 3119]"
+12,Trade Finance_20210824112119_1.00_page_10.png,drawer_bank_country,,,0,0,[],
+13,Trade Finance_20210824112119_1.00_page_10.png,drawer_name,SEAGULL (HVAC) INDUSTRY LLC,SEAGULL (HVAC) INDUSTRY,92,1,"[736, 1088, 1200, 1120]","[733, 1087, 1357, 1127]"
+14,Trade Finance_20210824112119_1.00_page_10.png,drawer_address,,,0,0,[],
+15,Trade Finance_20210824112119_1.00_page_10.png,drawer_country,,,0,0,[],
+16,Trade Finance_20210824112119_1.00_page_10.png,drawer_ref_no,,,0,0,[],
+17,Trade Finance_20210824112119_1.00_page_10.png,drawee_name,AL MASRAF ISLAMIC ,AL MASRAF — ISLAMICTRADE,81,1,"[734, 1127, 1116, 1151]","[735, 1127, 1131, 1154]"
+18,Trade Finance_20210824112119_1.00_page_10.png,drawee_address,,"FINANCE DEPARTMENT, 1ST FLCORAL MASRAF TOWER, SHEIKH HAMD AN BIN MOHAMMAD STREET, P.O. BOX 2484, ABU DHABI, UAE",0,0,"[314, 821, 1562, 916]",
+19,Trade Finance_20210824112119_1.00_page_10.png,drawee_country,,,0,0,[],
+20,Trade Finance_20210824112119_1.00_page_10.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,69,0,"[314, 786, 877, 856]","[310, 781, 883, 814]"
+21,Trade Finance_20210824112119_1.00_page_10.png,drawee_bank_bic,,,0,0,[],
+22,Trade Finance_20210824112119_1.00_page_10.png,drawee_bank_address,FOREIGNALTRADEMASRAFTRADEFINANCEDEPARTMENT1STFLOORALMASRAFTOWERSHEIKHHAMDANBINMOHAMMADSTREETPOBOX2484ABUDHABIUAE,,0,0,[],"[310, 816, 1570, 919]"
+23,Trade Finance_20210824112119_1.00_page_10.png,drawee_bank_country,,,0,0,[],
+24,Trade Finance_20210824112119_1.00_page_10.png,nostro_bank_name,CENTRAL BANK,CENTRAL BANK,100,1,"[411, 2075, 649, 2100]","[404, 2067, 660, 2110]"
+25,Trade Finance_20210824112119_1.00_page_10.png,nostro_bank_bic,,,0,0,[],
+26,Trade Finance_20210824112119_1.00_page_10.png,nostro_bank_address,UAE,UAE,100,1,"[815, 2075, 947, 2107]","[807, 2072, 934, 2113]"
+27,Trade Finance_20210824112119_1.00_page_10.png,nostro_bank_country,,,0,0,[],
+28,Trade Finance_20210824112119_1.00_page_10.png,doc_delivery_instruction,,,0,0,[],
+29,Trade Finance_20210824112119_1.00_page_10.png,doc_charge_instructions,,,0,0,[],
+30,Trade Finance_20210824112119_1.00_page_10.png,document_enclosed,,,0,0,[],
+31,Trade Finance_20210824112119_1.00_page_10.png,total_bill_amount,,,0,0,[],
+32,Trade Finance_20210824112119_1.00_page_19.png,csh_ref_no,299T2M2192190004,SIADCBZO1120,21,0,"[266, 703, 615, 745]","[544, 1408, 979, 1474]"
+33,Trade Finance_20210824112119_1.00_page_19.png,csh_bill_currency,AED,,0,0,[],"[888, 1752, 991, 1813]"
+34,Trade Finance_20210824112119_1.00_page_19.png,csh_bill_amount,"115,510.50",,0,0,[],"[991, 1746, 1202, 1819]"
+35,Trade Finance_20210824112119_1.00_page_19.png,csh_drawn_under_rules,,,0,0,[],
+36,Trade Finance_20210824112119_1.00_page_19.png,tenor_type,,,0,0,[],
+37,Trade Finance_20210824112119_1.00_page_19.png,usance_tenor,,,0,0,[],
+38,Trade Finance_20210824112119_1.00_page_19.png,tenor_indicator,,,0,0,[],
+39,Trade Finance_20210824112119_1.00_page_19.png,tenor_indicator_type,,,0,0,[],
+40,Trade Finance_20210824112119_1.00_page_19.png,tenor_indicator_date,,,0,0,[],
+41,Trade Finance_20210824112119_1.00_page_19.png,drawer_bank_name,INDUSTRY SEAGULL HVAC LLC,SEAGULL HVAC INDUSTRY LLC,64,0,"[580, 446, 1784, 520]","[544, 435, 1843, 550]"
+42,Trade Finance_20210824112119_1.00_page_19.png,drawer_bank_bic,,,0,0,[],
+43,Trade Finance_20210824112119_1.00_page_19.png,drawer_bank_address,UnitedArabPOBOX27743DUBAIEmirates,,0,0,[],"[409, 3073, 1259, 3129]"
+44,Trade Finance_20210824112119_1.00_page_19.png,drawer_bank_country,,,0,0,[],
+45,Trade Finance_20210824112119_1.00_page_19.png,drawer_name,,,0,0,[],
+46,Trade Finance_20210824112119_1.00_page_19.png,drawer_address,,,0,0,[],
+47,Trade Finance_20210824112119_1.00_page_19.png,drawer_country,,,0,0,[],
+48,Trade Finance_20210824112119_1.00_page_19.png,drawer_ref_no,,,0,0,[],
+49,Trade Finance_20210824112119_1.00_page_19.png,drawee_name,,,0,0,[],
+50,Trade Finance_20210824112119_1.00_page_19.png,drawee_address,,,0,0,[],
+51,Trade Finance_20210824112119_1.00_page_19.png,drawee_country,,,0,0,[],
+52,Trade Finance_20210824112119_1.00_page_19.png,drawee_bank_name,Abu Dhabi Commercial Bank,ABU DHABI COMMERCIAL BANK,100,1,"[266, 879, 842, 921]","[253, 873, 851, 925]"
+53,Trade Finance_20210824112119_1.00_page_19.png,drawee_bank_bic,,,0,0,[],
+54,Trade Finance_20210824112119_1.00_page_19.png,drawee_bank_address,MalloftheEmiratesBranchPOBoxNo72225DubaiUAE,MALLOFTHEEMIRATESBRANCHPOBOX72225DUBAIUAE,98,1,"[269, 939, 815, 1097]","[253, 931, 836, 1109]"
+55,Trade Finance_20210824112119_1.00_page_19.png,drawee_bank_country,,NO,0,0,"[269, 939, 815, 1097]",
+56,Trade Finance_20210824112119_1.00_page_19.png,nostro_bank_name,,,0,0,[],
+57,Trade Finance_20210824112119_1.00_page_19.png,nostro_bank_bic,,,0,0,[],
+58,Trade Finance_20210824112119_1.00_page_19.png,nostro_bank_address,,,0,0,[],
+59,Trade Finance_20210824112119_1.00_page_19.png,nostro_bank_country,,,0,0,[],
+60,Trade Finance_20210824112119_1.00_page_19.png,doc_delivery_instruction,,,0,0,[],
+61,Trade Finance_20210824112119_1.00_page_19.png,doc_charge_instructions,,,0,0,[],
+62,Trade Finance_20210824112119_1.00_page_19.png,document_enclosed,,,0,0,[],
+63,Trade Finance_20210824112119_1.00_page_19.png,total_bill_amount,,,0,0,[],
+64,Trade Finance_20210824112119_1.00_page_5.png,csh_ref_no,AUGUST 2021,TF192187000212,40,0,"[1138, 1160, 1455, 1199]","[1912, 637, 2175, 671]"
+65,Trade Finance_20210824112119_1.00_page_5.png,csh_bill_currency,,AED,0,0,"[1138, 1125, 1398, 1153]","[1134, 1132, 1193, 1157]"
+66,Trade Finance_20210824112119_1.00_page_5.png,csh_bill_amount,,115510.50,0,0,"[1138, 1125, 1398, 1153]","[1195, 1133, 1351, 1157]"
+67,Trade Finance_20210824112119_1.00_page_5.png,csh_drawn_under_rules,,,0,0,[],
+68,Trade Finance_20210824112119_1.00_page_5.png,tenor_type,,,0,0,[],
+69,Trade Finance_20210824112119_1.00_page_5.png,usance_tenor,,,0,0,[],
+70,Trade Finance_20210824112119_1.00_page_5.png,tenor_indicator,,,0,0,[],
+71,Trade Finance_20210824112119_1.00_page_5.png,tenor_indicator_type,,,0,0,[],
+72,Trade Finance_20210824112119_1.00_page_5.png,tenor_indicator_date,,,0,0,[],
+73,Trade Finance_20210824112119_1.00_page_5.png,drawer_bank_name,MASRAF,"ABU DHABI COMMERCIAL BANK, DUBAIALMASRAF",26,0,"[297, 939, 826, 960]","[1748, 294, 2168, 389]"
+74,Trade Finance_20210824112119_1.00_page_5.png,drawer_bank_bic,,,0,0,[],
+75,Trade Finance_20210824112119_1.00_page_5.png,drawer_bank_address,,U.A.E ABU DHABI AE,0,0,"[289, 970, 450, 1058]",
+76,Trade Finance_20210824112119_1.00_page_5.png,drawer_bank_country,,AE,0,0,"[289, 970, 450, 1058]",
+77,Trade Finance_20210824112119_1.00_page_5.png,drawer_name,SEAGULL HVAC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,100,1,"[299, 745, 727, 763]","[292, 739, 738, 766]"
+78,Trade Finance_20210824112119_1.00_page_5.png,drawer_address,POBOX27743DUBAIUAE,POBOX27743DUBAIUAE,100,1,"[299, 777, 725, 798]","[290, 768, 740, 802]"
+79,Trade Finance_20210824112119_1.00_page_5.png,drawer_country,,,0,0,[],
+80,Trade Finance_20210824112119_1.00_page_5.png,drawer_ref_no,,,0,0,[],
+81,Trade Finance_20210824112119_1.00_page_5.png,drawee_name,Al Masraf Islamic ,AL MASRAF — ISLAMIC,92,1,"[1138, 742, 1465, 763]","[1133, 738, 1482, 766]"
+82,Trade Finance_20210824112119_1.00_page_5.png,drawee_address,IslamicBankingServicesBranchFirstMainJumeiraRoadUmmSugeimDubai,ISLAMICBANKINGSERVICESBRANCHFIRSTMAINJUMEIRAROADUMMSUQEIMDUBAI,98,1,"[1138, 777, 1673, 865]","[1133, 774, 1680, 869]"
+83,Trade Finance_20210824112119_1.00_page_5.png,drawee_country,,,0,0,[],
+84,Trade Finance_20210824112119_1.00_page_5.png,drawee_bank_name,"ABU DHABI COMMERCIAL BANK, DUBAI",,0,0,[],"[292, 931, 837, 965]"
+85,Trade Finance_20210824112119_1.00_page_5.png,drawee_bank_bic,,,0,0,[],
+86,Trade Finance_20210824112119_1.00_page_5.png,drawee_bank_address,UAEABUDHABIAE,,0,0,[],"[287, 969, 458, 1070]"
+87,Trade Finance_20210824112119_1.00_page_5.png,drawee_bank_country,,,0,0,[],
+88,Trade Finance_20210824112119_1.00_page_5.png,nostro_bank_name,,,0,0,[],
+89,Trade Finance_20210824112119_1.00_page_5.png,nostro_bank_bic,,,0,0,[],
+90,Trade Finance_20210824112119_1.00_page_5.png,nostro_bank_address,,,0,0,[],
+91,Trade Finance_20210824112119_1.00_page_5.png,nostro_bank_country,,,0,0,[],
+92,Trade Finance_20210824112119_1.00_page_5.png,doc_delivery_instruction,,,0,0,[],
+93,Trade Finance_20210824112119_1.00_page_5.png,doc_charge_instructions,,,0,0,[],
+94,Trade Finance_20210824112119_1.00_page_5.png,document_enclosed,,,0,0,[],
+95,Trade Finance_20210824112119_1.00_page_5.png,total_bill_amount,,,0,0,[],
+96,Trade Finance_20210824112119_1.00_page_6.png,csh_ref_no,299T3U3212290004,,0,0,[],"[753, 1062, 1094, 1103]"
+97,Trade Finance_20210824112119_1.00_page_6.png,csh_bill_currency,AED,AED,100,1,"[755, 1175, 816, 1199]","[755, 1176, 822, 1203]"
+98,Trade Finance_20210824112119_1.00_page_6.png,csh_bill_amount,"115,510.50•","115,510.50",95,1,"[863, 1160, 1130, 1206]","[858, 1173, 1071, 1205]"
+99,Trade Finance_20210824112119_1.00_page_6.png,csh_drawn_under_rules,600,600,100,1,"[900, 1910, 1090, 1941]","[1400, 2890, 1486, 2928]"
+100,Trade Finance_20210824112119_1.00_page_6.png,tenor_type,FROM,FROM,100,1,"[947, 1245, 1026, 1269]","[940, 1243, 1034, 1274]"
+101,Trade Finance_20210824112119_1.00_page_6.png,usance_tenor,120,120,100,1,"[755, 1241, 814, 1269]","[751, 1240, 823, 1276]"
+102,Trade Finance_20210824112119_1.00_page_6.png,tenor_indicator,DAYS,DAYS,100,1,"[841, 1245, 920, 1269]","[836, 1241, 927, 1273]"
+103,Trade Finance_20210824112119_1.00_page_6.png,tenor_indicator_type,,,0,0,[],
+104,Trade Finance_20210824112119_1.00_page_6.png,tenor_indicator_date,DELIVERY DATE,DELIVERY DATE,100,1,"[1051, 1245, 1322, 1269]","[1042, 1244, 1330, 1281]"
+105,Trade Finance_20210824112119_1.00_page_6.png,drawer_bank_name,,,100,1,[],"[1518, 385, 2008, 519]"
+106,Trade Finance_20210824112119_1.00_page_6.png,drawer_bank_bic,(ADCBAEAA060),ADCBAEAA060,92,1,"[1263, 2121, 1525, 2153]","[1277, 2116, 1523, 2157]"
+107,Trade Finance_20210824112119_1.00_page_6.png,drawer_bank_address,POBox12808DubaiUnitedArabEmirates,,0,0,[],"[499, 3167, 1119, 3203]"
+108,Trade Finance_20210824112119_1.00_page_6.png,drawer_bank_country,,,0,0,[],
+109,Trade Finance_20210824112119_1.00_page_6.png,drawer_name,SEAGULL (HVAC) INDUSTRY LLC,SEAGULL (HVAC) INDUSTRY,92,1,"[757, 1097, 1238, 1132]","[749, 1104, 1407, 1133]"
+110,Trade Finance_20210824112119_1.00_page_6.png,drawer_address,,,0,0,[],
+111,Trade Finance_20210824112119_1.00_page_6.png,drawer_country,,,0,0,[],
+112,Trade Finance_20210824112119_1.00_page_6.png,drawer_ref_no,,,0,0,[],
+113,Trade Finance_20210824112119_1.00_page_6.png,drawee_name,AL MASRAF ISLAMIC ,AL MASRAF — ISLAMIC,92,1,"[755, 1139, 1152, 1171]","[751, 1133, 1164, 1168]"
+114,Trade Finance_20210824112119_1.00_page_6.png,drawee_address,,,0,0,[],
+115,Trade Finance_20210824112119_1.00_page_6.png,drawee_country,,,0,0,[],
+116,Trade Finance_20210824112119_1.00_page_6.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAFTRADE~ARAB BANK FOR INVESTMENT AND FOREIG,46,0,"[313, 784, 942, 851]","[304, 781, 910, 817]"
+117,Trade Finance_20210824112119_1.00_page_6.png,drawee_bank_bic,,,0,0,[],
+118,Trade Finance_20210824112119_1.00_page_6.png,drawee_bank_address,FOREIGNTRADEALMASRAFTRADEFINANCEDEPARTMENT1STFLOORALMASRAFTOWERSHEIKHHAMDANBINMOHAMMADSTREETPOBOXDHABI2484ABUUAE,FINANCEDEPARTMENT1STFLOORALMASRAFTOWERSHEIKHHAMDANBINMOHAMMADSTREETPOBOX2484ABUDHABIUAE,82,1,"[315, 819, 1616, 928]","[307, 818, 1632, 921]"
+119,Trade Finance_20210824112119_1.00_page_6.png,drawee_bank_country,,,0,0,[],
+120,Trade Finance_20210824112119_1.00_page_6.png,nostro_bank_name,BANK,,0,0,[],"[407, 2119, 671, 2154]"
+121,Trade Finance_20210824112119_1.00_page_6.png,nostro_bank_bic,,,0,0,[],
+122,Trade Finance_20210824112119_1.00_page_6.png,nostro_bank_address,UAE,,0,0,[],"[828, 2114, 957, 2164]"
+123,Trade Finance_20210824112119_1.00_page_6.png,nostro_bank_country,,,0,0,[],
+124,Trade Finance_20210824112119_1.00_page_6.png,doc_delivery_instruction,,,0,0,[],
+125,Trade Finance_20210824112119_1.00_page_6.png,doc_charge_instructions,,,0,0,[],
+126,Trade Finance_20210824112119_1.00_page_6.png,document_enclosed,,,0,0,[],
+127,Trade Finance_20210824112119_1.00_page_6.png,total_bill_amount,,,0,0,[],

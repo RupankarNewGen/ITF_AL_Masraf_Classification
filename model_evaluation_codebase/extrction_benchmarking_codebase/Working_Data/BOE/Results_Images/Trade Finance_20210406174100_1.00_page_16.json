@@ -1,0 +1,1665 @@
+{
+    "Trade Finance_20210406174100_1.00_page_16.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "bill_exchange_no": {
+                "value": "NO.TF2104700002",
+                "coordinate": [
+                    [
+                        217,
+                        270,
+                        535,
+                        323
+                    ]
+                ],
+                "model_confidence": [
+                    0.991785
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {
+                "value": "USD5,",
+                "coordinate": [
+                    [
+                        217,
+                        368,
+                        343,
+                        421
+                    ]
+                ],
+                "model_confidence": [
+                    0.99148
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "616. 00*",
+                "coordinate": [
+                    [
+                        362,
+                        368,
+                        584,
+                        417
+                    ]
+                ],
+                "model_confidence": [
+                    0.998442
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "16,",
+                "coordinate": [
+                    [
+                        1275,
+                        1190,
+                        1330,
+                        1232
+                    ]
+                ],
+                "model_confidence": [
+                    0.81414
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "PAY TO Mizuho Bank,",
+                "coordinate": [
+                    [
+                        204,
+                        561,
+                        641,
+                        607
+                    ]
+                ],
+                "model_confidence": [
+                    0.985593
+                ],
+                "ocr_confidence": []
+            },
+            "amount_in_words": {
+                "value": "DOLLARS FIVE THOUSAND SIX HUNDRED SIXTEEN ONLY RECEIVED CHARGE THE\u2022 SAMEX",
+                "coordinate": [
+                    [
+                        209,
+                        719,
+                        2243,
+                        804
+                    ]
+                ],
+                "model_confidence": [
+                    0.956676
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_name": {
+                "value": "HADI ENTERPRISES LLC",
+                "coordinate": [
+                    [
+                        466,
+                        941,
+                        878,
+                        979
+                    ]
+                ],
+                "model_confidence": [
+                    0.999401
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_address": {
+                "value": "DRAWN UNDER ABINAEAAXXX ARAB BANK FOR INVESTMENT AND FOREIGN TRADE HEAD OFFICE DHABI",
+                "coordinate": [
+                    [
+                        219,
+                        1039,
+                        1816,
+                        1158
+                    ]
+                ],
+                "model_confidence": [
+                    0.865414
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "L/C No. TF2104700002",
+                "coordinate": [
+                    [
+                        217,
+                        1190,
+                        688,
+                        1236
+                    ]
+                ],
+                "model_confidence": [
+                    0.998624
+                ],
+                "ocr_confidence": []
+            },
+            "issue_date": {
+                "value": "DATED Feb.",
+                "coordinate": [
+                    [
+                        940,
+                        1190,
+                        1256,
+                        1239
+                    ]
+                ],
+                "model_confidence": [
+                    0.65026
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "TO ABINAEAA ARAB BANK FOR INVESTMENT AND. FOREIGN TRADE HEAD OFFICE ABU DHABI' UNITED ARAB EMIRATES",
+                "coordinate": [
+                    [
+                        207,
+                        1278,
+                        1068,
+                        1387
+                    ]
+                ],
+                "model_confidence": [
+                    0.999421
+                ],
+                "ocr_confidence": []
+            }
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "BILL",
+                    "left": 963,
+                    "top": 149,
+                    "width": 158,
+                    "height": 62,
+                    "x1": 963,
+                    "y1": 149,
+                    "x2": 1121,
+                    "y2": 211,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 1163,
+                    "top": 153,
+                    "width": 78,
+                    "height": 58,
+                    "x1": 1163,
+                    "y1": 153,
+                    "x2": 1241,
+                    "y2": 211,
+                    "Confidence": 99
+                },
+                {
+                    "word": "EXCHANGE",
+                    "left": 1283,
+                    "top": 151,
+                    "width": 320,
+                    "height": 60,
+                    "x1": 1283,
+                    "y1": 151,
+                    "x2": 1603,
+                    "y2": 211,
+                    "Confidence": 99
+                },
+                {
+                    "word": "NO.TF2104700002",
+                    "left": 184,
+                    "top": 267,
+                    "width": 728,
+                    "height": 63,
+                    "x1": 184,
+                    "y1": 267,
+                    "x2": 912,
+                    "y2": 330,
+                    "Confidence": 99
+                },
+                {
+                    "word": "USD5,616.00%",
+                    "left": 219,
+                    "top": 370,
+                    "width": 368,
+                    "height": 52,
+                    "x1": 219,
+                    "y1": 370,
+                    "x2": 587,
+                    "y2": 422,
+                    "Confidence": 99
+                },
+                {
+                    "word": "AT",
+                    "left": 187,
+                    "top": 470,
+                    "width": 166,
+                    "height": 40,
+                    "x1": 187,
+                    "y1": 470,
+                    "x2": 353,
+                    "y2": 510,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SIGHT",
+                    "left": 366,
+                    "top": 468,
+                    "width": 111,
+                    "height": 36,
+                    "x1": 366,
+                    "y1": 468,
+                    "x2": 477,
+                    "y2": 504,
+                    "Confidence": 99
+                },
+                {
+                    "word": "PAY",
+                    "left": 182,
+                    "top": 574,
+                    "width": 95,
+                    "height": 27,
+                    "x1": 182,
+                    "y1": 574,
+                    "x2": 277,
+                    "y2": 601,
+                    "Confidence": 99
+                },
+                {
+                    "word": "To",
+                    "left": 288,
+                    "top": 573,
+                    "width": 45,
+                    "height": 28,
+                    "x1": 288,
+                    "y1": 573,
+                    "x2": 333,
+                    "y2": 601,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Mizuho",
+                    "left": 349,
+                    "top": 563,
+                    "width": 157,
+                    "height": 40,
+                    "x1": 349,
+                    "y1": 563,
+                    "x2": 506,
+                    "y2": 603,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bank,",
+                    "left": 533,
+                    "top": 563,
+                    "width": 111,
+                    "height": 45,
+                    "x1": 533,
+                    "y1": 563,
+                    "x2": 644,
+                    "y2": 608,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Ltd.",
+                    "left": 685,
+                    "top": 563,
+                    "width": 85,
+                    "height": 38,
+                    "x1": 685,
+                    "y1": 563,
+                    "x2": 770,
+                    "y2": 601,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OR",
+                    "left": 807,
+                    "top": 574,
+                    "width": 42,
+                    "height": 27,
+                    "x1": 807,
+                    "y1": 574,
+                    "x2": 849,
+                    "y2": 601,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ORDER",
+                    "left": 858,
+                    "top": 571,
+                    "width": 88,
+                    "height": 30,
+                    "x1": 858,
+                    "y1": 571,
+                    "x2": 946,
+                    "y2": 601,
+                    "Confidence": 99
+                },
+                {
+                    "word": ".",
+                    "left": 930,
+                    "top": 245,
+                    "width": 4,
+                    "height": 8,
+                    "x1": 930,
+                    "y1": 245,
+                    "x2": 934,
+                    "y2": 253,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DUE",
+                    "left": 968,
+                    "top": 222,
+                    "width": 99,
+                    "height": 37,
+                    "x1": 968,
+                    "y1": 222,
+                    "x2": 1067,
+                    "y2": 259,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ON",
+                    "left": 1084,
+                    "top": 229,
+                    "width": 29,
+                    "height": 24,
+                    "x1": 1084,
+                    "y1": 229,
+                    "x2": 1113,
+                    "y2": 253,
+                    "Confidence": 99
+                },
+                {
+                    "word": "B",
+                    "left": 993,
+                    "top": 260,
+                    "width": 13,
+                    "height": 22,
+                    "x1": 993,
+                    "y1": 260,
+                    "x2": 1006,
+                    "y2": 282,
+                    "Confidence": 99
+                },
+                {
+                    "word": "/",
+                    "left": 1023,
+                    "top": 257,
+                    "width": 14,
+                    "height": 27,
+                    "x1": 1023,
+                    "y1": 257,
+                    "x2": 1037,
+                    "y2": 284,
+                    "Confidence": 99
+                },
+                {
+                    "word": "L",
+                    "left": 1054,
+                    "top": 260,
+                    "width": 13,
+                    "height": 22,
+                    "x1": 1054,
+                    "y1": 260,
+                    "x2": 1067,
+                    "y2": 282,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DATE",
+                    "left": 1084,
+                    "top": 258,
+                    "width": 58,
+                    "height": 23,
+                    "x1": 1084,
+                    "y1": 258,
+                    "x2": 1142,
+                    "y2": 281,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Mar.",
+                    "left": 1154,
+                    "top": 256,
+                    "width": 50,
+                    "height": 26,
+                    "x1": 1154,
+                    "y1": 256,
+                    "x2": 1204,
+                    "y2": 282,
+                    "Confidence": 99
+                },
+                {
+                    "word": "9,",
+                    "left": 1229,
+                    "top": 257,
+                    "width": 19,
+                    "height": 27,
+                    "x1": 1229,
+                    "y1": 257,
+                    "x2": 1248,
+                    "y2": 284,
+                    "Confidence": 99
+                },
+                {
+                    "word": "2021",
+                    "left": 1274,
+                    "top": 256,
+                    "width": 53,
+                    "height": 25,
+                    "x1": 1274,
+                    "y1": 256,
+                    "x2": 1327,
+                    "y2": 281,
+                    "Confidence": 99
+                },
+                {
+                    "word": "\\",
+                    "left": 971,
+                    "top": 281,
+                    "width": 18,
+                    "height": 38,
+                    "x1": 971,
+                    "y1": 281,
+                    "x2": 989,
+                    "y2": 319,
+                    "Confidence": 99
+                },
+                {
+                    "word": "A",
+                    "left": 995,
+                    "top": 290,
+                    "width": 15,
+                    "height": 24,
+                    "x1": 995,
+                    "y1": 290,
+                    "x2": 1010,
+                    "y2": 314,
+                    "Confidence": 99
+                },
+                {
+                    "word": "W",
+                    "left": 1020,
+                    "top": 290,
+                    "width": 18,
+                    "height": 24,
+                    "x1": 1020,
+                    "y1": 290,
+                    "x2": 1038,
+                    "y2": 314,
+                    "Confidence": 99
+                },
+                {
+                    "word": "B",
+                    "left": 1048,
+                    "top": 290,
+                    "width": 18,
+                    "height": 23,
+                    "x1": 1048,
+                    "y1": 290,
+                    "x2": 1066,
+                    "y2": 313,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DATE",
+                    "left": 1084,
+                    "top": 290,
+                    "width": 59,
+                    "height": 23,
+                    "x1": 1084,
+                    "y1": 290,
+                    "x2": 1143,
+                    "y2": 313,
+                    "Confidence": 99
+                },
+                {
+                    "word": "HIROSHIMA,",
+                    "left": 1317,
+                    "top": 369,
+                    "width": 160,
+                    "height": 33,
+                    "x1": 1317,
+                    "y1": 369,
+                    "x2": 1477,
+                    "y2": 402,
+                    "Confidence": 99
+                },
+                {
+                    "word": "JAPAN",
+                    "left": 1506,
+                    "top": 369,
+                    "width": 84,
+                    "height": 30,
+                    "x1": 1506,
+                    "y1": 369,
+                    "x2": 1590,
+                    "y2": 399,
+                    "Confidence": 99
+                },
+                {
+                    "word": "PLACE",
+                    "left": 1318,
+                    "top": 406,
+                    "width": 86,
+                    "height": 23,
+                    "x1": 1318,
+                    "y1": 406,
+                    "x2": 1404,
+                    "y2": 429,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Mar.",
+                    "left": 1699,
+                    "top": 370,
+                    "width": 58,
+                    "height": 30,
+                    "x1": 1699,
+                    "y1": 370,
+                    "x2": 1757,
+                    "y2": 400,
+                    "Confidence": 99
+                },
+                {
+                    "word": "30,",
+                    "left": 1786,
+                    "top": 371,
+                    "width": 39,
+                    "height": 32,
+                    "x1": 1786,
+                    "y1": 371,
+                    "x2": 1825,
+                    "y2": 403,
+                    "Confidence": 99
+                },
+                {
+                    "word": "2021",
+                    "left": 1854,
+                    "top": 370,
+                    "width": 66,
+                    "height": 31,
+                    "x1": 1854,
+                    "y1": 370,
+                    "x2": 1920,
+                    "y2": 401,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DATE",
+                    "left": 1700,
+                    "top": 407,
+                    "width": 70,
+                    "height": 23,
+                    "x1": 1700,
+                    "y1": 407,
+                    "x2": 1770,
+                    "y2": 430,
+                    "Confidence": 99
+                },
+                {
+                    "word": "02",
+                    "left": 2027,
+                    "top": 171,
+                    "width": 226,
+                    "height": 84,
+                    "x1": 2027,
+                    "y1": 171,
+                    "x2": 2253,
+                    "y2": 255,
+                    "Confidence": 99
+                },
+                {
+                    "word": "2001",
+                    "left": 1991,
+                    "top": 305,
+                    "width": 283,
+                    "height": 96,
+                    "x1": 1991,
+                    "y1": 305,
+                    "x2": 2274,
+                    "y2": 401,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 1144,
+                    "top": 478,
+                    "width": 33,
+                    "height": 25,
+                    "x1": 1144,
+                    "y1": 478,
+                    "x2": 1177,
+                    "y2": 503,
+                    "Confidence": 99
+                },
+                {
+                    "word": "THISFIRSTBILL",
+                    "left": 1194,
+                    "top": 459,
+                    "width": 344,
+                    "height": 46,
+                    "x1": 1194,
+                    "y1": 459,
+                    "x2": 1538,
+                    "y2": 505,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 1557,
+                    "top": 479,
+                    "width": 34,
+                    "height": 24,
+                    "x1": 1557,
+                    "y1": 479,
+                    "x2": 1591,
+                    "y2": 503,
+                    "Confidence": 99
+                },
+                {
+                    "word": "EXCHANGE",
+                    "left": 1611,
+                    "top": 478,
+                    "width": 138,
+                    "height": 26,
+                    "x1": 1611,
+                    "y1": 478,
+                    "x2": 1749,
+                    "y2": 504,
+                    "Confidence": 99
+                },
+                {
+                    "word": "(SECOND",
+                    "left": 1774,
+                    "top": 475,
+                    "width": 113,
+                    "height": 33,
+                    "x1": 1774,
+                    "y1": 475,
+                    "x2": 1887,
+                    "y2": 508,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BEING",
+                    "left": 1908,
+                    "top": 478,
+                    "width": 86,
+                    "height": 28,
+                    "x1": 1908,
+                    "y1": 478,
+                    "x2": 1994,
+                    "y2": 506,
+                    "Confidence": 99
+                },
+                {
+                    "word": "UNPAID).",
+                    "left": 2005,
+                    "top": 472,
+                    "width": 221,
+                    "height": 35,
+                    "x1": 2005,
+                    "y1": 472,
+                    "x2": 2226,
+                    "y2": 507,
+                    "Confidence": 99
+                },
+                {
+                    "word": "THE",
+                    "left": 219,
+                    "top": 732,
+                    "width": 52,
+                    "height": 28,
+                    "x1": 219,
+                    "y1": 732,
+                    "x2": 271,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SUM",
+                    "left": 280,
+                    "top": 726,
+                    "width": 65,
+                    "height": 34,
+                    "x1": 280,
+                    "y1": 726,
+                    "x2": 345,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 354,
+                    "top": 726,
+                    "width": 42,
+                    "height": 34,
+                    "x1": 354,
+                    "y1": 726,
+                    "x2": 396,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "U.S.",
+                    "left": 414,
+                    "top": 726,
+                    "width": 78,
+                    "height": 34,
+                    "x1": 414,
+                    "y1": 726,
+                    "x2": 492,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DOLLARS",
+                    "left": 503,
+                    "top": 725,
+                    "width": 165,
+                    "height": 35,
+                    "x1": 503,
+                    "y1": 725,
+                    "x2": 668,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "FIVE",
+                    "left": 683,
+                    "top": 726,
+                    "width": 85,
+                    "height": 34,
+                    "x1": 683,
+                    "y1": 726,
+                    "x2": 768,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "THOUSAND",
+                    "left": 792,
+                    "top": 725,
+                    "width": 164,
+                    "height": 35,
+                    "x1": 792,
+                    "y1": 725,
+                    "x2": 956,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SIX",
+                    "left": 980,
+                    "top": 725,
+                    "width": 59,
+                    "height": 35,
+                    "x1": 980,
+                    "y1": 725,
+                    "x2": 1039,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "HUNDRED",
+                    "left": 1063,
+                    "top": 725,
+                    "width": 141,
+                    "height": 35,
+                    "x1": 1063,
+                    "y1": 725,
+                    "x2": 1204,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SIXTEEN",
+                    "left": 1228,
+                    "top": 726,
+                    "width": 142,
+                    "height": 34,
+                    "x1": 1228,
+                    "y1": 726,
+                    "x2": 1370,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ONLY",
+                    "left": 1392,
+                    "top": 725,
+                    "width": 81,
+                    "height": 35,
+                    "x1": 1392,
+                    "y1": 725,
+                    "x2": 1473,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "***",
+                    "left": 1496,
+                    "top": 733,
+                    "width": 61,
+                    "height": 24,
+                    "x1": 1496,
+                    "y1": 733,
+                    "x2": 1557,
+                    "y2": 757,
+                    "Confidence": 99
+                },
+                {
+                    "word": "VALUE",
+                    "left": 1580,
+                    "top": 726,
+                    "width": 102,
+                    "height": 35,
+                    "x1": 1580,
+                    "y1": 726,
+                    "x2": 1682,
+                    "y2": 761,
+                    "Confidence": 99
+                },
+                {
+                    "word": "RECEIVED",
+                    "left": 1705,
+                    "top": 725,
+                    "width": 164,
+                    "height": 36,
+                    "x1": 1705,
+                    "y1": 725,
+                    "x2": 1869,
+                    "y2": 761,
+                    "Confidence": 99
+                },
+                {
+                    "word": "AND",
+                    "left": 1891,
+                    "top": 726,
+                    "width": 60,
+                    "height": 34,
+                    "x1": 1891,
+                    "y1": 726,
+                    "x2": 1951,
+                    "y2": 760,
+                    "Confidence": 99
+                },
+                {
+                    "word": "CHARGE",
+                    "left": 1975,
+                    "top": 726,
+                    "width": 122,
+                    "height": 36,
+                    "x1": 1975,
+                    "y1": 726,
+                    "x2": 2097,
+                    "y2": 762,
+                    "Confidence": 99
+                },
+                {
+                    "word": "THE,",
+                    "left": 2118,
+                    "top": 723,
+                    "width": 122,
+                    "height": 38,
+                    "x1": 2118,
+                    "y1": 723,
+                    "x2": 2240,
+                    "y2": 761,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SAMEX",
+                    "left": 205,
+                    "top": 761,
+                    "width": 2030,
+                    "height": 44,
+                    "x1": 205,
+                    "y1": 761,
+                    "x2": 2235,
+                    "y2": 805,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TOACCOUNT",
+                    "left": 185,
+                    "top": 942,
+                    "width": 217,
+                    "height": 38,
+                    "x1": 185,
+                    "y1": 942,
+                    "x2": 402,
+                    "y2": 980,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 413,
+                    "top": 944,
+                    "width": 39,
+                    "height": 34,
+                    "x1": 413,
+                    "y1": 944,
+                    "x2": 452,
+                    "y2": 978,
+                    "Confidence": 99
+                },
+                {
+                    "word": "HADI",
+                    "left": 464,
+                    "top": 943,
+                    "width": 90,
+                    "height": 38,
+                    "x1": 464,
+                    "y1": 943,
+                    "x2": 554,
+                    "y2": 981,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ENTERPRISES",
+                    "left": 572,
+                    "top": 943,
+                    "width": 230,
+                    "height": 35,
+                    "x1": 572,
+                    "y1": 943,
+                    "x2": 802,
+                    "y2": 978,
+                    "Confidence": 99
+                },
+                {
+                    "word": "LLC",
+                    "left": 813,
+                    "top": 943,
+                    "width": 71,
+                    "height": 35,
+                    "x1": 813,
+                    "y1": 943,
+                    "x2": 884,
+                    "y2": 978,
+                    "Confidence": 99
+                },
+                {
+                    "word": "P.0",
+                    "left": 896,
+                    "top": 944,
+                    "width": 71,
+                    "height": 34,
+                    "x1": 896,
+                    "y1": 944,
+                    "x2": 967,
+                    "y2": 978,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BOX",
+                    "left": 979,
+                    "top": 944,
+                    "width": 77,
+                    "height": 34,
+                    "x1": 979,
+                    "y1": 944,
+                    "x2": 1056,
+                    "y2": 978,
+                    "Confidence": 99
+                },
+                {
+                    "word": ":",
+                    "left": 1068,
+                    "top": 944,
+                    "width": 20,
+                    "height": 34,
+                    "x1": 1068,
+                    "y1": 944,
+                    "x2": 1088,
+                    "y2": 978,
+                    "Confidence": 99
+                },
+                {
+                    "word": "5833,",
+                    "left": 1106,
+                    "top": 944,
+                    "width": 102,
+                    "height": 38,
+                    "x1": 1106,
+                    "y1": 944,
+                    "x2": 1208,
+                    "y2": 982,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DUBAIUAE",
+                    "left": 1226,
+                    "top": 942,
+                    "width": 344,
+                    "height": 37,
+                    "x1": 1226,
+                    "y1": 942,
+                    "x2": 1570,
+                    "y2": 979,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DRAWN",
+                    "left": 220,
+                    "top": 1053,
+                    "width": 86,
+                    "height": 30,
+                    "x1": 220,
+                    "y1": 1053,
+                    "x2": 306,
+                    "y2": 1083,
+                    "Confidence": 99
+                },
+                {
+                    "word": "UNDER",
+                    "left": 324,
+                    "top": 1055,
+                    "width": 87,
+                    "height": 26,
+                    "x1": 324,
+                    "y1": 1055,
+                    "x2": 411,
+                    "y2": 1081,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ABINAEAAXXX",
+                    "left": 434,
+                    "top": 1046,
+                    "width": 227,
+                    "height": 36,
+                    "x1": 434,
+                    "y1": 1046,
+                    "x2": 661,
+                    "y2": 1082,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ARAB",
+                    "left": 683,
+                    "top": 1047,
+                    "width": 80,
+                    "height": 37,
+                    "x1": 683,
+                    "y1": 1047,
+                    "x2": 763,
+                    "y2": 1084,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 787,
+                    "top": 1047,
+                    "width": 82,
+                    "height": 34,
+                    "x1": 787,
+                    "y1": 1047,
+                    "x2": 869,
+                    "y2": 1081,
+                    "Confidence": 99
+                },
+                {
+                    "word": "FOR",
+                    "left": 892,
+                    "top": 1047,
+                    "width": 60,
+                    "height": 36,
+                    "x1": 892,
+                    "y1": 1047,
+                    "x2": 952,
+                    "y2": 1083,
+                    "Confidence": 99
+                },
+                {
+                    "word": "INVESTMENT",
+                    "left": 980,
+                    "top": 1046,
+                    "width": 198,
+                    "height": 36,
+                    "x1": 980,
+                    "y1": 1046,
+                    "x2": 1178,
+                    "y2": 1082,
+                    "Confidence": 99
+                },
+                {
+                    "word": "AND",
+                    "left": 1202,
+                    "top": 1048,
+                    "width": 59,
+                    "height": 33,
+                    "x1": 1202,
+                    "y1": 1048,
+                    "x2": 1261,
+                    "y2": 1081,
+                    "Confidence": 99
+                },
+                {
+                    "word": "FOREIGN",
+                    "left": 1285,
+                    "top": 1047,
+                    "width": 141,
+                    "height": 34,
+                    "x1": 1285,
+                    "y1": 1047,
+                    "x2": 1426,
+                    "y2": 1081,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TRADE",
+                    "left": 1450,
+                    "top": 1047,
+                    "width": 102,
+                    "height": 34,
+                    "x1": 1450,
+                    "y1": 1047,
+                    "x2": 1552,
+                    "y2": 1081,
+                    "Confidence": 99
+                },
+                {
+                    "word": "HEAD",
+                    "left": 1567,
+                    "top": 1035,
+                    "width": 98,
+                    "height": 55,
+                    "x1": 1567,
+                    "y1": 1035,
+                    "x2": 1665,
+                    "y2": 1090,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OFFICE",
+                    "left": 1678,
+                    "top": 1045,
+                    "width": 139,
+                    "height": 38,
+                    "x1": 1678,
+                    "y1": 1045,
+                    "x2": 1817,
+                    "y2": 1083,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ABU",
+                    "left": 190,
+                    "top": 1116,
+                    "width": 311,
+                    "height": 58,
+                    "x1": 190,
+                    "y1": 1116,
+                    "x2": 501,
+                    "y2": 1174,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DHABI",
+                    "left": 515,
+                    "top": 1126,
+                    "width": 109,
+                    "height": 34,
+                    "x1": 515,
+                    "y1": 1126,
+                    "x2": 624,
+                    "y2": 1160,
+                    "Confidence": 99
+                },
+                {
+                    "word": "UNITED",
+                    "left": 638,
+                    "top": 1125,
+                    "width": 131,
+                    "height": 36,
+                    "x1": 638,
+                    "y1": 1125,
+                    "x2": 769,
+                    "y2": 1161,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ARAB",
+                    "left": 782,
+                    "top": 1125,
+                    "width": 88,
+                    "height": 36,
+                    "x1": 782,
+                    "y1": 1125,
+                    "x2": 870,
+                    "y2": 1161,
+                    "Confidence": 99
+                },
+                {
+                    "word": "EMIRATES",
+                    "left": 884,
+                    "top": 1125,
+                    "width": 911,
+                    "height": 41,
+                    "x1": 884,
+                    "y1": 1125,
+                    "x2": 1795,
+                    "y2": 1166,
+                    "Confidence": 99
+                },
+                {
+                    "word": "L/C",
+                    "left": 219,
+                    "top": 1199,
+                    "width": 53,
+                    "height": 32,
+                    "x1": 219,
+                    "y1": 1199,
+                    "x2": 272,
+                    "y2": 1231,
+                    "Confidence": 99
+                },
+                {
+                    "word": "NO.",
+                    "left": 290,
+                    "top": 1201,
+                    "width": 42,
+                    "height": 28,
+                    "x1": 290,
+                    "y1": 1201,
+                    "x2": 332,
+                    "y2": 1229,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TF2104700002",
+                    "left": 356,
+                    "top": 1194,
+                    "width": 247,
+                    "height": 45,
+                    "x1": 356,
+                    "y1": 1194,
+                    "x2": 603,
+                    "y2": 1239,
+                    "Confidence": 99
+                },
+                {
+                    "word": ",",
+                    "left": 676,
+                    "top": 1201,
+                    "width": 13,
+                    "height": 36,
+                    "x1": 676,
+                    "y1": 1201,
+                    "x2": 689,
+                    "y2": 1237,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DATED",
+                    "left": 1065,
+                    "top": 1202,
+                    "width": 86,
+                    "height": 25,
+                    "x1": 1065,
+                    "y1": 1202,
+                    "x2": 1151,
+                    "y2": 1227,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Feb.",
+                    "left": 1172,
+                    "top": 1194,
+                    "width": 68,
+                    "height": 35,
+                    "x1": 1172,
+                    "y1": 1194,
+                    "x2": 1240,
+                    "y2": 1229,
+                    "Confidence": 99
+                },
+                {
+                    "word": "16,",
+                    "left": 1276,
+                    "top": 1194,
+                    "width": 46,
+                    "height": 39,
+                    "x1": 1276,
+                    "y1": 1194,
+                    "x2": 1322,
+                    "y2": 1233,
+                    "Confidence": 99
+                },
+                {
+                    "word": "2021",
+                    "left": 1357,
+                    "top": 1194,
+                    "width": 74,
+                    "height": 34,
+                    "x1": 1357,
+                    "y1": 1194,
+                    "x2": 1431,
+                    "y2": 1228,
+                    "Confidence": 99
+                },
+                {
+                    "word": "\u2022",
+                    "left": 1450,
+                    "top": 1191,
+                    "width": 329,
+                    "height": 49,
+                    "x1": 1450,
+                    "y1": 1191,
+                    "x2": 1779,
+                    "y2": 1240,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TO",
+                    "left": 211,
+                    "top": 1281,
+                    "width": 56,
+                    "height": 35,
+                    "x1": 211,
+                    "y1": 1281,
+                    "x2": 267,
+                    "y2": 1316,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ABINAEAA",
+                    "left": 275,
+                    "top": 1279,
+                    "width": 165,
+                    "height": 37,
+                    "x1": 275,
+                    "y1": 1279,
+                    "x2": 440,
+                    "y2": 1316,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ARAB",
+                    "left": 459,
+                    "top": 1280,
+                    "width": 95,
+                    "height": 36,
+                    "x1": 459,
+                    "y1": 1280,
+                    "x2": 554,
+                    "y2": 1316,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 568,
+                    "top": 1281,
+                    "width": 86,
+                    "height": 33,
+                    "x1": 568,
+                    "y1": 1281,
+                    "x2": 654,
+                    "y2": 1314,
+                    "Confidence": 99
+                },
+                {
+                    "word": "FOR",
+                    "left": 668,
+                    "top": 1279,
+                    "width": 71,
+                    "height": 36,
+                    "x1": 668,
+                    "y1": 1279,
+                    "x2": 739,
+                    "y2": 1315,
+                    "Confidence": 99
+                },
+                {
+                    "word": "INVESTMENT",
+                    "left": 753,
+                    "top": 1280,
+                    "width": 205,
+                    "height": 35,
+                    "x1": 753,
+                    "y1": 1280,
+                    "x2": 958,
+                    "y2": 1315,
+                    "Confidence": 99
+                },
+                {
+                    "word": "AND.",
+                    "left": 982,
+                    "top": 1280,
+                    "width": 89,
+                    "height": 35,
+                    "x1": 982,
+                    "y1": 1280,
+                    "x2": 1071,
+                    "y2": 1315,
+                    "Confidence": 99
+                },
+                {
+                    "word": "FOREIGN",
+                    "left": 203,
+                    "top": 1315,
+                    "width": 225,
+                    "height": 37,
+                    "x1": 203,
+                    "y1": 1315,
+                    "x2": 428,
+                    "y2": 1352,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TRADE",
+                    "left": 441,
+                    "top": 1317,
+                    "width": 106,
+                    "height": 35,
+                    "x1": 441,
+                    "y1": 1317,
+                    "x2": 547,
+                    "y2": 1352,
+                    "Confidence": 99
+                },
+                {
+                    "word": "HEAD",
+                    "left": 560,
+                    "top": 1317,
+                    "width": 92,
+                    "height": 34,
+                    "x1": 560,
+                    "y1": 1317,
+                    "x2": 652,
+                    "y2": 1351,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OFFICE",
+                    "left": 665,
+                    "top": 1317,
+                    "width": 130,
+                    "height": 34,
+                    "x1": 665,
+                    "y1": 1317,
+                    "x2": 795,
+                    "y2": 1351,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ABU",
+                    "left": 808,
+                    "top": 1317,
+                    "width": 68,
+                    "height": 34,
+                    "x1": 808,
+                    "y1": 1317,
+                    "x2": 876,
+                    "y2": 1351,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DHABI",
+                    "left": 889,
+                    "top": 1317,
+                    "width": 110,
+                    "height": 34,
+                    "x1": 889,
+                    "y1": 1317,
+                    "x2": 999,
+                    "y2": 1351,
+                    "Confidence": 99
+                },
+                {
+                    "word": "-",
+                    "left": 1050,
+                    "top": 1317,
+                    "width": 6,
+                    "height": 35,
+                    "x1": 1050,
+                    "y1": 1317,
+                    "x2": 1056,
+                    "y2": 1352,
+                    "Confidence": 99
+                },
+                {
+                    "word": "UNITED",
+                    "left": 275,
+                    "top": 1353,
+                    "width": 128,
+                    "height": 36,
+                    "x1": 275,
+                    "y1": 1353,
+                    "x2": 403,
+                    "y2": 1389,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ARAB",
+                    "left": 419,
+                    "top": 1354,
+                    "width": 84,
+                    "height": 34,
+                    "x1": 419,
+                    "y1": 1354,
+                    "x2": 503,
+                    "y2": 1388,
+                    "Confidence": 99
+                },
+                {
+                    "word": "EMIRATES",
+                    "left": 519,
+                    "top": 1354,
+                    "width": 167,
+                    "height": 35,
+                    "x1": 519,
+                    "y1": 1354,
+                    "x2": 686,
+                    "y2": 1389,
+                    "Confidence": 99
+                },
+                {
+                    "word": "MOLTEN",
+                    "left": 1262,
+                    "top": 1280,
+                    "width": 122,
+                    "height": 35,
+                    "x1": 1262,
+                    "y1": 1280,
+                    "x2": 1384,
+                    "y2": 1315,
+                    "Confidence": 99
+                },
+                {
+                    "word": "CORPORATION",
+                    "left": 1408,
+                    "top": 1280,
+                    "width": 226,
+                    "height": 37,
+                    "x1": 1408,
+                    "y1": 1280,
+                    "x2": 1634,
+                    "y2": 1317,
+                    "Confidence": 99
+                },
+                {
+                    "word": "MANAGER/ACCOUNTING",
+                    "left": 1262,
+                    "top": 1623,
+                    "width": 372,
+                    "height": 42,
+                    "x1": 1262,
+                    "y1": 1623,
+                    "x2": 1634,
+                    "y2": 1665,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DEPARTMENT",
+                    "left": 1656,
+                    "top": 1626,
+                    "width": 206,
+                    "height": 34,
+                    "x1": 1656,
+                    "y1": 1626,
+                    "x2": 1862,
+                    "y2": 1660,
+                    "Confidence": 99
+                },
+                {
+                    "word": "1/3",
+                    "left": 2005,
+                    "top": 1818,
+                    "width": 119,
+                    "height": 31,
+                    "x1": 2005,
+                    "y1": 1818,
+                    "x2": 2124,
+                    "y2": 1849,
+                    "Confidence": 99
+                },
+                {
+                    "word": "09,03",
+                    "left": 2132,
+                    "top": 1819,
+                    "width": 149,
+                    "height": 37,
+                    "x1": 2132,
+                    "y1": 1819,
+                    "x2": 2281,
+                    "y2": 1856,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

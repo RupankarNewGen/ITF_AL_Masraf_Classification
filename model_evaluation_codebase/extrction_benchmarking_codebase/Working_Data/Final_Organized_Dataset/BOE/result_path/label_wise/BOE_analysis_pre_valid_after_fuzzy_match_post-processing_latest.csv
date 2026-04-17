@@ -1,0 +1,85 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210824112119_1.00_page_11.png,lc_date,06.08.2019,06/08/2019,80,1,"[1535, 1432, 1769, 1464]","[1542, 1417, 1770, 1472]"
+1,Trade Finance_20210824112119_1.00_page_11.png,amount_in_words,One Hundred Fifteen Thousand,"FIVE HUNDRED TEN & FILLS 50/100 ONLY,~ONE HUNDRED FIFTEEN THOUSAND",60,0,"[266, 1173, 1098, 1218]","[1457, 1104, 2144, 1154]"
+2,Trade Finance_20210824112119_1.00_page_11.png,drawer_bank_name,Commercial Bank,ABU DHABIBANK,43,0,"[1490, 1046, 1715, 1085]","[1726, 1044, 2134, 1099]"
+3,Trade Finance_20210824112119_1.00_page_11.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[1073, 1429, 1387, 1464]","[1079, 1422, 1397, 1477]"
+4,Trade Finance_20210824112119_1.00_page_11.png,tenore_details,At 120 days from the date of delivery,120 DAYS FROM THE DATE OF DELIVERY,96,1,"[266, 979, 1098, 1029]","[258, 975, 1109, 1044]"
+5,Trade Finance_20210824112119_1.00_page_11.png,bill_exchange_no,SZO11,SZO11,100,1,"[345, 744, 505, 786]","[348, 741, 502, 780]"
+6,Trade Finance_20210824112119_1.00_page_11.png,boe_amount,"115,510.50","115,510.50",100,1,"[446, 867, 661, 902]","[437, 855, 661, 905]"
+7,Trade Finance_20210824112119_1.00_page_11.png,bill_exchange_date,06.07.2021,06/07/2021,80,1,"[1831, 748, 2045, 783]","[1825, 736, 2054, 785]"
+8,Trade Finance_20210824112119_1.00_page_11.png,boe_currency,AED,,0,0,[],"[328, 855, 422, 925]"
+9,Trade Finance_20210824112119_1.00_page_11.png,drawer_name,SEAGULL HVAC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,100,1,"[575, 446, 1781, 519]","[547, 432, 1805, 517]"
+10,Trade Finance_20210824112119_1.00_page_11.png,drawer_bank_address,,,0,0,[],
+11,Trade Finance_20210824112119_1.00_page_11.png,drawee_address,,,0,0,[],
+12,Trade Finance_20210824112119_1.00_page_11.png,drawee_bank_name,,,0,0,[],
+13,Trade Finance_20210824112119_1.00_page_11.png,drawee_bank_address,,SHEIKH HAMDAN BIN MOHAMMED STREET,0,0,"[261, 2514, 1088, 2560]",
+14,Trade Finance_20210824112119_1.00_page_12.png,lc_date,06.08.2019,06/08/2019,80,1,"[1535, 1489, 1768, 1524]","[1527, 1487, 1775, 1537]"
+15,Trade Finance_20210824112119_1.00_page_12.png,amount_in_words,One Hundred Fifteen Thousand,"FIVE HUNDREC TEN & FILLS 50/100 ONLY,~ONE HUNDRED FIFTEEN THOUSAND",60,0,"[260, 1225, 1096, 1274]","[1459, 1165, 2135, 1205]"
+16,Trade Finance_20210824112119_1.00_page_12.png,drawer_bank_name,,,0,0,[],
+17,Trade Finance_20210824112119_1.00_page_12.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[1071, 1485, 1383, 1524]","[1074, 1482, 1391, 1523]"
+18,Trade Finance_20210824112119_1.00_page_12.png,tenore_details,days date of delivery At 120 the,120 DAYS FROM THE DATE OF DELIVERY (I.E FROM 06072021,59,0,"[257, 1025, 1572, 1109]","[253, 1038, 1097, 1083]"
+19,Trade Finance_20210824112119_1.00_page_12.png,bill_exchange_no,SZO11,SZO11,100,1,"[339, 800, 498, 842]","[340, 797, 507, 852]"
+20,Trade Finance_20210824112119_1.00_page_12.png,boe_amount,"115,51050","115,510.50",95,1,"[441, 923, 657, 958]","[439, 911, 675, 970]"
+21,Trade Finance_20210824112119_1.00_page_12.png,bill_exchange_date,06.07.2021,06/07/2021,80,1,"[1830, 804, 2048, 839]","[1836, 802, 2067, 847]"
+22,Trade Finance_20210824112119_1.00_page_12.png,boe_currency,AED,AED,100,1,"[332, 923, 424, 955]","[335, 911, 435, 970]"
+23,Trade Finance_20210824112119_1.00_page_12.png,drawer_name,SEAGULL HVAC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,100,1,"[570, 439, 1780, 516]","[553, 426, 1818, 534]"
+24,Trade Finance_20210824112119_1.00_page_12.png,drawer_bank_address,IslamicIslamicBankingServices,ISLAMICISLAMICBANKINGSERVICES,100,1,"[458, 1292, 1160, 1341]","[444, 1292, 1169, 1346]"
+25,Trade Finance_20210824112119_1.00_page_12.png,drawee_address,,,0,0,[],
+26,Trade Finance_20210824112119_1.00_page_12.png,drawee_bank_name,,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,0,0,"[255, 2507, 1430, 2553]",
+27,Trade Finance_20210824112119_1.00_page_12.png,drawee_bank_address,,SHEIKH HAMDAN BIN MOHAMMED STREET,0,0,"[255, 2634, 1086, 2679]",
+28,Trade Finance_20210824112119_1.00_page_20.png,lc_date,06.08.2019,06/08/2002,60,0,"[1540, 1429, 1775, 1471]","[1541, 1423, 1790, 1477]"
+29,Trade Finance_20210824112119_1.00_page_20.png,amount_in_words,One Hundred Fifteen Thousand,"FIVE HUNDRED TEN & FILLS 50/100 ORILY,~ONE HUNDRED FIFTEEN THOUSAND",59,0,"[269, 1169, 1101, 1225]","[1464, 1110, 2148, 1156]"
+30,Trade Finance_20210824112119_1.00_page_20.png,drawer_bank_name,,,0,0,[],
+31,Trade Finance_20210824112119_1.00_page_20.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[1077, 1429, 1391, 1464]","[1060, 1423, 1396, 1477]"
+32,Trade Finance_20210824112119_1.00_page_20.png,tenore_details,At 120 days from the date of delivery,120 DAYS FROM THE DATE OF DELIVERY,96,1,"[264, 983, 1101, 1032]","[258, 988, 1110, 1033]"
+33,Trade Finance_20210824112119_1.00_page_20.png,bill_exchange_no,SZO11,SZO11,100,1,"[346, 741, 507, 786]","[340, 748, 512, 788]"
+34,Trade Finance_20210824112119_1.00_page_20.png,boe_amount,"115,510.50","115,510.50",100,1,"[448, 867, 666, 902]","[448, 865, 666, 902]"
+35,Trade Finance_20210824112119_1.00_page_20.png,bill_exchange_date,06.07.2021,06/07/2021,80,1,"[1834, 751, 2055, 783]","[1836, 748, 2062, 784]"
+36,Trade Finance_20210824112119_1.00_page_20.png,boe_currency,,,0,0,[],
+37,Trade Finance_20210824112119_1.00_page_20.png,drawer_name,,SEAGULL HVAC INDUSTRY LLC,0,0,"[576, 446, 1787, 519]",
+38,Trade Finance_20210824112119_1.00_page_20.png,drawer_bank_address,,,0,0,[],
+39,Trade Finance_20210824112119_1.00_page_20.png,drawee_address,,,0,0,[],
+40,Trade Finance_20210824112119_1.00_page_20.png,drawee_bank_name,,,0,0,[],
+41,Trade Finance_20210824112119_1.00_page_20.png,drawee_bank_address,,HAMD BIN,0,0,"[418, 2514, 670, 2549]",
+42,Trade Finance_20210824112119_1.00_page_21.png,lc_date,06.08.2019,06/08/2019,80,1,"[1530, 1489, 1765, 1531]","[1527, 1483, 1772, 1538]"
+43,Trade Finance_20210824112119_1.00_page_21.png,amount_in_words,One Hundred Fifteen Thousand,"FIVE HUNDRED TEN & FILLS 50/100 ONLY,~ONE HUNDRED FIFTEEN THOUSAND",60,0,"[266, 1236, 1092, 1281]","[1455, 1166, 2130, 1216]"
+44,Trade Finance_20210824112119_1.00_page_21.png,drawer_bank_name,,,0,0,[],
+45,Trade Finance_20210824112119_1.00_page_21.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[1072, 1492, 1381, 1531]","[1060, 1493, 1382, 1542]"
+46,Trade Finance_20210824112119_1.00_page_21.png,tenore_details,of delivery (i.e from 06.07.2021) At 120 days from the date,120 DAYS FROM THE DATE OF DELIVERY (I.E FROM 06072021,54,0,"[262, 1043, 1567, 1095]","[258, 1048, 1577, 1094]"
+47,Trade Finance_20210824112119_1.00_page_21.png,bill_exchange_no,SZO11,SZO11,100,1,"[341, 811, 499, 856]","[335, 808, 485, 862]"
+48,Trade Finance_20210824112119_1.00_page_21.png,boe_amount,"115,510.50","115,510.50",100,1,"[440, 934, 657, 972]","[435, 921, 670, 971]"
+49,Trade Finance_20210824112119_1.00_page_21.png,bill_exchange_date,06.07.2021,06/07/2021,80,1,"[1821, 807, 2041, 842]","[1822, 799, 2049, 849]"
+50,Trade Finance_20210824112119_1.00_page_21.png,boe_currency,AED,AED,100,1,"[333, 934, 425, 965]","[335, 917, 430, 985]"
+51,Trade Finance_20210824112119_1.00_page_21.png,drawer_name,SEAGULL HVAC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,100,1,"[568, 449, 1772, 523]","[561, 434, 1792, 537]"
+52,Trade Finance_20210824112119_1.00_page_21.png,drawer_bank_address,CommercialBankAbuDhabi,,0,0,[],"[1482, 1103, 2126, 1162]"
+53,Trade Finance_20210824112119_1.00_page_21.png,drawee_address,HamdanMohammedSheikhBinStreet,,0,0,[],"[267, 2621, 1106, 2694]"
+54,Trade Finance_20210824112119_1.00_page_21.png,drawee_bank_name,,ARAB BANK~TRADE (AL MASRAF,0,0,"[266, 2511, 474, 2549]",
+55,Trade Finance_20210824112119_1.00_page_21.png,drawee_bank_address,,SHEIKH HAMDAN BIN MOHAMMED STREET,0,0,"[266, 2637, 1092, 2679]",
+56,Trade Finance_20210824112119_1.00_page_7.png,lc_date,06.08.2019,06/08/2019,80,1,"[1592, 1443, 1837, 1482]","[1586, 1437, 1840, 1487]"
+57,Trade Finance_20210824112119_1.00_page_7.png,amount_in_words,One Hundred Fifteen Thousand,"FIVE HUNDRED TEN & FILLS 50/100 ONLY,~ONE HUNDRED FIFTEEN THOUSAND",60,0,"[262, 1180, 1134, 1229]","[1505, 1106, 2244, 1151]"
+58,Trade Finance_20210824112119_1.00_page_7.png,drawer_bank_name,Abu Dhabi Commercial Bank,ABU DHABI COMMERCIAL BANK,100,1,"[1542, 1043, 2208, 1088]","[1536, 1047, 2221, 1101]"
+59,Trade Finance_20210824112119_1.00_page_7.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[1109, 1446, 1433, 1482]","[1106, 1441, 1446, 1491]"
+60,Trade Finance_20210824112119_1.00_page_7.png,tenore_details,days from the date of delivery (i.e from 06.07.2021) At 120,120 DAYS FROM THE DATE OF DELIVERY IE,69,0,"[257, 979, 1220, 1032]","[253, 983, 1632, 1047]"
+61,Trade Finance_20210824112119_1.00_page_7.png,bill_exchange_no,SZO11,SZO11,100,1,"[341, 737, 505, 783]","[340, 738, 516, 788]"
+62,Trade Finance_20210824112119_1.00_page_7.png,boe_amount,"115,51050","115,510.50",95,1,"[445, 863, 673, 906]","[439, 847, 680, 902]"
+63,Trade Finance_20210824112119_1.00_page_7.png,bill_exchange_date,06.07.2021,06/07/2021,80,1,"[1896, 734, 2124, 769]","[1890, 720, 2148, 784]"
+64,Trade Finance_20210824112119_1.00_page_7.png,boe_currency,,,0,0,[],
+65,Trade Finance_20210824112119_1.00_page_7.png,drawer_name,SEAGULL HVAC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,100,1,"[576, 424, 1844, 502]","[566, 421, 1854, 521]"
+66,Trade Finance_20210824112119_1.00_page_7.png,drawer_bank_address,,,0,0,[],
+67,Trade Finance_20210824112119_1.00_page_7.png,drawee_address,,,0,0,[],
+68,Trade Finance_20210824112119_1.00_page_7.png,drawee_bank_name,Arab Bank for Investment and Foreign Trade (Al masraf,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,100,1,"[259, 2440, 1488, 2497]","[253, 2439, 1500, 2489]"
+69,Trade Finance_20210824112119_1.00_page_7.png,drawee_bank_address,Department1stTradeFinanceFloorAlmasrafTowerMohammedSheikhHamdanBinStreet,SHEIKHHAMDANBINMOHAMMEDSTREET,42,0,"[262, 2577, 1129, 2623]","[267, 2507, 1459, 2625]"
+70,Trade Finance_20210824112119_1.00_page_8.png,lc_date,06.08.2019,06/08/2019,80,1,"[1586, 1516, 1833, 1551]","[1577, 1505, 1831, 1565]"
+71,Trade Finance_20210824112119_1.00_page_8.png,amount_in_words,One Hundred Fifteen Thousand,"FIVE HUNDRED TEN & FILLS 50/100 ONLY,~ONE HUNDRED FIFTEEN THOUSAND",60,0,"[256, 1245, 1127, 1294]","[1505, 1172, 2230, 1233]"
+72,Trade Finance_20210824112119_1.00_page_8.png,drawer_bank_name,,,0,0,[],
+73,Trade Finance_20210824112119_1.00_page_8.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[1105, 1516, 1428, 1551]","[1094, 1505, 1438, 1559]"
+74,Trade Finance_20210824112119_1.00_page_8.png,tenore_details,06072021 At 120 days from the date of delivery (i.e from,120 DAYS FROM THE DATE OF DELIVERY (I.E FROM 06072021,81,1,"[251, 1048, 1626, 1097]","[247, 1045, 1638, 1106]"
+75,Trade Finance_20210824112119_1.00_page_8.png,bill_exchange_no,SZO11,SZO11,100,1,"[338, 805, 503, 851]","[332, 797, 501, 846]"
+76,Trade Finance_20210824112119_1.00_page_8.png,boe_amount,"115,510.50","115,510.50",100,1,"[444, 932, 668, 970]","[453, 912, 677, 979]"
+77,Trade Finance_20210824112119_1.00_page_8.png,bill_exchange_date,06.07.2021,06/07/2021,80,1,"[1895, 805, 2122, 837]","[1879, 797, 2133, 834]"
+78,Trade Finance_20210824112119_1.00_page_8.png,boe_currency,,AED,0,0,"[330, 932, 426, 963]",
+79,Trade Finance_20210824112119_1.00_page_8.png,drawer_name,SEAGULL HVRC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,96,1,"[575, 429, 1843, 503]","[568, 404, 1861, 519]"
+80,Trade Finance_20210824112119_1.00_page_8.png,drawer_bank_address,,,0,0,[],
+81,Trade Finance_20210824112119_1.00_page_8.png,drawee_address,,,0,0,[],
+82,Trade Finance_20210824112119_1.00_page_8.png,drawee_bank_name,Arab Bank for and Trade (Al masraf) Investment Foreign,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,64,0,"[254, 2575, 1480, 2624]","[253, 2581, 1474, 2629]"
+83,Trade Finance_20210824112119_1.00_page_8.png,drawee_bank_address,SheikhHamdanBinMohammedStreet,SHEIKHHAMDANBINMOHAMMEDSTREET,100,1,"[256, 2708, 1122, 2754]","[265, 2708, 1130, 2750]"

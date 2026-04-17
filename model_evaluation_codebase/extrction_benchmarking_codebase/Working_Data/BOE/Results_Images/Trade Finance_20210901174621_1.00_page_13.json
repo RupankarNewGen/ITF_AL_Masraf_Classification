@@ -1,0 +1,159 @@
+{
+    "Trade Finance_20210901174621_1.00_page_13.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawee_bank_name": {
+                "value": "INDUSTRIAL BANK CO., LTD",
+                "coordinate": [
+                    [
+                        675,
+                        2414,
+                        1468,
+                        2474
+                    ]
+                ],
+                "model_confidence": [
+                    0.999322
+                ],
+                "ocr_confidence": []
+            }
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "For",
+                    "left": 676,
+                    "top": 2367,
+                    "width": 75,
+                    "height": 30,
+                    "x1": 676,
+                    "y1": 2367,
+                    "x2": 751,
+                    "y2": 2397,
+                    "Confidence": 99
+                },
+                {
+                    "word": "and",
+                    "left": 772,
+                    "top": 2369,
+                    "width": 75,
+                    "height": 30,
+                    "x1": 772,
+                    "y1": 2369,
+                    "x2": 847,
+                    "y2": 2399,
+                    "Confidence": 99
+                },
+                {
+                    "word": "on",
+                    "left": 867,
+                    "top": 2381,
+                    "width": 47,
+                    "height": 21,
+                    "x1": 867,
+                    "y1": 2381,
+                    "x2": 914,
+                    "y2": 2402,
+                    "Confidence": 99
+                },
+                {
+                    "word": "behalf",
+                    "left": 939,
+                    "top": 2372,
+                    "width": 129,
+                    "height": 42,
+                    "x1": 939,
+                    "y1": 2372,
+                    "x2": 1068,
+                    "y2": 2414,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 1081,
+                    "top": 2376,
+                    "width": 47,
+                    "height": 39,
+                    "x1": 1081,
+                    "y1": 2376,
+                    "x2": 1128,
+                    "y2": 2415,
+                    "Confidence": 99
+                },
+                {
+                    "word": "INDUSTRIAL",
+                    "left": 677,
+                    "top": 2415,
+                    "width": 346,
+                    "height": 46,
+                    "x1": 677,
+                    "y1": 2415,
+                    "x2": 1023,
+                    "y2": 2461,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 1063,
+                    "top": 2424,
+                    "width": 155,
+                    "height": 41,
+                    "x1": 1063,
+                    "y1": 2424,
+                    "x2": 1218,
+                    "y2": 2465,
+                    "Confidence": 99
+                },
+                {
+                    "word": "CO.,",
+                    "left": 1247,
+                    "top": 2428,
+                    "width": 104,
+                    "height": 49,
+                    "x1": 1247,
+                    "y1": 2428,
+                    "x2": 1351,
+                    "y2": 2477,
+                    "Confidence": 99
+                },
+                {
+                    "word": "LTD",
+                    "left": 1369,
+                    "top": 2431,
+                    "width": 102,
+                    "height": 40,
+                    "x1": 1369,
+                    "y1": 2431,
+                    "x2": 1471,
+                    "y2": 2471,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

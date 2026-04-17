@@ -1,0 +1,167 @@
+{
+    "Trade Finance_20210727171648_1.00_page_12.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "PAY",
+                    "left": 2171,
+                    "top": 768,
+                    "width": 105,
+                    "height": 41,
+                    "x1": 2171,
+                    "y1": 768,
+                    "x2": 2276,
+                    "y2": 809,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TO",
+                    "left": 2295,
+                    "top": 775,
+                    "width": 72,
+                    "height": 37,
+                    "x1": 2295,
+                    "y1": 775,
+                    "x2": 2367,
+                    "y2": 812,
+                    "Confidence": 99
+                },
+                {
+                    "word": "THE",
+                    "left": 2388,
+                    "top": 776,
+                    "width": 105,
+                    "height": 41,
+                    "x1": 2388,
+                    "y1": 776,
+                    "x2": 2493,
+                    "y2": 817,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ORDER",
+                    "left": 2513,
+                    "top": 779,
+                    "width": 191,
+                    "height": 44,
+                    "x1": 2513,
+                    "y1": 779,
+                    "x2": 2704,
+                    "y2": 823,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 2722,
+                    "top": 779,
+                    "width": 73,
+                    "height": 47,
+                    "x1": 2722,
+                    "y1": 779,
+                    "x2": 2795,
+                    "y2": 826,
+                    "Confidence": 99
+                },
+                {
+                    "word": "For",
+                    "left": 2165,
+                    "top": 931,
+                    "width": 53,
+                    "height": 29,
+                    "x1": 2165,
+                    "y1": 931,
+                    "x2": 2218,
+                    "y2": 960,
+                    "Confidence": 99
+                },
+                {
+                    "word": "National",
+                    "left": 2230,
+                    "top": 933,
+                    "width": 144,
+                    "height": 35,
+                    "x1": 2230,
+                    "y1": 933,
+                    "x2": 2374,
+                    "y2": 968,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bank",
+                    "left": 2379,
+                    "top": 936,
+                    "width": 85,
+                    "height": 32,
+                    "x1": 2379,
+                    "y1": 936,
+                    "x2": 2464,
+                    "y2": 968,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 2475,
+                    "top": 938,
+                    "width": 42,
+                    "height": 30,
+                    "x1": 2475,
+                    "y1": 938,
+                    "x2": 2517,
+                    "y2": 968,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Fujairah",
+                    "left": 2524,
+                    "top": 932,
+                    "width": 144,
+                    "height": 45,
+                    "x1": 2524,
+                    "y1": 932,
+                    "x2": 2668,
+                    "y2": 977,
+                    "Confidence": 99
+                },
+                {
+                    "word": "P.is.c",
+                    "left": 2674,
+                    "top": 940,
+                    "width": 114,
+                    "height": 37,
+                    "x1": 2674,
+                    "y1": 940,
+                    "x2": 2788,
+                    "y2": 977,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "upside-down"
+        }
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "Trade Finance_20210608141637_1.00_page_9.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": ")",
+                    "left": 108,
+                    "top": 56,
+                    "width": 10,
+                    "height": 34,
+                    "x1": 108,
+                    "y1": 56,
+                    "x2": 118,
+                    "y2": 90,
+                    "Confidence": 99
+                },
+                {
+                    "word": "v",
+                    "left": 210,
+                    "top": 270,
+                    "width": 14,
+                    "height": 16,
+                    "x1": 210,
+                    "y1": 270,
+                    "x2": 224,
+                    "y2": 286,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Banker",
+                    "left": 2050,
+                    "top": 513,
+                    "width": 141,
+                    "height": 32,
+                    "x1": 2050,
+                    "y1": 513,
+                    "x2": 2191,
+                    "y2": 545,
+                    "Confidence": 99
+                },
+                {
+                    "word": "or",
+                    "left": 2205,
+                    "top": 517,
+                    "width": 42,
+                    "height": 26,
+                    "x1": 2205,
+                    "y1": 517,
+                    "x2": 2247,
+                    "y2": 543,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Trust",
+                    "left": 2258,
+                    "top": 509,
+                    "width": 105,
+                    "height": 31,
+                    "x1": 2258,
+                    "y1": 509,
+                    "x2": 2363,
+                    "y2": 540,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Company._",
+                    "left": 2376,
+                    "top": 506,
+                    "width": 333,
+                    "height": 48,
+                    "x1": 2376,
+                    "y1": 506,
+                    "x2": 2709,
+                    "y2": 554,
+                    "Confidence": 99
+                },
+                {
+                    "word": "For",
+                    "left": 2051,
+                    "top": 557,
+                    "width": 66,
+                    "height": 35,
+                    "x1": 2051,
+                    "y1": 557,
+                    "x2": 2117,
+                    "y2": 592,
+                    "Confidence": 99
+                },
+                {
+                    "word": "EMIRATES",
+                    "left": 2131,
+                    "top": 553,
+                    "width": 214,
+                    "height": 37,
+                    "x1": 2131,
+                    "y1": 553,
+                    "x2": 2345,
+                    "y2": 590,
+                    "Confidence": 99
+                },
+                {
+                    "word": "NOD",
+                    "left": 2360,
+                    "top": 551,
+                    "width": 87,
+                    "height": 34,
+                    "x1": 2360,
+                    "y1": 551,
+                    "x2": 2447,
+                    "y2": 585,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 2464,
+                    "top": 546,
+                    "width": 120,
+                    "height": 38,
+                    "x1": 2464,
+                    "y1": 546,
+                    "x2": 2584,
+                    "y2": 584,
+                    "Confidence": 99
+                },
+                {
+                    "word": "PJSC",
+                    "left": 2594,
+                    "top": 541,
+                    "width": 109,
+                    "height": 45,
+                    "x1": 2594,
+                    "y1": 541,
+                    "x2": 2703,
+                    "y2": 586,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Trade",
+                    "left": 2051,
+                    "top": 606,
+                    "width": 112,
+                    "height": 32,
+                    "x1": 2051,
+                    "y1": 606,
+                    "x2": 2163,
+                    "y2": 638,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Finance",
+                    "left": 2177,
+                    "top": 604,
+                    "width": 158,
+                    "height": 32,
+                    "x1": 2177,
+                    "y1": 604,
+                    "x2": 2335,
+                    "y2": 636,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Services",
+                    "left": 2350,
+                    "top": 595,
+                    "width": 246,
+                    "height": 47,
+                    "x1": 2350,
+                    "y1": 595,
+                    "x2": 2596,
+                    "y2": 642,
+                    "Confidence": 99
+                },
+                {
+                    "word": "/",
+                    "left": 2656,
+                    "top": 604,
+                    "width": 53,
+                    "height": 40,
+                    "x1": 2656,
+                    "y1": 604,
+                    "x2": 2709,
+                    "y2": 644,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

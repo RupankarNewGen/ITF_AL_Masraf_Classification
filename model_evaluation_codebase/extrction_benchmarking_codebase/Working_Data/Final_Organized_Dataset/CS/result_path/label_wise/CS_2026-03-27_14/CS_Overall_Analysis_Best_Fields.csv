@@ -1,0 +1,5 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210824112119_1.00_page_10.png,csh_drawn_under_lc_number,TF1921870002,TF1921870002,100,1,"[736, 1021, 974, 1050]","[732, 1020, 989, 1051]"
+1,Trade Finance_20210824112119_1.00_page_19.png,csh_drawn_under_lc_number,TF1921870002,TF1921870002,100,1,"[702, 1178, 1013, 1213]","[695, 1166, 1021, 1233]"
+2,Trade Finance_20210824112119_1.00_page_5.png,csh_drawn_under_lc_number,TF1921870002V,TF1921870002,96,1,"[1138, 1083, 1431, 1136]","[1133, 1094, 1351, 1127]"
+3,Trade Finance_20210824112119_1.00_page_6.png,csh_drawn_under_lc_number,TF1921870002,TF1921870002,100,1,"[752, 1020, 1048, 1065]","[749, 1026, 1021, 1057]"

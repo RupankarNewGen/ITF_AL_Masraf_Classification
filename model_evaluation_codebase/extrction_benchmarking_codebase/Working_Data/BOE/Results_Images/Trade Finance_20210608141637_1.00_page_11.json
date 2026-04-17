@@ -1,0 +1,95 @@
+{
+    "Trade Finance_20210608141637_1.00_page_11.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "1",
+                    "left": 96,
+                    "top": 158,
+                    "width": 9,
+                    "height": 25,
+                    "x1": 96,
+                    "y1": 158,
+                    "x2": 105,
+                    "y2": 183,
+                    "Confidence": 99
+                },
+                {
+                    "word": "$",
+                    "left": 208,
+                    "top": 263,
+                    "width": 18,
+                    "height": 16,
+                    "x1": 208,
+                    "y1": 263,
+                    "x2": 226,
+                    "y2": 279,
+                    "Confidence": 99
+                },
+                {
+                    "word": "S'",
+                    "left": 2085,
+                    "top": 594,
+                    "width": 32,
+                    "height": 31,
+                    "x1": 2085,
+                    "y1": 594,
+                    "x2": 2117,
+                    "y2": 625,
+                    "Confidence": 99
+                },
+                {
+                    "word": "IF",
+                    "left": 2057,
+                    "top": 641,
+                    "width": 60,
+                    "height": 37,
+                    "x1": 2057,
+                    "y1": 641,
+                    "x2": 2117,
+                    "y2": 678,
+                    "Confidence": 99
+                },
+                {
+                    "word": "1T:",
+                    "left": 2056,
+                    "top": 679,
+                    "width": 61,
+                    "height": 61,
+                    "x1": 2056,
+                    "y1": 679,
+                    "x2": 2117,
+                    "y2": 740,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

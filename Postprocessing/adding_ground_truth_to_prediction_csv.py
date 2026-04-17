@@ -69,12 +69,12 @@ def sync_ground_truth(first_csv_path, second_csv_path, output_csv_path):
 if __name__ == "__main__":
     # --- CONFIGURATION ---
     # First CSV: The source of truth
-    FILE_SOURCE = "/datadrive2/IDF_AL_MASRAF/test_images/first_set_532_ground_truth.csv"
+    FILE_SOURCE = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Prediction_CSV/second_set_1000_images_results(in).csv"
     
     # Second CSV: The file you want to update
-    FILE_TARGET = "/datadrive2/IDF_AL_MASRAF/532_first_set_thinking_model_result.csv"
+    FILE_TARGET = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Prediction_CSV/second_set_1000_images_results.csv"
     
     # Output path
-    FILE_OUTPUT = "/datadrive2/IDF_AL_MASRAF/532_first_set_with_ground_truth.csv"
+    FILE_OUTPUT = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Prediction_CSV/second_set_1000_images_with_ground_truth.csv"
 
     sync_ground_truth(FILE_SOURCE, FILE_TARGET, FILE_OUTPUT)

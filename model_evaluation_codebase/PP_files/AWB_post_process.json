@@ -1,0 +1,75 @@
+{
+  "numeric_fields": [
+    "net_weight",
+    "gross_weight",
+    "gross_quantity"
+  ],
+  "address_fields": [
+    "shipper_address",
+    "consignee_address",
+    "notify_party_address",
+    "carrier_address",
+    "agent_address"
+  ],
+  "date_fields": [
+    "transaction_date",
+    "awb_bill_issue_date",
+    "flight_date",
+    "invoice_date",
+    "lc_date",
+    "shipment_date",
+    "stamped_onboard_date",
+    "stamped_flight_date"
+  ],
+  "single_line_fields": [
+    "shipper_name",
+    "consignee_name",
+    "notify_party_name",
+    "carrier_name",
+    "agent_name",
+    "consignor_name",
+    "master_name",
+    "stamped_vessel_or_cargo_name",
+    "declared_value_of_carriage",
+    "signed_by_carrier",
+    "signed_by_agent",
+    "signed_by_master",
+    "declared_value_of_custom"
+
+  ],
+  "single_word_fields": [
+    "place_of_receipt",
+    "airport_of_departure",
+    "airport_of_destination",
+    "final_destination",
+    "freight_collect_or_prepaid",
+    "freight_collected_at",
+    "awb_original_number",
+    "awb_original_or_copy",
+    "at_place"
+  ],
+  "multi_line_fields": [
+    "goods_description",
+    "good_marks",
+    "carriage_condition",
+    "dimension",
+    "acceptance_instructions"
+  ],
+  "master_fields": [
+    "amount_insurance",
+    "flight_details"
+
+  ],
+  "critical_fields": [
+    "awb_bill_no",
+    "master_awb_bill_no",
+    "house_awb_bill_no",
+    "flight_no",
+    "lc_no",
+    "invoice_number"
+  ],
+  "remove_fields": [
+    "stamp",
+    "signature"
+  ]
+}

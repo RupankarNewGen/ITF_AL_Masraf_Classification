@@ -1,0 +1,95 @@
+{
+    "Trade Finance_20210701163204_1.00_page_8.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "\\",
+                    "left": 1298,
+                    "top": 419,
+                    "width": 45,
+                    "height": 69,
+                    "x1": 1298,
+                    "y1": 419,
+                    "x2": 1343,
+                    "y2": 488,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Alos",
+                    "left": 945,
+                    "top": 525,
+                    "width": 368,
+                    "height": 72,
+                    "x1": 945,
+                    "y1": 525,
+                    "x2": 1313,
+                    "y2": 597,
+                    "Confidence": 99
+                },
+                {
+                    "word": "2",
+                    "left": 813,
+                    "top": 569,
+                    "width": 426,
+                    "height": 106,
+                    "x1": 813,
+                    "y1": 569,
+                    "x2": 1239,
+                    "y2": 675,
+                    "Confidence": 99
+                },
+                {
+                    "word": "920.05",
+                    "left": 788,
+                    "top": 640,
+                    "width": 415,
+                    "height": 60,
+                    "x1": 788,
+                    "y1": 640,
+                    "x2": 1203,
+                    "y2": 700,
+                    "Confidence": 99
+                },
+                {
+                    "word": "06",
+                    "left": 794,
+                    "top": 688,
+                    "width": 567,
+                    "height": 51,
+                    "x1": 794,
+                    "y1": 688,
+                    "x2": 1361,
+                    "y2": 739,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "upside-down"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+  "Name": "",
+  "Priority": "P_Normal",
+  "InputFiles": [
+    {
+      "FileData": {
+        "FileContents": "",
+        "FileName": ""
+      }
+    }
+  ],
+  "ExportParams": {
+    "SeparationMethod": "DSM_MergeIntoSingleFile",
+    "BarcodeType": "IBT_Unknown",
+    "BarcodeRegExp": "",
+    "Formats": [
+      {
+        "CodePage": "CP_Null",
+        "InsertEmptyLineBetweenParagraphs": false,
+        "ExportParagraphsAsOneLine": true,
+        "UsePageBreaks": false,
+        "EncodingType": "TET_UTF8",
+        "KeepOriginalHeadersFooters": true,
+        "FileFormat": "OFF_Text",
+        "FileFormatId": "{B1F7E8FF-D5AD-4FF4-96AB-EE3E859AA9C3}"
+      },
+      {
+        "UsePrettyPrintFormatting": false,
+        "WriteSymbolFormatting": false,
+        "FileFormat": "OFF_JSON",
+        "FileFormatId": "{05127E35-A287-4BF6-A963-6280AB43A686}"
+      },
+      {
+        "FileFormat": "OFF_NoConversion",
+        "FileFormatId": "{D93EF873-03EA-4E9A-8730-2B1478C39636}"
+      }
+    ],
+    "ResultLocationPath": null
+  },
+  "PreprocessingParams": {
+    "Deskew": false,
+    "RemoveTexture": false,
+    "RemoveGarbage": false,
+    "CorrectResolution": false,
+    "StraightenLines": false,
+    "SplitDualPages": false,
+    "ConvertToBWFormat": false,
+    "RotationType": "RT_Automatic",
+    "PdfMode": "PM_Auto",
+    "DontModifyDocumentsWithDigitalSignature": false,
+    "DiscardJobWithDocumentsWithDigitalSignature": false,
+    "KeepAnnotationsInPdf": false
+  },
+  "RecognitionParams": {
+    "Languages": [
+      "English"
+    ],
+    "LookForBarcodes": false,
+    "TextTypes": "TT_Normal",
+    "RecognitionQuality": "RQS_Fast",
+    "RecognitionMode": "RM_FullPage",
+    "TextExtractionMode": false,
+    "ProhibitHiddenTextDetection": false,
+    "ProhibitTableDetection": false,
+    "ProhibitPictureDetection": false
+  },
+  "UserProperty": "",
+  "Attributes": null,
+  "VerificationUserNameRestrictions": [],
+  "IndexingUserNameRestrictions": [],
+  "IsTemporary": false
+}

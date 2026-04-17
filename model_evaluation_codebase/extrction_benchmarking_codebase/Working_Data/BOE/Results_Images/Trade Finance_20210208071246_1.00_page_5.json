@@ -1,0 +1,111 @@
+{
+    "Trade Finance_20210208071246_1.00_page_5.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawee_bank_address": {
+                "value": "Abu Dhabi Commercial Bank",
+                "coordinate": [
+                    [
+                        1205,
+                        2146,
+                        1488,
+                        2174
+                    ]
+                ],
+                "model_confidence": [
+                    0.777129
+                ],
+                "ocr_confidence": []
+            }
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "For",
+                    "left": 1168,
+                    "top": 2157,
+                    "width": 33,
+                    "height": 18,
+                    "x1": 1168,
+                    "y1": 2157,
+                    "x2": 1201,
+                    "y2": 2175,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Abu",
+                    "left": 1206,
+                    "top": 2155,
+                    "width": 39,
+                    "height": 19,
+                    "x1": 1206,
+                    "y1": 2155,
+                    "x2": 1245,
+                    "y2": 2174,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Dhabi'",
+                    "left": 1252,
+                    "top": 2146,
+                    "width": 57,
+                    "height": 27,
+                    "x1": 1252,
+                    "y1": 2146,
+                    "x2": 1309,
+                    "y2": 2173,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Commercial",
+                    "left": 1312,
+                    "top": 2150,
+                    "width": 119,
+                    "height": 22,
+                    "x1": 1312,
+                    "y1": 2150,
+                    "x2": 1431,
+                    "y2": 2172,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bank",
+                    "left": 1439,
+                    "top": 2149,
+                    "width": 50,
+                    "height": 19,
+                    "x1": 1439,
+                    "y1": 2149,
+                    "x2": 1489,
+                    "y2": 2168,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

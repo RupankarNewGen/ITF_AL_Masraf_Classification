@@ -1,0 +1,69 @@
+{
+  "numeric_fields": [
+    "net_weight",
+    "total_quantity_of_goods",
+    "gross_weight"
+  ],
+  "address_fields": [
+    "consignee_address",
+    "consignor_address",
+    "shipper_address",
+    "notify_party_address",
+    "beneficiary_address",
+    "remitter_address"
+  ],
+  "date_fields": [
+    "date_of_invoice",
+    "lc_date",
+    "bill_of_lading_date",
+    "awb_date",
+    "transaction_date"
+  ],
+  "single_line_fields": [
+    "consignee_name",
+    "consignor_name",
+    "shipper_name",
+    "country_of_final_destination",
+    "country_of_origin_origin_of_goods",
+    "incoterm",
+    "port_of_discharge",
+    "port_of_loading",
+    "pre_carriage_by",
+    "track_reference",
+    "vessel_flight_no",
+    "vessel_name",
+    "beneficiary_drawer_exporter_seller_supplier_name",
+    "beneficiary_drawer_exporter_seller_supplier_tin_no",
+    "declaration",
+    "notify_party_name",
+    "payment_terms_terms_of_delivery_&_payment",
+    "remittance_drawee_applicant_importer_buyer_name"
+  ],
+  "single_word_fields":[
+      "original_copy",
+       "page_no",
+       "invoice_currency",
+       "transaction_currency"
+  ],
+  "multi_line_fields":[
+  "description_of_goods",
+  "dimension"
+  ],
+  
+  "master_fields": [
+   "transaction_amount_value",
+   "transaction_currency"
+  ],
+  "critical_fields": [
+    "bill_of_lading_number",
+    "lc_ref_no",
+    "awb_number",
+    "iee_no",
+    "invoice_no"
+  ],
+  "remove_fields": [
+    "stamp",
+    "signature"
+  ]
+}
+

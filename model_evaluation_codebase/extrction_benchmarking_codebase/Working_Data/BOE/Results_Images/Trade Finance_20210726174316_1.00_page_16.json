@@ -1,0 +1,287 @@
+{
+    "Trade Finance_20210726174316_1.00_page_16.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "PAY",
+                    "left": 393,
+                    "top": 284,
+                    "width": 93,
+                    "height": 39,
+                    "x1": 393,
+                    "y1": 284,
+                    "x2": 486,
+                    "y2": 323,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TO",
+                    "left": 507,
+                    "top": 284,
+                    "width": 72,
+                    "height": 39,
+                    "x1": 507,
+                    "y1": 284,
+                    "x2": 579,
+                    "y2": 323,
+                    "Confidence": 99
+                },
+                {
+                    "word": "THE",
+                    "left": 605,
+                    "top": 284,
+                    "width": 107,
+                    "height": 39,
+                    "x1": 605,
+                    "y1": 284,
+                    "x2": 712,
+                    "y2": 323,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ORDER",
+                    "left": 740,
+                    "top": 283,
+                    "width": 186,
+                    "height": 40,
+                    "x1": 740,
+                    "y1": 283,
+                    "x2": 926,
+                    "y2": 323,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 953,
+                    "top": 282,
+                    "width": 70,
+                    "height": 40,
+                    "x1": 953,
+                    "y1": 282,
+                    "x2": 1023,
+                    "y2": 322,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ANY",
+                    "left": 390,
+                    "top": 344,
+                    "width": 75,
+                    "height": 31,
+                    "x1": 390,
+                    "y1": 344,
+                    "x2": 465,
+                    "y2": 375,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK,",
+                    "left": 488,
+                    "top": 344,
+                    "width": 112,
+                    "height": 36,
+                    "x1": 488,
+                    "y1": 344,
+                    "x2": 600,
+                    "y2": 380,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANKER",
+                    "left": 622,
+                    "top": 344,
+                    "width": 150,
+                    "height": 29,
+                    "x1": 622,
+                    "y1": 344,
+                    "x2": 772,
+                    "y2": 373,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OR",
+                    "left": 796,
+                    "top": 344,
+                    "width": 49,
+                    "height": 29,
+                    "x1": 796,
+                    "y1": 344,
+                    "x2": 845,
+                    "y2": 373,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TRUST",
+                    "left": 863,
+                    "top": 344,
+                    "width": 122,
+                    "height": 29,
+                    "x1": 863,
+                    "y1": 344,
+                    "x2": 985,
+                    "y2": 373,
+                    "Confidence": 99
+                },
+                {
+                    "word": "COMPANY",
+                    "left": 1010,
+                    "top": 343,
+                    "width": 188,
+                    "height": 29,
+                    "x1": 1010,
+                    "y1": 343,
+                    "x2": 1198,
+                    "y2": 372,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ALL",
+                    "left": 390,
+                    "top": 391,
+                    "width": 65,
+                    "height": 29,
+                    "x1": 390,
+                    "y1": 391,
+                    "x2": 455,
+                    "y2": 420,
+                    "Confidence": 99
+                },
+                {
+                    "word": "PRIOR",
+                    "left": 479,
+                    "top": 391,
+                    "width": 111,
+                    "height": 29,
+                    "x1": 479,
+                    "y1": 391,
+                    "x2": 590,
+                    "y2": 420,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ENDORSEMENTS",
+                    "left": 614,
+                    "top": 390,
+                    "width": 310,
+                    "height": 30,
+                    "x1": 614,
+                    "y1": 390,
+                    "x2": 924,
+                    "y2": 420,
+                    "Confidence": 99
+                },
+                {
+                    "word": "GUARANTEED",
+                    "left": 939,
+                    "top": 388,
+                    "width": 262,
+                    "height": 30,
+                    "x1": 939,
+                    "y1": 388,
+                    "x2": 1201,
+                    "y2": 418,
+                    "Confidence": 99
+                },
+                {
+                    "word": "FOR",
+                    "left": 340,
+                    "top": 566,
+                    "width": 70,
+                    "height": 26,
+                    "x1": 340,
+                    "y1": 566,
+                    "x2": 410,
+                    "y2": 592,
+                    "Confidence": 99
+                },
+                {
+                    "word": "CHINA",
+                    "left": 459,
+                    "top": 561,
+                    "width": 167,
+                    "height": 34,
+                    "x1": 459,
+                    "y1": 561,
+                    "x2": 626,
+                    "y2": 595,
+                    "Confidence": 99
+                },
+                {
+                    "word": "CONSTRUCTION",
+                    "left": 656,
+                    "top": 561,
+                    "width": 425,
+                    "height": 34,
+                    "x1": 656,
+                    "y1": 561,
+                    "x2": 1081,
+                    "y2": 595,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 1108,
+                    "top": 560,
+                    "width": 146,
+                    "height": 33,
+                    "x1": 1108,
+                    "y1": 560,
+                    "x2": 1254,
+                    "y2": 593,
+                    "Confidence": 99
+                },
+                {
+                    "word": "AUTHORIZED",
+                    "left": 605,
+                    "top": 746,
+                    "width": 177,
+                    "height": 48,
+                    "x1": 605,
+                    "y1": 746,
+                    "x2": 782,
+                    "y2": 794,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SIGNATURE(S)",
+                    "left": 802,
+                    "top": 738,
+                    "width": 191,
+                    "height": 56,
+                    "x1": 802,
+                    "y1": 738,
+                    "x2": 993,
+                    "y2": 794,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

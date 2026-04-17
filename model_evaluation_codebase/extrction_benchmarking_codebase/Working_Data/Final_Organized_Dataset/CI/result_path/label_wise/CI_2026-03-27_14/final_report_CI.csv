@@ -1,0 +1,17 @@
+,Label_Name,Label_Count,Labels_Detected,Detection_Accuracy,Fuzzy_Match_Percentage,Complete_Match_Count_Detected,Complete_Match_Count,Complete_Match_Percentage
+0,beneficiary_drawer_exporter_seller_supplier_name,4,4,100.0,78.0,0.5,2,50.0
+1,country_of_origin_of_goods,4,4,100.0,100.0,1.0,4,100.0
+2,date_of_invoice,4,4,100.0,80.0,1.0,4,100.0
+3,declaration_by_issuer,4,3,75.0,71.5,1.0,3,75.0
+4,goods_description,4,4,100.0,100.0,1.0,4,100.0
+5,incoterm,4,4,100.0,100.0,1.0,4,100.0
+6,invoice_amount,4,3,75.0,75.0,1.0,3,75.0
+7,invoice_amount_in_words,4,4,100.0,98.0,1.0,4,100.0
+8,invoice_currency,4,3,75.0,75.0,1.0,3,75.0
+9,invoice_no,4,4,100.0,100.0,1.0,4,100.0
+10,lc_date,4,4,100.0,82.5,0.75,3,75.0
+11,lc_ref_no,4,4,100.0,100.0,1.0,4,100.0
+12,remitter_address,4,4,100.0,97.0,1.0,4,100.0
+13,remitter_drawee_applicant_importer_buyer_name,4,4,100.0,96.0,1.0,4,100.0
+14,sign,4,0,0.0,25.0,0.0,1,25.0
+15,OVERALL,60,53,88.33333333333333,85.2,0.9622641509433962,51,0.85

@@ -1,0 +1,95 @@
+{
+    "Trade Finance_20210810170044_1.00_page_14.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "any",
+                    "left": 1998,
+                    "top": 825,
+                    "width": 50,
+                    "height": 29,
+                    "x1": 1998,
+                    "y1": 825,
+                    "x2": 2048,
+                    "y2": 854,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Order",
+                    "left": 2281,
+                    "top": 704,
+                    "width": 101,
+                    "height": 42,
+                    "x1": 2281,
+                    "y1": 704,
+                    "x2": 2382,
+                    "y2": 746,
+                    "Confidence": 99
+                },
+                {
+                    "word": "sed",
+                    "left": 2257,
+                    "top": 956,
+                    "width": 76,
+                    "height": 45,
+                    "x1": 2257,
+                    "y1": 956,
+                    "x2": 2333,
+                    "y2": 1001,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Signature",
+                    "left": 2340,
+                    "top": 933,
+                    "width": 147,
+                    "height": 54,
+                    "x1": 2340,
+                    "y1": 933,
+                    "x2": 2487,
+                    "y2": 987,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Authorised",
+                    "left": 2163,
+                    "top": 973,
+                    "width": 170,
+                    "height": 55,
+                    "x1": 2163,
+                    "y1": 973,
+                    "x2": 2333,
+                    "y2": 1028,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "clockwise"
+        }
+    }
+}

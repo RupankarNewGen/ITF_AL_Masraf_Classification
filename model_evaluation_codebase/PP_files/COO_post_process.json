@@ -1,0 +1,51 @@
+{
+  "numeric_fields": [
+    "gross_weight",
+    "net_weight"
+  ],
+  "address_fields": [
+    "coo_issuer_address",
+    "consignee_address",
+    "consignor_address"
+  ],
+  "date_fields": [
+    "issue_date",
+    "invoice_date",
+    "lc_date",
+    "expiry_date"
+  ],
+  "single_line_fields": [
+    "coo_issuer_name",
+    "consignee_name",
+    "consignor_name",
+    "declaration_by_exporter",
+    "certificate_stamped",
+    "declaration_by_certification"
+  ],
+  "single_word_fields": [
+    "means_of_transport",
+    "vessel_details",
+    "from_place",
+    "to_place",
+    "original_or_copy",
+    "original_number",
+    "final_destination"
+  ],
+  "multi_line_fields": [
+    "description_of_goods"
+  ],
+  "master_fields": [],
+  "critical_fields": [
+    "ref_no",
+    "marks_and_no_of_packages",
+    "invoice_no",
+    "lc_ref_no",
+    "page_no",
+    "certificate_no"
+  ],
+  "remove_fields": [
+    "signature",
+    "stamp"
+  ],
+  "merge_fields": []
+}

@@ -1,0 +1,263 @@
+{
+    "Trade Finance_20210824112119_1.00_page_11.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999514818191528
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawer_name": {
+                "value": "SEAGULL HVAC INDUSTRY LLC",
+                "coordinate": [
+                    [
+                        575,
+                        446,
+                        1781,
+                        519
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_no": {
+                "value": "SZO11",
+                "coordinate": [
+                    [
+                        345,
+                        744,
+                        505,
+                        786
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "06/07/2021",
+                "coordinate": [
+                    [
+                        1831,
+                        748,
+                        2045,
+                        783
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "115,510.50",
+                "coordinate": [
+                    [
+                        446,
+                        867,
+                        661,
+                        902
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "tenore_details": {
+                "value": "120 DAYS FROM THE DATE OF DELIVERY",
+                "coordinate": [
+                    [
+                        266,
+                        979,
+                        1098,
+                        1029
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "ABU DHABI~BANK,",
+                "coordinate": [
+                    [
+                        1490,
+                        1046,
+                        1715,
+                        1085
+                    ],
+                    [
+                        2013,
+                        1046,
+                        2124,
+                        1092
+                    ]
+                ],
+                "model_confidence": [
+                    0.84
+                ],
+                "ocr_confidence": [
+                    0
+                ]
+            },
+            "amount_in_words": {
+                "value": "FIVE HUNDRED TEN & FILLS 50/100 ONLY,~ONE HUNDRED FIFTEEN THOUSAND",
+                "coordinate": [
+                    [
+                        266,
+                        1173,
+                        1098,
+                        1218
+                    ],
+                    [
+                        1461,
+                        1109,
+                        2127,
+                        1151
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": [
+                    0
+                ]
+            },
+            "lc_ref_no": {
+                "value": "TF1921870002",
+                "coordinate": [
+                    [
+                        1073,
+                        1429,
+                        1387,
+                        1464
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "06/08/2019",
+                "coordinate": [
+                    [
+                        1535,
+                        1432,
+                        1769,
+                        1464
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_address": {
+                "value": "SHEIKH HAMDAN BIN MOHAMMED STREET",
+                "coordinate": [
+                    [
+                        261,
+                        2514,
+                        1088,
+                        2560
+                    ]
+                ],
+                "model_confidence": [
+                    0.97
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        548.2,
+                        1804.49,
+                        1504.55,
+                        2158.12
+                    ]
+                ],
+                "model_confidence": [
+                    0.82
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {},
+            "drawee_name": {},
+            "drawee_address": {},
+            "drawee_country": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "country_of_origin": {},
+            "invoice_no": {},
+            "invoice_date": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "signature": {},
+            "drawee_bank_name": {},
+            "issue_place": {},
+            "stamp": {},
+            "declaration_by": {},
+            "drawee_bank_country": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "total_original_number": {},
+            "goods_description": {},
+            "tenor_details": {},
+            "issuing_bank": {},
+            "issuing_bank_address": {},
+            "issuing_bank_country": {},
+            "stamp_endorsed": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        548.2,
+                        1804.49,
+                        1504.55,
+                        2158.12
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.824
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

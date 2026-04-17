@@ -1,0 +1,78 @@
+{
+  "numeric_fields": [
+    "our_charges",
+    "your_charges",
+    "less_your_charges",
+    "plus_our_charges",
+    "commissioned_charges",
+    "less_commission_charges",
+    "swift_charges",
+    "postal_charges",
+    "other_charges",
+    "total_bill_amount",
+    "freight_charges",
+    "insurance_charges",
+    "charges",
+    "additional_charges",
+    "advanced_charges"
+  ],
+  "address_fields": [
+    "drawer_bank_address",
+    "drawer_bank_bottom_address",
+    "drawer_address",
+    "drawee_address",
+    "drawee_bank_address",
+    "nostro_bank_address"
+  ],
+  "date_fields": [
+    "csh_presentation_date",
+    "csh_due_date",
+    "tenor_indicator_date"
+  ],
+  "single_line_fields": [
+    "drawer_bank_name",
+    "drawer_bank_bottom_name",
+    "drawer_name",
+    "drawee_name",
+    "drawee_bank_name",
+    "nostro_bank_name",
+    "doc_delivery_instruction",
+    "doc_charge_instructions"
+  ],
+  "single_word_fields": [
+    "page_no",
+    "csh_drawn_under_rules",
+    "csh_drawn_under_lc_number",
+    "tenor_type",
+    "usance_tenor",
+    "tenor_indicator",
+    "tenor_indicator_type",
+    "drawer_bank_bic",
+    "drawee_bank_bic",
+    "nostro_bank_bic",
+    "original",
+    "total_page",
+    "original_number",
+    "payment_at_sigh",
+    "payment_before_sight",
+    "advance_payment",
+    "final_destination"
+  ],
+  "multi_line_fields": [
+    "document_enclosed"
+  ],
+  "master_fields": [
+  "csh_bill_currency",
+  "csh_bill_amount"
+],
+  "critical_fields": [
+    "csh_ref_no",
+    "drawer_ref_no",
+    "draft_number"
+  ],
+  "remove_fields": [
+    "signature",
+    "stamp",
+    "currency_amount"
+  ]
+}

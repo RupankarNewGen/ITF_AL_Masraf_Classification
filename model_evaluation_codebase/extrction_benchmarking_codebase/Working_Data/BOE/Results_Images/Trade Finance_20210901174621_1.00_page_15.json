@@ -1,0 +1,114 @@
+{
+    "Trade Finance_20210901174621_1.00_page_15.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawee_bank_address": {
+                "value": "industrie BENK",
+                "coordinate": [
+                    [
+                        979,
+                        2258,
+                        1517,
+                        2388
+                    ]
+                ],
+                "model_confidence": [
+                    0.663676
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "CO., LID",
+                "coordinate": [
+                    [
+                        1544,
+                        2349,
+                        1781,
+                        2412
+                    ]
+                ],
+                "model_confidence": [
+                    0.645396
+                ],
+                "ocr_confidence": []
+            }
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "Prized",
+                    "left": 1362,
+                    "top": 2574,
+                    "width": 136,
+                    "height": 37,
+                    "x1": 1362,
+                    "y1": 2574,
+                    "x2": 1498,
+                    "y2": 2611,
+                    "Confidence": 99
+                },
+                {
+                    "word": "\u00a7",
+                    "left": 1519,
+                    "top": 2572,
+                    "width": 123,
+                    "height": 48,
+                    "x1": 1519,
+                    "y1": 2572,
+                    "x2": 1642,
+                    "y2": 2620,
+                    "Confidence": 99
+                },
+                {
+                    "word": ".........",
+                    "left": 1643,
+                    "top": 2588,
+                    "width": 106,
+                    "height": 21,
+                    "x1": 1643,
+                    "y1": 2588,
+                    "x2": 1749,
+                    "y2": 2609,
+                    "Confidence": 99
+                },
+                {
+                    "word": "-nature\u2019s)",
+                    "left": 1515,
+                    "top": 2601,
+                    "width": 227,
+                    "height": 50,
+                    "x1": 1515,
+                    "y1": 2601,
+                    "x2": 1742,
+                    "y2": 2651,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

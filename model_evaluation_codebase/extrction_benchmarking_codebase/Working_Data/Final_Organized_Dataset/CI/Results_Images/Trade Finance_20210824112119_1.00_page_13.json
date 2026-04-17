@@ -1,0 +1,360 @@
+{
+    "Trade Finance_20210824112119_1.00_page_13.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.999921441078186
+        },
+        "predicted_class": "CI",
+        "confidence": 0.9,
+        "extraction_result": {
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "SEAGULL HVAC INDUSTRY LLC",
+                "coordinate": [
+                    [
+                        576,
+                        446,
+                        1782,
+                        519
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_drawee_applicant_importer_buyer_name": {
+                "value": "AL MASRAF - ISLAMIC",
+                "coordinate": [
+                    [
+                        368,
+                        677,
+                        643,
+                        702
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_address": {
+                "value": "FIRSTMAIN JUMEIRA ROAD UMM SUQEIM DUBAI.",
+                "coordinate": [
+                    [
+                        368,
+                        751,
+                        732,
+                        811
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "goods_description": {
+                "value": "SUPPLY OF ACCESS DOORS.",
+                "coordinate": [
+                    [
+                        368,
+                        948,
+                        663,
+                        976
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "country_of_origin_of_goods": {
+                "value": "UAE.",
+                "coordinate": [
+                    [
+                        584,
+                        1057,
+                        643,
+                        1078
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "incoterm": {
+                "value": "DDP",
+                "coordinate": [
+                    [
+                        368,
+                        1092,
+                        1455,
+                        1120
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "NO:S/ZO-11",
+                "coordinate": [
+                    [
+                        1839,
+                        677,
+                        1998,
+                        702
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "06/07/2021",
+                "coordinate": [
+                    [
+                        1866,
+                        719,
+                        1998,
+                        741
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_amount_in_words": {
+                "value": "ONE HUNDRED FIFTEEN THOUSAND FIVE HUNDRED TEN & FILS 50100",
+                "coordinate": [
+                    [
+                        804,
+                        1885,
+                        1624,
+                        1910
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF1921870002",
+                "coordinate": [
+                    [
+                        831,
+                        2142,
+                        1017,
+                        2163
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "06/08/2019",
+                "coordinate": [
+                    [
+                        1114,
+                        2142,
+                        1250,
+                        2166
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "declaration_by_issuer": {
+                "value": "FORSEAGULL HVAC INDUSTRY LLC~4C INDUS",
+                "coordinate": [
+                    [
+                        366,
+                        2279,
+                        770,
+                        2310
+                    ],
+                    [
+                        906,
+                        2904,
+                        1052,
+                        2946
+                    ]
+                ],
+                "model_confidence": [
+                    0.95
+                ],
+                "ocr_confidence": [
+                    0
+                ]
+            },
+            "invoice_currency": {
+                "value": "AED",
+                "coordinate": [
+                    [
+                        1242,
+                        1833,
+                        1312,
+                        1861
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_amount": {
+                "value": "115,510.50",
+                "coordinate": [
+                    [
+                        1866,
+                        1836,
+                        2000,
+                        1864
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1398.8,
+                        2479.69,
+                        1945.45,
+                        2764.08
+                    ]
+                ],
+                "model_confidence": [
+                    0.72
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "remitter_country": {},
+            "cosignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "notify_party_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin": {},
+            "beneficiary_address": {},
+            "beneficiary_country": {},
+            "consignor_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "transaction_currency": {},
+            "transaction_amount_value": {},
+            "invoice_discount_ccy": {},
+            "invoice_discount_amount": {},
+            "invoice_tax_ccy": {},
+            "invoice_tax_amount": {},
+            "total_quantity_of_goods": {},
+            "rate_per_unit": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "dimension": {},
+            "hs_code_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "beneficiary_bank_name": {},
+            "beneficiary_bank_country": {},
+            "beneficiary_account_number": {},
+            "beneficiary_iban_number": {},
+            "beneficiary_bank_identifier": {},
+            "delivery_terms": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "country_of_final_destination": {},
+            "pre_carriage_by": {},
+            "vessel_flight_no": {},
+            "bill_of_lading_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_date": {},
+            "awb_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature_of_the_issuer": {},
+            "original_or_copy": {},
+            "place_of_receipt": {},
+            "stamp": {},
+            "additional_charges": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1398.8,
+                        2479.69,
+                        1945.45,
+                        2764.08
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.718
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

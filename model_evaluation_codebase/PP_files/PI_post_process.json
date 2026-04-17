@@ -1,0 +1,83 @@
+{
+  "numeric_fields": [
+    "quantity",
+    "unit",
+    "rate_unit",
+    "gross_weight",
+    "net_weight",
+    "tolerance_of_quantity"
+  ],
+  "address_fields": [
+    "drawer_exporter_seller_beneficiary_issuer_supplier_address",
+    "remitter_drawee_buyer_importer_billto_shippedto_despacthto_address",
+    "beneficiary_bank_address",
+    "shipper_address",
+    "consignor_address",
+    "notify_party_address",
+    "consignee_address"
+  ],
+  "date_fields": [
+    "invoice_date",
+    "invoice_due_date",
+    "order_date",
+    "shipment_date",
+    "shipment_date"
+  ],
+  "single_line_fields": [
+    "drawer_exporter_seller_beneficiary_issuer_supplier_name",
+    "remitter_drawee_buyer_importer_billto_shippedto_despacthto_name",
+    "shipper_name",
+    "consignor_name",
+    "notify_party_name",
+    "consinee_name",
+    "vessel_name",
+    "beneficiary_bank",
+    "beneficiary_bank_swift",
+    "total_amount_in_words",
+    "diclaration_by"
+  ],
+  "single_word_fields": [
+    "page_no",
+    "pre_carriage_by",
+    "port_of_loading",
+    "port_of_discharge",
+    "from",
+    "to",
+    "final_destination",
+    "total_pages",
+    "partial_shipment",
+    "transhipment",
+    "transport_details",
+    "mode_of_despatch",
+    "incoterms",
+    "original_or_copy",
+    "presentation_period"
+  ],
+  "multi_line_fields": [
+    "goods_description",
+    "terms_of_delivery",
+    "payment_terms",
+    "packaging_description"
+  ],
+  "master_fields": [
+    "total_amount_in_numeric",
+    "currency_in_numeric",
+    "tax_amount",
+    "amount_due",
+    "advance_amount"
+  ],
+  "critical_fields": [
+    "performa_invoice_no",
+    "drawer_ref_no",
+    "beneficiary_account_no",
+    "purchase_order_no_and_agreement_ref_no",
+    "drawee_buyer_importer_tin_no",
+    "drawer_exporter_tin_no",
+    "importer_your_ref_no",
+    "exporter_our_ref_no"
+  ],
+  "remove_fields": [
+    "stamped",
+    "signed_by"
+  ]
+}

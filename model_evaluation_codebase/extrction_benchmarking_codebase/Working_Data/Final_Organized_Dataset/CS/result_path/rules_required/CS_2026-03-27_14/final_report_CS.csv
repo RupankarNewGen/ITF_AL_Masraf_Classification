@@ -1,0 +1,17 @@
+,Label_Name,Label_Count,Labels_Detected,Detection_Accuracy,Fuzzy_Match_Percentage,Complete_Match_Count_Detected,Complete_Match_Count,Complete_Match_Percentage
+0,charges,4,0,0.0,0.0,0.0,0,0.0
+1,csh_bill_amount,4,3,75.0,48.75,0.6666666666666666,2,50.0
+2,csh_bill_currency,4,2,50.0,25.0,0.5,1,25.0
+3,csh_drawn_under_lc_number,4,4,100.0,99.0,1.0,4,100.0
+4,csh_due_date,4,0,0.0,0.0,0.0,0,0.0
+5,csh_presentation_date,4,4,100.0,37.75,0.0,0,0.0
+6,document_enclosed,4,0,0.0,0.0,0.0,0,0.0
+7,draft_number,4,0,0.0,0.0,0.0,0,0.0
+8,drawee_bank_name,4,3,75.0,53.75,0.3333333333333333,1,25.0
+9,drawee_country,4,0,0.0,0.0,0.0,0,0.0
+10,drawee_name,4,3,75.0,66.25,1.0,3,75.0
+11,drawer_bank_name,4,3,75.0,47.5,0.3333333333333333,1,25.0
+12,drawer_country,4,0,0.0,0.0,0.0,0,0.0
+13,drawer_name,4,3,75.0,71.0,1.0,3,75.0
+14,is_stamp,4,4,100.0,0.0,0.0,0,0.0
+15,OVERALL,60,29,48.333333333333336,29.933333333333334,0.5172413793103449,15,0.25

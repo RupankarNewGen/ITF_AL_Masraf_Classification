@@ -1,0 +1,155 @@
+{
+    "Trade Finance_20201217180436_1.00_page_8.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "~",
+                    "left": 128,
+                    "top": 112,
+                    "width": 9,
+                    "height": 6,
+                    "x1": 128,
+                    "y1": 112,
+                    "x2": 137,
+                    "y2": 118,
+                    "Confidence": 99
+                },
+                {
+                    "word": "30",
+                    "left": 2464,
+                    "top": 1849,
+                    "width": 43,
+                    "height": 32,
+                    "x1": 2464,
+                    "y1": 1849,
+                    "x2": 2507,
+                    "y2": 1881,
+                    "Confidence": 99
+                },
+                {
+                    "word": "X",
+                    "left": 2464,
+                    "top": 1881,
+                    "width": 49,
+                    "height": 35,
+                    "x1": 2464,
+                    "y1": 1881,
+                    "x2": 2513,
+                    "y2": 1916,
+                    "Confidence": 99
+                },
+                {
+                    "word": "2,",
+                    "left": 2464,
+                    "top": 1919,
+                    "width": 18,
+                    "height": 22,
+                    "x1": 2464,
+                    "y1": 1919,
+                    "x2": 2482,
+                    "y2": 1941,
+                    "Confidence": 99
+                },
+                {
+                    "word": "a",
+                    "left": 2494,
+                    "top": 1909,
+                    "width": 19,
+                    "height": 27,
+                    "x1": 2494,
+                    "y1": 1909,
+                    "x2": 2513,
+                    "y2": 1936,
+                    "Confidence": 99
+                },
+                {
+                    "word": "P",
+                    "left": 2244,
+                    "top": 1577,
+                    "width": 15,
+                    "height": 26,
+                    "x1": 2244,
+                    "y1": 1577,
+                    "x2": 2259,
+                    "y2": 1603,
+                    "Confidence": 99
+                },
+                {
+                    "word": "2",
+                    "left": 2281,
+                    "top": 1579,
+                    "width": 39,
+                    "height": 27,
+                    "x1": 2281,
+                    "y1": 1579,
+                    "x2": 2320,
+                    "y2": 1606,
+                    "Confidence": 99
+                },
+                {
+                    "word": "03",
+                    "left": 2244,
+                    "top": 1604,
+                    "width": 59,
+                    "height": 32,
+                    "x1": 2244,
+                    "y1": 1604,
+                    "x2": 2303,
+                    "y2": 1636,
+                    "Confidence": 99
+                },
+                {
+                    "word": "X",
+                    "left": 2667,
+                    "top": 1493,
+                    "width": 28,
+                    "height": 31,
+                    "x1": 2667,
+                    "y1": 1493,
+                    "x2": 2695,
+                    "y2": 1524,
+                    "Confidence": 99
+                },
+                {
+                    "word": "1",
+                    "left": 2692,
+                    "top": 1524,
+                    "width": 11,
+                    "height": 10,
+                    "x1": 2692,
+                    "y1": 1524,
+                    "x2": 2703,
+                    "y2": 1534,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

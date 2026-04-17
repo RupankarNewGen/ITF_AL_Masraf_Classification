@@ -1,0 +1,246 @@
+### 
+postprocessing code versions :
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/post_process.py:
+
+>>the original code for postprocessing, has all the postprocessing and also has the handling of the 
+multiple bounding boxes of in the ground truth and predictions.
+
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/post_process_rupankar.py:
+
+no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/post_process_rupankar_v2.py:
+( currently used version **)
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+does the cleaning for both the gt and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+prediction is breaked on bais of '~' and comapred with all the ground truths .
+
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+### report generation versions 
+
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator.py:
+
+>> original code for report generation , has the handling of the multiple bounding boxes of in the ground truth and predictions.
+
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar.py:
+
+no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v2.py:
+( currently used version **)
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+does the cleaning for both the gt and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+prediction is breaked on bais of '~' and comapred with all the ground truths .
+
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+### report generation versions 
+
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator.py:
+
+>> original code for report generation , has the handling of the multiple bounding boxes of in the ground truth and predictions.
+
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar.py:
+
+no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v2.py:
+( currently used version **)
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+does the cleaning for both the gt and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+prediction is breaked on bais of '~' and comapred with all the ground truths .
+
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+### report generation versions 
+
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator.py:
+
+>> original code for report generation , has the handling of the multiple bounding boxes of in the ground truth and predictions.
+
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar.py:
+
+no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v2.py:
+( currently used version **)
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+does the cleaning for both the gt and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+prediction is breaked on bais of '~' and comapred with all the ground truths .
+
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+### report generation versions 
+
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator.py:
+
+>> original code for report generation , has the handling of the multiple bounding boxes of in the ground truth and predictions.
+
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar.py:
+
+no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v2.py:
+( currently used version **)
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+does the cleaning for both the gt and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+prediction is breaked on bais of '~' and comapred with all the ground truths .
+
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+### report generation versions 
+
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator.py:
+
+>> original code for report generation , has the handling of the multiple bounding boxes of in the ground truth and predictions.
+
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar.py:
+
+no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v2.py:
+( currently used version **)
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+does the cleaning for both the gt and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+prediction is breaked on bais of '~' and comapred with all the ground truths .
+
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+### report generation versions 
+
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator.py:
+
+>> original code for report generation , has the handling of the multiple bounding boxes of in the ground truth and predictions.
+
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar.py:
+
+no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v2.py:
+( currently used version **)
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+does the cleaning for both the gt and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+prediction is breaked on bais of '~' and comapred with all the ground truths .
+
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+### report generation versions 
+
+
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator.py:
+
+>> original code for report generation , has the handling of the multiple bounding boxes of in the ground truth and predictions.
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar.py:
+
+>> no rule based postprocessing , and no handing of multiple gt values and prediction values .
+
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v2.py:
+
+>>rule base postprocesing is back , but still no handing of multiple gt values and prediction values .
+
+>> added handing of mutiple ground truth and muitple prediction 
+
+>> the postprocesin is donw on string level and only a single fuction can be used.
+
+
+configs : 
+1. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/config.ini
+
+>>change the pp file paths if need 
+
+2. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/config/config.ini:
+
+( if you are running independtly run this code)
+>> set the product type and the the document type .
+
+3. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/config/prod.ini:
+
+>> set the paths of the documents in workig directory .
+
+>>working doretory strcture :
+
+working_directory/
+        BOL 
+            Results_Images
+            New_Master_Data_Merged ( ground truth)
+
+>> to run sequence :
+
+1.get_images_from_annoation_folders.py :
+( takes the diretcory paths and finds the images in the give directories and sees thir folder anme 
+i.e class and arranges the images as per class in the output )
+
+2. idp_full_pipeline_api_request_nested :
+calls the Idp api saves the jsoan and also creates a classification report 
+folderwise ( doesnot count the gt = others for calculation)
+
+3. benchmarking_data_constructor : 
+
+takes the documnets with >80% confidence score and creates a new folder with the json files
+and also find the ground truth labels for those jsons by serching in the given paths .
+
+4. yolo_to_gt_converter :
+
+converts the yolo formated ground truth lables to json format required for the 
+benchmarking code takes the image , ocr , yolo annotaion and lable txt .
+
+5. run the benchmarking code i.e [report_generator_rupankar_v2.py]:
+
+
+
+4. /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v3.py:
+
+
+>> same as v2 but used in the automation codes to run in sequenctially .

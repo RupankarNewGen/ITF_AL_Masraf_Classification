@@ -1,0 +1,62 @@
+{
+  "numeric_fields": [
+    "unit",
+    "quantity",
+    "unit_price"
+  ],
+  "address_fields": [
+    "drawer_exporter_seller_beneficiary_issuer_supplier_address",
+    "remitter_drawee_buyer_importer_billto_shippedto_despacthto_address"
+  ],
+  "date_fields": [
+    "issue_date"
+  ],
+  "single_line_fields": [
+    "drawer_exporter_seller_beneficiary_issuer_supplier_name",
+    "remitter_drawee_buyer_importer_billto_shippedto_despacthto_name",
+    "insurance_issuer_name",
+    "documents_required",
+    "freight_and_transportation_information",
+    "packaging_details",
+    "price_conditions",
+    "warranty_terms",
+    "taxes_condition",
+    "discount_condition",
+    "transport_condition",
+    "total_amount_in_words",
+    "diclaration_by"
+  ],
+  "single_word_fields": [
+    "page_no",
+    "mode_of_dispatch",
+    "incoterm",
+    "delivery_terms",
+    "payment_terms",
+    "original_or_copy",
+    "at_place",
+    "total_pages",
+    "destination"
+  ],
+  "multi_line_fields": [
+    "item_description",
+    "dimension"
+  ],
+  "master_fields": [
+    "total_amount_in_figure",
+    "tax_amount",
+    "currency"
+  ],
+  "critical_fields": [
+    "drawer_ref_no",
+    "drawee_ref_no",
+    "quotation_no",
+    "vat_no",
+    "ecc_no",
+    "cst_no",
+    "tin_no",
+    "po_number"
+  ],
+  "remove_fields": [
+    "signed_by"
+  ]
+}

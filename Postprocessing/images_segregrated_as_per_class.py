@@ -53,9 +53,9 @@ def organize_images_by_class(json_folder, image_source_folder, main_output_folde
     print(f"\nORGANIZATION COMPLETE. Images Organized: {moved_count}")
 
 if __name__ == "__main__":
-    JSON_DIR = "/datadrive2/IDF_AL_MASRAF/second_set_1000_result"
+    JSON_DIR = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/output_jsons/532_first_set_instruct_model_result"
     # POINT THIS TO THE MAIN FOLDER CONTAINING THE SUBFOLDERS
-    IMAGE_DIR = "/datadrive2/IDF_AL_MASRAF/second_set_of_1000_images"
-    FINAL_OUTPUT_DIR = "/datadrive2/IDF_AL_MASRAF/second_set_10000_classified_as_per_prediction"
+    IMAGE_DIR = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Raw_input_Data/first_set_images_532"
+    FINAL_OUTPUT_DIR = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Raw_ouput_data/532_images_organized_by_predictedclass"
 
     organize_images_by_class(JSON_DIR, IMAGE_DIR, FINAL_OUTPUT_DIR)

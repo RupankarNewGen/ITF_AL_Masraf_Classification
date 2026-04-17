@@ -1,0 +1,241 @@
+{
+    "Trade Finance_20210824112119_1.00_page_20.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9998338222503662
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawer_name": {
+                "value": "SEAGULL HVAC INDUSTRY LLC",
+                "coordinate": [
+                    [
+                        576,
+                        446,
+                        1787,
+                        519
+                    ]
+                ],
+                "model_confidence": [
+                    0.91
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_no": {
+                "value": "SZO11",
+                "coordinate": [
+                    [
+                        346,
+                        741,
+                        507,
+                        786
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "06/07/2021",
+                "coordinate": [
+                    [
+                        1834,
+                        751,
+                        2055,
+                        783
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "115,510.50",
+                "coordinate": [
+                    [
+                        448,
+                        867,
+                        666,
+                        902
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "tenore_details": {
+                "value": "120 DAYS FROM THE DATE OF DELIVERY",
+                "coordinate": [
+                    [
+                        264,
+                        983,
+                        1101,
+                        1032
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "amount_in_words": {
+                "value": "FIVE HUNDRED TEN & FILLS 50/100 ORILY,~ONE HUNDRED FIFTEEN THOUSAND",
+                "coordinate": [
+                    [
+                        269,
+                        1169,
+                        1101,
+                        1225
+                    ],
+                    [
+                        1465,
+                        1109,
+                        2134,
+                        1151
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": [
+                    0
+                ]
+            },
+            "lc_ref_no": {
+                "value": "TF1921870002",
+                "coordinate": [
+                    [
+                        1077,
+                        1429,
+                        1391,
+                        1464
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "06/08/2002",
+                "coordinate": [
+                    [
+                        1540,
+                        1429,
+                        1775,
+                        1471
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_address": {
+                "value": "HAMD BIN",
+                "coordinate": [
+                    [
+                        418,
+                        2514,
+                        670,
+                        2549
+                    ]
+                ],
+                "model_confidence": [
+                    0.65
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        569.42,
+                        1775.94,
+                        1519.83,
+                        2157.61
+                    ]
+                ],
+                "model_confidence": [
+                    0.83
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {},
+            "drawee_name": {},
+            "drawee_address": {},
+            "drawee_country": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "country_of_origin": {},
+            "invoice_no": {},
+            "invoice_date": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "signature": {},
+            "drawer_bank_name": {},
+            "drawee_bank_name": {},
+            "issue_place": {},
+            "stamp": {},
+            "declaration_by": {},
+            "drawee_bank_country": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "total_original_number": {},
+            "goods_description": {},
+            "tenor_details": {},
+            "issuing_bank": {},
+            "issuing_bank_address": {},
+            "issuing_bank_country": {},
+            "stamp_endorsed": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        569.42,
+                        1775.94,
+                        1519.83,
+                        2157.61
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.826
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

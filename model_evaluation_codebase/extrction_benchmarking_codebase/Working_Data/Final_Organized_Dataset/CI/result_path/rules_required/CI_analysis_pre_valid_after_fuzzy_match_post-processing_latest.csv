@@ -1,0 +1,77 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210824112119_1.00_page_13.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[831, 2142, 1017, 2163]","[824, 2135, 1020, 2172]"
+1,Trade Finance_20210824112119_1.00_page_13.png,beneficiary_bank_name,,,0,0,[],
+2,Trade Finance_20210824112119_1.00_page_13.png,date_of_invoice,06.07.2021,06/07/2021,80,1,"[1866, 719, 1998, 741]","[1863, 713, 2005, 746]"
+3,Trade Finance_20210824112119_1.00_page_13.png,total_quantity_of_goods,,,0,0,[],
+4,Trade Finance_20210824112119_1.00_page_13.png,invoice_currency,AED,AED,100,1,"[1242, 1833, 1312, 1861]","[1243, 1831, 1314, 1861]"
+5,Trade Finance_20210824112119_1.00_page_13.png,goods_description,Supply of Access Doors,SUPPLY OF ACCESS DOORS,100,1,"[368, 948, 663, 976]","[365, 940, 667, 976]"
+6,Trade Finance_20210824112119_1.00_page_13.png,incoterm,DDP,DDP,100,1,"[368, 1092, 1455, 1120]","[359, 1087, 1461, 1123]"
+7,Trade Finance_20210824112119_1.00_page_13.png,remitter_drawee_applicant_importer_buyer_name,Al Masraf - ISLAMIC,AL MASRAF - ISLAMIC,100,1,"[368, 677, 643, 702]","[367, 674, 648, 706]"
+8,Trade Finance_20210824112119_1.00_page_13.png,beneficiary_drawer_exporter_seller_supplier_name,INDUSTRY SEAGULL HVAC LLC,SEAGULL HVAC INDUSTRY LLC,64,0,"[576, 446, 1782, 519]","[566, 440, 1790, 528]"
+9,Trade Finance_20210824112119_1.00_page_13.png,invoice_due_date,,,0,0,[],
+10,Trade Finance_20210824112119_1.00_page_13.png,lc_date,06.08.2010,06/08/2019,70,0,"[1114, 2142, 1250, 2166]","[1117, 2139, 1256, 2168]"
+11,Trade Finance_20210824112119_1.00_page_13.png,is_stamp,,FALSE,0,0,[],
+12,Trade Finance_20210824112119_1.00_page_13.png,consignee_address,,,0,0,[],
+13,Trade Finance_20210824112119_1.00_page_13.png,beneficiary_iban_number,,,0,0,[],
+14,Trade Finance_20210824112119_1.00_page_13.png,invoice_amount,"115,510.50","115,510.50",100,1,"[1866, 1836, 2000, 1864]","[1867, 1837, 2003, 1865]"
+15,Trade Finance_20210824112119_1.00_page_13.png,beneficiary_country,,,0,0,[],
+16,Trade Finance_20210824112119_1.00_page_13.png,remitter_country,,,0,0,[],
+17,Trade Finance_20210824112119_1.00_page_13.png,consignor_name,,,0,0,[],
+18,Trade Finance_20210824112119_1.00_page_13.png,country_of_final_destination,,,0,0,[],
+19,Trade Finance_20210824112119_1.00_page_14.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[829, 2143, 1017, 2164]","[828, 2142, 1024, 2170]"
+20,Trade Finance_20210824112119_1.00_page_14.png,beneficiary_bank_name,,,0,0,[],
+21,Trade Finance_20210824112119_1.00_page_14.png,date_of_invoice,06.07.2021,06/07/2021,80,1,"[1869, 721, 2003, 742]","[1868, 720, 2005, 747]"
+22,Trade Finance_20210824112119_1.00_page_14.png,total_quantity_of_goods,,,0,0,[],
+23,Trade Finance_20210824112119_1.00_page_14.png,invoice_currency,AED,,0,0,[],"[1242, 1835, 1313, 1865]"
+24,Trade Finance_20210824112119_1.00_page_14.png,goods_description,Supply of Access Doors,SUPPLY OF ACCESS DOORS,100,1,"[363, 946, 658, 975]","[365, 942, 667, 978]"
+25,Trade Finance_20210824112119_1.00_page_14.png,incoterm,DDP,DDP,100,1,"[363, 1094, 1455, 1119]","[359, 1093, 1452, 1122]"
+26,Trade Finance_20210824112119_1.00_page_14.png,remitter_drawee_applicant_importer_buyer_name,Al Masraf ISLAMIC ,AL MASRAF - ISLAMIC,92,1,"[363, 682, 641, 704]","[364, 681, 645, 706]"
+27,Trade Finance_20210824112119_1.00_page_14.png,beneficiary_drawer_exporter_seller_supplier_name,INDUSTRY SEAGULL HVAC LLC,SEAGULL HVRC INDUSTRY LLC,60,0,"[569, 447, 1782, 524]","[566, 441, 1790, 530]"
+28,Trade Finance_20210824112119_1.00_page_14.png,invoice_due_date,,,0,0,[],
+29,Trade Finance_20210824112119_1.00_page_14.png,lc_date,0608.2019,0608.2019,100,1,"[1116, 2143, 1252, 2164]","[1117, 2144, 1256, 2170]"
+30,Trade Finance_20210824112119_1.00_page_14.png,is_stamp,,FALSE,0,0,[],
+31,Trade Finance_20210824112119_1.00_page_14.png,consignee_address,,,0,0,[],
+32,Trade Finance_20210824112119_1.00_page_14.png,beneficiary_iban_number,,,0,0,[],
+33,Trade Finance_20210824112119_1.00_page_14.png,invoice_amount,"115,510.50",,0,0,[],"[1871, 1836, 2007, 1864]"
+34,Trade Finance_20210824112119_1.00_page_14.png,beneficiary_country,,,0,0,[],
+35,Trade Finance_20210824112119_1.00_page_14.png,remitter_country,,,0,0,[],
+36,Trade Finance_20210824112119_1.00_page_14.png,consignor_name,,,0,0,[],
+37,Trade Finance_20210824112119_1.00_page_14.png,country_of_final_destination,,,0,0,[],
+38,Trade Finance_20210824112119_1.00_page_15.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[824, 2144, 1010, 2165]","[824, 2143, 1016, 2171]"
+39,Trade Finance_20210824112119_1.00_page_15.png,beneficiary_bank_name,,,0,0,[],
+40,Trade Finance_20210824112119_1.00_page_15.png,date_of_invoice,06.07.2021,06/07/2021,80,1,"[1861, 720, 1995, 745]","[1861, 723, 2003, 749]"
+41,Trade Finance_20210824112119_1.00_page_15.png,total_quantity_of_goods,,,0,0,[],
+42,Trade Finance_20210824112119_1.00_page_15.png,invoice_currency,AED,AED,100,1,"[1238, 1838, 1307, 1866]","[1239, 1836, 1310, 1866]"
+43,Trade Finance_20210824112119_1.00_page_15.png,goods_description,Supply of Access Doors,SUPPLY OF ACCESS DOORS,100,1,"[363, 949, 658, 977]","[365, 949, 667, 978]"
+44,Trade Finance_20210824112119_1.00_page_15.png,incoterm,DDP,DDP,100,1,"[363, 1093, 1450, 1121]","[359, 1095, 1461, 1124]"
+45,Trade Finance_20210824112119_1.00_page_15.png,remitter_drawee_applicant_importer_buyer_name,Al Masraf - ISLAMIC,AL MASRAF - ISLAMIC,100,1,"[363, 678, 641, 703]","[363, 676, 644, 709]"
+46,Trade Finance_20210824112119_1.00_page_15.png,beneficiary_drawer_exporter_seller_supplier_name,SEAGULL HVAC INDUSTRY LLC,SERGULL HVRC INDUSTRY LLC,92,1,"[567, 450, 1780, 523]","[575, 444, 1799, 533]"
+47,Trade Finance_20210824112119_1.00_page_15.png,invoice_due_date,,,0,0,[],
+48,Trade Finance_20210824112119_1.00_page_15.png,lc_date,06.08 2019,06/08/2019,80,1,"[1109, 2144, 1245, 2176]","[1108, 2141, 1247, 2171]"
+49,Trade Finance_20210824112119_1.00_page_15.png,is_stamp,,FALSE,0,0,[],
+50,Trade Finance_20210824112119_1.00_page_15.png,consignee_address,,,0,0,[],
+51,Trade Finance_20210824112119_1.00_page_15.png,beneficiary_iban_number,,,0,0,[],
+52,Trade Finance_20210824112119_1.00_page_15.png,invoice_amount,"115,510.50","115,510.50",100,1,"[1861, 1842, 1995, 1870]","[1862, 1841, 1997, 1869]"
+53,Trade Finance_20210824112119_1.00_page_15.png,beneficiary_country,,,0,0,[],
+54,Trade Finance_20210824112119_1.00_page_15.png,remitter_country,,,0,0,[],
+55,Trade Finance_20210824112119_1.00_page_15.png,consignor_name,,,0,0,[],
+56,Trade Finance_20210824112119_1.00_page_15.png,country_of_final_destination,,,0,0,[],
+57,Trade Finance_20210824112119_1.00_page_22.png,lc_ref_no,TF1921870002,TF1921870002,100,1,"[829, 2141, 1015, 2165]","[829, 2136, 1025, 2174]"
+58,Trade Finance_20210824112119_1.00_page_22.png,beneficiary_bank_name,,,0,0,[],
+59,Trade Finance_20210824112119_1.00_page_22.png,date_of_invoice,06.07.2021,06/07/2021,80,1,"[1871, 720, 2003, 745]","[1868, 722, 2010, 747]"
+60,Trade Finance_20210824112119_1.00_page_22.png,total_quantity_of_goods,,,0,0,[],
+61,Trade Finance_20210824112119_1.00_page_22.png,invoice_currency,AED,AED,100,1,"[1240, 1835, 1312, 1859]","[1243, 1833, 1314, 1863]"
+62,Trade Finance_20210824112119_1.00_page_22.png,goods_description,Supply of Access Doors,SUPPLY OF ACCESS DOORS,100,1,"[361, 952, 661, 980]","[359, 952, 661, 981]"
+63,Trade Finance_20210824112119_1.00_page_22.png,incoterm,DDP,DDP,100,1,"[361, 1096, 1455, 1121]","[359, 1095, 1461, 1124]"
+64,Trade Finance_20210824112119_1.00_page_22.png,remitter_drawee_applicant_importer_buyer_name,Al Masraf ISLAMIC ,AL MASRAF - ISLAMIC,92,1,"[361, 682, 643, 706]","[363, 676, 643, 709]"
+65,Trade Finance_20210824112119_1.00_page_22.png,beneficiary_drawer_exporter_seller_supplier_name,SEAGULL HVRC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,96,1,"[574, 450, 1787, 527]","[569, 441, 1793, 529]"
+66,Trade Finance_20210824112119_1.00_page_22.png,invoice_due_date,,,0,0,[],
+67,Trade Finance_20210824112119_1.00_page_22.png,lc_date,06.08.2019,06/08/2019,80,1,"[1111, 2144, 1247, 2176]","[1112, 2138, 1251, 2167]"
+68,Trade Finance_20210824112119_1.00_page_22.png,is_stamp,,FALSE,0,0,[],
+69,Trade Finance_20210824112119_1.00_page_22.png,consignee_address,,,0,0,[],
+70,Trade Finance_20210824112119_1.00_page_22.png,beneficiary_iban_number,,,0,0,[],
+71,Trade Finance_20210824112119_1.00_page_22.png,invoice_amount,"115,510.50","115,510.50",100,1,"[1869, 1838, 2005, 1863]","[1871, 1837, 2011, 1866]"
+72,Trade Finance_20210824112119_1.00_page_22.png,beneficiary_country,,,0,0,[],
+73,Trade Finance_20210824112119_1.00_page_22.png,remitter_country,,,0,0,[],
+74,Trade Finance_20210824112119_1.00_page_22.png,consignor_name,,,0,0,[],
+75,Trade Finance_20210824112119_1.00_page_22.png,country_of_final_destination,,,0,0,[],

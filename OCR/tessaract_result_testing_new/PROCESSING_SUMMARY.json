@@ -1,0 +1,189 @@
+{
+  "total": 20,
+  "processed": 20,
+  "failed": 0,
+  "images": [
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/01_Trade Finance_20210406164948_1.00_page_4.jpeg",
+      "status": "success",
+      "words_detected": 167,
+      "processing_time": "0:00:02.915515",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/01_Trade Finance_20210406164948_1.00_page_4_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/01_Trade Finance_20210406164948_1.00_page_4_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/01_Trade Finance_20210406164948_1.00_page_4_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/02_Trade Finance_20210520090408_1.00_page_8.jpeg",
+      "status": "success",
+      "words_detected": 118,
+      "processing_time": "0:00:02.401707",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/02_Trade Finance_20210520090408_1.00_page_8_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/02_Trade Finance_20210520090408_1.00_page_8_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/02_Trade Finance_20210520090408_1.00_page_8_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/03_Trade Finance_20210208072009_1.00_page_3.jpeg",
+      "status": "success",
+      "words_detected": 289,
+      "processing_time": "0:00:03.907519",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/03_Trade Finance_20210208072009_1.00_page_3_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/03_Trade Finance_20210208072009_1.00_page_3_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/03_Trade Finance_20210208072009_1.00_page_3_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/04_Trade Finance_20210316075105_1.00_page_5.jpeg",
+      "status": "success",
+      "words_detected": 168,
+      "processing_time": "0:00:02.564634",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/04_Trade Finance_20210316075105_1.00_page_5_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/04_Trade Finance_20210316075105_1.00_page_5_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/04_Trade Finance_20210316075105_1.00_page_5_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/05_Trade Finance_20210628172355_1.00_page_46.jpeg",
+      "status": "success",
+      "words_detected": 493,
+      "processing_time": "0:00:05.945763",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/05_Trade Finance_20210628172355_1.00_page_46_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/05_Trade Finance_20210628172355_1.00_page_46_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/05_Trade Finance_20210628172355_1.00_page_46_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/06_Trade Finance_20210318074714_1.00_page_32.jpeg",
+      "status": "success",
+      "words_detected": 63,
+      "processing_time": "0:00:01.790343",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/06_Trade Finance_20210318074714_1.00_page_32_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/06_Trade Finance_20210318074714_1.00_page_32_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/06_Trade Finance_20210318074714_1.00_page_32_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/07_Trade Finance_20210628171753_1.00_page_34.jpeg",
+      "status": "success",
+      "words_detected": 610,
+      "processing_time": "0:00:06.353019",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/07_Trade Finance_20210628171753_1.00_page_34_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/07_Trade Finance_20210628171753_1.00_page_34_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/07_Trade Finance_20210628171753_1.00_page_34_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/08_Trade Finance_20210628172355_1.00_page_43.jpeg",
+      "status": "success",
+      "words_detected": 479,
+      "processing_time": "0:00:05.611571",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/08_Trade Finance_20210628172355_1.00_page_43_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/08_Trade Finance_20210628172355_1.00_page_43_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/08_Trade Finance_20210628172355_1.00_page_43_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/09_Trade Finance_20201217180436_1.00_page_17.jpeg",
+      "status": "success",
+      "words_detected": 349,
+      "processing_time": "0:00:07.583251",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/09_Trade Finance_20201217180436_1.00_page_17_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/09_Trade Finance_20201217180436_1.00_page_17_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/09_Trade Finance_20201217180436_1.00_page_17_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/10_Trade Finance_20210501102758_1.00_page_12.jpeg",
+      "status": "success",
+      "words_detected": 184,
+      "processing_time": "0:00:03.285863",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/10_Trade Finance_20210501102758_1.00_page_12_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/10_Trade Finance_20210501102758_1.00_page_12_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/10_Trade Finance_20210501102758_1.00_page_12_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/11_Trade Finance_20210602072658_1.00_page_6.jpeg",
+      "status": "success",
+      "words_detected": 253,
+      "processing_time": "0:00:04.195056",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/11_Trade Finance_20210602072658_1.00_page_6_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/11_Trade Finance_20210602072658_1.00_page_6_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/11_Trade Finance_20210602072658_1.00_page_6_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/12_Trade Finance_20210412194953_1.00_page_11.jpeg",
+      "status": "success",
+      "words_detected": 178,
+      "processing_time": "0:00:03.145840",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/12_Trade Finance_20210412194953_1.00_page_11_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/12_Trade Finance_20210412194953_1.00_page_11_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/12_Trade Finance_20210412194953_1.00_page_11_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/13_Trade Finance_20210608083123_1.00_page_39.jpeg",
+      "status": "success",
+      "words_detected": 619,
+      "processing_time": "0:00:05.784097",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/13_Trade Finance_20210608083123_1.00_page_39_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/13_Trade Finance_20210608083123_1.00_page_39_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/13_Trade Finance_20210608083123_1.00_page_39_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/14_Trade Finance_20210822180605_1.00_page_35.jpeg",
+      "status": "success",
+      "words_detected": 469,
+      "processing_time": "0:00:04.869145",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/14_Trade Finance_20210822180605_1.00_page_35_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/14_Trade Finance_20210822180605_1.00_page_35_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/14_Trade Finance_20210822180605_1.00_page_35_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/15_Trade Finance_20210410121612_1.00_page_26.jpeg",
+      "status": "success",
+      "words_detected": 566,
+      "processing_time": "0:00:05.274411",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/15_Trade Finance_20210410121612_1.00_page_26_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/15_Trade Finance_20210410121612_1.00_page_26_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/15_Trade Finance_20210410121612_1.00_page_26_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/16_Trade Finance_20210410121612_1.00_page_28.jpeg",
+      "status": "success",
+      "words_detected": 546,
+      "processing_time": "0:00:05.238447",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/16_Trade Finance_20210410121612_1.00_page_28_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/16_Trade Finance_20210410121612_1.00_page_28_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/16_Trade Finance_20210410121612_1.00_page_28_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/17_Trade Finance_20210410122700_1.00_page_18.jpeg",
+      "status": "success",
+      "words_detected": 762,
+      "processing_time": "0:00:06.230004",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/17_Trade Finance_20210410122700_1.00_page_18_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/17_Trade Finance_20210410122700_1.00_page_18_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/17_Trade Finance_20210410122700_1.00_page_18_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/18_Trade Finance_20210216165325_1.00_page_46.jpeg",
+      "status": "success",
+      "words_detected": 394,
+      "processing_time": "0:00:05.008926",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/18_Trade Finance_20210216165325_1.00_page_46_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/18_Trade Finance_20210216165325_1.00_page_46_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/18_Trade Finance_20210216165325_1.00_page_46_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/19_Trade Finance_20210216165325_1.00_page_69.jpeg",
+      "status": "success",
+      "words_detected": 373,
+      "processing_time": "0:00:04.590174",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/19_Trade Finance_20210216165325_1.00_page_69_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/19_Trade Finance_20210216165325_1.00_page_69_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/19_Trade Finance_20210216165325_1.00_page_69_bounding_boxes.png"
+    },
+    {
+      "image_path": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images_new/20_Trade Finance_20210318074714_1.00_page_21.jpeg",
+      "status": "success",
+      "words_detected": 274,
+      "processing_time": "0:00:03.953937",
+      "json_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/20_Trade Finance_20210318074714_1.00_page_21_textAndCoordinates.json",
+      "txt_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/20_Trade Finance_20210318074714_1.00_page_21_textAndCoordinates.txt",
+      "viz_output": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/tessaract_result_testing_new/20_Trade Finance_20210318074714_1.00_page_21_bounding_boxes.png"
+    }
+  ],
+  "start_time": "2026-04-15T07:04:29.498460",
+  "end_time": "2026-04-15T07:06:56.915796"
+}

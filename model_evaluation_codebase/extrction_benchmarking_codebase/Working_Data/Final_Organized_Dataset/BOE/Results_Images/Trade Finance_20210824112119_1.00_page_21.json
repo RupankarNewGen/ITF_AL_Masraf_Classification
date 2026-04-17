@@ -1,0 +1,277 @@
+{
+    "Trade Finance_20210824112119_1.00_page_21.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9997108578681946
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawer_name": {
+                "value": "SEAGULL HVAC INDUSTRY LLC",
+                "coordinate": [
+                    [
+                        568,
+                        449,
+                        1772,
+                        523
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_no": {
+                "value": "SZO11",
+                "coordinate": [
+                    [
+                        341,
+                        811,
+                        499,
+                        856
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "06/07/2021",
+                "coordinate": [
+                    [
+                        1821,
+                        807,
+                        2041,
+                        842
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {
+                "value": "AED",
+                "coordinate": [
+                    [
+                        333,
+                        934,
+                        425,
+                        965
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "115,510.50",
+                "coordinate": [
+                    [
+                        440,
+                        934,
+                        657,
+                        972
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "tenore_details": {
+                "value": "120 DAYS FROM THE DATE OF DELIVERY (I.E FROM 06.07.2021",
+                "coordinate": [
+                    [
+                        262,
+                        1043,
+                        1567,
+                        1095
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "amount_in_words": {
+                "value": "FIVE HUNDRED TEN & FILLS 50/100 ONLY,~ONE HUNDRED FIFTEEN THOUSAND",
+                "coordinate": [
+                    [
+                        266,
+                        1236,
+                        1092,
+                        1281
+                    ],
+                    [
+                        1453,
+                        1169,
+                        2120,
+                        1208
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": [
+                    0
+                ]
+            },
+            "lc_ref_no": {
+                "value": "TF1921870002",
+                "coordinate": [
+                    [
+                        1072,
+                        1492,
+                        1381,
+                        1531
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "06/08/2019",
+                "coordinate": [
+                    [
+                        1530,
+                        1489,
+                        1765,
+                        1531
+                    ]
+                ],
+                "model_confidence": [
+                    1.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "ARAB BANK~TRADE (AL MASRAF",
+                "coordinate": [
+                    [
+                        266,
+                        2511,
+                        474,
+                        2549
+                    ],
+                    [
+                        1072,
+                        2507,
+                        1433,
+                        2556
+                    ]
+                ],
+                "model_confidence": [
+                    0.69
+                ],
+                "ocr_confidence": [
+                    0
+                ]
+            },
+            "drawee_bank_address": {
+                "value": "SHEIKH HAMDAN BIN MOHAMMED STREET",
+                "coordinate": [
+                    [
+                        266,
+                        2637,
+                        1092,
+                        2679
+                    ]
+                ],
+                "model_confidence": [
+                    0.99
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        595.22,
+                        1873.95,
+                        1632.79,
+                        2233.67
+                    ]
+                ],
+                "model_confidence": [
+                    0.83
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {},
+            "drawee_address": {},
+            "drawee_country": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "country_of_origin": {},
+            "invoice_no": {},
+            "invoice_date": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "signature": {},
+            "drawer_bank_name": {},
+            "issue_place": {},
+            "stamp": {},
+            "declaration_by": {},
+            "drawee_bank_country": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "total_original_number": {},
+            "goods_description": {},
+            "tenor_details": {},
+            "issuing_bank": {},
+            "issuing_bank_address": {},
+            "issuing_bank_country": {},
+            "stamp_endorsed": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        595.22,
+                        1873.95,
+                        1632.79,
+                        2233.67
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.833
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

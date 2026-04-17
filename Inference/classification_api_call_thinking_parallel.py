@@ -19,9 +19,9 @@ MAX_WORKERS = 3
 
 # If this list is empty or paths don't exist, it only uses output-folder resume logic
 EXCLUDE_JSONS = [
-    "/datadrive2/IDF_AL_MASRAF/targeted_sibling_expansion.json",
-    "/datadrive2/IDF_AL_MASRAF/remaining_untapped_images.json",
-    "/datadrive2/IDF_AL_MASRAF/final_balanced_sample.json"
+    "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/input_jsons/targeted_sibling_expansion.json",
+    "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/input_jsons/remaining_untapped_images.json",
+    "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/input_jsons/final_balanced_sample.json"
 ]
 
 SYSTEM_PROMPT_CLASSIFY = """You are an expert Trade Finance Document Auditor. Analyze the provided image to classify it into one of 7 categories based on the specific scoring thresholds provided.
@@ -190,7 +190,7 @@ def process_parallel(manifest_path, output_folder, target_dpi, target_size, work
     print("-" * 50)
 
 if __name__ == "__main__":
-    MANIFEST = "/datadrive2/IDF_AL_MASRAF/Import_LC_Drawing_manifest.json" 
+    MANIFEST = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/input_jsons/Import_LC_Drawing_manifest.json" 
     OUTPUT = "/datadrive2/IDF_AL_MASRAF/LC_Drawing_Full_Result" 
     
     process_parallel(MANIFEST, OUTPUT, TARGET_DPI, TARGET_SIZE, MAX_WORKERS, EXCLUDE_JSONS)

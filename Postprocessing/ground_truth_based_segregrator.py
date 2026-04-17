@@ -3,11 +3,19 @@ import pandas as pd
 import shutil
 from tqdm import tqdm
 
-def organize_by_csv(csv_path, source_root, output_root):
-    # 1. Setup output directory
+def organize_by_csv(csv_path, source_root, output_root, exclude_root=None):
     if not os.path.exists(output_root):
         os.makedirs(output_root)
-        print(f"Created output root: {output_root}")
+
+    # 1. Index Exclusions (By filename without extension)
+    exclude_set = set()
+    if exclude_root and os.path.exists(exclude_root):
+        print(f"Indexing excluded images from: {exclude_root}")
+        for root, _, files in os.walk(exclude_root):
+            for f in files:
+                name_no_ext = os.path.splitext(f)[0].strip()
+                exclude_set.add(name_no_ext)
+        print(f"Found {len(exclude_set)} entries in exclusion.")
 
     # 2. Load the CSV
     try:
@@ -17,66 +25,67 @@ def organize_by_csv(csv_path, source_root, output_root):
         print(f"Error reading CSV: {e}")
         return
 
-    # 3. Index the Source Folder (Recursive Search)
-    # We create a map of { 'filename_with_ext': 'full_absolute_path' }
-    print("Indexing source images... (Scanning subfolders)")
+    # 3. Index the Source Folder (Mapping Base Name -> Full Path)
+    print("Indexing source images... (Removing extensions for matching)")
     image_map = {}
-    valid_extensions = {".png", ".jpg", ".jpeg", ".tiff", ".bmp"}
+    valid_exts = {'.jpeg', '.jpg', '.png', '.tiff', '.bmp'}
     
     for root, _, files in os.walk(source_root):
         for f in files:
-            if os.path.splitext(f)[1].lower() in valid_extensions:
-                # We map the exact filename from disk to its full path
-                image_map[f] = os.path.join(root, f)
-
+            ext = os.path.splitext(f)[1].lower()
+            if ext in valid_exts:
+                # 'Trade Finance_..._page_1.jpeg' -> 'Trade Finance_..._page_1'
+                name_no_ext = os.path.splitext(f)[0].strip()
+                image_map[name_no_ext] = os.path.join(root, f)
+            
     print(f"Indexed {len(image_map)} images on disk.")
 
-    # 4. Process CSV and Copy
+    # 4. Process and Match
     copied_count = 0
     missing_count = 0
+    skipped_excluded = 0
 
-    # Iterate through CSV rows
-    # Headers: Folder Name, images_name, Ground truth, Others
-    for _, row in tqdm(df.iterrows(), total=len(df), desc="Organizing by Ground Truth"):
-        img_filename = str(row['images_name']).strip()
-        ground_truth = str(row['Ground truth']).strip()
+    for _, row in tqdm(df.iterrows(), total=len(df), desc="Organizing"):
+        # exact string from CSV (no extension)
+        csv_id = str(row['image name']).strip()
+        ground_truth = str(row['Ground Truth']).strip()
 
-        # Handle potential empty or nan ground truth
+        # Check exclusion set
+        if csv_id in exclude_set:
+            skipped_excluded += 1
+            continue
+
         if not ground_truth or ground_truth.lower() == 'nan':
-            ground_truth = "unclassified"
+            ground_truth = "Other"
+        
+        dest_folder = os.path.join(output_root, ground_truth)
+        os.makedirs(dest_folder, exist_ok=True)
 
-        # Create the Ground Truth subfolder
-        dest_class_folder = os.path.join(output_root, ground_truth)
-        os.makedirs(dest_class_folder, exist_ok=True)
-
-        # Check if the image exists in our indexed map
-        if img_filename in image_map:
-            src_path = image_map[img_filename]
-            dest_path = os.path.join(dest_class_folder, img_filename)
+        # SIMPLE MATCHING: Direct key lookup in the image_map
+        if csv_id in image_map:
+            src_path = image_map[csv_id]
+            dest_path = os.path.join(dest_folder, os.path.basename(src_path))
             
             try:
                 shutil.copy2(src_path, dest_path)
                 copied_count += 1
             except Exception as e:
-                print(f"Failed to copy {img_filename}: {e}")
+                print(f"Failed to copy {csv_id}: {e}")
         else:
             missing_count += 1
 
     print("\n" + "="*40)
     print(f"ORGANIZATION SUMMARY")
-    print(f"Images Successfully Organized: {copied_count}")
-    print(f"Images Not Found on Disk:     {missing_count}")
-    print(f"Results stored in: {output_root}")
+    print(f"Successfully Organized: {copied_count}")
+    print(f"Skipped (Excluded):    {skipped_excluded}")
+    print(f"Not Found:             {missing_count}")
     print("="*40)
 
 if __name__ == "__main__":
     # --- CONFIGURATION ---
-    CSV_FILE = "/datadrive2/IDF_AL_MASRAF/test_images/set2_first_500_images_ground_truth.csv"
-    
-    # The folder containing the many subfolders (TF19215..., TF20007..., etc.)
-    SOURCE_DIR = "/datadrive2/IDF_AL_MASRAF/500_images_from_second_set_sample"
-    
-    # Where you want the Ground Truth folders created
-    OUTPUT_DIR = "/datadrive2/IDF_AL_MASRAF/Al_MASRAF_seocond_set_first_500_categorized_data"
+    CSV_FILE = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Prediction_CSV/second_set_1000_images_results(in).csv"
+    SOURCE_DIR = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Raw_input_Data/500_remaining_images_from_second_set_sample"
+    OUTPUT_DIR = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Raw_ouput_data/Al_Masraf_second_set_remaining_500_categorized_data"
+    EXCLUDE_DIR = "/datadrive2/IDF_AL_MASRAF/Al_MASRAF_seocond_set_first_500_categorized_data"
 
-    organize_by_csv(CSV_FILE, SOURCE_DIR, OUTPUT_DIR)
+    organize_by_csv(CSV_FILE, SOURCE_DIR, OUTPUT_DIR, exclude_root=EXCLUDE_DIR)

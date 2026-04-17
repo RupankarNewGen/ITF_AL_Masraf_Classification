@@ -1,0 +1,95 @@
+{
+    "Trade Finance_20210427073859_1.00_page_11.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "4",
+                    "left": 166,
+                    "top": 245,
+                    "width": 12,
+                    "height": 13,
+                    "x1": 166,
+                    "y1": 245,
+                    "x2": 178,
+                    "y2": 258,
+                    "Confidence": 99
+                },
+                {
+                    "word": "%",
+                    "left": 2137,
+                    "top": 593,
+                    "width": 34,
+                    "height": 25,
+                    "x1": 2137,
+                    "y1": 593,
+                    "x2": 2171,
+                    "y2": 618,
+                    "Confidence": 99
+                },
+                {
+                    "word": "*-1",
+                    "left": 2064,
+                    "top": 658,
+                    "width": 50,
+                    "height": 39,
+                    "x1": 2064,
+                    "y1": 658,
+                    "x2": 2114,
+                    "y2": 697,
+                    "Confidence": 99
+                },
+                {
+                    "word": "and",
+                    "left": 1975,
+                    "top": 695,
+                    "width": 49,
+                    "height": 37,
+                    "x1": 1975,
+                    "y1": 695,
+                    "x2": 2024,
+                    "y2": 732,
+                    "Confidence": 99
+                },
+                {
+                    "word": "7",
+                    "left": 2171,
+                    "top": 1330,
+                    "width": 10,
+                    "height": 20,
+                    "x1": 2171,
+                    "y1": 1330,
+                    "x2": 2181,
+                    "y2": 1350,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "counterclockwise"
+        }
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "Trade Finance_20210414192855_1.00_page_9.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "Ayad",
+                    "left": 939,
+                    "top": 1563,
+                    "width": 121,
+                    "height": 48,
+                    "x1": 939,
+                    "y1": 1563,
+                    "x2": 1060,
+                    "y2": 1611,
+                    "Confidence": 99
+                },
+                {
+                    "word": "S.",
+                    "left": 1080,
+                    "top": 1564,
+                    "width": 42,
+                    "height": 36,
+                    "x1": 1080,
+                    "y1": 1564,
+                    "x2": 1122,
+                    "y2": 1600,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Algosaibi",
+                    "left": 1142,
+                    "top": 1563,
+                    "width": 220,
+                    "height": 48,
+                    "x1": 1142,
+                    "y1": 1563,
+                    "x2": 1362,
+                    "y2": 1611,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SiAbute4",
+                    "left": 1498,
+                    "top": 2115,
+                    "width": 185,
+                    "height": 39,
+                    "x1": 1498,
+                    "y1": 2115,
+                    "x2": 1683,
+                    "y2": 2154,
+                    "Confidence": 99
+                },
+                {
+                    "word": "%onar.",
+                    "left": 376,
+                    "top": 2248,
+                    "width": 419,
+                    "height": 79,
+                    "x1": 376,
+                    "y1": 2248,
+                    "x2": 795,
+                    "y2": 2327,
+                    "Confidence": 99
+                },
+                {
+                    "word": "[*",
+                    "left": 1319,
+                    "top": 2248,
+                    "width": 54,
+                    "height": 79,
+                    "x1": 1319,
+                    "y1": 2248,
+                    "x2": 1373,
+                    "y2": 2327,
+                    "Confidence": 99
+                },
+                {
+                    "word": "rrin",
+                    "left": 1416,
+                    "top": 2245,
+                    "width": 267,
+                    "height": 82,
+                    "x1": 1416,
+                    "y1": 2245,
+                    "x2": 1683,
+                    "y2": 2327,
+                    "Confidence": 99
+                },
+                {
+                    "word": "f",
+                    "left": 429,
+                    "top": 2263,
+                    "width": 666,
+                    "height": 230,
+                    "x1": 429,
+                    "y1": 2263,
+                    "x2": 1095,
+                    "y2": 2493,
+                    "Confidence": 99
+                },
+                {
+                    "word": "6",
+                    "left": 1319,
+                    "top": 2263,
+                    "width": 364,
+                    "height": 226,
+                    "x1": 1319,
+                    "y1": 2263,
+                    "x2": 1683,
+                    "y2": 2489,
+                    "Confidence": 99
+                },
+                {
+                    "word": "3",
+                    "left": 429,
+                    "top": 2436,
+                    "width": 423,
+                    "height": 92,
+                    "x1": 429,
+                    "y1": 2436,
+                    "x2": 852,
+                    "y2": 2528,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ean",
+                    "left": 1366,
+                    "top": 2436,
+                    "width": 317,
+                    "height": 85,
+                    "x1": 1366,
+                    "y1": 2436,
+                    "x2": 1683,
+                    "y2": 2521,
+                    "Confidence": 99
+                },
+                {
+                    "word": "norations",
+                    "left": 361,
+                    "top": 2498,
+                    "width": 359,
+                    "height": 89,
+                    "x1": 361,
+                    "y1": 2498,
+                    "x2": 720,
+                    "y2": 2587,
+                    "Confidence": 99
+                },
+                {
+                    "word": "center",
+                    "left": 719,
+                    "top": 2498,
+                    "width": 130,
+                    "height": 89,
+                    "x1": 719,
+                    "y1": 2498,
+                    "x2": 849,
+                    "y2": 2587,
+                    "Confidence": 99
+                },
+                {
+                    "word": "==",
+                    "left": 1450,
+                    "top": 2505,
+                    "width": 189,
+                    "height": 68,
+                    "x1": 1450,
+                    "y1": 2505,
+                    "x2": 1639,
+                    "y2": 2573,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TwoPiterRegion",
+                    "left": 448,
+                    "top": 2551,
+                    "width": 392,
+                    "height": 89,
+                    "x1": 448,
+                    "y1": 2551,
+                    "x2": 840,
+                    "y2": 2640,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Haytham",
+                    "left": 1695,
+                    "top": 1548,
+                    "width": 232,
+                    "height": 65,
+                    "x1": 1695,
+                    "y1": 1548,
+                    "x2": 1927,
+                    "y2": 1613,
+                    "Confidence": 99
+                },
+                {
+                    "word": "M.",
+                    "left": 1938,
+                    "top": 1567,
+                    "width": 55,
+                    "height": 36,
+                    "x1": 1938,
+                    "y1": 1567,
+                    "x2": 1993,
+                    "y2": 1603,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Algosaibi",
+                    "left": 2014,
+                    "top": 1566,
+                    "width": 220,
+                    "height": 47,
+                    "x1": 2014,
+                    "y1": 1566,
+                    "x2": 2234,
+                    "y2": 1613,
+                    "Confidence": 99
+                },
+                {
+                    "word": "a",
+                    "left": 1683,
+                    "top": 2105,
+                    "width": 96,
+                    "height": 138,
+                    "x1": 1683,
+                    "y1": 2105,
+                    "x2": 1779,
+                    "y2": 2243,
+                    "Confidence": 99
+                },
+                {
+                    "word": "1",
+                    "left": 1683,
+                    "top": 2289,
+                    "width": 7,
+                    "height": 35,
+                    "x1": 1683,
+                    "y1": 2289,
+                    "x2": 1690,
+                    "y2": 2324,
+                    "Confidence": 99
+                },
+                {
+                    "word": "*",
+                    "left": 1732,
+                    "top": 2302,
+                    "width": 27,
+                    "height": 22,
+                    "x1": 1732,
+                    "y1": 2302,
+                    "x2": 1759,
+                    "y2": 2324,
+                    "Confidence": 99
+                },
+                {
+                    "word": ".",
+                    "left": 1770,
+                    "top": 2282,
+                    "width": 16,
+                    "height": 59,
+                    "x1": 1770,
+                    "y1": 2282,
+                    "x2": 1786,
+                    "y2": 2341,
+                    "Confidence": 99
+                },
+                {
+                    "word": "9",
+                    "left": 1683,
+                    "top": 2381,
+                    "width": 24,
+                    "height": 28,
+                    "x1": 1683,
+                    "y1": 2381,
+                    "x2": 1707,
+                    "y2": 2409,
+                    "Confidence": 99
+                },
+                {
+                    "word": "All",
+                    "left": 1712,
+                    "top": 2363,
+                    "width": 63,
+                    "height": 52,
+                    "x1": 1712,
+                    "y1": 2363,
+                    "x2": 1775,
+                    "y2": 2415,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "numeric_fields": [
+    "invoice_tax_ccy",
+    "total_quantity_of_goods",
+    "invoice_discount_ccy",
+    "rate_per_unit",
+    "gross_weight",
+    "net_weight",
+    "beneficiary_account_number",
+    "beneficiary_iban_number",
+    "additional_charges",
+    "freight_charges",
+    "insurance_charges"
+  ],
+  "address_fields": [
+    "remitter_address",
+    "consignee_address",
+    "notify_party_address",
+    "beneficiary_address",
+    "consignor_address",
+    "shipper_address"
+  ],
+  "date_fields": [
+    "transaction_date",
+    "date_of_invoice",
+    "indicator_date",
+    "invoice_due_date",
+    "bill_of_lading_date",
+    "awb_date",
+    "lc_date"
+  ],
+  "single_line_fields": [
+    "remitter_drawee_applicant_importer_buyer_name",
+    "cosignee_name",
+    "notify_party_name",
+    "beneficiary_drawer_exporter_seller_supplier_name",
+    "consignor_name",
+    "shipper_name",
+    "beneficiary_bank_name",
+    "vessel_name",
+    "invoice_amount_in_words",
+    "declaration_by_issuer"
+  ],
+  "single_word_fields": [
+    "beneficiary_drawer_exporter_seller_supplier_tin",
+    "beneficiary_bank_identifier",
+    "tenor_type",
+    "usance_tenor",
+    "tenor_indicator",
+    "indicator_type",
+    "incoterm",
+    "port_of_loading",
+    "port_of_discharge",
+    "pre_carriage_by",
+    "original_or_copy",
+    "place_of_receipt"
+  ],
+  "multi_line_fields": [
+    "goods_description",
+    "dimension",
+    "delivery_terms"
+  ],
+  "master_fields": [
+    "transaction_currency",
+    "transaction_amonunt_value",
+    "invoice_currency",
+    "invoice_amount",
+    "invoice_discount_amount",
+    "invoice_tax_amount"
+  ],
+  "critical_fields": [
+    "invoice_no",
+    "hs_code_no",
+    "vessel_flight_no",
+    "bill_of_lading_no",
+    "page_no",
+    "lc_ref_no",
+    "awb_number",
+    "draft_number"
+  ],
+  "remove_fields": [
+    "signature_of_the_issuer",
+    "stamp"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "csh_bill_amount"
+    },
+    {
+      "id": 1,
+      "name": "csh_bill_currency"
+    },
+    {
+      "id": 2,
+      "name": "csh_drawn_under_lc_number"
+    },
+    {
+      "id": 3,
+      "name": "csh_drawn_under_rules"
+    },
+    {
+      "id": 4,
+      "name": "csh_presentation_date"
+    },
+    {
+      "id": 5,
+      "name": "csh_ref_no"
+    },
+    {
+      "id": 6,
+      "name": "doc_charge_instructions"
+    },
+    {
+      "id": 7,
+      "name": "doc_delivery_instruction"
+    },
+    {
+      "id": 8,
+      "name": "drawee_address"
+    },
+    {
+      "id": 9,
+      "name": "drawee_bank_address"
+    },
+    {
+      "id": 10,
+      "name": "drawee_bank_name"
+    },
+    {
+      "id": 11,
+      "name": "drawee_name"
+    },
+    {
+      "id": 12,
+      "name": "drawer_address"
+    },
+    {
+      "id": 13,
+      "name": "drawer_bank_address"
+    },
+    {
+      "id": 14,
+      "name": "drawer_bank_bic"
+    },
+    {
+      "id": 15,
+      "name": "drawer_bank_name"
+    },
+    {
+      "id": 16,
+      "name": "drawer_name"
+    },
+    {
+      "id": 17,
+      "name": "nostro_bank_address"
+    },
+    {
+      "id": 18,
+      "name": "nostro_bank_bic"
+    },
+    {
+      "id": 19,
+      "name": "nostro_bank_name"
+    },
+    {
+      "id": 20,
+      "name": "original"
+    },
+    {
+      "id": 21,
+      "name": "page_no"
+    },
+    {
+      "id": 22,
+      "name": "sign"
+    },
+    {
+      "id": 23,
+      "name": "stamp"
+    },
+    {
+      "id": 24,
+      "name": "tenor_indicator"
+    },
+    {
+      "id": 25,
+      "name": "tenor_indicator_date"
+    },
+    {
+      "id": 26,
+      "name": "tenor_indicator_type"
+    },
+    {
+      "id": 27,
+      "name": "tenor_type"
+    },
+    {
+      "id": 28,
+      "name": "total_page"
+    },
+    {
+      "id": 29,
+      "name": "usance_tenor"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

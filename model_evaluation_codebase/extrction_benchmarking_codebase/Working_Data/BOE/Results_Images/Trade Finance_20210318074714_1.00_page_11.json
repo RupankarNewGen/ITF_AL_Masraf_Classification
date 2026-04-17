@@ -1,0 +1,174 @@
+{
+    "Trade Finance_20210318074714_1.00_page_11.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "boe_amount": {
+                "value": "240",
+                "coordinate": [
+                    [
+                        1272,
+                        674,
+                        1398,
+                        765
+                    ]
+                ],
+                "model_confidence": [
+                    0.753265
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "CTBC BANK CO, LTD.",
+                "coordinate": [
+                    [
+                        937,
+                        758,
+                        1562,
+                        839
+                    ]
+                ],
+                "model_confidence": [
+                    0.99766
+                ],
+                "ocr_confidence": []
+            }
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "f",
+                    "left": 1745,
+                    "top": 116,
+                    "width": 9,
+                    "height": 12,
+                    "x1": 1745,
+                    "y1": 116,
+                    "x2": 1754,
+                    "y2": 128,
+                    "Confidence": 99
+                },
+                {
+                    "word": "J.",
+                    "left": 1888,
+                    "top": 114,
+                    "width": 15,
+                    "height": 13,
+                    "x1": 1888,
+                    "y1": 114,
+                    "x2": 1903,
+                    "y2": 127,
+                    "Confidence": 99
+                },
+                {
+                    "word": "O",
+                    "left": 1072,
+                    "top": 1119,
+                    "width": 12,
+                    "height": 12,
+                    "x1": 1072,
+                    "y1": 1119,
+                    "x2": 1084,
+                    "y2": 1131,
+                    "Confidence": 99
+                },
+                {
+                    "word": "\u2022",
+                    "left": 1094,
+                    "top": 1117,
+                    "width": 14,
+                    "height": 16,
+                    "x1": 1094,
+                    "y1": 1117,
+                    "x2": 1108,
+                    "y2": 1133,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ANY",
+                    "left": 941,
+                    "top": 732,
+                    "width": 57,
+                    "height": 35,
+                    "x1": 941,
+                    "y1": 732,
+                    "x2": 998,
+                    "y2": 767,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 1019,
+                    "top": 724,
+                    "width": 79,
+                    "height": 41,
+                    "x1": 1019,
+                    "y1": 724,
+                    "x2": 1098,
+                    "y2": 765,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Tc",
+                    "left": 1017,
+                    "top": 785,
+                    "width": 69,
+                    "height": 24,
+                    "x1": 1017,
+                    "y1": 785,
+                    "x2": 1086,
+                    "y2": 809,
+                    "Confidence": 99
+                },
+                {
+                    "word": "01",
+                    "left": 945,
+                    "top": 808,
+                    "width": 62,
+                    "height": 31,
+                    "x1": 945,
+                    "y1": 808,
+                    "x2": 1007,
+                    "y2": 839,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BO",
+                    "left": 1021,
+                    "top": 797,
+                    "width": 66,
+                    "height": 40,
+                    "x1": 1021,
+                    "y1": 797,
+                    "x2": 1087,
+                    "y2": 837,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "upside-down"
+        }
+    }
+}

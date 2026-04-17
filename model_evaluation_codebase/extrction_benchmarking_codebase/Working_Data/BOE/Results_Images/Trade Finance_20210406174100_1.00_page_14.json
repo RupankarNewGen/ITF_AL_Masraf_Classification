@@ -1,0 +1,299 @@
+{
+    "Trade Finance_20210406174100_1.00_page_14.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "Pay",
+                    "left": 1536,
+                    "top": 309,
+                    "width": 78,
+                    "height": 40,
+                    "x1": 1536,
+                    "y1": 309,
+                    "x2": 1614,
+                    "y2": 349,
+                    "Confidence": 99
+                },
+                {
+                    "word": "to",
+                    "left": 1629,
+                    "top": 314,
+                    "width": 40,
+                    "height": 31,
+                    "x1": 1629,
+                    "y1": 314,
+                    "x2": 1669,
+                    "y2": 345,
+                    "Confidence": 99
+                },
+                {
+                    "word": "the",
+                    "left": 1685,
+                    "top": 313,
+                    "width": 63,
+                    "height": 33,
+                    "x1": 1685,
+                    "y1": 313,
+                    "x2": 1748,
+                    "y2": 346,
+                    "Confidence": 99
+                },
+                {
+                    "word": "order",
+                    "left": 1764,
+                    "top": 315,
+                    "width": 111,
+                    "height": 33,
+                    "x1": 1764,
+                    "y1": 315,
+                    "x2": 1875,
+                    "y2": 348,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 1888,
+                    "top": 317,
+                    "width": 47,
+                    "height": 32,
+                    "x1": 1888,
+                    "y1": 317,
+                    "x2": 1935,
+                    "y2": 349,
+                    "Confidence": 99
+                },
+                {
+                    "word": "any",
+                    "left": 1944,
+                    "top": 321,
+                    "width": 77,
+                    "height": 34,
+                    "x1": 1944,
+                    "y1": 321,
+                    "x2": 2021,
+                    "y2": 355,
+                    "Confidence": 99
+                },
+                {
+                    "word": "bank,",
+                    "left": 2039,
+                    "top": 318,
+                    "width": 110,
+                    "height": 40,
+                    "x1": 2039,
+                    "y1": 318,
+                    "x2": 2149,
+                    "y2": 358,
+                    "Confidence": 99
+                },
+                {
+                    "word": "banker",
+                    "left": 1536,
+                    "top": 364,
+                    "width": 143,
+                    "height": 40,
+                    "x1": 1536,
+                    "y1": 364,
+                    "x2": 1679,
+                    "y2": 404,
+                    "Confidence": 99
+                },
+                {
+                    "word": "or",
+                    "left": 1694,
+                    "top": 376,
+                    "width": 43,
+                    "height": 25,
+                    "x1": 1694,
+                    "y1": 376,
+                    "x2": 1737,
+                    "y2": 401,
+                    "Confidence": 99
+                },
+                {
+                    "word": "trust",
+                    "left": 1752,
+                    "top": 371,
+                    "width": 99,
+                    "height": 34,
+                    "x1": 1752,
+                    "y1": 371,
+                    "x2": 1851,
+                    "y2": 405,
+                    "Confidence": 99
+                },
+                {
+                    "word": "company,",
+                    "left": 1865,
+                    "top": 378,
+                    "width": 201,
+                    "height": 34,
+                    "x1": 1865,
+                    "y1": 378,
+                    "x2": 2066,
+                    "y2": 412,
+                    "Confidence": 99
+                },
+                {
+                    "word": "all",
+                    "left": 2080,
+                    "top": 373,
+                    "width": 45,
+                    "height": 31,
+                    "x1": 2080,
+                    "y1": 373,
+                    "x2": 2125,
+                    "y2": 404,
+                    "Confidence": 99
+                },
+                {
+                    "word": "prior",
+                    "left": 1534,
+                    "top": 418,
+                    "width": 99,
+                    "height": 42,
+                    "x1": 1534,
+                    "y1": 418,
+                    "x2": 1633,
+                    "y2": 460,
+                    "Confidence": 99
+                },
+                {
+                    "word": "endorsements",
+                    "left": 1647,
+                    "top": 422,
+                    "width": 293,
+                    "height": 40,
+                    "x1": 1647,
+                    "y1": 422,
+                    "x2": 1940,
+                    "y2": 462,
+                    "Confidence": 99
+                },
+                {
+                    "word": "guaranteed",
+                    "left": 1955,
+                    "top": 432,
+                    "width": 233,
+                    "height": 36,
+                    "x1": 1955,
+                    "y1": 432,
+                    "x2": 2188,
+                    "y2": 468,
+                    "Confidence": 99
+                },
+                {
+                    "word": "for",
+                    "left": 1533,
+                    "top": 473,
+                    "width": 65,
+                    "height": 39,
+                    "x1": 1533,
+                    "y1": 473,
+                    "x2": 1598,
+                    "y2": 512,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Mizuho",
+                    "left": 1616,
+                    "top": 477,
+                    "width": 164,
+                    "height": 38,
+                    "x1": 1616,
+                    "y1": 477,
+                    "x2": 1780,
+                    "y2": 515,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bank,",
+                    "left": 1799,
+                    "top": 480,
+                    "width": 126,
+                    "height": 41,
+                    "x1": 1799,
+                    "y1": 480,
+                    "x2": 1925,
+                    "y2": 521,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Ltd.",
+                    "left": 1945,
+                    "top": 483,
+                    "width": 93,
+                    "height": 35,
+                    "x1": 1945,
+                    "y1": 483,
+                    "x2": 2038,
+                    "y2": 518,
+                    "Confidence": 99
+                },
+                {
+                    "word": "\u2018==*=*======-==*-*-----==-=-=====---=-==-===---\u2022*",
+                    "left": 1529,
+                    "top": 630,
+                    "width": 658,
+                    "height": 30,
+                    "x1": 1529,
+                    "y1": 630,
+                    "x2": 2187,
+                    "y2": 660,
+                    "Confidence": 99
+                },
+                {
+                    "word": "AUTHORIZED",
+                    "left": 1607,
+                    "top": 662,
+                    "width": 257,
+                    "height": 38,
+                    "x1": 1607,
+                    "y1": 662,
+                    "x2": 1864,
+                    "y2": 700,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SIGNATURE",
+                    "left": 1877,
+                    "top": 670,
+                    "width": 232,
+                    "height": 35,
+                    "x1": 1877,
+                    "y1": 670,
+                    "x2": 2109,
+                    "y2": 705,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

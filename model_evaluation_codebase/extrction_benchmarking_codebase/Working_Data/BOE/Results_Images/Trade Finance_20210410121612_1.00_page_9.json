@@ -1,0 +1,83 @@
+{
+    "Trade Finance_20210410121612_1.00_page_9.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "A.",
+                    "left": 1045,
+                    "top": 1404,
+                    "width": 48,
+                    "height": 23,
+                    "x1": 1045,
+                    "y1": 1404,
+                    "x2": 1093,
+                    "y2": 1427,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Aramex",
+                    "left": 297,
+                    "top": 3643,
+                    "width": 108,
+                    "height": 28,
+                    "x1": 297,
+                    "y1": 3643,
+                    "x2": 405,
+                    "y2": 3671,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Domestic",
+                    "left": 415,
+                    "top": 3647,
+                    "width": 130,
+                    "height": 24,
+                    "x1": 415,
+                    "y1": 3647,
+                    "x2": 545,
+                    "y2": 3671,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Back",
+                    "left": 556,
+                    "top": 3651,
+                    "width": 68,
+                    "height": 22,
+                    "x1": 556,
+                    "y1": 3651,
+                    "x2": 624,
+                    "y2": 3673,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

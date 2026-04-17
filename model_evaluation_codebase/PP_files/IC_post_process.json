@@ -1,0 +1,85 @@
+{
+  "numeric_fields": [
+    "vessel_or_flight_number"
+  ],
+  "address_fields": [
+    "insurance_issuer_address",
+    "address_of_assured",
+    "claim_payable_by_address",
+    "insurance_issuer_address_bottom",
+    "agent_address",
+    "consignee_address"
+  ],
+  "date_fields": [
+    "issue_date",
+    "expiry_date",
+    "sail_on_or_about_to_date",
+    "lc_date",
+    "start_date",
+    "end_date",
+    "invoice_date",
+    "shipment_date",
+    "shipment_date",
+    "bl_date",
+    "policy_effective_date"
+  ],
+  "single_line_fields": [
+    "insurance_issuer_name",
+    "name_of_assured",
+    "vessel_or_flight_name",
+    "claim payable_by_name",
+    "insurance_issuer_name_bottom",
+    "agent_name",
+    "consignee_name",
+    "claim_payable_in",
+    "declaration_by",
+    "place_of_issue",
+    "signed_by_issuer",
+    "signed_by_underwriter",
+    "signed_by_agent",
+    "signed_by_proxy"
+  ],
+  "single_word_fields": [
+    "page_no",
+    "place_of_expiry",
+    "mode_of_transport",
+    "from_place",
+    "to_place",
+    "original_copy",
+    "original_Number",
+    "original_number",
+    "final_destination",
+    "hscode",
+    "franchise_and_excess",
+    "mark"
+  ],
+  "multi_line_fields": [
+    "subject_matter_insured",
+    "conditions_of_coverage",
+    "goods_description"
+  ],
+  "master_fields": [
+    "premium_amount",
+    "sum_insured_amount",
+    "sum_insured_currency",
+    "premium_currency"
+  ],
+  "critical_fields": [
+    "lc_ref_no",
+    "certificate_no",
+    "policy_no",
+    "invoice_no",
+    "container_no",
+    "bl_no",
+    "open_cover_no",
+    "marks_and_no",
+    "voyage_no"
+  ],
+  "remove_fields": [
+    "signature",
+    "stamp",
+    "certificate_Stamped",
+    "sum_insured_currency", 
+    "sum_insured_amount"
+  ]
+}

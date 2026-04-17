@@ -1,0 +1,591 @@
+{
+    "Trade Finance_20210628172355_1.00_page_8.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawee_name": {
+                "value": "LEOCH BATTERY PTE. LTD",
+                "coordinate": [
+                    [
+                        141,
+                        1102,
+                        559,
+                        1123
+                    ]
+                ],
+                "model_confidence": [
+                    0.999455
+                ],
+                "ocr_confidence": []
+            }
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "This",
+                    "left": 140,
+                    "top": 461,
+                    "width": 53,
+                    "height": 23,
+                    "x1": 140,
+                    "y1": 461,
+                    "x2": 193,
+                    "y2": 484,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bill",
+                    "left": 203,
+                    "top": 462,
+                    "width": 34,
+                    "height": 21,
+                    "x1": 203,
+                    "y1": 462,
+                    "x2": 237,
+                    "y2": 483,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 247,
+                    "top": 462,
+                    "width": 23,
+                    "height": 21,
+                    "x1": 247,
+                    "y1": 462,
+                    "x2": 270,
+                    "y2": 483,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Exchange",
+                    "left": 280,
+                    "top": 462,
+                    "width": 120,
+                    "height": 26,
+                    "x1": 280,
+                    "y1": 462,
+                    "x2": 400,
+                    "y2": 488,
+                    "Confidence": 99
+                },
+                {
+                    "word": "is",
+                    "left": 411,
+                    "top": 462,
+                    "width": 17,
+                    "height": 21,
+                    "x1": 411,
+                    "y1": 462,
+                    "x2": 428,
+                    "y2": 483,
+                    "Confidence": 99
+                },
+                {
+                    "word": "endorsed",
+                    "left": 438,
+                    "top": 462,
+                    "width": 113,
+                    "height": 21,
+                    "x1": 438,
+                    "y1": 462,
+                    "x2": 551,
+                    "y2": 483,
+                    "Confidence": 99
+                },
+                {
+                    "word": "to",
+                    "left": 561,
+                    "top": 463,
+                    "width": 21,
+                    "height": 20,
+                    "x1": 561,
+                    "y1": 463,
+                    "x2": 582,
+                    "y2": 483,
+                    "Confidence": 99
+                },
+                {
+                    "word": "order",
+                    "left": 592,
+                    "top": 462,
+                    "width": 65,
+                    "height": 21,
+                    "x1": 592,
+                    "y1": 462,
+                    "x2": 657,
+                    "y2": 483,
+                    "Confidence": 99
+                },
+                {
+                    "word": "For",
+                    "left": 142,
+                    "top": 563,
+                    "width": 41,
+                    "height": 22,
+                    "x1": 142,
+                    "y1": 563,
+                    "x2": 183,
+                    "y2": 585,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Value",
+                    "left": 191,
+                    "top": 563,
+                    "width": 70,
+                    "height": 22,
+                    "x1": 191,
+                    "y1": 563,
+                    "x2": 261,
+                    "y2": 585,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Received",
+                    "left": 272,
+                    "top": 563,
+                    "width": 112,
+                    "height": 21,
+                    "x1": 272,
+                    "y1": 563,
+                    "x2": 384,
+                    "y2": 584,
+                    "Confidence": 99
+                },
+                {
+                    "word": "By",
+                    "left": 140,
+                    "top": 703,
+                    "width": 31,
+                    "height": 26,
+                    "x1": 140,
+                    "y1": 703,
+                    "x2": 171,
+                    "y2": 729,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Authorised",
+                    "left": 140,
+                    "top": 991,
+                    "width": 130,
+                    "height": 20,
+                    "x1": 140,
+                    "y1": 991,
+                    "x2": 270,
+                    "y2": 1011,
+                    "Confidence": 99
+                },
+                {
+                    "word": "signatory",
+                    "left": 281,
+                    "top": 991,
+                    "width": 111,
+                    "height": 26,
+                    "x1": 281,
+                    "y1": 991,
+                    "x2": 392,
+                    "y2": 1017,
+                    "Confidence": 99
+                },
+                {
+                    "word": "For",
+                    "left": 143,
+                    "top": 1049,
+                    "width": 39,
+                    "height": 20,
+                    "x1": 143,
+                    "y1": 1049,
+                    "x2": 182,
+                    "y2": 1069,
+                    "Confidence": 99
+                },
+                {
+                    "word": "and",
+                    "left": 191,
+                    "top": 1049,
+                    "width": 44,
+                    "height": 20,
+                    "x1": 191,
+                    "y1": 1049,
+                    "x2": 235,
+                    "y2": 1069,
+                    "Confidence": 99
+                },
+                {
+                    "word": "on",
+                    "left": 246,
+                    "top": 1054,
+                    "width": 28,
+                    "height": 15,
+                    "x1": 246,
+                    "y1": 1054,
+                    "x2": 274,
+                    "y2": 1069,
+                    "Confidence": 99
+                },
+                {
+                    "word": "behalf",
+                    "left": 285,
+                    "top": 1049,
+                    "width": 74,
+                    "height": 20,
+                    "x1": 285,
+                    "y1": 1049,
+                    "x2": 359,
+                    "y2": 1069,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 367,
+                    "top": 1049,
+                    "width": 23,
+                    "height": 20,
+                    "x1": 367,
+                    "y1": 1049,
+                    "x2": 390,
+                    "y2": 1069,
+                    "Confidence": 99
+                },
+                {
+                    "word": "LEOCH",
+                    "left": 143,
+                    "top": 1104,
+                    "width": 104,
+                    "height": 21,
+                    "x1": 143,
+                    "y1": 1104,
+                    "x2": 247,
+                    "y2": 1125,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BATTERY",
+                    "left": 265,
+                    "top": 1104,
+                    "width": 141,
+                    "height": 22,
+                    "x1": 265,
+                    "y1": 1104,
+                    "x2": 406,
+                    "y2": 1126,
+                    "Confidence": 99
+                },
+                {
+                    "word": "PTE.",
+                    "left": 423,
+                    "top": 1105,
+                    "width": 66,
+                    "height": 20,
+                    "x1": 423,
+                    "y1": 1105,
+                    "x2": 489,
+                    "y2": 1125,
+                    "Confidence": 99
+                },
+                {
+                    "word": "LTD",
+                    "left": 504,
+                    "top": 1104,
+                    "width": 56,
+                    "height": 22,
+                    "x1": 504,
+                    "y1": 1104,
+                    "x2": 560,
+                    "y2": 1126,
+                    "Confidence": 99
+                },
+                {
+                    "word": "This",
+                    "left": 140,
+                    "top": 2291,
+                    "width": 52,
+                    "height": 20,
+                    "x1": 140,
+                    "y1": 2291,
+                    "x2": 192,
+                    "y2": 2311,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bill",
+                    "left": 203,
+                    "top": 2291,
+                    "width": 34,
+                    "height": 20,
+                    "x1": 203,
+                    "y1": 2291,
+                    "x2": 237,
+                    "y2": 2311,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 248,
+                    "top": 2290,
+                    "width": 23,
+                    "height": 21,
+                    "x1": 248,
+                    "y1": 2290,
+                    "x2": 271,
+                    "y2": 2311,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Exchange",
+                    "left": 280,
+                    "top": 2291,
+                    "width": 120,
+                    "height": 25,
+                    "x1": 280,
+                    "y1": 2291,
+                    "x2": 400,
+                    "y2": 2316,
+                    "Confidence": 99
+                },
+                {
+                    "word": "is",
+                    "left": 411,
+                    "top": 2290,
+                    "width": 17,
+                    "height": 21,
+                    "x1": 411,
+                    "y1": 2290,
+                    "x2": 428,
+                    "y2": 2311,
+                    "Confidence": 99
+                },
+                {
+                    "word": "endorsed",
+                    "left": 438,
+                    "top": 2290,
+                    "width": 113,
+                    "height": 21,
+                    "x1": 438,
+                    "y1": 2290,
+                    "x2": 551,
+                    "y2": 2311,
+                    "Confidence": 99
+                },
+                {
+                    "word": "to",
+                    "left": 562,
+                    "top": 2291,
+                    "width": 21,
+                    "height": 20,
+                    "x1": 562,
+                    "y1": 2291,
+                    "x2": 583,
+                    "y2": 2311,
+                    "Confidence": 99
+                },
+                {
+                    "word": "order",
+                    "left": 593,
+                    "top": 2290,
+                    "width": 65,
+                    "height": 21,
+                    "x1": 593,
+                    "y1": 2290,
+                    "x2": 658,
+                    "y2": 2311,
+                    "Confidence": 99
+                },
+                {
+                    "word": "For",
+                    "left": 144,
+                    "top": 2392,
+                    "width": 39,
+                    "height": 21,
+                    "x1": 144,
+                    "y1": 2392,
+                    "x2": 183,
+                    "y2": 2413,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Value",
+                    "left": 191,
+                    "top": 2391,
+                    "width": 70,
+                    "height": 21,
+                    "x1": 191,
+                    "y1": 2391,
+                    "x2": 261,
+                    "y2": 2412,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Received",
+                    "left": 272,
+                    "top": 2391,
+                    "width": 112,
+                    "height": 21,
+                    "x1": 272,
+                    "y1": 2391,
+                    "x2": 384,
+                    "y2": 2412,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Authorised",
+                    "left": 142,
+                    "top": 2813,
+                    "width": 132,
+                    "height": 20,
+                    "x1": 142,
+                    "y1": 2813,
+                    "x2": 274,
+                    "y2": 2833,
+                    "Confidence": 99
+                },
+                {
+                    "word": "signatory",
+                    "left": 286,
+                    "top": 2812,
+                    "width": 112,
+                    "height": 28,
+                    "x1": 286,
+                    "y1": 2812,
+                    "x2": 398,
+                    "y2": 2840,
+                    "Confidence": 99
+                },
+                {
+                    "word": "For",
+                    "left": 144,
+                    "top": 2872,
+                    "width": 40,
+                    "height": 20,
+                    "x1": 144,
+                    "y1": 2872,
+                    "x2": 184,
+                    "y2": 2892,
+                    "Confidence": 99
+                },
+                {
+                    "word": "and",
+                    "left": 193,
+                    "top": 2872,
+                    "width": 44,
+                    "height": 20,
+                    "x1": 193,
+                    "y1": 2872,
+                    "x2": 237,
+                    "y2": 2892,
+                    "Confidence": 99
+                },
+                {
+                    "word": "on",
+                    "left": 248,
+                    "top": 2877,
+                    "width": 28,
+                    "height": 15,
+                    "x1": 248,
+                    "y1": 2877,
+                    "x2": 276,
+                    "y2": 2892,
+                    "Confidence": 99
+                },
+                {
+                    "word": "behalf",
+                    "left": 288,
+                    "top": 2871,
+                    "width": 74,
+                    "height": 21,
+                    "x1": 288,
+                    "y1": 2871,
+                    "x2": 362,
+                    "y2": 2892,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 371,
+                    "top": 2871,
+                    "width": 22,
+                    "height": 21,
+                    "x1": 371,
+                    "y1": 2871,
+                    "x2": 393,
+                    "y2": 2892,
+                    "Confidence": 99
+                },
+                {
+                    "word": "LEOCH",
+                    "left": 146,
+                    "top": 2927,
+                    "width": 104,
+                    "height": 20,
+                    "x1": 146,
+                    "y1": 2927,
+                    "x2": 250,
+                    "y2": 2947,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BATTERY",
+                    "left": 268,
+                    "top": 2926,
+                    "width": 144,
+                    "height": 22,
+                    "x1": 268,
+                    "y1": 2926,
+                    "x2": 412,
+                    "y2": 2948,
+                    "Confidence": 99
+                },
+                {
+                    "word": "PTE.",
+                    "left": 427,
+                    "top": 2927,
+                    "width": 66,
+                    "height": 20,
+                    "x1": 427,
+                    "y1": 2927,
+                    "x2": 493,
+                    "y2": 2947,
+                    "Confidence": 99
+                },
+                {
+                    "word": "LTD",
+                    "left": 511,
+                    "top": 2927,
+                    "width": 54,
+                    "height": 20,
+                    "x1": 511,
+                    "y1": 2927,
+                    "x2": 565,
+                    "y2": 2947,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

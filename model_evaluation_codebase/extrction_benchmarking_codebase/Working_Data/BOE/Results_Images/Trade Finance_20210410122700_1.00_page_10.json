@@ -1,0 +1,107 @@
+{
+    "Trade Finance_20210410122700_1.00_page_10.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "MINHOU",
+                    "left": 193,
+                    "top": 315,
+                    "width": 227,
+                    "height": 46,
+                    "x1": 193,
+                    "y1": 315,
+                    "x2": 420,
+                    "y2": 361,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DACOR",
+                    "left": 435,
+                    "top": 315,
+                    "width": 179,
+                    "height": 45,
+                    "x1": 435,
+                    "y1": 315,
+                    "x2": 614,
+                    "y2": 360,
+                    "Confidence": 99
+                },
+                {
+                    "word": "HOUSEHOLD",
+                    "left": 629,
+                    "top": 314,
+                    "width": 317,
+                    "height": 45,
+                    "x1": 629,
+                    "y1": 314,
+                    "x2": 946,
+                    "y2": 359,
+                    "Confidence": 99
+                },
+                {
+                    "word": "CRAFTS",
+                    "left": 961,
+                    "top": 314,
+                    "width": 195,
+                    "height": 45,
+                    "x1": 961,
+                    "y1": 314,
+                    "x2": 1156,
+                    "y2": 359,
+                    "Confidence": 99
+                },
+                {
+                    "word": "CO.",
+                    "left": 1171,
+                    "top": 313,
+                    "width": 85,
+                    "height": 45,
+                    "x1": 1171,
+                    "y1": 313,
+                    "x2": 1256,
+                    "y2": 358,
+                    "Confidence": 99
+                },
+                {
+                    "word": "LTD",
+                    "left": 1271,
+                    "top": 313,
+                    "width": 111,
+                    "height": 45,
+                    "x1": 1271,
+                    "y1": 313,
+                    "x2": 1382,
+                    "y2": 358,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "upside-down"
+        }
+    }
+}

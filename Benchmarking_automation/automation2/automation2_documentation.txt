@@ -1,0 +1,720 @@
+================================================================================
+       IDF AL-MASRAF — AUTOMATION 2 PIPELINE DOCUMENTATION
+           Folder: Benchmarking_automation/automation2/
+          Last Updated: 2026-04-03 | Project: ITF_Al_Masraf_Classification
+================================================================================
+
+OVERVIEW
+--------
+Automation 2 is a 4-script sequential pipeline that evaluates the IDP system's
+classification and field-extraction accuracy on multi-page workitem JSONs that
+have already been produced by a prior inference run.
+
+This pipeline does NOT run inference itself.  It takes existing result JSONs,
+splits them into per-page units, classifies each page against a ground truth
+learned from the physical image folder structure, runs extraction benchmarking
+only on pages that were classified correctly, and finally aggregates scores
+across all workitems into a class-level master report.
+
+Scripts in this folder:
+  1. split_workitem_jsons.py          → Split master JSONs into per-page JSONs
+  2. evaluate_split_jsons.py          → Classify pages using ground truth map
+  3. automate_benchmarking_split.py   → Run extraction benchmark on valid pages
+  4. aggregate_class_results.py       → Aggregate all workitems into per-class CSVs
+
+External scripts called by Step 3 (automate_benchmarking_split.py):
+  A. benchmarking_data_constructor.py     (Preprocessing/)
+  B. yolo_to_gt_converter.py             (model_evaluation_codebase/...)
+  C. report_generator_rupankar_v3.py     (model_evaluation_codebase/...)
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+  1. When to Use Automation 2
+  2. Pre-Requisites
+  3. Execution Sequence
+  4. Script 1 — split_workitem_jsons.py
+  5. Script 2 — evaluate_split_jsons.py
+  6. Script 3 — automate_benchmarking_split.py
+  7. Script 4 — aggregate_class_results.py
+  8. Called Sub-Scripts (invoked by Script 3)
+       8.1  benchmarking_data_constructor.py
+       8.2  yolo_to_gt_converter.py
+       8.3  report_generator_rupankar_v3.py
+  9. End-to-End Flow Diagram
+ 10. Output Artefacts
+ 11. Configuration Quick Reference
+ 12. Troubleshooting
+
+
+================================================================================
+1.  WHEN TO USE AUTOMATION 2
+================================================================================
+
+Use this pipeline when:
+  • Inference has ALREADY been run and multi-page workitem JSONs exist in
+    Data/Test_jsons/.
+  • You need page-level classification accuracy (GT vs predicted_class).
+  • You want extraction benchmarking limited to correctly-classified pages only.
+  • You want per-class aggregated extraction accuracy across ALL workitems.
+
+Do NOT use this pipeline if you need to run inference from scratch —
+use Automation 1 (automate_phase_1.py + automate_phase_2.py) instead.
+
+
+================================================================================
+2.  PRE-REQUISITES
+================================================================================
+
+  □ Multi-page workitem JSON files exist in:
+      Data/Test_jsons/*.json
+
+  □ Ground truth image directories exist and are listed in TARGET_SEARCH_FOLDERS
+    (configured in both evaluate_split_jsons.py and automate_benchmarking_split.py).
+    Each target folder must have class-named sub-directories:
+        <target_root>/Bill_of_Lading/image1.jpeg
+        <target_root>/BOE/image2.jpeg   etc.
+
+  □ YOLO annotation label files (.txt) exist in the Annotations/ directories
+    (used by benchmarking_data_constructor.py, searched recursively).
+
+  □ OCR data files (<img_base>_textAndCoordinates.txt) exist at:
+      Data/ocr_data/   (used by yolo_to_gt_converter.py)
+
+  □ Python interpreter:
+      /datadrive2/IDF_AL_MASRAF/qwen_env/bin/python
+
+  □ report_generator_rupankar_v3.py must be run from (or with cwd set to):
+      model_evaluation_codebase/extrction_benchmarking_codebase/
+    because it reads config.ini with a relative path.
+
+
+================================================================================
+3.  EXECUTION SEQUENCE
+================================================================================
+
+Run the scripts in this exact order.  Each step's output is a required input
+for the next step.
+
+  STEP 1:
+    python split_workitem_jsons.py
+    ↓  produces → Test_jsons_splitted/<workitem>/<workitem>_page_N.json
+
+  STEP 2:
+    python evaluate_split_jsons.py
+    ↓  produces → Test_jsons_splitted/<workitem>/evaluation_report.csv
+                  Test_jsons_splitted/mapping_diagnostics.json
+    *** INSPECT mapping_diagnostics.json for GT lookup failures before proceeding ***
+
+  STEP 3:
+    python automate_benchmarking_split.py
+    ↓  produces → Test_data_Splitted_Results/<workitem>/<class>/result_path/...
+                  Test_data_Splitted_Results/<workitem>/<workitem>_final_document_page_wise_summary.csv
+                  Test_data_Splitted_Results/<workitem>/<workitem>_final_document_page_wise_summary_75.csv
+
+  STEP 4:
+    python aggregate_class_results.py
+    ↓  produces → Test_data_Splitted_Results/Master_Class_Aggregations/
+                      <CLASS>_overall_pagewise_summary_native.csv
+                      <CLASS>_overall_pagewise_summary_75.csv
+
+
+================================================================================
+4.  SCRIPT 1 — split_workitem_jsons.py
+================================================================================
+
+File:    Benchmarking_automation/automation2/split_workitem_jsons.py
+Run as:  python split_workitem_jsons.py   (no arguments)
+
+PURPOSE:
+    Reads multi-page workitem JSON files (which contain inference results for
+    all pages of a document bundle) and splits each into individual single-page
+    JSON files — one file per page.
+
+    The single-page JSONs are the atomic unit consumed by all downstream steps.
+
+INPUT:
+    Directory:  Data/Test_jsons/
+    Format of each master JSON (two accepted schemas):
+      Schema A (with "result" key):
+          { "result": { "input_tif_file__0.png": { <page_data> }, ... } }
+      Schema B (flat top-level):
+          { "input_tif_file__0.png": { <page_data> }, ... }
+
+    The page key format is:  <prefix>__<zero_based_index>.<ext>
+    (e.g., "input_tif_file__2.png" → page index 2 → page number 3)
+
+HOW IT WORKS:
+    1. Lists all *.json files in INPUT_DIR.
+    2. For each master JSON:
+       a) Loads the file; attempts to read the "result" key first.
+          Falls back to all top-level dict keys if "result" is absent/empty.
+       b) For each page entry:
+          - Extracts zero-based page index from the key via regex (r'__(\d+)\.\w+$').
+          - Converts to 1-based page number.
+          - Builds output filename: <workitem_name>_page_<N>.json
+          - Output JSON content: { "<workitem>_page_<N>.jpeg": <page_data> }
+            (the .jpeg key format is required by evaluate_split_jsons.py and
+             the extraction pipeline downstream)
+       c) Writes each single-page JSON into:
+            Test_jsons_splitted/<workitem_name>/
+
+CONFIGURATION (hardcoded at top of file):
+    INPUT_DIR   = Data/Test_jsons/
+    OUTPUT_DIR  = Data/Test_jsons_splitted/
+
+OUTPUT:
+    Data/Test_jsons_splitted/
+        <workitem_name>/
+            <workitem_name>_page_1.json
+            <workitem_name>_page_2.json
+            ...
+
+
+================================================================================
+5.  SCRIPT 2 — evaluate_split_jsons.py
+================================================================================
+
+File:    Benchmarking_automation/automation2/evaluate_split_jsons.py
+Run as:  python evaluate_split_jsons.py   (no arguments)
+
+PURPOSE:
+    Evaluates the classification accuracy of each single-page JSON by comparing
+    the model's predicted_class against a ground truth class learned from the
+    physical directory structure of labelled test images.
+    Produces a per-workitem evaluation CSV and a global GT-mapping diagnostics JSON.
+
+HOW IT WORKS:
+
+    PHASE A — Build Ground Truth Map (build_ground_truth_map):
+        Scans each folder listed in TARGET_SEARCH_FOLDERS.
+        For each folder looks one level deep for sub-directories whose names
+        match CLASS_MAPPING (e.g. "Bill_of_Lading" → "BOL").
+        Recursively walks each matching class sub-directory and indexes every
+        image file:
+            image_basename → standard_class_code
+        This map is the authoritative ground truth for the whole dataset.
+
+    PHASE B — Evaluate Each Workitem:
+        For each workitem sub-directory in Test_jsons_splitted/:
+          For each page JSON:
+            1. Derive the image base name from the JSON filename.
+            2. Look up GT class:
+                 • Found, class ≠ "Others" → record proper GT label.
+                 • Found, class == "Others" → record and log to diagnostics.
+                 • Not found              → default GT to "Others", log to
+                                            "Not_Found_Defaulted_To_Others".
+            3. Read predicted_class from JSON:
+                 data[first_key]["predicted_class"]
+            4. Compare GT vs predicted (case-insensitive).
+            5. Write one row to evaluation_report.csv per page.
+        Prints per-workitem accuracy to console.
+
+    PHASE C — Save Diagnostics:
+        Writes mapping_diagnostics.json to SPLIT_RESULTS_DIR with:
+            "Mapped_To_Class"              → dict: class_code → [image_names]
+            "Mapped_To_Others_From_Folder" → list of images in an "Others" dir
+            "Not_Found_Defaulted_To_Others"→ list of images with no GT match
+        *** IMPORTANT: inspect this file if accuracy seems unexpectedly low ***
+
+CONFIGURATION (hardcoded constants at top of file):
+    TARGET_SEARCH_FOLDERS:  List of root directories containing class-named
+                             sub-directories with ground truth images.
+                             Currently:
+                               • aishiki_AlmasRaf_test_pdfs/test_set2
+                               • aishiki_AlmasRaf_test_pdfs/test_set_1
+                               • aishiki_AlmasRaf_test_pdfs/DOC_3_splitted
+                               • aishiki_AlmasRaf_test_pdfs/DOC_5_splitted
+    SPLIT_RESULTS_DIR:       Data/Test_jsons_splitted/
+    CLASS_MAPPING:           Dict mapping folder names → standard 3-letter codes
+                             (BOE, BOL, CI, COO, CS, PL, Others)
+    VALID_EXTS:              {.jpg, .jpeg, .png, .tiff, .tif, .bmp}
+
+OUTPUT PER WORKITEM:
+    Data/Test_jsons_splitted/<workitem>/evaluation_report.csv
+        Columns: Image Name | Ground Truth Class | Predicted Class | Is Correct
+
+GLOBAL OUTPUT:
+    Data/Test_jsons_splitted/mapping_diagnostics.json
+
+NOTE:
+    Images not found in the GT map are defaulted to "Others" and will be
+    EXCLUDED from extraction benchmarking in Step 3. Always check
+    mapping_diagnostics.json before proceeding to Step 3.
+
+
+================================================================================
+6.  SCRIPT 3 — automate_benchmarking_split.py
+================================================================================
+
+File:    Benchmarking_automation/automation2/automate_benchmarking_split.py
+Run as:  python automate_benchmarking_split.py   (no arguments)
+
+PURPOSE:
+    The main extraction benchmarking orchestrator.  Reads the evaluation CSVs
+    from Step 2, selects only the pages that:
+       (a) have a valid (non-"Others") ground truth class, AND
+       (b) were classified CORRECTLY by the model
+    then runs the complete extraction evaluation pipeline on those pages and
+    generates per-workitem and per-page accuracy CSV reports.
+
+DEPENDENCIES:
+    Must be run AFTER Steps 1 and 2.  Requires evaluation_report.csv to exist
+    in each workitem sub-directory.
+
+HOW IT WORKS:
+
+    PRE-STEP — Build Image Index (build_image_index):
+        Scans TARGET_SEARCH_FOLDERS for all physical image files.
+        Builds a global index: image_basename → absolute_image_path
+        Used later to copy real image files into the extraction pipeline's
+        working directory (which requires images alongside labels).
+
+    MAIN LOOP — For each workitem with an evaluation_report.csv:
+
+        1. FILTER valid pages:
+           Reads evaluation_report.csv; retains rows where:
+               Ground Truth Class ≠ "Others"  AND  Is Correct == "TRUE"
+           → These are pages we are confident were correctly classified.
+           Skips the workitem entirely if no valid pages remain.
+
+        2. CREATE DUMMY REPORT:
+           Writes a synthetic dummy_report.txt in the workitem directory.
+           Format: "[✓] <img_name>.jpeg: Pred=<gt_class> | GT=<gt_class>"
+           This file mimics the inference pipeline's classification report
+           so that benchmarking_data_constructor.py picks up all valid pages
+           as "correctly predicted" and builds the full data structure.
+
+        3. RUN benchmarking_data_constructor.py  (subprocess call):
+           Parses the dummy report → copies result JSONs + YOLO label files
+           into: Test_data_Splitted_Results/<workitem>/<class>/
+               ├── Results_Images/   ← inference JSONs
+               └── labels/           ← YOLO annotation TXT files
+
+        4. For each class directory (BOE/BOL/CI/COO/CS/PL):
+           a) CREATE local images/ directory.
+           b) COPY physical images from image index into images/.
+           c) RUN yolo_to_gt_converter.py  (subprocess call):
+              Converts YOLO labels + OCR data → ground truth JSON files in:
+                  New_Master_Data_Merged/
+           d) RUN report_generator_rupankar_v3.py  (subprocess call):
+              Compares GT labels vs model predictions → generates:
+                  result_path/label_wise/<run>/
+                      *_analysis_pre_valid_after_fuzzy_match_...latest.csv
+                      *_analysis_fuzzy_75.csv
+                      final_report_<timestamp>.txt
+
+        5. AGGREGATE per-workitem page-wise summaries  (build_page_wise_summary):
+           Collects all extraction CSVs across all classes for the workitem.
+           • Run A — Native thresholds:
+               Glob pattern: **/result_path/*/*_analysis_pre_valid_after_fuzzy_
+                              match_post-processing_latest.csv
+               Output: <workitem>_final_document_page_wise_summary.csv
+           • Run B — Strict 75% fuzzy:
+               Glob pattern: **/result_path/*/*_analysis_fuzzy_75.csv
+               Output: <workitem>_final_document_page_wise_summary_75.csv
+
+           Each summary CSV columns:
+               File_Name | Class_Name | Total_Fields_Present |
+               Total_Fields_Matched | Accuracy_Percentage
+           A final "OVERALL_DOCUMENT" row is appended with document-level totals.
+
+AGGREGATION LOGIC (build_page_wise_summary):
+    - Tags each row with class name (extracted from CSV filename prefix).
+    - Groups rows by File_Name (one row per unique page image).
+    - Filters out rows where 'actual' (GT text) is empty/NaN — these are
+      fields with no ground truth and are excluded from the denominator.
+    - Accuracy = matched_fields / total_fields * 100
+    - Appends OVERALL_DOCUMENT aggregate row.
+
+CONFIGURATION (hardcoded at top of file):
+    BASE_DIR         = /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification
+    SPLIT_RESULTS_DIR= Data/Test_jsons_splitted/
+    WORKING_DATA_DIR = Data/Test_data_Splitted_Results/
+    CONSTRUCTOR_SCRIPT    = Preprocessing/benchmarking_data_constructor.py
+    YOLO_GT_SCRIPT        = model_evaluation_codebase/.../yolo_to_gt_converter.py
+    REPORT_EVAL_SCRIPT    = model_evaluation_codebase/.../report_generator_rupankar_v3.py
+    CLASSES_FILE_MAP = {
+        "BOE": Data/Annotations/BOE_annoation/classes.txt
+        "BOL": Data/Annotations/BOL_annoation/classes_BOL.txt
+        "CI":  Data/Annotations/CI_annoation/classes.txt
+        "COO": Data/Annotations/COO_annoation/classes.txt
+        "CS":  Data/Annotations/CS_annoation/classes.txt
+        "PL":  Data/Annotations/PL_annoation/classesPL.txt
+    }
+    TARGET_SEARCH_FOLDERS = (same as evaluate_split_jsons.py)
+
+OUTPUT PER WORKITEM:
+    Test_data_Splitted_Results/<workitem>/
+        <class>/
+            Results_Images/          ← inference JSONs
+            labels/                  ← YOLO annotations
+            images/                  ← copied physical images
+            New_Master_Data_Merged/  ← GT JSON files from YOLO converter
+            result_path/label_wise/<run>/
+                *.csv                ← field-level extraction accuracy
+                final_report_*.txt   ← OVERALL.Complete_Match_Percentage JSON
+        <workitem>_final_document_page_wise_summary.csv
+        <workitem>_final_document_page_wise_summary_75.csv
+
+
+================================================================================
+7.  SCRIPT 4 — aggregate_class_results.py
+================================================================================
+
+File:    Benchmarking_automation/automation2/aggregate_class_results.py
+Run as:  python aggregate_class_results.py   (no arguments)
+
+PURPOSE:
+    Final aggregation step.  Collects all per-workitem page-wise summary CSVs
+    produced by Step 3 and merges them into a single per-class master CSV.
+    Provides an OVERALL_CLASS_AGGREGATE row showing total extraction accuracy
+    for each document class (BOE, BOL, CI, etc.) across ALL processed workitems.
+
+    This is the definitive accuracy report for the entire benchmarking run.
+
+HOW IT WORKS:
+
+    The main() function calls aggregate_class_reports() twice:
+      Run 1 — Native thresholds:
+          Pattern: Test_data_Splitted_Results/*/<workitem>_final_document_page_wise_summary.csv
+          Output:  Master_Class_Aggregations/<CLASS>_overall_pagewise_summary_native.csv
+
+      Run 2 — Strict 75% fuzzy:
+          Pattern: Test_data_Splitted_Results/*/<workitem>_final_document_page_wise_summary_75.csv
+          Output:  Master_Class_Aggregations/<CLASS>_overall_pagewise_summary_75.csv
+
+    aggregate_class_reports(csv_suffix, final_suffix_name):
+      1. Globs all matching workitem summary CSVs across all workitem directories.
+      2. Loads each CSV; drops the local "OVERALL_DOCUMENT" row to avoid
+         double-counting when aggregating across workitems.
+      3. Concatenates all rows into a master DataFrame.
+      4. Groups by Class_Name:
+         - Skips rows tagged "UNKNOWN".
+         - Sums Total_Fields_Present and Total_Fields_Matched across all pages
+           for that class.
+         - Computes: overall_acc = total_matched / total_present * 100
+         - Appends an "OVERALL_CLASS_AGGREGATE" summary row.
+      5. Exports one CSV per class to Master_Class_Aggregations/.
+
+CONFIGURATION (hardcoded at top of file):
+    BENCHMARKING_DIR = Data/Test_data_Splitted_Results/
+    OUTPUT_DIR       = Data/Test_data_Splitted_Results/Master_Class_Aggregations/
+
+OUTPUT COLUMNS in each generated CSV:
+    File_Name | Class_Name | Total_Fields_Present | Total_Fields_Matched | Accuracy_Percentage
+
+    The last row of each CSV is:
+    "OVERALL_CLASS_AGGREGATE" | <CLASS> | <sum_fields> | <sum_matched> | <overall_acc>%
+
+OUTPUT FILES:
+    Test_data_Splitted_Results/Master_Class_Aggregations/
+        BOE_overall_pagewise_summary_native.csv
+        BOL_overall_pagewise_summary_native.csv
+        CI_overall_pagewise_summary_native.csv
+        COO_overall_pagewise_summary_native.csv
+        CS_overall_pagewise_summary_native.csv
+        PL_overall_pagewise_summary_native.csv
+        BOE_overall_pagewise_summary_75.csv
+        BOL_overall_pagewise_summary_75.csv
+        ... (one native + one 75% CSV per class)
+
+
+================================================================================
+8.  CALLED SUB-SCRIPTS (invoked by Script 3)
+================================================================================
+
+Script 3 (automate_benchmarking_split.py) invokes three external scripts via
+subprocess.  They are NOT in the automation2 folder; they live in the main
+project tree.
+
+─────────────────────────────────────────────────────────────────────────────
+8.1  benchmarking_data_constructor.py
+─────────────────────────────────────────────────────────────────────────────
+Location:
+    ITF_Al_Masraf_Classification/Preprocessing/benchmarking_data_constructor.py
+
+Also found (copy) at:
+    ITF_Al_Masraf_Classification/Benchmarking_automation/benchmarking_data_constructor.py
+
+How Script 3 calls it:
+    python benchmarking_data_constructor.py
+        --json_folder  <workitem_path_in_Test_jsons_splitted>
+        --report_path  <dummy_report.txt>
+        --output_folder <Test_data_Splitted_Results/<workitem>>
+
+Purpose:
+    Parses the dummy report for lines beginning with "[✓]".
+    For each such line, extracts the image base name and predicted class.
+    Copies:
+      • The inference result JSON → <output>/<class>/Results_Images/
+      • The matching YOLO label .txt → <output>/<class>/labels/
+    Labels are found by recursively searching LABEL_SEARCH_FOLDERS
+    (hardcoded inside the script to scan all Annotations/ sub-directories).
+
+Output structure built:
+    <output_folder>/
+        <CLASS_CODE>/
+            Results_Images/<image>.json
+            labels/<image>.txt
+
+─────────────────────────────────────────────────────────────────────────────
+8.2  yolo_to_gt_converter.py
+─────────────────────────────────────────────────────────────────────────────
+Location:
+    ITF_Al_Masraf_Classification/model_evaluation_codebase/
+        extrction_benchmarking_codebase/yolo_to_gt_converter.py
+
+How Script 3 calls it:
+    python yolo_to_gt_converter.py
+        --yolo_dir    <class_dir>/labels/
+        --img_dir     <class_dir>/images/
+        --classes_file <CLASSES_FILE_MAP[class_name]>
+        --output_dir  <class_dir>/New_Master_Data_Merged/
+
+Purpose:
+    For each YOLO annotation file (.txt):
+      1. Reads the image dimensions (PIL) to de-normalise YOLO (cx,cy,w,h)
+         coordinates into absolute pixel bounding boxes.
+      2. Reads the corresponding OCR file from Data/ocr_data/:
+             <image_base>_textAndCoordinates.txt
+         (Python-literal dict with "ocrContent": [{word, x1, y1, x2, y2}, ...])
+      3. For each YOLO bounding box, finds all OCR words that overlap it
+         by ≥ 50% (intersection / word_area ≥ 0.5) and joins them to form
+         the ground truth text value for that field.
+      4. Writes a GT JSON file to New_Master_Data_Merged/:
+             <image_base>_labels.txt
+         Format: { "<field_name>": [["<gt_text>", [x1,y1,x2,y2]], ...], ... }
+
+Dependencies:
+    • Physical images must be in <class_dir>/images/  (copied by Script 3)
+    • OCR data must be in Data/ocr_data/
+
+─────────────────────────────────────────────────────────────────────────────
+8.3  report_generator_rupankar_v3.py
+─────────────────────────────────────────────────────────────────────────────
+Location:
+    ITF_Al_Masraf_Classification/model_evaluation_codebase/
+        extrction_benchmarking_codebase/report_generator_rupankar_v3.py
+
+How Script 3 calls it:
+    python report_generator_rupankar_v3.py
+        --doc_code    <CLASS_CODE>
+        --folder_path <class_dir>
+    (cwd is set to extrction_benchmarking_codebase/ so config.ini resolves)
+
+Purpose:
+    The extraction accuracy evaluator.  Compares model-predicted field values
+    (from Results_Images/*.json) against ground truth values
+    (from New_Master_Data_Merged/*_labels.txt).
+    Applies post-processing rules and fuzzy matching configured per document
+    class in config.ini.
+
+Generates THREE reports per class per run:
+  1. Label-wise report    — all fields, no filtering
+  2. Rules-required report — only mandatory/rules-defined fields
+  3. Most-frequent report  — only the most commonly occurring fields
+
+Output (all written under <class_dir>/result_path/label_wise/<run>/):
+    *_analysis_pre_valid_after_fuzzy_match_post-processing_latest.csv
+        → Field-by-field comparison with native threshold fuzzy matching
+    *_analysis_fuzzy_75.csv
+        → Field-by-field comparison with strict uniform 75% fuzzy threshold
+    final_report_<timestamp>.txt
+        → JSON summary including OVERALL.Complete_Match_Percentage
+
+IMPORTANT:
+    Must be run with cwd set to extrction_benchmarking_codebase/ because
+    config.ini is read with a relative path.
+    Script 3 handles this via the `cwd=eval_cwd` argument to subprocess.run().
+
+
+================================================================================
+9.  END-TO-END FLOW DIAGRAM
+================================================================================
+
+    [Data/Test_jsons/*.json]
+    (multi-page workitem inference JSONs — pre-existing)
+              │
+              ▼
+    ┌─────────────────────────────────────────┐
+    │  STEP 1: split_workitem_jsons.py        │
+    │  Splits each master JSON into           │
+    │  individual per-page JSON files         │
+    └──────────────────┬──────────────────────┘
+                       │
+                       ▼  Data/Test_jsons_splitted/<workitem>/<workitem>_page_N.json
+    ┌─────────────────────────────────────────┐
+    │  STEP 2: evaluate_split_jsons.py        │
+    │  Scans TARGET_SEARCH_FOLDERS to build   │
+    │  GT map; compares predicted_class vs GT │
+    └──────────────────┬──────────────────────┘
+                       │
+                       ▼  evaluation_report.csv (per workitem)
+                           mapping_diagnostics.json (global)
+                           *** INSPECT DIAGNOSTICS HERE ***
+    ┌─────────────────────────────────────────┐
+    │  STEP 3: automate_benchmarking_split.py │
+    │  Filter: GT≠Others & IsCorrect==TRUE    │
+    └──────────────────┬──────────────────────┘
+                       │  valid pages only
+                       ▼
+              [Write dummy_report.txt]
+                       │
+                       ▼
+    ┌─────────────────────────────────────────┐
+    │  benchmarking_data_constructor.py  [A]  │
+    │  Parse dummy report → copy JSONs +      │
+    │  YOLO labels into class sub-dirs        │
+    └──────────────────┬──────────────────────┘
+                       │
+                       ▼  <class>/Results_Images/ + labels/
+              [Copy physical images from
+               TARGET_SEARCH_FOLDERS → images/]
+                       │
+                       ▼
+    ┌─────────────────────────────────────────┐  ← repeated per class (BOE/BOL/etc.)
+    │  yolo_to_gt_converter.py           [B]  │
+    │  YOLO labels + OCR → GT JSON files in  │
+    │  New_Master_Data_Merged/               │
+    └──────────────────┬──────────────────────┘
+                       │
+                       ▼
+    ┌─────────────────────────────────────────┐
+    │  report_generator_rupankar_v3.py   [C]  │
+    │  GT vs prediction comparison →          │
+    │  field-level accuracy CSVs +            │
+    │  final_report_*.txt per class/run       │
+    └──────────────────┬──────────────────────┘
+                       │
+                       ▼
+              [build_page_wise_summary()]
+              (aggregate CSVs across classes
+               into workitem-level summary)
+                       │
+                       ▼  <workitem>_final_document_page_wise_summary.csv
+                           <workitem>_final_document_page_wise_summary_75.csv
+    ┌─────────────────────────────────────────┐
+    │  STEP 4: aggregate_class_results.py     │
+    │  Combines ALL workitem summaries →      │
+    │  one master CSV per document class      │
+    └──────────────────┬──────────────────────┘
+                       │
+                       ▼
+    Master_Class_Aggregations/
+        <CLASS>_overall_pagewise_summary_native.csv
+        <CLASS>_overall_pagewise_summary_75.csv
+
+
+================================================================================
+10. OUTPUT ARTEFACTS
+================================================================================
+
+After a successful full run, you will find:
+
+  Test_jsons_splitted/
+      <workitem>/
+          <workitem>_page_N.json            ← per-page inference JSONs (Step 1)
+          evaluation_report.csv             ← GT vs prediction CSV (Step 2)
+      mapping_diagnostics.json              ← GT lookup audit (Step 2)
+
+  Test_data_Splitted_Results/
+      <workitem>/
+          <class>/
+              Results_Images/*.json         ← inference JSONs for valid pages
+              labels/*.txt                  ← YOLO annotation files
+              images/*.jpeg                 ← physical images (temporary copy)
+              New_Master_Data_Merged/*_labels.txt  ← GT JSON files
+              result_path/label_wise/<run>/
+                  *_analysis_pre_valid_after_fuzzy_match_...latest.csv
+                  *_analysis_fuzzy_75.csv
+                  final_report_<timestamp>.txt
+          <workitem>_final_document_page_wise_summary.csv
+          <workitem>_final_document_page_wise_summary_75.csv
+      Master_Class_Aggregations/
+          BOE_overall_pagewise_summary_native.csv
+          BOL_overall_pagewise_summary_native.csv
+          CI_overall_pagewise_summary_native.csv
+          COO_overall_pagewise_summary_native.csv
+          CS_overall_pagewise_summary_native.csv
+          PL_overall_pagewise_summary_native.csv
+          BOE_overall_pagewise_summary_75.csv
+          BOL_overall_pagewise_summary_75.csv
+          CI_overall_pagewise_summary_75.csv
+          COO_overall_pagewise_summary_75.csv
+          CS_overall_pagewise_summary_75.csv
+          PL_overall_pagewise_summary_75.csv
+
+
+================================================================================
+11. CONFIGURATION QUICK REFERENCE
+================================================================================
+
+  VARIABLE               DEFINED IN                        CURRENT VALUE
+  ─────────────────────────────────────────────────────────────────────────
+  INPUT_DIR              split_workitem_jsons.py            Data/Test_jsons/
+  OUTPUT_DIR             split_workitem_jsons.py            Data/Test_jsons_splitted/
+  ─────────────────────────────────────────────────────────────────────────
+  TARGET_SEARCH_FOLDERS  evaluate_split_jsons.py &          aishiki_AlmasRaf_test_pdfs/
+                         automate_benchmarking_split.py       test_set2 / test_set_1 /
+                                                              DOC_3_splitted / DOC_5_splitted
+  SPLIT_RESULTS_DIR      evaluate_split_jsons.py            Data/Test_jsons_splitted/
+  CLASS_MAPPING          evaluate_split_jsons.py            All 6 classes + Others
+  ─────────────────────────────────────────────────────────────────────────
+  WORKING_DATA_DIR       automate_benchmarking_split.py     Data/Test_data_Splitted_Results/
+  CLASSES_FILE_MAP       automate_benchmarking_split.py     Per-class classes.txt paths
+  CONSTRUCTOR_SCRIPT     automate_benchmarking_split.py     Preprocessing/benchmarking_data_constructor.py
+  YOLO_GT_SCRIPT         automate_benchmarking_split.py     model_evaluation_codebase/.../yolo_to_gt_converter.py
+  REPORT_EVAL_SCRIPT     automate_benchmarking_split.py     model_evaluation_codebase/.../report_generator_rupankar_v3.py
+  ─────────────────────────────────────────────────────────────────────────
+  BENCHMARKING_DIR       aggregate_class_results.py         Data/Test_data_Splitted_Results/
+  OUTPUT_DIR             aggregate_class_results.py         .../Master_Class_Aggregations/
+  ─────────────────────────────────────────────────────────────────────────
+  PYTHON INTERPRETER     All subprocess calls               /datadrive2/IDF_AL_MASRAF/qwen_env/bin/python
+
+To add a new document class (e.g. "LC"):
+  1. Add entry to CLASSES_FILE_MAP in automate_benchmarking_split.py.
+  2. Add folder name → code mapping to CLASS_MAPPING in evaluate_split_jsons.py.
+  3. Create a classes.txt annotation file for the new class.
+  4. Ensure GT images exist under a matching class sub-folder in one of the
+     TARGET_SEARCH_FOLDERS directories.
+
+
+================================================================================
+12. TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Step 2 shows very low accuracy / many images default to "Others".
+  → Open Test_jsons_splitted/mapping_diagnostics.json
+  → Check "Not_Found_Defaulted_To_Others" — the basenames listed there were
+    not found in TARGET_SEARCH_FOLDERS.
+  → Causes: (a) the image folder for that test set is missing from
+      TARGET_SEARCH_FOLDERS, or (b) filenames differ between the JSON key
+      and the physical image filename (e.g. extension mismatch).
+  → Fix: add the missing folder path to TARGET_SEARCH_FOLDERS in BOTH
+      evaluate_split_jsons.py and automate_benchmarking_split.py.
+
+PROBLEM: Step 3 — "No valid images in workitem" — all workitems skipped.
+  → Step 2 must have written evaluation_report.csv files with at least one
+    row where GT ≠ "Others" AND Is Correct == "TRUE".
+  → Re-check Step 2 output and the GT mapping issue above.
+
+PROBLEM: yolo_to_gt_converter.py skips images with "Missing OCR file".
+  → The OCR file for that image is not in Data/ocr_data/.
+  → OCR files must be named exactly: <image_base>_textAndCoordinates.txt
+
+PROBLEM: report_generator_rupankar_v3.py fails with a config.ini error.
+  → The script reads config.ini with a relative path and must be run from
+    model_evaluation_codebase/extrction_benchmarking_codebase/.
+  → automate_benchmarking_split.py sets cwd=eval_cwd to handle this.
+  → If running the report generator manually, cd into that directory first.
+
+PROBLEM: Step 4 produces no output CSVs.
+  → Step 3 must have generated the workitem summary CSVs:
+      *_final_document_page_wise_summary.csv
+      *_final_document_page_wise_summary_75.csv
+  → If Step 3 produced no summaries, there were no valid images to process.
+
+================================================================================
+                              END OF DOCUMENT
+================================================================================

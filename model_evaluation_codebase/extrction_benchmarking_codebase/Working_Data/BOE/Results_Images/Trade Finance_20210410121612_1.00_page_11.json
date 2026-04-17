@@ -1,0 +1,83 @@
+{
+    "Trade Finance_20210410121612_1.00_page_11.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "*",
+                    "left": 1850,
+                    "top": 108,
+                    "width": 19,
+                    "height": 17,
+                    "x1": 1850,
+                    "y1": 108,
+                    "x2": 1869,
+                    "y2": 125,
+                    "Confidence": 99
+                },
+                {
+                    "word": "<",
+                    "left": 1879,
+                    "top": 108,
+                    "width": 20,
+                    "height": 17,
+                    "x1": 1879,
+                    "y1": 108,
+                    "x2": 1899,
+                    "y2": 125,
+                    "Confidence": 99
+                },
+                {
+                    "word": "x",
+                    "left": 2001,
+                    "top": 108,
+                    "width": 8,
+                    "height": 17,
+                    "x1": 2001,
+                    "y1": 108,
+                    "x2": 2009,
+                    "y2": 125,
+                    "Confidence": 99
+                },
+                {
+                    "word": "a",
+                    "left": 2258,
+                    "top": 236,
+                    "width": 15,
+                    "height": 20,
+                    "x1": 2258,
+                    "y1": 236,
+                    "x2": 2273,
+                    "y2": 256,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

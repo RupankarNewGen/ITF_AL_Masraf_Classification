@@ -1,0 +1,74 @@
+{
+  "numeric_fields": [
+    "bill_of_lading_number",
+    "voyage_number",
+    "container_number",
+    "net_weight",
+    "gross_weight",
+    "goods_quantity"
+
+  ],
+  "address_fields": [
+    "shipper_address",
+    "consignee_address",
+    "notify_party_address",
+    "carrier_country",
+    "agent_country"
+  ],
+  "date_fields": [
+    "transaction_date",
+    "bill_of_lading_issue_date",
+    "shipped_onboard_date",
+    "lc_date",
+    "stamped_onboard_date",
+    "stamped_shipped_onboard_date",
+    "shipment_date"
+  ],
+  "single_line_fields": [
+    "shipper_name",
+    "consignee_name",
+    "notify_party_name",
+    "carrier_name",
+    "agent_name",
+    "vessel_name",
+    "master_name",
+    "stamped_vessel_or_cargo_name",
+    "signed_by_carrier",
+    "signed_By_agent",
+    "signed_by_master"
+  ],
+  "single_word_fields": [
+    "page_no",
+    "pre_carriage_by",
+"place_of_receipt",
+"port_of_loading",
+"port_of_discharge",
+"final_destination",
+"bol_original_number",
+"bol_original_or_copy",
+"freight_collect_at",
+"freight_collect_or_prepaid",
+"place_of_issue",
+"mode_of_transport",
+"charter",
+"stamped_port_of_loading"
+  ],
+  "multi_line_fields": [
+"goods_description",
+"dimension",
+"measurement",
+"carriage_condition"
+
+  ],
+  "master_fields": [],
+  "critical_fields": [
+    "goods_marks_and_nos",
+    "total_original_no",
+"lc_ref_number"
+
+  ],
+  "remove_fields": [
+    "signature",
+    "stamp"
+  ]
+}

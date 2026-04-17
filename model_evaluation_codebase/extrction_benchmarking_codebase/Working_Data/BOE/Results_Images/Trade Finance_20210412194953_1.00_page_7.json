@@ -1,0 +1,267 @@
+{
+    "Trade Finance_20210412194953_1.00_page_7.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawee_bank_name": {
+                "value": "BARODA",
+                "coordinate": [
+                    [
+                        456,
+                        3057,
+                        624,
+                        3087
+                    ]
+                ],
+                "model_confidence": [
+                    0.620687
+                ],
+                "ocr_confidence": []
+            }
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "PAY",
+                    "left": 115,
+                    "top": 2965,
+                    "width": 79,
+                    "height": 34,
+                    "x1": 115,
+                    "y1": 2965,
+                    "x2": 194,
+                    "y2": 2999,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TO",
+                    "left": 205,
+                    "top": 2967,
+                    "width": 57,
+                    "height": 32,
+                    "x1": 205,
+                    "y1": 2967,
+                    "x2": 262,
+                    "y2": 2999,
+                    "Confidence": 99
+                },
+                {
+                    "word": "THE",
+                    "left": 274,
+                    "top": 2967,
+                    "width": 83,
+                    "height": 32,
+                    "x1": 274,
+                    "y1": 2967,
+                    "x2": 357,
+                    "y2": 2999,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ORDER",
+                    "left": 371,
+                    "top": 2968,
+                    "width": 149,
+                    "height": 32,
+                    "x1": 371,
+                    "y1": 2968,
+                    "x2": 520,
+                    "y2": 3000,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 534,
+                    "top": 2970,
+                    "width": 56,
+                    "height": 31,
+                    "x1": 534,
+                    "y1": 2970,
+                    "x2": 590,
+                    "y2": 3001,
+                    "Confidence": 99
+                },
+                {
+                    "word": "ANY",
+                    "left": 602,
+                    "top": 2970,
+                    "width": 87,
+                    "height": 31,
+                    "x1": 602,
+                    "y1": 2970,
+                    "x2": 689,
+                    "y2": 3001,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 702,
+                    "top": 2971,
+                    "width": 117,
+                    "height": 31,
+                    "x1": 702,
+                    "y1": 2971,
+                    "x2": 819,
+                    "y2": 3002,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANKER",
+                    "left": 155,
+                    "top": 3012,
+                    "width": 177,
+                    "height": 32,
+                    "x1": 155,
+                    "y1": 3012,
+                    "x2": 332,
+                    "y2": 3044,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OR",
+                    "left": 346,
+                    "top": 3014,
+                    "width": 61,
+                    "height": 31,
+                    "x1": 346,
+                    "y1": 3014,
+                    "x2": 407,
+                    "y2": 3045,
+                    "Confidence": 99
+                },
+                {
+                    "word": "TRUST",
+                    "left": 421,
+                    "top": 3015,
+                    "width": 137,
+                    "height": 31,
+                    "x1": 421,
+                    "y1": 3015,
+                    "x2": 558,
+                    "y2": 3046,
+                    "Confidence": 99
+                },
+                {
+                    "word": "COMPANY",
+                    "left": 572,
+                    "top": 3016,
+                    "width": 208,
+                    "height": 31,
+                    "x1": 572,
+                    "y1": 3016,
+                    "x2": 780,
+                    "y2": 3047,
+                    "Confidence": 99
+                },
+                {
+                    "word": "FOR",
+                    "left": 179,
+                    "top": 3057,
+                    "width": 80,
+                    "height": 31,
+                    "x1": 179,
+                    "y1": 3057,
+                    "x2": 259,
+                    "y2": 3088,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK",
+                    "left": 271,
+                    "top": 3059,
+                    "width": 112,
+                    "height": 29,
+                    "x1": 271,
+                    "y1": 3059,
+                    "x2": 383,
+                    "y2": 3088,
+                    "Confidence": 99
+                },
+                {
+                    "word": "OF",
+                    "left": 394,
+                    "top": 3059,
+                    "width": 51,
+                    "height": 30,
+                    "x1": 394,
+                    "y1": 3059,
+                    "x2": 445,
+                    "y2": 3089,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BARODA",
+                    "left": 459,
+                    "top": 3060,
+                    "width": 166,
+                    "height": 30,
+                    "x1": 459,
+                    "y1": 3060,
+                    "x2": 625,
+                    "y2": 3090,
+                    "Confidence": 99
+                },
+                {
+                    "word": "DUBAI",
+                    "left": 637,
+                    "top": 3062,
+                    "width": 118,
+                    "height": 29,
+                    "x1": 637,
+                    "y1": 3062,
+                    "x2": 755,
+                    "y2": 3091,
+                    "Confidence": 99
+                },
+                {
+                    "word": "AUTHORISED",
+                    "left": 203,
+                    "top": 3249,
+                    "width": 273,
+                    "height": 34,
+                    "x1": 203,
+                    "y1": 3249,
+                    "x2": 476,
+                    "y2": 3283,
+                    "Confidence": 99
+                },
+                {
+                    "word": "SIGNATORY",
+                    "left": 490,
+                    "top": 3252,
+                    "width": 238,
+                    "height": 32,
+                    "x1": 490,
+                    "y1": 3252,
+                    "x2": 728,
+                    "y2": 3284,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

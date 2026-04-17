@@ -1,0 +1,4604 @@
+{
+    "form": [
+        {
+            "id": 500,
+            "box": [
+                67,
+                3416,
+                108,
+                3443
+            ],
+            "label": "other",
+            "text": "EDI",
+            "words": [
+                {
+                    "text": "EDI",
+                    "box": [
+                        67,
+                        3416,
+                        108,
+                        3443
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 501,
+            "box": [
+                120,
+                3416,
+                158,
+                3444
+            ],
+            "label": "other",
+            "text": "IS",
+            "words": [
+                {
+                    "text": "IS",
+                    "box": [
+                        120,
+                        3416,
+                        158,
+                        3444
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 502,
+            "box": [
+                204,
+                3415,
+                911,
+                3441
+            ],
+            "label": "other",
+            "text": "HLHBS-A76YL-NTQ6T-68H45-26XC8-D274H-BP3BL-F395",
+            "words": [
+                {
+                    "text": "HLHBS-A76YL-NTQ6T-68H45-26XC8-D274H-BP3BL-F395",
+                    "box": [
+                        204,
+                        3415,
+                        911,
+                        3441
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 0,
+            "box": [
+                868,
+                167,
+                1133,
+                235
+            ],
+            "label": "drawer_bank_name",
+            "text": "Mizuho",
+            "words": [
+                {
+                    "text": "Mizuho",
+                    "box": [
+                        868,
+                        167,
+                        1133,
+                        235
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 1,
+            "box": [
+                1164,
+                167,
+                1360,
+                246
+            ],
+            "label": "drawer_bank_name",
+            "text": "Bank,",
+            "words": [
+                {
+                    "text": "Bank,",
+                    "box": [
+                        1164,
+                        167,
+                        1360,
+                        246
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 2,
+            "box": [
+                1389,
+                167,
+                1518,
+                235
+            ],
+            "label": "drawer_bank_name",
+            "text": "Ltd.",
+            "words": [
+                {
+                    "text": "Ltd.",
+                    "box": [
+                        1389,
+                        167,
+                        1518,
+                        235
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 503,
+            "box": [
+                808,
+                258,
+                1041,
+                289
+            ],
+            "label": "other",
+            "text": "INTERNATIONAL",
+            "words": [
+                {
+                    "text": "INTERNATIONAL",
+                    "box": [
+                        808,
+                        258,
+                        1041,
+                        289
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 504,
+            "box": [
+                1062,
+                258,
+                1151,
+                288
+            ],
+            "label": "other",
+            "text": "TRADE",
+            "words": [
+                {
+                    "text": "TRADE",
+                    "box": [
+                        1062,
+                        258,
+                        1151,
+                        288
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 505,
+            "box": [
+                1172,
+                258,
+                1317,
+                288
+            ],
+            "label": "other",
+            "text": "BUSINESS",
+            "words": [
+                {
+                    "text": "BUSINESS",
+                    "box": [
+                        1172,
+                        258,
+                        1317,
+                        288
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 506,
+            "box": [
+                1338,
+                258,
+                1520,
+                288
+            ],
+            "label": "other",
+            "text": "OPERATIONS",
+            "words": [
+                {
+                    "text": "OPERATIONS",
+                    "box": [
+                        1338,
+                        258,
+                        1520,
+                        288
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 507,
+            "box": [
+                1542,
+                258,
+                1650,
+                288
+            ],
+            "label": "other",
+            "text": "CENTER",
+            "words": [
+                {
+                    "text": "CENTER",
+                    "box": [
+                        1542,
+                        258,
+                        1650,
+                        288
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 3,
+            "box": [
+                419,
+                308,
+                499,
+                341
+            ],
+            "label": "drawer_bank_address",
+            "text": "4-10,",
+            "words": [
+                {
+                    "text": "4-10,",
+                    "box": [
+                        419,
+                        308,
+                        499,
+                        341
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 4,
+            "box": [
+                530,
+                307,
+                707,
+                338
+            ],
+            "label": "drawer_bank_address",
+            "text": "KORAIBASHI",
+            "words": [
+                {
+                    "text": "KORAIBASHI",
+                    "box": [
+                        530,
+                        307,
+                        707,
+                        338
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 5,
+            "box": [
+                732,
+                307,
+                867,
+                340
+            ],
+            "label": "drawer_bank_address",
+            "text": "3-CHOME,",
+            "words": [
+                {
+                    "text": "3-CHOME,",
+                    "box": [
+                        732,
+                        307,
+                        867,
+                        340
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 6,
+            "box": [
+                898,
+                306,
+                1032,
+                340
+            ],
+            "label": "drawer_bank_address",
+            "text": "CHUO-KU,",
+            "words": [
+                {
+                    "text": "CHUO-KU,",
+                    "box": [
+                        898,
+                        306,
+                        1032,
+                        340
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 7,
+            "box": [
+                1063,
+                306,
+                1154,
+                337
+            ],
+            "label": "drawer_bank_address",
+            "text": "OSAKA",
+            "words": [
+                {
+                    "text": "OSAKA",
+                    "box": [
+                        1063,
+                        306,
+                        1154,
+                        337
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 8,
+            "box": [
+                1174,
+                306,
+                1327,
+                340
+            ],
+            "label": "drawer_bank_address",
+            "text": "541-0043,",
+            "words": [
+                {
+                    "text": "541-0043,",
+                    "box": [
+                        1174,
+                        306,
+                        1327,
+                        340
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 9,
+            "box": [
+                1359,
+                306,
+                1449,
+                336
+            ],
+            "label": "drawer_bank_address",
+            "text": "JAPAN",
+            "words": [
+                {
+                    "text": "JAPAN",
+                    "box": [
+                        1359,
+                        306,
+                        1449,
+                        336
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 10,
+            "box": [
+                1477,
+                305,
+                1755,
+                339
+            ],
+            "label": "drawer_bank_bic",
+            "text": "(SWIFT:MHCBJPJT)",
+            "words": [
+                {
+                    "text": "(SWIFT:MHCBJPJT)",
+                    "box": [
+                        1477,
+                        305,
+                        1755,
+                        339
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 508,
+            "box": [
+                127,
+                399,
+                252,
+                434
+            ],
+            "label": "other",
+            "text": "PLEASE",
+            "words": [
+                {
+                    "text": "PLEASE",
+                    "box": [
+                        127,
+                        399,
+                        252,
+                        434
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 509,
+            "box": [
+                276,
+                399,
+                381,
+                435
+            ],
+            "label": "other",
+            "text": "QUOTE",
+            "words": [
+                {
+                    "text": "QUOTE",
+                    "box": [
+                        276,
+                        399,
+                        381,
+                        435
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 510,
+            "box": [
+                406,
+                399,
+                468,
+                434
+            ],
+            "label": "other",
+            "text": "OUR",
+            "words": [
+                {
+                    "text": "OUR",
+                    "box": [
+                        406,
+                        399,
+                        468,
+                        434
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 511,
+            "box": [
+                492,
+                399,
+                563,
+                433
+            ],
+            "label": "other",
+            "text": "REF.",
+            "words": [
+                {
+                    "text": "REF.",
+                    "box": [
+                        492,
+                        399,
+                        563,
+                        433
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 512,
+            "box": [
+                600,
+                398,
+                666,
+                433
+            ],
+            "label": "other",
+            "text": "NO:",
+            "words": [
+                {
+                    "text": "NO:",
+                    "box": [
+                        600,
+                        398,
+                        666,
+                        433
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 11,
+            "box": [
+                711,
+                398,
+                1009,
+                433
+            ],
+            "label": "csh_ref_no",
+            "text": "CL063600003414",
+            "words": [
+                {
+                    "text": "CL063600003414",
+                    "box": [
+                        711,
+                        398,
+                        1009,
+                        433
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 513,
+            "box": [
+                1661,
+                400,
+                1825,
+                429
+            ],
+            "label": "other",
+            "text": "PRESENTED",
+            "words": [
+                {
+                    "text": "PRESENTED",
+                    "box": [
+                        1661,
+                        400,
+                        1825,
+                        429
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 514,
+            "box": [
+                1845,
+                400,
+                1930,
+                429
+            ],
+            "label": "other",
+            "text": "DATE:",
+            "words": [
+                {
+                    "text": "DATE:",
+                    "box": [
+                        1845,
+                        400,
+                        1930,
+                        429
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 12,
+            "box": [
+                1962,
+                399,
+                2145,
+                429
+            ],
+            "label": "csh_presentation_date",
+            "text": "2021-03-30",
+            "words": [
+                {
+                    "text": "2021-03-30",
+                    "box": [
+                        1962,
+                        399,
+                        2145,
+                        429
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 515,
+            "box": [
+                207,
+                538,
+                318,
+                583
+            ],
+            "label": "other",
+            "text": "MAIL",
+            "words": [
+                {
+                    "text": "MAIL",
+                    "box": [
+                        207,
+                        538,
+                        318,
+                        583
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 516,
+            "box": [
+                351,
+                538,
+                405,
+                583
+            ],
+            "label": "other",
+            "text": "TO",
+            "words": [
+                {
+                    "text": "TO",
+                    "box": [
+                        351,
+                        538,
+                        405,
+                        583
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 517,
+            "box": [
+                468,
+                538,
+                518,
+                583
+            ],
+            "label": "other",
+            "text": "=>",
+            "words": [
+                {
+                    "text": "=>",
+                    "box": [
+                        468,
+                        538,
+                        518,
+                        583
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 518,
+            "box": [
+                207,
+                678,
+                433,
+                724
+            ],
+            "label": "other",
+            "text": "ORIGINAL",
+            "words": [
+                {
+                    "text": "ORIGINAL",
+                    "box": [
+                        207,
+                        678,
+                        433,
+                        724
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 519,
+            "box": [
+                126,
+                779,
+                308,
+                813
+            ],
+            "label": "other",
+            "text": "(DUPLICATE,",
+            "words": [
+                {
+                    "text": "(DUPLICATE,",
+                    "box": [
+                        126,
+                        779,
+                        308,
+                        813
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 520,
+            "box": [
+                343,
+                779,
+                374,
+                809
+            ],
+            "label": "other",
+            "text": "IF",
+            "words": [
+                {
+                    "text": "IF",
+                    "box": [
+                        343,
+                        779,
+                        374,
+                        809
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 521,
+            "box": [
+                394,
+                779,
+                455,
+                813
+            ],
+            "label": "other",
+            "text": "ANY,",
+            "words": [
+                {
+                    "text": "ANY,",
+                    "box": [
+                        394,
+                        779,
+                        455,
+                        813
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 522,
+            "box": [
+                136,
+                828,
+                208,
+                858
+            ],
+            "label": "other",
+            "text": "WILL",
+            "words": [
+                {
+                    "text": "WILL",
+                    "box": [
+                        136,
+                        828,
+                        208,
+                        858
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 523,
+            "box": [
+                229,
+                828,
+                338,
+                858
+            ],
+            "label": "other",
+            "text": "FOLLOW",
+            "words": [
+                {
+                    "text": "FOLLOW",
+                    "box": [
+                        229,
+                        828,
+                        338,
+                        858
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 524,
+            "box": [
+                357,
+                827,
+                393,
+                858
+            ],
+            "label": "other",
+            "text": "BY",
+            "words": [
+                {
+                    "text": "BY",
+                    "box": [
+                        357,
+                        827,
+                        393,
+                        858
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 525,
+            "box": [
+                413,
+                827,
+                485,
+                858
+            ],
+            "label": "other",
+            "text": "NEXT",
+            "words": [
+                {
+                    "text": "NEXT",
+                    "box": [
+                        413,
+                        827,
+                        485,
+                        858
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 526,
+            "box": [
+                505,
+                826,
+                589,
+                860
+            ],
+            "label": "other",
+            "text": "MAIL)",
+            "words": [
+                {
+                    "text": "MAIL)",
+                    "box": [
+                        505,
+                        826,
+                        589,
+                        860
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 527,
+            "box": [
+                465,
+                872,
+                611,
+                907
+            ],
+            "label": "other",
+            "text": "1218010",
+            "words": [
+                {
+                    "text": "1218010",
+                    "box": [
+                        465,
+                        872,
+                        611,
+                        907
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 13,
+            "box": [
+                718,
+                495,
+                790,
+                525
+            ],
+            "label": "drawee_name",
+            "text": "ARAB",
+            "words": [
+                {
+                    "text": "ARAB",
+                    "box": [
+                        718,
+                        495,
+                        790,
+                        525
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 14,
+            "box": [
+                811,
+                495,
+                883,
+                525
+            ],
+            "label": "drawee_name",
+            "text": "BANK",
+            "words": [
+                {
+                    "text": "BANK",
+                    "box": [
+                        811,
+                        495,
+                        883,
+                        525
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 15,
+            "box": [
+                904,
+                495,
+                956,
+                525
+            ],
+            "label": "drawee_name",
+            "text": "FOR",
+            "words": [
+                {
+                    "text": "FOR",
+                    "box": [
+                        904,
+                        495,
+                        956,
+                        525
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 16,
+            "box": [
+                981,
+                495,
+                1158,
+                525
+            ],
+            "label": "drawee_name",
+            "text": "INVESTMENT",
+            "words": [
+                {
+                    "text": "INVESTMENT",
+                    "box": [
+                        981,
+                        495,
+                        1158,
+                        525
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 17,
+            "box": [
+                1179,
+                494,
+                1232,
+                525
+            ],
+            "label": "drawee_name",
+            "text": "AND",
+            "words": [
+                {
+                    "text": "AND",
+                    "box": [
+                        1179,
+                        494,
+                        1232,
+                        525
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 18,
+            "box": [
+                719,
+                542,
+                845,
+                572
+            ],
+            "label": "drawee_name",
+            "text": "FOREIGN",
+            "words": [
+                {
+                    "text": "FOREIGN",
+                    "box": [
+                        719,
+                        542,
+                        845,
+                        572
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 19,
+            "box": [
+                866,
+                542,
+                956,
+                572
+            ],
+            "label": "drawee_name",
+            "text": "TRADE",
+            "words": [
+                {
+                    "text": "TRADE",
+                    "box": [
+                        866,
+                        542,
+                        956,
+                        572
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 20,
+            "box": [
+                726,
+                589,
+                772,
+                622
+            ],
+            "label": "drawee_name",
+            "text": "(AL",
+            "words": [
+                {
+                    "text": "(AL",
+                    "box": [
+                        726,
+                        589,
+                        772,
+                        622
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 21,
+            "box": [
+                793,
+                589,
+                912,
+                623
+            ],
+            "label": "drawee_name",
+            "text": "MASRAF)",
+            "words": [
+                {
+                    "text": "MASRAF)",
+                    "box": [
+                        793,
+                        589,
+                        912,
+                        623
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 22,
+            "box": [
+                720,
+                685,
+                754,
+                714
+            ],
+            "label": "drawee_address",
+            "text": "PO",
+            "words": [
+                {
+                    "text": "PO",
+                    "box": [
+                        720,
+                        685,
+                        754,
+                        714
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 23,
+            "box": [
+                774,
+                685,
+                828,
+                715
+            ],
+            "label": "drawee_address",
+            "text": "BOX",
+            "words": [
+                {
+                    "text": "BOX",
+                    "box": [
+                        774,
+                        685,
+                        828,
+                        715
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 24,
+            "box": [
+                849,
+                685,
+                927,
+                718
+            ],
+            "label": "drawee_address",
+            "text": "2484,",
+            "words": [
+                {
+                    "text": "2484,",
+                    "box": [
+                        849,
+                        685,
+                        927,
+                        718
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 25,
+            "box": [
+                958,
+                684,
+                993,
+                714
+            ],
+            "label": "drawee_address",
+            "text": "AL",
+            "words": [
+                {
+                    "text": "AL",
+                    "box": [
+                        958,
+                        684,
+                        993,
+                        714
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 26,
+            "box": [
+                1013,
+                684,
+                1123,
+                714
+            ],
+            "label": "drawee_address",
+            "text": "MASRAF",
+            "words": [
+                {
+                    "text": "MASRAF",
+                    "box": [
+                        1013,
+                        684,
+                        1123,
+                        714
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 27,
+            "box": [
+                1142,
+                684,
+                1240,
+                717
+            ],
+            "label": "drawee_address",
+            "text": "TOWER,",
+            "words": [
+                {
+                    "text": "TOWER,",
+                    "box": [
+                        1142,
+                        684,
+                        1240,
+                        717
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 28,
+            "box": [
+                719,
+                732,
+                762,
+                762
+            ],
+            "label": "drawee_address",
+            "text": "SH.",
+            "words": [
+                {
+                    "text": "SH.",
+                    "box": [
+                        719,
+                        732,
+                        762,
+                        762
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 29,
+            "box": [
+                774,
+                732,
+                883,
+                762
+            ],
+            "label": "drawee_address",
+            "text": "HAMDAN",
+            "words": [
+                {
+                    "text": "HAMDAN",
+                    "box": [
+                        774,
+                        732,
+                        883,
+                        762
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 30,
+            "box": [
+                903,
+                732,
+                1019,
+                766
+            ],
+            "label": "drawee_address",
+            "text": "STREET,",
+            "words": [
+                {
+                    "text": "STREET,",
+                    "box": [
+                        903,
+                        732,
+                        1019,
+                        766
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 31,
+            "box": [
+                1050,
+                732,
+                1103,
+                762
+            ],
+            "label": "drawee_address",
+            "text": "ABU",
+            "words": [
+                {
+                    "text": "ABU",
+                    "box": [
+                        1050,
+                        732,
+                        1103,
+                        762
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 32,
+            "box": [
+                1124,
+                732,
+                1222,
+                766
+            ],
+            "label": "drawee_address",
+            "text": "DHABI,",
+            "words": [
+                {
+                    "text": "DHABI,",
+                    "box": [
+                        1124,
+                        732,
+                        1222,
+                        766
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 33,
+            "box": [
+                1253,
+                731,
+                1351,
+                762
+            ],
+            "label": "drawee_address",
+            "text": "U.A.E.",
+            "words": [
+                {
+                    "text": "U.A.E.",
+                    "box": [
+                        1253,
+                        731,
+                        1351,
+                        762
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 528,
+            "box": [
+                1576,
+                631,
+                1640,
+                673
+            ],
+            "label": "other",
+            "text": "L/C",
+            "words": [
+                {
+                    "text": "L/C",
+                    "box": [
+                        1576,
+                        631,
+                        1640,
+                        673
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 529,
+            "box": [
+                1669,
+                633,
+                1814,
+                668
+            ],
+            "label": "other",
+            "text": "ISSUING",
+            "words": [
+                {
+                    "text": "ISSUING",
+                    "box": [
+                        1669,
+                        633,
+                        1814,
+                        668
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 530,
+            "box": [
+                1838,
+                633,
+                1924,
+                667
+            ],
+            "label": "other",
+            "text": "BANK",
+            "words": [
+                {
+                    "text": "BANK",
+                    "box": [
+                        1838,
+                        633,
+                        1924,
+                        667
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 34,
+            "box": [
+                1575,
+                731,
+                1647,
+                761
+            ],
+            "label": "drawee_bank_name",
+            "text": "ARAB",
+            "words": [
+                {
+                    "text": "ARAB",
+                    "box": [
+                        1575,
+                        731,
+                        1647,
+                        761
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 35,
+            "box": [
+                1668,
+                731,
+                1740,
+                761
+            ],
+            "label": "drawee_bank_name",
+            "text": "BANK",
+            "words": [
+                {
+                    "text": "BANK",
+                    "box": [
+                        1668,
+                        731,
+                        1740,
+                        761
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 36,
+            "box": [
+                1761,
+                731,
+                1813,
+                761
+            ],
+            "label": "drawee_bank_name",
+            "text": "FOR",
+            "words": [
+                {
+                    "text": "FOR",
+                    "box": [
+                        1761,
+                        731,
+                        1813,
+                        761
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 37,
+            "box": [
+                1839,
+                730,
+                2017,
+                760
+            ],
+            "label": "drawee_bank_name",
+            "text": "INVESTMENT",
+            "words": [
+                {
+                    "text": "INVESTMENT",
+                    "box": [
+                        1839,
+                        730,
+                        2017,
+                        760
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 38,
+            "box": [
+                2037,
+                730,
+                2090,
+                760
+            ],
+            "label": "drawee_bank_name",
+            "text": "AND",
+            "words": [
+                {
+                    "text": "AND",
+                    "box": [
+                        2037,
+                        730,
+                        2090,
+                        760
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 39,
+            "box": [
+                1576,
+                778,
+                1702,
+                808
+            ],
+            "label": "drawee_bank_name",
+            "text": "FOREIGN",
+            "words": [
+                {
+                    "text": "FOREIGN",
+                    "box": [
+                        1576,
+                        778,
+                        1702,
+                        808
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 40,
+            "box": [
+                1724,
+                778,
+                1813,
+                808
+            ],
+            "label": "drawee_bank_name",
+            "text": "TRADE",
+            "words": [
+                {
+                    "text": "TRADE",
+                    "box": [
+                        1724,
+                        778,
+                        1813,
+                        808
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 531,
+            "box": [
+                1576,
+                825,
+                1648,
+                856
+            ],
+            "label": "other",
+            "text": "HEAD",
+            "words": [
+                {
+                    "text": "HEAD",
+                    "box": [
+                        1576,
+                        825,
+                        1648,
+                        856
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 532,
+            "box": [
+                1668,
+                825,
+                1777,
+                855
+            ],
+            "label": "other",
+            "text": "OFFICE",
+            "words": [
+                {
+                    "text": "OFFICE",
+                    "box": [
+                        1668,
+                        825,
+                        1777,
+                        855
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 41,
+            "box": [
+                1575,
+                873,
+                1628,
+                903
+            ],
+            "label": "drawee_bank_address",
+            "text": "ABU",
+            "words": [
+                {
+                    "text": "ABU",
+                    "box": [
+                        1575,
+                        873,
+                        1628,
+                        903
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 42,
+            "box": [
+                1650,
+                873,
+                1735,
+                902
+            ],
+            "label": "drawee_bank_address",
+            "text": "DHABI",
+            "words": [
+                {
+                    "text": "DHABI",
+                    "box": [
+                        1650,
+                        873,
+                        1735,
+                        902
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 43,
+            "box": [
+                1761,
+                872,
+                1869,
+                902
+            ],
+            "label": "drawee_bank_address",
+            "text": "UNITED",
+            "words": [
+                {
+                    "text": "UNITED",
+                    "box": [
+                        1761,
+                        872,
+                        1869,
+                        902
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 44,
+            "box": [
+                1889,
+                872,
+                1962,
+                902
+            ],
+            "label": "drawee_bank_address",
+            "text": "ARAB",
+            "words": [
+                {
+                    "text": "ARAB",
+                    "box": [
+                        1889,
+                        872,
+                        1962,
+                        902
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 45,
+            "box": [
+                1983,
+                872,
+                2127,
+                902
+            ],
+            "label": "drawee_bank_address",
+            "text": "EMIRATES",
+            "words": [
+                {
+                    "text": "EMIRATES",
+                    "box": [
+                        1983,
+                        872,
+                        2127,
+                        902
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 533,
+            "box": [
+                118,
+                970,
+                153,
+                999
+            ],
+            "label": "other",
+            "text": "WE",
+            "words": [
+                {
+                    "text": "WE",
+                    "box": [
+                        118,
+                        970,
+                        153,
+                        999
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 534,
+            "box": [
+                174,
+                969,
+                301,
+                999
+            ],
+            "label": "other",
+            "text": "ENCLOSE",
+            "words": [
+                {
+                    "text": "ENCLOSE",
+                    "box": [
+                        174,
+                        969,
+                        301,
+                        999
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 535,
+            "box": [
+                321,
+                969,
+                466,
+                999
+            ],
+            "label": "other",
+            "text": "HEREWITH",
+            "words": [
+                {
+                    "text": "HEREWITH",
+                    "box": [
+                        321,
+                        969,
+                        466,
+                        999
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 536,
+            "box": [
+                488,
+                969,
+                540,
+                999
+            ],
+            "label": "other",
+            "text": "THE",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        488,
+                        969,
+                        540,
+                        999
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 537,
+            "box": [
+                561,
+                968,
+                817,
+                998
+            ],
+            "label": "other",
+            "text": "UNDERMENTIONED",
+            "words": [
+                {
+                    "text": "UNDERMENTIONED",
+                    "box": [
+                        561,
+                        968,
+                        817,
+                        998
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 538,
+            "box": [
+                838,
+                968,
+                946,
+                998
+            ],
+            "label": "other",
+            "text": "DRAFTS",
+            "words": [
+                {
+                    "text": "DRAFTS",
+                    "box": [
+                        838,
+                        968,
+                        946,
+                        998
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 539,
+            "box": [
+                966,
+                967,
+                1019,
+                998
+            ],
+            "label": "other",
+            "text": "AND",
+            "words": [
+                {
+                    "text": "AND",
+                    "box": [
+                        966,
+                        967,
+                        1019,
+                        998
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 540,
+            "box": [
+                1040,
+                967,
+                1203,
+                997
+            ],
+            "label": "other",
+            "text": "DOCUMENTS",
+            "words": [
+                {
+                    "text": "DOCUMENTS",
+                    "box": [
+                        1040,
+                        967,
+                        1203,
+                        997
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 541,
+            "box": [
+                1225,
+                967,
+                1278,
+                997
+            ],
+            "label": "other",
+            "text": "FOR",
+            "words": [
+                {
+                    "text": "FOR",
+                    "box": [
+                        1225,
+                        967,
+                        1278,
+                        997
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 542,
+            "box": [
+                163,
+                1017,
+                381,
+                1047
+            ],
+            "label": "other",
+            "text": "PRESENTATION",
+            "words": [
+                {
+                    "text": "PRESENTATION",
+                    "box": [
+                        163,
+                        1017,
+                        381,
+                        1047
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 543,
+            "box": [
+                401,
+                1017,
+                436,
+                1047
+            ],
+            "label": "other",
+            "text": "AS",
+            "words": [
+                {
+                    "text": "AS",
+                    "box": [
+                        401,
+                        1017,
+                        436,
+                        1047
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 544,
+            "box": [
+                457,
+                1017,
+                511,
+                1046
+            ],
+            "label": "other",
+            "text": "PER",
+            "words": [
+                {
+                    "text": "PER",
+                    "box": [
+                        457,
+                        1017,
+                        511,
+                        1046
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 545,
+            "box": [
+                531,
+                1016,
+                584,
+                1046
+            ],
+            "label": "other",
+            "text": "THE",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        531,
+                        1016,
+                        584,
+                        1046
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 546,
+            "box": [
+                605,
+                1016,
+                713,
+                1046
+            ],
+            "label": "other",
+            "text": "CREDIT",
+            "words": [
+                {
+                    "text": "CREDIT",
+                    "box": [
+                        605,
+                        1016,
+                        713,
+                        1046
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 547,
+            "box": [
+                734,
+                1016,
+                832,
+                1046
+            ],
+            "label": "other",
+            "text": "TERMS.",
+            "words": [
+                {
+                    "text": "TERMS.",
+                    "box": [
+                        734,
+                        1016,
+                        832,
+                        1046
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 548,
+            "box": [
+                120,
+                1109,
+                172,
+                1145
+            ],
+            "label": "other",
+            "text": "L/C",
+            "words": [
+                {
+                    "text": "L/C",
+                    "box": [
+                        120,
+                        1109,
+                        172,
+                        1145
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 549,
+            "box": [
+                193,
+                1111,
+                235,
+                1141
+            ],
+            "label": "other",
+            "text": "NO.",
+            "words": [
+                {
+                    "text": "NO.",
+                    "box": [
+                        193,
+                        1111,
+                        235,
+                        1141
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 46,
+            "box": [
+                291,
+                1110,
+                509,
+                1140
+            ],
+            "label": "csh_drawn_under_lc_number",
+            "text": "TF2104700002",
+            "words": [
+                {
+                    "text": "TF2104700002",
+                    "box": [
+                        291,
+                        1110,
+                        509,
+                        1140
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 550,
+            "box": [
+                723,
+                1109,
+                827,
+                1139
+            ],
+            "label": "other",
+            "text": "ISSUED",
+            "words": [
+                {
+                    "text": "ISSUED",
+                    "box": [
+                        723,
+                        1109,
+                        827,
+                        1139
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 551,
+            "box": [
+                848,
+                1109,
+                932,
+                1139
+            ],
+            "label": "other",
+            "text": "DATE:",
+            "words": [
+                {
+                    "text": "DATE:",
+                    "box": [
+                        848,
+                        1109,
+                        932,
+                        1139
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 552,
+            "box": [
+                1277,
+                1108,
+                1367,
+                1138
+            ],
+            "label": "other",
+            "text": "DRAFT",
+            "words": [
+                {
+                    "text": "DRAFT",
+                    "box": [
+                        1277,
+                        1108,
+                        1367,
+                        1138
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 553,
+            "box": [
+                1387,
+                1108,
+                1431,
+                1138
+            ],
+            "label": "other",
+            "text": "NO.",
+            "words": [
+                {
+                    "text": "NO.",
+                    "box": [
+                        1387,
+                        1108,
+                        1431,
+                        1138
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 554,
+            "box": [
+                1490,
+                1107,
+                1709,
+                1138
+            ],
+            "label": "other",
+            "text": "TF2104700002",
+            "words": [
+                {
+                    "text": "TF2104700002",
+                    "box": [
+                        1490,
+                        1107,
+                        1709,
+                        1138
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 555,
+            "box": [
+                120,
+                1158,
+                222,
+                1188
+            ],
+            "label": "other",
+            "text": "TENOR:",
+            "words": [
+                {
+                    "text": "TENOR:",
+                    "box": [
+                        120,
+                        1158,
+                        222,
+                        1188
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 47,
+            "box": [
+                249,
+                1157,
+                283,
+                1187
+            ],
+            "label": "tenor_indicator",
+            "text": "AT",
+            "words": [
+                {
+                    "text": "AT",
+                    "box": [
+                        249,
+                        1157,
+                        283,
+                        1187
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 48,
+            "box": [
+                304,
+                1157,
+                394,
+                1187
+            ],
+            "label": "tenor_indicator",
+            "text": "SIGHT",
+            "words": [
+                {
+                    "text": "SIGHT",
+                    "box": [
+                        304,
+                        1157,
+                        394,
+                        1187
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 556,
+            "box": [
+                1147,
+                1156,
+                1200,
+                1186
+            ],
+            "label": "other",
+            "text": "DUE",
+            "words": [
+                {
+                    "text": "DUE",
+                    "box": [
+                        1147,
+                        1156,
+                        1200,
+                        1186
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 557,
+            "box": [
+                1221,
+                1156,
+                1306,
+                1186
+            ],
+            "label": "other",
+            "text": "DATE:",
+            "words": [
+                {
+                    "text": "DATE:",
+                    "box": [
+                        1221,
+                        1156,
+                        1306,
+                        1186
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 558,
+            "box": [
+                1619,
+                1153,
+                1672,
+                1189
+            ],
+            "label": "other",
+            "text": "B/L",
+            "words": [
+                {
+                    "text": "B/L",
+                    "box": [
+                        1619,
+                        1153,
+                        1672,
+                        1189
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 559,
+            "box": [
+                1693,
+                1155,
+                1777,
+                1185
+            ],
+            "label": "other",
+            "text": "DATE:",
+            "words": [
+                {
+                    "text": "DATE:",
+                    "box": [
+                        1693,
+                        1155,
+                        1777,
+                        1185
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 560,
+            "box": [
+                1835,
+                1154,
+                2016,
+                1184
+            ],
+            "label": "other",
+            "text": "2021-03-09",
+            "words": [
+                {
+                    "text": "2021-03-09",
+                    "box": [
+                        1835,
+                        1154,
+                        2016,
+                        1184
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 561,
+            "box": [
+                119,
+                1204,
+                332,
+                1235
+            ],
+            "label": "other",
+            "text": "DESTINATION:",
+            "words": [
+                {
+                    "text": "DESTINATION:",
+                    "box": [
+                        119,
+                        1204,
+                        332,
+                        1235
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 562,
+            "box": [
+                119,
+                1299,
+                209,
+                1329
+            ],
+            "label": "other",
+            "text": "DRAFT",
+            "words": [
+                {
+                    "text": "DRAFT",
+                    "box": [
+                        119,
+                        1299,
+                        209,
+                        1329
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 563,
+            "box": [
+                229,
+                1299,
+                338,
+                1329
+            ],
+            "label": "other",
+            "text": "AMOUNT",
+            "words": [
+                {
+                    "text": "AMOUNT",
+                    "box": [
+                        229,
+                        1299,
+                        338,
+                        1329
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 49,
+            "box": [
+                164,
+                1342,
+                226,
+                1377
+            ],
+            "label": "csh_bill_currency",
+            "text": "USD",
+            "words": [
+                {
+                    "text": "USD",
+                    "box": [
+                        164,
+                        1342,
+                        226,
+                        1377
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 564,
+            "box": [
+                623,
+                1340,
+                792,
+                1379
+            ],
+            "label": "other",
+            "text": "5,616.00",
+            "words": [
+                {
+                    "text": "5,616.00",
+                    "box": [
+                        623,
+                        1340,
+                        792,
+                        1379
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 565,
+            "box": [
+                892,
+                1345,
+                1017,
+                1375
+            ],
+            "label": "other",
+            "text": "DETAILS",
+            "words": [
+                {
+                    "text": "DETAILS",
+                    "box": [
+                        892,
+                        1345,
+                        1017,
+                        1375
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 566,
+            "box": [
+                1362,
+                1296,
+                1406,
+                1329
+            ],
+            "label": "other",
+            "text": "%P.",
+            "words": [
+                {
+                    "text": "%P.",
+                    "box": [
+                        1362,
+                        1296,
+                        1406,
+                        1329
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 567,
+            "box": [
+                1411,
+                1296,
+                1442,
+                1329
+            ],
+            "label": "other",
+            "text": "A.",
+            "words": [
+                {
+                    "text": "A.",
+                    "box": [
+                        1411,
+                        1296,
+                        1442,
+                        1329
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 568,
+            "box": [
+                1792,
+                1307,
+                1821,
+                1316
+            ],
+            "label": "other",
+            "text": "\u2014",
+            "words": [
+                {
+                    "text": "\u2014",
+                    "box": [
+                        1792,
+                        1307,
+                        1821,
+                        1316
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 569,
+            "box": [
+                2177,
+                1295,
+                2248,
+                1325
+            ],
+            "label": "other",
+            "text": "DAYS",
+            "words": [
+                {
+                    "text": "DAYS",
+                    "box": [
+                        2177,
+                        1295,
+                        2248,
+                        1325
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 570,
+            "box": [
+                934,
+                1391,
+                969,
+                1420
+            ],
+            "label": "other",
+            "text": "OF",
+            "words": [
+                {
+                    "text": "OF",
+                    "box": [
+                        934,
+                        1391,
+                        969,
+                        1420
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 571,
+            "box": [
+                120,
+                1440,
+                209,
+                1471
+            ],
+            "label": "other",
+            "text": "TOTAL",
+            "words": [
+                {
+                    "text": "TOTAL",
+                    "box": [
+                        120,
+                        1440,
+                        209,
+                        1471
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 572,
+            "box": [
+                229,
+                1440,
+                338,
+                1470
+            ],
+            "label": "other",
+            "text": "AMOUNT",
+            "words": [
+                {
+                    "text": "AMOUNT",
+                    "box": [
+                        229,
+                        1440,
+                        338,
+                        1470
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 573,
+            "box": [
+                358,
+                1440,
+                393,
+                1470
+            ],
+            "label": "other",
+            "text": "TO",
+            "words": [
+                {
+                    "text": "TO",
+                    "box": [
+                        358,
+                        1440,
+                        393,
+                        1470
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 574,
+            "box": [
+                414,
+                1440,
+                448,
+                1470
+            ],
+            "label": "other",
+            "text": "BE",
+            "words": [
+                {
+                    "text": "BE",
+                    "box": [
+                        414,
+                        1440,
+                        448,
+                        1470
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 575,
+            "box": [
+                469,
+                1440,
+                541,
+                1470
+            ],
+            "label": "other",
+            "text": "PAID",
+            "words": [
+                {
+                    "text": "PAID",
+                    "box": [
+                        469,
+                        1440,
+                        541,
+                        1470
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 50,
+            "box": [
+                169,
+                1484,
+                230,
+                1519
+            ],
+            "label": "csh_bill_currency",
+            "text": "USD",
+            "words": [
+                {
+                    "text": "USD",
+                    "box": [
+                        169,
+                        1484,
+                        230,
+                        1519
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 51,
+            "box": [
+                600,
+                1483,
+                769,
+                1523
+            ],
+            "label": "csh_bill_amount",
+            "text": "5,616.00",
+            "words": [
+                {
+                    "text": "5,616.00",
+                    "box": [
+                        600,
+                        1483,
+                        769,
+                        1523
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 576,
+            "box": [
+                892,
+                1440,
+                1018,
+                1470
+            ],
+            "label": "other",
+            "text": "CHARGES",
+            "words": [
+                {
+                    "text": "CHARGES",
+                    "box": [
+                        892,
+                        1440,
+                        1018,
+                        1470
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 577,
+            "box": [
+                121,
+                1627,
+                283,
+                1657
+            ],
+            "label": "other",
+            "text": "DOCUMENTS",
+            "words": [
+                {
+                    "text": "DOCUMENTS",
+                    "box": [
+                        121,
+                        1627,
+                        283,
+                        1657
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 578,
+            "box": [
+                121,
+                1674,
+                265,
+                1704
+            ],
+            "label": "other",
+            "text": "ENCLOSED",
+            "words": [
+                {
+                    "text": "ENCLOSED",
+                    "box": [
+                        121,
+                        1674,
+                        265,
+                        1704
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 579,
+            "box": [
+                347,
+                1627,
+                437,
+                1657
+            ],
+            "label": "other",
+            "text": "DRAFT",
+            "words": [
+                {
+                    "text": "DRAFT",
+                    "box": [
+                        347,
+                        1627,
+                        437,
+                        1657
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 580,
+            "box": [
+                489,
+                1627,
+                546,
+                1657
+            ],
+            "label": "other",
+            "text": "INV.",
+            "words": [
+                {
+                    "text": "INV.",
+                    "box": [
+                        489,
+                        1627,
+                        546,
+                        1657
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 581,
+            "box": [
+                666,
+                1625,
+                719,
+                1660
+            ],
+            "label": "other",
+            "text": "B/L",
+            "words": [
+                {
+                    "text": "B/L",
+                    "box": [
+                        666,
+                        1625,
+                        719,
+                        1660
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 582,
+            "box": [
+                858,
+                1626,
+                912,
+                1656
+            ],
+            "label": "other",
+            "text": "AIR",
+            "words": [
+                {
+                    "text": "AIR",
+                    "box": [
+                        858,
+                        1626,
+                        912,
+                        1656
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 583,
+            "box": [
+                820,
+                1672,
+                948,
+                1702
+            ],
+            "label": "other",
+            "text": "WAYBILL",
+            "words": [
+                {
+                    "text": "WAYBILL",
+                    "box": [
+                        820,
+                        1672,
+                        948,
+                        1702
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 584,
+            "box": [
+                1056,
+                1624,
+                1103,
+                1660
+            ],
+            "label": "other",
+            "text": "I/P",
+            "words": [
+                {
+                    "text": "I/P",
+                    "box": [
+                        1056,
+                        1624,
+                        1103,
+                        1660
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 585,
+            "box": [
+                1223,
+                1625,
+                1276,
+                1655
+            ],
+            "label": "other",
+            "text": "PKG",
+            "words": [
+                {
+                    "text": "PKG",
+                    "box": [
+                        1223,
+                        1625,
+                        1276,
+                        1655
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 586,
+            "box": [
+                1214,
+                1671,
+                1284,
+                1701
+            ],
+            "label": "other",
+            "text": "LIST",
+            "words": [
+                {
+                    "text": "LIST",
+                    "box": [
+                        1214,
+                        1671,
+                        1284,
+                        1701
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 587,
+            "box": [
+                1335,
+                1628,
+                1420,
+                1651
+            ],
+            "label": "other",
+            "text": "WEIGHT",
+            "words": [
+                {
+                    "text": "WEIGHT",
+                    "box": [
+                        1335,
+                        1628,
+                        1420,
+                        1651
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 588,
+            "box": [
+                1350,
+                1674,
+                1405,
+                1698
+            ],
+            "label": "other",
+            "text": "LIST",
+            "words": [
+                {
+                    "text": "LIST",
+                    "box": [
+                        1350,
+                        1674,
+                        1405,
+                        1698
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 589,
+            "box": [
+                1465,
+                1624,
+                1541,
+                1653
+            ],
+            "label": "other",
+            "text": "INSP.",
+            "words": [
+                {
+                    "text": "INSP.",
+                    "box": [
+                        1465,
+                        1624,
+                        1541,
+                        1653
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 590,
+            "box": [
+                1470,
+                1672,
+                1542,
+                1701
+            ],
+            "label": "other",
+            "text": "CERT",
+            "words": [
+                {
+                    "text": "CERT",
+                    "box": [
+                        1470,
+                        1672,
+                        1542,
+                        1701
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 591,
+            "box": [
+                1600,
+                1627,
+                1661,
+                1651
+            ],
+            "label": "other",
+            "text": "CERT.",
+            "words": [
+                {
+                    "text": "CERT.",
+                    "box": [
+                        1600,
+                        1627,
+                        1661,
+                        1651
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 592,
+            "box": [
+                1593,
+                1675,
+                1677,
+                1699
+            ],
+            "label": "other",
+            "text": "ORIGIN",
+            "words": [
+                {
+                    "text": "ORIGIN",
+                    "box": [
+                        1593,
+                        1675,
+                        1677,
+                        1699
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 593,
+            "box": [
+                1727,
+                1623,
+                1799,
+                1653
+            ],
+            "label": "other",
+            "text": "BENE",
+            "words": [
+                {
+                    "text": "BENE",
+                    "box": [
+                        1727,
+                        1623,
+                        1799,
+                        1653
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 594,
+            "box": [
+                1728,
+                1671,
+                1799,
+                1701
+            ],
+            "label": "other",
+            "text": "CERT",
+            "words": [
+                {
+                    "text": "CERT",
+                    "box": [
+                        1728,
+                        1671,
+                        1799,
+                        1701
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 595,
+            "box": [
+                1902,
+                1623,
+                2011,
+                1653
+            ],
+            "label": "other",
+            "text": "OTHERS",
+            "words": [
+                {
+                    "text": "OTHERS",
+                    "box": [
+                        1902,
+                        1623,
+                        2011,
+                        1653
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 596,
+            "box": [
+                130,
+                1768,
+                180,
+                1797
+            ],
+            "label": "other",
+            "text": "1ST",
+            "words": [
+                {
+                    "text": "1ST",
+                    "box": [
+                        130,
+                        1768,
+                        180,
+                        1797
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 597,
+            "box": [
+                200,
+                1767,
+                272,
+                1797
+            ],
+            "label": "other",
+            "text": "MAIL",
+            "words": [
+                {
+                    "text": "MAIL",
+                    "box": [
+                        200,
+                        1767,
+                        272,
+                        1797
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 598,
+            "box": [
+                349,
+                1768,
+                364,
+                1797
+            ],
+            "label": "other",
+            "text": "2",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        349,
+                        1768,
+                        364,
+                        1797
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 599,
+            "box": [
+                476,
+                1767,
+                494,
+                1797
+            ],
+            "label": "other",
+            "text": "4",
+            "words": [
+                {
+                    "text": "4",
+                    "box": [
+                        476,
+                        1767,
+                        494,
+                        1797
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 600,
+            "box": [
+                611,
+                1765,
+                664,
+                1801
+            ],
+            "label": "other",
+            "text": "3/3",
+            "words": [
+                {
+                    "text": "3/3",
+                    "box": [
+                        611,
+                        1765,
+                        664,
+                        1801
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 601,
+            "box": [
+                1203,
+                1766,
+                1219,
+                1795
+            ],
+            "label": "other",
+            "text": "2",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        1203,
+                        1766,
+                        1219,
+                        1795
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 602,
+            "box": [
+                1590,
+                1765,
+                1606,
+                1795
+            ],
+            "label": "other",
+            "text": "2",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        1590,
+                        1765,
+                        1606,
+                        1795
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 603,
+            "box": [
+                1844,
+                1770,
+                1881,
+                1791
+            ],
+            "label": "other",
+            "text": "**",
+            "words": [
+                {
+                    "text": "**",
+                    "box": [
+                        1844,
+                        1770,
+                        1881,
+                        1791
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 604,
+            "box": [
+                128,
+                1862,
+                180,
+                1892
+            ],
+            "label": "other",
+            "text": "2ND",
+            "words": [
+                {
+                    "text": "2ND",
+                    "box": [
+                        128,
+                        1862,
+                        180,
+                        1892
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 605,
+            "box": [
+                200,
+                1862,
+                272,
+                1892
+            ],
+            "label": "other",
+            "text": "MAIL",
+            "words": [
+                {
+                    "text": "MAIL",
+                    "box": [
+                        200,
+                        1862,
+                        272,
+                        1892
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 606,
+            "box": [
+                121,
+                2332,
+                229,
+                2362
+            ],
+            "label": "other",
+            "text": "PLEASE",
+            "words": [
+                {
+                    "text": "PLEASE",
+                    "box": [
+                        121,
+                        2332,
+                        229,
+                        2362
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 607,
+            "box": [
+                250,
+                2332,
+                358,
+                2362
+            ],
+            "label": "other",
+            "text": "FOLLOW",
+            "words": [
+                {
+                    "text": "FOLLOW",
+                    "box": [
+                        250,
+                        2332,
+                        358,
+                        2362
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 608,
+            "box": [
+                378,
+                2332,
+                431,
+                2362
+            ],
+            "label": "other",
+            "text": "THE",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        378,
+                        2332,
+                        431,
+                        2362
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 609,
+            "box": [
+                456,
+                2332,
+                670,
+                2362
+            ],
+            "label": "other",
+            "text": "INSTRUCTIONS",
+            "words": [
+                {
+                    "text": "INSTRUCTIONS",
+                    "box": [
+                        456,
+                        2332,
+                        670,
+                        2362
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 610,
+            "box": [
+                119,
+                2382,
+                219,
+                2406
+            ],
+            "label": "other",
+            "text": "+PLEASE",
+            "words": [
+                {
+                    "text": "+PLEASE",
+                    "box": [
+                        119,
+                        2382,
+                        219,
+                        2406
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 611,
+            "box": [
+                234,
+                2382,
+                319,
+                2406
+            ],
+            "label": "other",
+            "text": "CREDIT",
+            "words": [
+                {
+                    "text": "CREDIT",
+                    "box": [
+                        234,
+                        2382,
+                        319,
+                        2406
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 612,
+            "box": [
+                335,
+                2382,
+                377,
+                2405
+            ],
+            "label": "other",
+            "text": "THE",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        335,
+                        2382,
+                        377,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 613,
+            "box": [
+                392,
+                2382,
+                505,
+                2405
+            ],
+            "label": "other",
+            "text": "PROCEEDS",
+            "words": [
+                {
+                    "text": "PROCEEDS",
+                    "box": [
+                        392,
+                        2382,
+                        505,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 614,
+            "box": [
+                522,
+                2382,
+                549,
+                2405
+            ],
+            "label": "other",
+            "text": "BY",
+            "words": [
+                {
+                    "text": "BY",
+                    "box": [
+                        522,
+                        2382,
+                        549,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 615,
+            "box": [
+                564,
+                2381,
+                635,
+                2405
+            ],
+            "label": "other",
+            "text": "SWIFT",
+            "words": [
+                {
+                    "text": "SWIFT",
+                    "box": [
+                        564,
+                        2381,
+                        635,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 616,
+            "box": [
+                651,
+                2382,
+                678,
+                2405
+            ],
+            "label": "other",
+            "text": "TO",
+            "words": [
+                {
+                    "text": "TO",
+                    "box": [
+                        651,
+                        2382,
+                        678,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 617,
+            "box": [
+                694,
+                2381,
+                779,
+                2405
+            ],
+            "label": "other",
+            "text": "MIZUHO",
+            "words": [
+                {
+                    "text": "MIZUHO",
+                    "box": [
+                        694,
+                        2381,
+                        779,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 618,
+            "box": [
+                796,
+                2381,
+                851,
+                2405
+            ],
+            "label": "other",
+            "text": "BANK",
+            "words": [
+                {
+                    "text": "BANK",
+                    "box": [
+                        796,
+                        2381,
+                        851,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 619,
+            "box": [
+                867,
+                2381,
+                915,
+                2405
+            ],
+            "label": "other",
+            "text": "LTD.",
+            "words": [
+                {
+                    "text": "LTD.",
+                    "box": [
+                        867,
+                        2381,
+                        915,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 620,
+            "box": [
+                924,
+                2381,
+                994,
+                2405
+            ],
+            "label": "other",
+            "text": "TOKYO",
+            "words": [
+                {
+                    "text": "TOKYO",
+                    "box": [
+                        924,
+                        2381,
+                        994,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 52,
+            "box": [
+                1001,
+                2380,
+                1131,
+                2407
+            ],
+            "label": "drawer_bank_bic",
+            "text": "(MHCBJPJT)",
+            "words": [
+                {
+                    "text": "(MHCBJPJT)",
+                    "box": [
+                        1001,
+                        2380,
+                        1131,
+                        2407
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 621,
+            "box": [
+                1168,
+                2381,
+                1209,
+                2405
+            ],
+            "label": "other",
+            "text": "USD",
+            "words": [
+                {
+                    "text": "USD",
+                    "box": [
+                        1168,
+                        2381,
+                        1209,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 622,
+            "box": [
+                1239,
+                2381,
+                1339,
+                2405
+            ],
+            "label": "other",
+            "text": "ACCOUNT",
+            "words": [
+                {
+                    "text": "ACCOUNT",
+                    "box": [
+                        1239,
+                        2381,
+                        1339,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 623,
+            "box": [
+                1354,
+                2381,
+                1411,
+                2405
+            ],
+            "label": "other",
+            "text": "WITH",
+            "words": [
+                {
+                    "text": "WITH",
+                    "box": [
+                        1354,
+                        2381,
+                        1411,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 53,
+            "box": [
+                1456,
+                2381,
+                1475,
+                2405
+            ],
+            "label": "nostro_bank_name",
+            "text": "J.",
+            "words": [
+                {
+                    "text": "J.",
+                    "box": [
+                        1456,
+                        2381,
+                        1475,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 54,
+            "box": [
+                1485,
+                2381,
+                1504,
+                2405
+            ],
+            "label": "nostro_bank_name",
+            "text": "P.",
+            "words": [
+                {
+                    "text": "P.",
+                    "box": [
+                        1485,
+                        2381,
+                        1504,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 55,
+            "box": [
+                1513,
+                2381,
+                1598,
+                2405
+            ],
+            "label": "nostro_bank_name",
+            "text": "MORGAN",
+            "words": [
+                {
+                    "text": "MORGAN",
+                    "box": [
+                        1513,
+                        2381,
+                        1598,
+                        2405
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 56,
+            "box": [
+                1614,
+                2381,
+                1684,
+                2404
+            ],
+            "label": "nostro_bank_name",
+            "text": "CHASE",
+            "words": [
+                {
+                    "text": "CHASE",
+                    "box": [
+                        1614,
+                        2381,
+                        1684,
+                        2404
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 57,
+            "box": [
+                1700,
+                2381,
+                1762,
+                2408
+            ],
+            "label": "nostro_bank_name",
+            "text": "BANK,",
+            "words": [
+                {
+                    "text": "BANK,",
+                    "box": [
+                        1700,
+                        2381,
+                        1762,
+                        2408
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 58,
+            "box": [
+                1773,
+                2381,
+                1814,
+                2404
+            ],
+            "label": "nostro_bank_address",
+            "text": "NEW",
+            "words": [
+                {
+                    "text": "NEW",
+                    "box": [
+                        1773,
+                        2381,
+                        1814,
+                        2404
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 59,
+            "box": [
+                1829,
+                2381,
+                1892,
+                2408
+            ],
+            "label": "nostro_bank_address",
+            "text": "YORK,",
+            "words": [
+                {
+                    "text": "YORK,",
+                    "box": [
+                        1829,
+                        2381,
+                        1892,
+                        2408
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 624,
+            "box": [
+                1943,
+                2381,
+                1986,
+                2404
+            ],
+            "label": "other",
+            "text": "AND",
+            "words": [
+                {
+                    "text": "AND",
+                    "box": [
+                        1943,
+                        2381,
+                        1986,
+                        2404
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 625,
+            "box": [
+                2002,
+                2381,
+                2058,
+                2404
+            ],
+            "label": "other",
+            "text": "SEND",
+            "words": [
+                {
+                    "text": "SEND",
+                    "box": [
+                        2002,
+                        2381,
+                        2058,
+                        2404
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 626,
+            "box": [
+                2074,
+                2381,
+                2160,
+                2404
+            ],
+            "label": "other",
+            "text": "ADVICE",
+            "words": [
+                {
+                    "text": "ADVICE",
+                    "box": [
+                        2074,
+                        2381,
+                        2160,
+                        2404
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 627,
+            "box": [
+                2175,
+                2381,
+                2202,
+                2404
+            ],
+            "label": "other",
+            "text": "TO",
+            "words": [
+                {
+                    "text": "TO",
+                    "box": [
+                        2175,
+                        2381,
+                        2202,
+                        2404
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 628,
+            "box": [
+                2219,
+                2381,
+                2252,
+                2404
+            ],
+            "label": "other",
+            "text": "US.",
+            "words": [
+                {
+                    "text": "US.",
+                    "box": [
+                        2219,
+                        2381,
+                        2252,
+                        2404
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 629,
+            "box": [
+                119,
+                2524,
+                162,
+                2548
+            ],
+            "label": "other",
+            "text": "+WE",
+            "words": [
+                {
+                    "text": "+WE",
+                    "box": [
+                        119,
+                        2524,
+                        162,
+                        2548
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 630,
+            "box": [
+                177,
+                2524,
+                276,
+                2548
+            ],
+            "label": "other",
+            "text": "CERTIFY",
+            "words": [
+                {
+                    "text": "CERTIFY",
+                    "box": [
+                        177,
+                        2524,
+                        276,
+                        2548
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 631,
+            "box": [
+                292,
+                2524,
+                347,
+                2548
+            ],
+            "label": "other",
+            "text": "THAT",
+            "words": [
+                {
+                    "text": "THAT",
+                    "box": [
+                        292,
+                        2524,
+                        347,
+                        2548
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 632,
+            "box": [
+                362,
+                2524,
+                405,
+                2548
+            ],
+            "label": "other",
+            "text": "ALL",
+            "words": [
+                {
+                    "text": "ALL",
+                    "box": [
+                        362,
+                        2524,
+                        405,
+                        2548
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 633,
+            "box": [
+                421,
+                2524,
+                462,
+                2547
+            ],
+            "label": "other",
+            "text": "OUR",
+            "words": [
+                {
+                    "text": "OUR",
+                    "box": [
+                        421,
+                        2524,
+                        462,
+                        2547
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 634,
+            "box": [
+                479,
+                2524,
+                577,
+                2547
+            ],
+            "label": "other",
+            "text": "CHARGES",
+            "words": [
+                {
+                    "text": "CHARGES",
+                    "box": [
+                        479,
+                        2524,
+                        577,
+                        2547
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 635,
+            "box": [
+                593,
+                2523,
+                678,
+                2550
+            ],
+            "label": "other",
+            "text": "AND/OR",
+            "words": [
+                {
+                    "text": "AND/OR",
+                    "box": [
+                        593,
+                        2523,
+                        678,
+                        2550
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 636,
+            "box": [
+                694,
+                2523,
+                736,
+                2547
+            ],
+            "label": "other",
+            "text": "ALL",
+            "words": [
+                {
+                    "text": "ALL",
+                    "box": [
+                        694,
+                        2523,
+                        736,
+                        2547
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 637,
+            "box": [
+                752,
+                2523,
+                850,
+                2547
+            ],
+            "label": "other",
+            "text": "CHARGES",
+            "words": [
+                {
+                    "text": "CHARGES",
+                    "box": [
+                        752,
+                        2523,
+                        850,
+                        2547
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 638,
+            "box": [
+                867,
+                2524,
+                894,
+                2547
+            ],
+            "label": "other",
+            "text": "OF",
+            "words": [
+                {
+                    "text": "OF",
+                    "box": [
+                        867,
+                        2524,
+                        894,
+                        2547
+                    ]
+                }
+            ],
+            "linking": []
+        },
+        {
+            "id": 639,
+            "box": [
+                910,
+                2524,
+                951,
+                2547
+            ],
+            "label": "other",
+            "text": "THE",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        910,
+                        2524,
+                        951,
+                        2547
+                    ]
+                }
+            ],
+            "linking": []
+        }
+    ]
+}

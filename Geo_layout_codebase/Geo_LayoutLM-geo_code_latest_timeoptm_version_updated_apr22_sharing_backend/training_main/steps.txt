@@ -1,0 +1,59 @@
+Viewed README.md:1-257
+Listed directory training_main
+Listed directory main
+Viewed finetune_funsd.yaml:1-72
+Viewed __init__.py:1-166
+Viewed train.py:1-61
+Viewed preprocess_for_training.py:1-227
+
+Here is a detailed, step-by-step guide on how to perform training using this GeoLayoutLM codebase, based on the [README.md](cci:7://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/README.md:0:0-0:0) and the internal scripts.
+
+The training pipeline requires sequential data preparation, configuration adjustments, and finally executing the PyTorch Lightning trainer. 
+
+---
+
+### Step 1: Data Preparation (OCR Generation)
+Before you can train the model, you need to extract text and bounding boxes from your images. This repository supports AWS and Google Vision:
+- **Using AWS:** Run `python aws.py`
+- **Using Google Vision:** Ensure you have the raw OCR data, then run `python funsd_gv.py`. 
+  - *Script change required:* Open [funsd_gv.py](cci:7://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/funsd_gv.py:0:0-0:0) and update the `OCR_PATH` and `ROOT_PATH` variables to point to your specific raw data directories.
+
+### Step 2: Convert to FUNSD Format
+The model expects data mapped to a FUNSD-style format (where documents are represented as linked lists of word blocks, labels, and bounding boxes).
+- **Run:** `python ./preprocess/custom/prepare_data_final.py`
+- *Script change required:* Open the script and modify the `ROOT_PATH` to point to the directory containing your labeled target data.
+
+### Step 3: Process Data for Training
+This step uses the `bert-base-uncased` tokenizer to convert words into tokens, associates annotations with tokens, defines spatial mappings, and prepares train/test splits.
+- **Run:** `python ./preprocess/custom/preprocess_for_training.py`
+- *Alternative:* You can also pass the root path directly via CLI: `python ./preprocess/custom/preprocess_for_training.py --root_path /path/to/your/data`
+- *Script change required:* Ensure that `label.txt` (which contains your class list) and your `data_in_funsd_format` folder are correctly referenced by the paths in this script.
+
+*(Optional Custom Data Split)*:
+If you want to manually dictate which files go to [train](cci:1://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/utils/__init__.py:99:4-110:43), `test`, or `eval` (rather than allowing the tokenizer script to split them randomly), the README mentions a `custom_split` configuration block you can put into place by specifying exact paths to `train_files.txt` and `test_files.txt`.
+
+### Step 4: Configuration Setup
+Before kicking off the training run, you must align the configuration files to match your custom datasets.
+
+1. **[configs/finetune_funsd.yaml](cci:7://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/configs/finetune_funsd.yaml:0:0-0:0)**
+   - **`workspace:`** Where you want the system to dump checkpoint models and tensorboard logs.
+   - **`dataset:`** Set this to `custom`.
+   - **`dataset_root_path:`** Ensure this points to the newly created `dataset/custom_geo` folder from Step 3.
+   - **Training Parameters:** Under the [train](cci:1://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/utils/__init__.py:99:4-110:43) block, adjust your `batch_size`, `max_epochs`, and particularly `num_samples_per_epoch` (the README recommends setting this to your total number of samples divided by 3).
+
+2. **[utils/__init__.py](cci:7://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/utils/__init__.py:0:0-0:0)**
+   - Looking closely at this script, the code automatically determines `num_classes` by reading your `label.txt` dynamically and mathematically calculating `cfg.model.n_classes = 2 * num_classes + 1`.
+   - Check the [_update_config](cci:1://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/utils/__init__.py:41:0-71:45) function in this file to verify that `root_path` and `cfg.workspace` are properly mapped to where you intend them to be.
+
+3. **Pre-trained Weights**
+   - You must have the base pre-trained `.pt` model (e.g. `geolayoutlm_large_pretrain.pt`). Ensure that the `pretrained_model_file` line in your YAML is uncommented or points correctly to the location where you downloaded it.
+
+### Step 5: Execute Training
+Once data is prepared and paths are verified, you can initialize the training script.
+
+- **Run:** `CUDA_VISIBLE_DEVICES=0 python train.py --config=configs/finetune_funsd.yaml`
+- **What happens under the hood:** 
+  - [train.py](cci:7://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/train.py:0:0-0:0) utilizes PyTorch Lightning. It seeds the environment for reproducibility and loads your YAML configuration.
+  - It registers [CustomModelCheckpoint](cci:2://file:///datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Geo_layout_codebase/Geo_LayoutLM-geo_code_latest_timeoptm_version_updated_apr22_sharing_backend/training_main/main/utils/__init__.py:95:0-110:43) callbacks to monitor the validation `f1_labeling` (Semantic Entity Recognition) and `f1_linking` (Relation Extraction).
+  - It loads the generic `GeoLayoutLMVIEModule` model, injects your task-specific configurations, initializes the `VIEDataModule`, and executes `trainer.fit()` safely.
+  - Best-performing models will be checkpointed inside `<workspace>/checkpoints/`.

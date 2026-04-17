@@ -1,0 +1,869 @@
+================================================================================
+TESSERACT OCR RESULTS
+================================================================================
+
+Image: /datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images/Trade Finance_20210208071246_1.00_page_4.jpeg
+Total words detected: 165
+Timestamp: 2026-04-14T09:56:41.098335
+
+RAW TEXT:
+--------------------------------------------------------------------------------
+GINOX
+BILL OF EXCHANGE
+Date:_ 28 January 2021
+Drawn under Irrevocable Documentary Credit No :'TE2036500018
+Amounting : AED 400,00.00
+Dated: _ 31 December 2020
+Issued by: _ ARAB BANK FOR INVESTMENT AND FOREIGN TRADE
+Draft Amount :_ AED 125,806.35
+Draft Amount in words:_ One Hundred Twenty Five Thousand Eight Hundred Six Dirhams and
+Thirty Five Fils Only.
+At 90 Days from Delivery Date dated 05 January 2021, Please pay against this Bill of Exchange
+to the order of — ABU DHABI COMMERCIAL BANK , Trade Finance Department, P.O.Box
+38660, Abu Dhabi, U.A.E a sum of AED 125,806.35 ( One Hundred Twenty Five Thousand Eight
+Hundred Six Dirhams and Thirty Five Fils) Only for our invoice No._PSJ210021 dated _12
+January 202.
+To:_ ARAB BANK FOR INVESTMENT AND FOREIGN TRADE
+ed
+Zo etl oag .
+RP tory % Ny
+/' «(ari
+© ,0, Box: 14527 | *&
+(| VI | WAYS Kalman
+YN UAE. ty
+OUR
+Chailly-Montreux | Geneva | Zurich | Dubai | Bangkok | www.ginoxgroup.com
+
+
+WORD-BY-WORD WITH BOUNDING BOXES:
+--------------------------------------------------------------------------------
+   1. Word: 'GINOX'
+     Position: (324, 410) - (574, 499)
+     Size: 250 x 89
+     Confidence: 81%
+
+   2. Word: 'BILL'
+     Position: (917, 663) - (1065, 706)
+     Size: 148 x 43
+     Confidence: 94%
+
+   3. Word: 'OF'
+     Position: (1084, 662) - (1168, 706)
+     Size: 84 x 44
+     Confidence: 94%
+
+   4. Word: 'EXCHANGE'
+     Position: (1186, 661) - (1547, 706)
+     Size: 361 x 45
+     Confidence: 95%
+
+   5. Word: 'Date:_'
+     Position: (342, 926) - (440, 957)
+     Size: 98 x 31
+     Confidence: 71%
+
+   6. Word: '28'
+     Position: (487, 925) - (528, 956)
+     Size: 41 x 31
+     Confidence: 71%
+
+   7. Word: 'January'
+     Position: (542, 926) - (675, 965)
+     Size: 133 x 39
+     Confidence: 96%
+
+   8. Word: '2021'
+     Position: (687, 925) - (767, 956)
+     Size: 80 x 31
+     Confidence: 96%
+
+   9. Word: 'Drawn'
+     Position: (343, 976) - (468, 1007)
+     Size: 125 x 31
+     Confidence: 96%
+
+  10. Word: 'under'
+     Position: (482, 976) - (592, 1006)
+     Size: 110 x 30
+     Confidence: 96%
+
+  11. Word: 'Irrevocable'
+     Position: (603, 975) - (815, 1006)
+     Size: 212 x 31
+     Confidence: 96%
+
+  12. Word: 'Documentary'
+     Position: (827, 975) - (1078, 1013)
+     Size: 251 x 38
+     Confidence: 96%
+
+  13. Word: 'Credit'
+     Position: (1089, 974) - (1209, 1004)
+     Size: 120 x 30
+     Confidence: 96%
+
+  14. Word: 'No'
+     Position: (1221, 974) - (1272, 1004)
+     Size: 51 x 30
+     Confidence: 91%
+
+  15. Word: ':'TE2036500018'
+     Position: (1287, 973) - (1571, 1004)
+     Size: 284 x 31
+     Confidence: 17%
+
+  16. Word: 'Amounting'
+     Position: (342, 1025) - (552, 1064)
+     Size: 210 x 39
+     Confidence: 91%
+
+  17. Word: ':'
+     Position: (567, 1034) - (573, 1056)
+     Size: 6 x 22
+     Confidence: 85%
+
+  18. Word: 'AED'
+     Position: (586, 1025) - (674, 1055)
+     Size: 88 x 30
+     Confidence: 92%
+
+  19. Word: '400,00.00'
+     Position: (686, 1024) - (855, 1062)
+     Size: 169 x 38
+     Confidence: 89%
+
+  20. Word: 'Dated:'
+     Position: (343, 1075) - (463, 1106)
+     Size: 120 x 31
+     Confidence: 92%
+
+  21. Word: '_'
+     Position: (486, 1069) - (503, 1118)
+     Size: 17 x 49
+     Confidence: 78%
+
+  22. Word: '31'
+     Position: (510, 1075) - (547, 1105)
+     Size: 37 x 30
+     Confidence: 96%
+
+  23. Word: 'December'
+     Position: (563, 1073) - (741, 1105)
+     Size: 178 x 32
+     Confidence: 96%
+
+  24. Word: '2020'
+     Position: (752, 1074) - (835, 1105)
+     Size: 83 x 31
+     Confidence: 96%
+
+  25. Word: 'Issued'
+     Position: (343, 1125) - (460, 1155)
+     Size: 117 x 30
+     Confidence: 96%
+
+  26. Word: 'by:'
+     Position: (474, 1125) - (527, 1163)
+     Size: 53 x 38
+     Confidence: 10%
+
+  27. Word: '_'
+     Position: (559, 1117) - (564, 1167)
+     Size: 5 x 50
+     Confidence: 10%
+
+  28. Word: 'ARAB'
+     Position: (562, 1124) - (680, 1154)
+     Size: 118 x 30
+     Confidence: 96%
+
+  29. Word: 'BANK'
+     Position: (693, 1124) - (815, 1154)
+     Size: 122 x 30
+     Confidence: 95%
+
+  30. Word: 'FOR'
+     Position: (826, 1123) - (911, 1154)
+     Size: 85 x 31
+     Confidence: 93%
+
+  31. Word: 'INVESTMENT'
+     Position: (921, 1123) - (1195, 1153)
+     Size: 274 x 30
+     Confidence: 96%
+
+  32. Word: 'AND'
+     Position: (1206, 1122) - (1299, 1152)
+     Size: 93 x 30
+     Confidence: 95%
+
+  33. Word: 'FOREIGN'
+     Position: (1311, 1122) - (1498, 1152)
+     Size: 187 x 30
+     Confidence: 95%
+
+  34. Word: 'TRADE'
+     Position: (1509, 1122) - (1654, 1152)
+     Size: 145 x 30
+     Confidence: 95%
+
+  35. Word: 'Draft'
+     Position: (344, 1323) - (445, 1354)
+     Size: 101 x 31
+     Confidence: 96%
+
+  36. Word: 'Amount'
+     Position: (456, 1323) - (627, 1353)
+     Size: 171 x 30
+     Confidence: 92%
+
+  37. Word: ':_'
+     Position: (621, 1317) - (655, 1366)
+     Size: 34 x 49
+     Confidence: 11%
+
+  38. Word: 'AED'
+     Position: (651, 1322) - (739, 1353)
+     Size: 88 x 31
+     Confidence: 43%
+
+  39. Word: '125,806.35'
+     Position: (755, 1321) - (942, 1359)
+     Size: 187 x 38
+     Confidence: 94%
+
+  40. Word: 'Draft'
+     Position: (343, 1423) - (445, 1454)
+     Size: 102 x 31
+     Confidence: 95%
+
+  41. Word: 'Amount'
+     Position: (456, 1423) - (607, 1454)
+     Size: 151 x 31
+     Confidence: 96%
+
+  42. Word: 'in'
+     Position: (618, 1422) - (652, 1453)
+     Size: 34 x 31
+     Confidence: 92%
+
+  43. Word: 'words:_'
+     Position: (664, 1422) - (788, 1453)
+     Size: 124 x 31
+     Confidence: 92%
+
+  44. Word: 'One'
+     Position: (824, 1422) - (895, 1453)
+     Size: 71 x 31
+     Confidence: 96%
+
+  45. Word: 'Hundred'
+     Position: (907, 1420) - (1057, 1452)
+     Size: 150 x 32
+     Confidence: 96%
+
+  46. Word: 'Twenty'
+     Position: (1068, 1421) - (1200, 1460)
+     Size: 132 x 39
+     Confidence: 96%
+
+  47. Word: 'Five'
+     Position: (1211, 1419) - (1287, 1452)
+     Size: 76 x 33
+     Confidence: 96%
+
+  48. Word: 'Thousand'
+     Position: (1309, 1419) - (1480, 1451)
+     Size: 171 x 32
+     Confidence: 95%
+
+  49. Word: 'Eight'
+     Position: (1502, 1419) - (1596, 1459)
+     Size: 94 x 40
+     Confidence: 95%
+
+  50. Word: 'Hundred'
+     Position: (1607, 1418) - (1758, 1450)
+     Size: 151 x 32
+     Confidence: 96%
+
+  51. Word: 'Six'
+     Position: (1771, 1418) - (1826, 1450)
+     Size: 55 x 32
+     Confidence: 96%
+
+  52. Word: 'Dirhams'
+     Position: (1838, 1418) - (1985, 1450)
+     Size: 147 x 32
+     Confidence: 96%
+
+  53. Word: 'and'
+     Position: (1998, 1417) - (2059, 1449)
+     Size: 61 x 32
+     Confidence: 96%
+
+  54. Word: 'Thirty'
+     Position: (343, 1472) - (451, 1512)
+     Size: 108 x 40
+     Confidence: 96%
+
+  55. Word: 'Five'
+     Position: (463, 1472) - (539, 1504)
+     Size: 76 x 32
+     Confidence: 96%
+
+  56. Word: 'Fils'
+     Position: (551, 1471) - (614, 1503)
+     Size: 63 x 32
+     Confidence: 96%
+
+  57. Word: 'Only.'
+     Position: (627, 1472) - (721, 1511)
+     Size: 94 x 39
+     Confidence: 96%
+
+  58. Word: 'At'
+     Position: (344, 1622) - (390, 1652)
+     Size: 46 x 30
+     Confidence: 96%
+
+  59. Word: '90'
+     Position: (402, 1621) - (443, 1652)
+     Size: 41 x 31
+     Confidence: 94%
+
+  60. Word: 'Days'
+     Position: (455, 1621) - (545, 1660)
+     Size: 90 x 39
+     Confidence: 92%
+
+  61. Word: 'from'
+     Position: (569, 1621) - (657, 1651)
+     Size: 88 x 30
+     Confidence: 92%
+
+  62. Word: 'Delivery'
+     Position: (672, 1621) - (826, 1659)
+     Size: 154 x 38
+     Confidence: 96%
+
+  63. Word: 'Date'
+     Position: (838, 1620) - (922, 1650)
+     Size: 84 x 30
+     Confidence: 96%
+
+  64. Word: 'dated'
+     Position: (946, 1620) - (1047, 1650)
+     Size: 101 x 30
+     Confidence: 96%
+
+  65. Word: '05'
+     Position: (1060, 1619) - (1101, 1650)
+     Size: 41 x 31
+     Confidence: 96%
+
+  66. Word: 'January'
+     Position: (1113, 1619) - (1267, 1658)
+     Size: 154 x 39
+     Confidence: 96%
+
+  67. Word: '2021,'
+     Position: (1278, 1619) - (1375, 1658)
+     Size: 97 x 39
+     Confidence: 96%
+
+  68. Word: 'Please'
+     Position: (1398, 1619) - (1513, 1649)
+     Size: 115 x 30
+     Confidence: 96%
+
+  69. Word: 'pay'
+     Position: (1526, 1627) - (1591, 1657)
+     Size: 65 x 30
+     Confidence: 96%
+
+  70. Word: 'against'
+     Position: (1604, 1618) - (1736, 1657)
+     Size: 132 x 39
+     Confidence: 96%
+
+  71. Word: 'this'
+     Position: (1747, 1617) - (1812, 1648)
+     Size: 65 x 31
+     Confidence: 96%
+
+  72. Word: 'Bill'
+     Position: (1825, 1617) - (1889, 1647)
+     Size: 64 x 30
+     Confidence: 96%
+
+  73. Word: 'of'
+     Position: (1901, 1617) - (1940, 1647)
+     Size: 39 x 30
+     Confidence: 96%
+
+  74. Word: 'Exchange'
+     Position: (1948, 1617) - (2127, 1655)
+     Size: 179 x 38
+     Confidence: 96%
+
+  75. Word: 'to'
+     Position: (344, 1673) - (379, 1701)
+     Size: 35 x 28
+     Confidence: 95%
+
+  76. Word: 'the'
+     Position: (394, 1658) - (451, 1701)
+     Size: 57 x 43
+     Confidence: 94%
+
+  77. Word: 'order'
+     Position: (460, 1660) - (568, 1701)
+     Size: 108 x 41
+     Confidence: 94%
+
+  78. Word: 'of'
+     Position: (582, 1670) - (621, 1701)
+     Size: 39 x 31
+     Confidence: 93%
+
+  79. Word: '—'
+     Position: (642, 1687) - (666, 1692)
+     Size: 24 x 5
+     Confidence: 90%
+
+  80. Word: 'ABU'
+     Position: (702, 1654) - (775, 1712)
+     Size: 73 x 58
+     Confidence: 54%
+
+  81. Word: 'DHABI'
+     Position: (789, 1654) - (923, 1712)
+     Size: 134 x 58
+     Confidence: 54%
+
+  82. Word: 'COMMERCIAL'
+     Position: (938, 1668) - (1250, 1699)
+     Size: 312 x 31
+     Confidence: 94%
+
+  83. Word: 'BANK'
+     Position: (1265, 1668) - (1391, 1698)
+     Size: 126 x 30
+     Confidence: 90%
+
+  84. Word: ','
+     Position: (1384, 1654) - (1404, 1712)
+     Size: 20 x 58
+     Confidence: 90%
+
+  85. Word: 'Trade'
+     Position: (1427, 1668) - (1539, 1698)
+     Size: 112 x 30
+     Confidence: 96%
+
+  86. Word: 'Finance'
+     Position: (1554, 1667) - (1700, 1697)
+     Size: 146 x 30
+     Confidence: 96%
+
+  87. Word: 'Department,'
+     Position: (1714, 1667) - (1947, 1706)
+     Size: 233 x 39
+     Confidence: 93%
+
+  88. Word: 'P.O.Box'
+     Position: (1975, 1666) - (2127, 1696)
+     Size: 152 x 30
+     Confidence: 90%
+
+  89. Word: '38660,'
+     Position: (344, 1720) - (462, 1757)
+     Size: 118 x 37
+     Confidence: 96%
+
+  90. Word: 'Abu'
+     Position: (477, 1720) - (555, 1750)
+     Size: 78 x 30
+     Confidence: 95%
+
+  91. Word: 'Dhabi,'
+     Position: (571, 1719) - (693, 1756)
+     Size: 122 x 37
+     Confidence: 93%
+
+  92. Word: 'U.A.E'
+     Position: (708, 1719) - (818, 1750)
+     Size: 110 x 31
+     Confidence: 91%
+
+  93. Word: 'a'
+     Position: (834, 1728) - (854, 1749)
+     Size: 20 x 21
+     Confidence: 94%
+
+  94. Word: 'sum'
+     Position: (869, 1727) - (944, 1749)
+     Size: 75 x 22
+     Confidence: 94%
+
+  95. Word: 'of'
+     Position: (961, 1718) - (999, 1749)
+     Size: 38 x 31
+     Confidence: 93%
+
+  96. Word: 'AED'
+     Position: (1023, 1718) - (1110, 1748)
+     Size: 87 x 30
+     Confidence: 89%
+
+  97. Word: '125,806.35'
+     Position: (1130, 1717) - (1317, 1754)
+     Size: 187 x 37
+     Confidence: 91%
+
+  98. Word: '('
+     Position: (1335, 1719) - (1342, 1754)
+     Size: 7 x 35
+     Confidence: 92%
+
+  99. Word: 'One'
+     Position: (1364, 1717) - (1434, 1747)
+     Size: 70 x 30
+     Confidence: 96%
+
+ 100. Word: 'Hundred'
+     Position: (1449, 1715) - (1599, 1747)
+     Size: 150 x 32
+     Confidence: 96%
+
+ 101. Word: 'Twenty'
+     Position: (1614, 1717) - (1746, 1755)
+     Size: 132 x 38
+     Confidence: 96%
+
+ 102. Word: 'Five'
+     Position: (1760, 1715) - (1837, 1746)
+     Size: 77 x 31
+     Confidence: 96%
+
+ 103. Word: 'Thousand'
+     Position: (1851, 1714) - (2021, 1746)
+     Size: 170 x 32
+     Confidence: 96%
+
+ 104. Word: 'Eight'
+     Position: (2035, 1714) - (2129, 1754)
+     Size: 94 x 40
+     Confidence: 95%
+
+ 105. Word: 'Hundred'
+     Position: (344, 1769) - (496, 1801)
+     Size: 152 x 32
+     Confidence: 95%
+
+ 106. Word: 'Six'
+     Position: (516, 1769) - (572, 1801)
+     Size: 56 x 32
+     Confidence: 96%
+
+ 107. Word: 'Dirhams'
+     Position: (592, 1768) - (738, 1800)
+     Size: 146 x 32
+     Confidence: 95%
+
+ 108. Word: 'and'
+     Position: (760, 1768) - (820, 1800)
+     Size: 60 x 32
+     Confidence: 94%
+
+ 109. Word: 'Thirty'
+     Position: (839, 1767) - (946, 1807)
+     Size: 107 x 40
+     Confidence: 94%
+
+ 110. Word: 'Five'
+     Position: (966, 1767) - (1042, 1799)
+     Size: 76 x 32
+     Confidence: 96%
+
+ 111. Word: 'Fils)'
+     Position: (1061, 1766) - (1196, 1804)
+     Size: 135 x 38
+     Confidence: 42%
+
+ 112. Word: 'Only'
+     Position: (1216, 1767) - (1306, 1806)
+     Size: 90 x 39
+     Confidence: 96%
+
+ 113. Word: 'for'
+     Position: (1326, 1767) - (1381, 1798)
+     Size: 55 x 31
+     Confidence: 96%
+
+ 114. Word: 'our'
+     Position: (1400, 1776) - (1464, 1798)
+     Size: 64 x 22
+     Confidence: 96%
+
+ 115. Word: 'invoice'
+     Position: (1484, 1766) - (1612, 1797)
+     Size: 128 x 31
+     Confidence: 93%
+
+ 116. Word: 'No._PSJ210021'
+     Position: (1632, 1765) - (1900, 1797)
+     Size: 268 x 32
+     Confidence: 39%
+
+ 117. Word: 'dated'
+     Position: (1945, 1765) - (2046, 1796)
+     Size: 101 x 31
+     Confidence: 88%
+
+ 118. Word: '_12'
+     Position: (2065, 1765) - (2128, 1802)
+     Size: 63 x 37
+     Confidence: 92%
+
+ 119. Word: 'January'
+     Position: (344, 1820) - (479, 1858)
+     Size: 135 x 38
+     Confidence: 87%
+
+ 120. Word: '202.'
+     Position: (501, 1819) - (574, 1850)
+     Size: 73 x 31
+     Confidence: 87%
+
+ 121. Word: 'To:_'
+     Position: (345, 2070) - (406, 2100)
+     Size: 61 x 30
+     Confidence: 91%
+
+ 122. Word: 'ARAB'
+     Position: (442, 2069) - (560, 2099)
+     Size: 118 x 30
+     Confidence: 96%
+
+ 123. Word: 'BANK'
+     Position: (573, 2068) - (695, 2099)
+     Size: 122 x 31
+     Confidence: 96%
+
+ 124. Word: 'FOR'
+     Position: (706, 2068) - (790, 2099)
+     Size: 84 x 31
+     Confidence: 95%
+
+ 125. Word: 'INVESTMENT'
+     Position: (801, 2067) - (1076, 2098)
+     Size: 275 x 31
+     Confidence: 95%
+
+ 126. Word: 'AND'
+     Position: (1087, 2067) - (1179, 2097)
+     Size: 92 x 30
+     Confidence: 95%
+
+ 127. Word: 'FOREIGN'
+     Position: (1191, 2066) - (1378, 2097)
+     Size: 187 x 31
+     Confidence: 95%
+
+ 128. Word: 'TRADE'
+     Position: (1390, 2066) - (1533, 2096)
+     Size: 143 x 30
+     Confidence: 96%
+
+ 129. Word: 'ed'
+     Position: (1258, 2379) - (1340, 2436)
+     Size: 82 x 57
+     Confidence: 0%
+
+ 130. Word: 'Zo'
+     Position: (1150, 2434) - (1198, 2482)
+     Size: 48 x 48
+     Confidence: 62%
+
+ 131. Word: 'etl'
+     Position: (1226, 2417) - (1282, 2486)
+     Size: 56 x 69
+     Confidence: 0%
+
+ 132. Word: 'oag'
+     Position: (1295, 2417) - (1348, 2486)
+     Size: 53 x 69
+     Confidence: 0%
+
+ 133. Word: '.'
+     Position: (1364, 2477) - (1369, 2484)
+     Size: 5 x 7
+     Confidence: 47%
+
+ 134. Word: 'RP'
+     Position: (1135, 2482) - (1158, 2510)
+     Size: 23 x 28
+     Confidence: 31%
+
+ 135. Word: 'tory'
+     Position: (1185, 2498) - (1259, 2519)
+     Size: 74 x 21
+     Confidence: 0%
+
+ 136. Word: '%'
+     Position: (1270, 2509) - (1287, 2526)
+     Size: 17 x 17
+     Confidence: 54%
+
+ 137. Word: 'Ny'
+     Position: (1327, 2462) - (1389, 2549)
+     Size: 62 x 87
+     Confidence: 9%
+
+ 138. Word: '/''
+     Position: (816, 2450) - (884, 2621)
+     Size: 68 x 171
+     Confidence: 86%
+
+ 139. Word: '«(ari'
+     Position: (1102, 2508) - (1372, 2589)
+     Size: 270 x 81
+     Confidence: 18%
+
+ 140. Word: '©'
+     Position: (1030, 2581) - (1038, 2594)
+     Size: 8 x 13
+     Confidence: 41%
+
+ 141. Word: ',0,'
+     Position: (1178, 2582) - (1183, 2588)
+     Size: 5 x 6
+     Confidence: 9%
+
+ 142. Word: 'Box:'
+     Position: (1204, 2569) - (1268, 2593)
+     Size: 64 x 24
+     Confidence: 90%
+
+ 143. Word: '14527'
+     Position: (1278, 2572) - (1328, 2597)
+     Size: 50 x 25
+     Confidence: 86%
+
+ 144. Word: '|'
+     Position: (1359, 2565) - (1372, 2602)
+     Size: 13 x 37
+     Confidence: 86%
+
+ 145. Word: '*&'
+     Position: (1379, 2570) - (1405, 2596)
+     Size: 26 x 26
+     Confidence: 17%
+
+ 146. Word: '(|'
+     Position: (797, 2581) - (883, 2653)
+     Size: 86 x 72
+     Confidence: 55%
+
+ 147. Word: 'VI'
+     Position: (899, 2562) - (942, 2642)
+     Size: 43 x 80
+     Confidence: 39%
+
+ 148. Word: '|'
+     Position: (967, 2590) - (997, 2616)
+     Size: 30 x 26
+     Confidence: 0%
+
+ 149. Word: 'WAYS'
+     Position: (1085, 2587) - (1234, 2641)
+     Size: 149 x 54
+     Confidence: 3%
+
+ 150. Word: 'Kalman'
+     Position: (1242, 2572) - (1342, 2641)
+     Size: 100 x 69
+     Confidence: 0%
+
+ 151. Word: 'YN'
+     Position: (1122, 2638) - (1168, 2686)
+     Size: 46 x 48
+     Confidence: 46%
+
+ 152. Word: 'UAE.'
+     Position: (1214, 2640) - (1283, 2666)
+     Size: 69 x 26
+     Confidence: 68%
+
+ 153. Word: 'ty'
+     Position: (1334, 2629) - (1388, 2691)
+     Size: 54 x 62
+     Confidence: 21%
+
+ 154. Word: 'OUR'
+     Position: (1156, 2672) - (1346, 2731)
+     Size: 190 x 59
+     Confidence: 0%
+
+ 155. Word: 'Chailly-Montreux'
+     Position: (652, 3288) - (903, 3322)
+     Size: 251 x 34
+     Confidence: 88%
+
+ 156. Word: '|'
+     Position: (916, 3281) - (921, 3320)
+     Size: 5 x 39
+     Confidence: 89%
+
+ 157. Word: 'Geneva'
+     Position: (933, 3281) - (1064, 3320)
+     Size: 131 x 39
+     Confidence: 95%
+
+ 158. Word: '|'
+     Position: (1056, 3276) - (1069, 3326)
+     Size: 13 x 50
+     Confidence: 95%
+
+ 159. Word: 'Zurich'
+     Position: (1078, 3287) - (1171, 3313)
+     Size: 93 x 26
+     Confidence: 96%
+
+ 160. Word: '|'
+     Position: (1185, 3280) - (1189, 3320)
+     Size: 4 x 40
+     Confidence: 96%
+
+ 161. Word: 'Dubai'
+     Position: (1203, 3287) - (1289, 3313)
+     Size: 86 x 26
+     Confidence: 94%
+
+ 162. Word: '|'
+     Position: (1306, 3280) - (1307, 3320)
+     Size: 1 x 40
+     Confidence: 94%
+
+ 163. Word: 'Bangkok'
+     Position: (1321, 3286) - (1454, 3320)
+     Size: 133 x 34
+     Confidence: 96%
+
+ 164. Word: '|'
+     Position: (1465, 3280) - (1470, 3318)
+     Size: 5 x 38
+     Confidence: 93%
+
+ 165. Word: 'www.ginoxgroup.com'
+     Position: (1482, 3286) - (1825, 3319)
+     Size: 343 x 33
+     Confidence: 22%
+
+
+================================================================================
+OCR DATA (STRUCTURED):
+================================================================================
+{'ocr_text': "GINOX\nBILL OF EXCHANGE\nDate:_ 28 January 2021\nDrawn under Irrevocable Documentary Credit No :'TE2036500018\nAmounting : AED 400,00.00\nDated: _ 31 December 2020\nIssued by: _ ARAB BANK FOR INVESTMENT AND FOREIGN TRADE\nDraft Amount :_ AED 125,806.35\nDraft Amount in words:_ One Hundred Twenty Five Thousand Eight Hundred Six Dirhams and\nThirty Five Fils Only.\nAt 90 Days from Delivery Date dated 05 January 2021, Please pay against this Bill of Exchange\nto the order of — ABU DHABI COMMERCIAL BANK , Trade Finance Department, P.O.Box\n38660, Abu Dhabi, U.A.E a sum of AED 125,806.35 ( One Hundred Twenty Five Thousand Eight\nHundred Six Dirhams and Thirty Five Fils) Only for our invoice No._PSJ210021 dated _12\nJanuary 202.\nTo:_ ARAB BANK FOR INVESTMENT AND FOREIGN TRADE\ned\nZo etl oag .\nRP tory % Ny\n/' «(ari\n© ,0, Box: 14527 | *&\n(| VI | WAYS Kalman\nYN UAE. ty\nOUR\nChailly-Montreux | Geneva | Zurich | Dubai | Bangkok | www.ginoxgroup.com\n", 'word_coordinates': [{'word': 'GINOX', 'left': 324, 'top': 410, 'width': 250, 'height': 89, 'x1': 324, 'y1': 410, 'x2': 574, 'y2': 499, 'bbox': [324, 410, 574, 499], 'confidence': 81}, {'word': 'BILL', 'left': 917, 'top': 663, 'width': 148, 'height': 43, 'x1': 917, 'y1': 663, 'x2': 1065, 'y2': 706, 'bbox': [917, 663, 1065, 706], 'confidence': 94}, {'word': 'OF', 'left': 1084, 'top': 662, 'width': 84, 'height': 44, 'x1': 1084, 'y1': 662, 'x2': 1168, 'y2': 706, 'bbox': [1084, 662, 1168, 706], 'confidence': 94}, {'word': 'EXCHANGE', 'left': 1186, 'top': 661, 'width': 361, 'height': 45, 'x1': 1186, 'y1': 661, 'x2': 1547, 'y2': 706, 'bbox': [1186, 661, 1547, 706], 'confidence': 95}, {'word': 'Date:_', 'left': 342, 'top': 926, 'width': 98, 'height': 31, 'x1': 342, 'y1': 926, 'x2': 440, 'y2': 957, 'bbox': [342, 926, 440, 957], 'confidence': 71}, {'word': '28', 'left': 487, 'top': 925, 'width': 41, 'height': 31, 'x1': 487, 'y1': 925, 'x2': 528, 'y2': 956, 'bbox': [487, 925, 528, 956], 'confidence': 71}, {'word': 'January', 'left': 542, 'top': 926, 'width': 133, 'height': 39, 'x1': 542, 'y1': 926, 'x2': 675, 'y2': 965, 'bbox': [542, 926, 675, 965], 'confidence': 96}, {'word': '2021', 'left': 687, 'top': 925, 'width': 80, 'height': 31, 'x1': 687, 'y1': 925, 'x2': 767, 'y2': 956, 'bbox': [687, 925, 767, 956], 'confidence': 96}, {'word': 'Drawn', 'left': 343, 'top': 976, 'width': 125, 'height': 31, 'x1': 343, 'y1': 976, 'x2': 468, 'y2': 1007, 'bbox': [343, 976, 468, 1007], 'confidence': 96}, {'word': 'under', 'left': 482, 'top': 976, 'width': 110, 'height': 30, 'x1': 482, 'y1': 976, 'x2': 592, 'y2': 1006, 'bbox': [482, 976, 592, 1006], 'confidence': 96}, {'word': 'Irrevocable', 'left': 603, 'top': 975, 'width': 212, 'height': 31, 'x1': 603, 'y1': 975, 'x2': 815, 'y2': 1006, 'bbox': [603, 975, 815, 1006], 'confidence': 96}, {'word': 'Documentary', 'left': 827, 'top': 975, 'width': 251, 'height': 38, 'x1': 827, 'y1': 975, 'x2': 1078, 'y2': 1013, 'bbox': [827, 975, 1078, 1013], 'confidence': 96}, {'word': 'Credit', 'left': 1089, 'top': 974, 'width': 120, 'height': 30, 'x1': 1089, 'y1': 974, 'x2': 1209, 'y2': 1004, 'bbox': [1089, 974, 1209, 1004], 'confidence': 96}, {'word': 'No', 'left': 1221, 'top': 974, 'width': 51, 'height': 30, 'x1': 1221, 'y1': 974, 'x2': 1272, 'y2': 1004, 'bbox': [1221, 974, 1272, 1004], 'confidence': 91}, {'word': ":'TE2036500018", 'left': 1287, 'top': 973, 'width': 284, 'height': 31, 'x1': 1287, 'y1': 973, 'x2': 1571, 'y2': 1004, 'bbox': [1287, 973, 1571, 1004], 'confidence': 17}, {'word': 'Amounting', 'left': 342, 'top': 1025, 'width': 210, 'height': 39, 'x1': 342, 'y1': 1025, 'x2': 552, 'y2': 1064, 'bbox': [342, 1025, 552, 1064], 'confidence': 91}, {'word': ':', 'left': 567, 'top': 1034, 'width': 6, 'height': 22, 'x1': 567, 'y1': 1034, 'x2': 573, 'y2': 1056, 'bbox': [567, 1034, 573, 1056], 'confidence': 85}, {'word': 'AED', 'left': 586, 'top': 1025, 'width': 88, 'height': 30, 'x1': 586, 'y1': 1025, 'x2': 674, 'y2': 1055, 'bbox': [586, 1025, 674, 1055], 'confidence': 92}, {'word': '400,00.00', 'left': 686, 'top': 1024, 'width': 169, 'height': 38, 'x1': 686, 'y1': 1024, 'x2': 855, 'y2': 1062, 'bbox': [686, 1024, 855, 1062], 'confidence': 89}, {'word': 'Dated:', 'left': 343, 'top': 1075, 'width': 120, 'height': 31, 'x1': 343, 'y1': 1075, 'x2': 463, 'y2': 1106, 'bbox': [343, 1075, 463, 1106], 'confidence': 92}, {'word': '_', 'left': 486, 'top': 1069, 'width': 17, 'height': 49, 'x1': 486, 'y1': 1069, 'x2': 503, 'y2': 1118, 'bbox': [486, 1069, 503, 1118], 'confidence': 78}, {'word': '31', 'left': 510, 'top': 1075, 'width': 37, 'height': 30, 'x1': 510, 'y1': 1075, 'x2': 547, 'y2': 1105, 'bbox': [510, 1075, 547, 1105], 'confidence': 96}, {'word': 'December', 'left': 563, 'top': 1073, 'width': 178, 'height': 32, 'x1': 563, 'y1': 1073, 'x2': 741, 'y2': 1105, 'bbox': [563, 1073, 741, 1105], 'confidence': 96}, {'word': '2020', 'left': 752, 'top': 1074, 'width': 83, 'height': 31, 'x1': 752, 'y1': 1074, 'x2': 835, 'y2': 1105, 'bbox': [752, 1074, 835, 1105], 'confidence': 96}, {'word': 'Issued', 'left': 343, 'top': 1125, 'width': 117, 'height': 30, 'x1': 343, 'y1': 1125, 'x2': 460, 'y2': 1155, 'bbox': [343, 1125, 460, 1155], 'confidence': 96}, {'word': 'by:', 'left': 474, 'top': 1125, 'width': 53, 'height': 38, 'x1': 474, 'y1': 1125, 'x2': 527, 'y2': 1163, 'bbox': [474, 1125, 527, 1163], 'confidence': 10}, {'word': '_', 'left': 559, 'top': 1117, 'width': 5, 'height': 50, 'x1': 559, 'y1': 1117, 'x2': 564, 'y2': 1167, 'bbox': [559, 1117, 564, 1167], 'confidence': 10}, {'word': 'ARAB', 'left': 562, 'top': 1124, 'width': 118, 'height': 30, 'x1': 562, 'y1': 1124, 'x2': 680, 'y2': 1154, 'bbox': [562, 1124, 680, 1154], 'confidence': 96}, {'word': 'BANK', 'left': 693, 'top': 1124, 'width': 122, 'height': 30, 'x1': 693, 'y1': 1124, 'x2': 815, 'y2': 1154, 'bbox': [693, 1124, 815, 1154], 'confidence': 95}, {'word': 'FOR', 'left': 826, 'top': 1123, 'width': 85, 'height': 31, 'x1': 826, 'y1': 1123, 'x2': 911, 'y2': 1154, 'bbox': [826, 1123, 911, 1154], 'confidence': 93}, {'word': 'INVESTMENT', 'left': 921, 'top': 1123, 'width': 274, 'height': 30, 'x1': 921, 'y1': 1123, 'x2': 1195, 'y2': 1153, 'bbox': [921, 1123, 1195, 1153], 'confidence': 96}, {'word': 'AND', 'left': 1206, 'top': 1122, 'width': 93, 'height': 30, 'x1': 1206, 'y1': 1122, 'x2': 1299, 'y2': 1152, 'bbox': [1206, 1122, 1299, 1152], 'confidence': 95}, {'word': 'FOREIGN', 'left': 1311, 'top': 1122, 'width': 187, 'height': 30, 'x1': 1311, 'y1': 1122, 'x2': 1498, 'y2': 1152, 'bbox': [1311, 1122, 1498, 1152], 'confidence': 95}, {'word': 'TRADE', 'left': 1509, 'top': 1122, 'width': 145, 'height': 30, 'x1': 1509, 'y1': 1122, 'x2': 1654, 'y2': 1152, 'bbox': [1509, 1122, 1654, 1152], 'confidence': 95}, {'word': 'Draft', 'left': 344, 'top': 1323, 'width': 101, 'height': 31, 'x1': 344, 'y1': 1323, 'x2': 445, 'y2': 1354, 'bbox': [344, 1323, 445, 1354], 'confidence': 96}, {'word': 'Amount', 'left': 456, 'top': 1323, 'width': 171, 'height': 30, 'x1': 456, 'y1': 1323, 'x2': 627, 'y2': 1353, 'bbox': [456, 1323, 627, 1353], 'confidence': 92}, {'word': ':_', 'left': 621, 'top': 1317, 'width': 34, 'height': 49, 'x1': 621, 'y1': 1317, 'x2': 655, 'y2': 1366, 'bbox': [621, 1317, 655, 1366], 'confidence': 11}, {'word': 'AED', 'left': 651, 'top': 1322, 'width': 88, 'height': 31, 'x1': 651, 'y1': 1322, 'x2': 739, 'y2': 1353, 'bbox': [651, 1322, 739, 1353], 'confidence': 43}, {'word': '125,806.35', 'left': 755, 'top': 1321, 'width': 187, 'height': 38, 'x1': 755, 'y1': 1321, 'x2': 942, 'y2': 1359, 'bbox': [755, 1321, 942, 1359], 'confidence': 94}, {'word': 'Draft', 'left': 343, 'top': 1423, 'width': 102, 'height': 31, 'x1': 343, 'y1': 1423, 'x2': 445, 'y2': 1454, 'bbox': [343, 1423, 445, 1454], 'confidence': 95}, {'word': 'Amount', 'left': 456, 'top': 1423, 'width': 151, 'height': 31, 'x1': 456, 'y1': 1423, 'x2': 607, 'y2': 1454, 'bbox': [456, 1423, 607, 1454], 'confidence': 96}, {'word': 'in', 'left': 618, 'top': 1422, 'width': 34, 'height': 31, 'x1': 618, 'y1': 1422, 'x2': 652, 'y2': 1453, 'bbox': [618, 1422, 652, 1453], 'confidence': 92}, {'word': 'words:_', 'left': 664, 'top': 1422, 'width': 124, 'height': 31, 'x1': 664, 'y1': 1422, 'x2': 788, 'y2': 1453, 'bbox': [664, 1422, 788, 1453], 'confidence': 92}, {'word': 'One', 'left': 824, 'top': 1422, 'width': 71, 'height': 31, 'x1': 824, 'y1': 1422, 'x2': 895, 'y2': 1453, 'bbox': [824, 1422, 895, 1453], 'confidence': 96}, {'word': 'Hundred', 'left': 907, 'top': 1420, 'width': 150, 'height': 32, 'x1': 907, 'y1': 1420, 'x2': 1057, 'y2': 1452, 'bbox': [907, 1420, 1057, 1452], 'confidence': 96}, {'word': 'Twenty', 'left': 1068, 'top': 1421, 'width': 132, 'height': 39, 'x1': 1068, 'y1': 1421, 'x2': 1200, 'y2': 1460, 'bbox': [1068, 1421, 1200, 1460], 'confidence': 96}, {'word': 'Five', 'left': 1211, 'top': 1419, 'width': 76, 'height': 33, 'x1': 1211, 'y1': 1419, 'x2': 1287, 'y2': 1452, 'bbox': [1211, 1419, 1287, 1452], 'confidence': 96}, {'word': 'Thousand', 'left': 1309, 'top': 1419, 'width': 171, 'height': 32, 'x1': 1309, 'y1': 1419, 'x2': 1480, 'y2': 1451, 'bbox': [1309, 1419, 1480, 1451], 'confidence': 95}, {'word': 'Eight', 'left': 1502, 'top': 1419, 'width': 94, 'height': 40, 'x1': 1502, 'y1': 1419, 'x2': 1596, 'y2': 1459, 'bbox': [1502, 1419, 1596, 1459], 'confidence': 95}, {'word': 'Hundred', 'left': 1607, 'top': 1418, 'width': 151, 'height': 32, 'x1': 1607, 'y1': 1418, 'x2': 1758, 'y2': 1450, 'bbox': [1607, 1418, 1758, 1450], 'confidence': 96}, {'word': 'Six', 'left': 1771, 'top': 1418, 'width': 55, 'height': 32, 'x1': 1771, 'y1': 1418, 'x2': 1826, 'y2': 1450, 'bbox': [1771, 1418, 1826, 1450], 'confidence': 96}, {'word': 'Dirhams', 'left': 1838, 'top': 1418, 'width': 147, 'height': 32, 'x1': 1838, 'y1': 1418, 'x2': 1985, 'y2': 1450, 'bbox': [1838, 1418, 1985, 1450], 'confidence': 96}, {'word': 'and', 'left': 1998, 'top': 1417, 'width': 61, 'height': 32, 'x1': 1998, 'y1': 1417, 'x2': 2059, 'y2': 1449, 'bbox': [1998, 1417, 2059, 1449], 'confidence': 96}, {'word': 'Thirty', 'left': 343, 'top': 1472, 'width': 108, 'height': 40, 'x1': 343, 'y1': 1472, 'x2': 451, 'y2': 1512, 'bbox': [343, 1472, 451, 1512], 'confidence': 96}, {'word': 'Five', 'left': 463, 'top': 1472, 'width': 76, 'height': 32, 'x1': 463, 'y1': 1472, 'x2': 539, 'y2': 1504, 'bbox': [463, 1472, 539, 1504], 'confidence': 96}, {'word': 'Fils', 'left': 551, 'top': 1471, 'width': 63, 'height': 32, 'x1': 551, 'y1': 1471, 'x2': 614, 'y2': 1503, 'bbox': [551, 1471, 614, 1503], 'confidence': 96}, {'word': 'Only.', 'left': 627, 'top': 1472, 'width': 94, 'height': 39, 'x1': 627, 'y1': 1472, 'x2': 721, 'y2': 1511, 'bbox': [627, 1472, 721, 1511], 'confidence': 96}, {'word': 'At', 'left': 344, 'top': 1622, 'width': 46, 'height': 30, 'x1': 344, 'y1': 1622, 'x2': 390, 'y2': 1652, 'bbox': [344, 1622, 390, 1652], 'confidence': 96}, {'word': '90', 'left': 402, 'top': 1621, 'width': 41, 'height': 31, 'x1': 402, 'y1': 1621, 'x2': 443, 'y2': 1652, 'bbox': [402, 1621, 443, 1652], 'confidence': 94}, {'word': 'Days', 'left': 455, 'top': 1621, 'width': 90, 'height': 39, 'x1': 455, 'y1': 1621, 'x2': 545, 'y2': 1660, 'bbox': [455, 1621, 545, 1660], 'confidence': 92}, {'word': 'from', 'left': 569, 'top': 1621, 'width': 88, 'height': 30, 'x1': 569, 'y1': 1621, 'x2': 657, 'y2': 1651, 'bbox': [569, 1621, 657, 1651], 'confidence': 92}, {'word': 'Delivery', 'left': 672, 'top': 1621, 'width': 154, 'height': 38, 'x1': 672, 'y1': 1621, 'x2': 826, 'y2': 1659, 'bbox': [672, 1621, 826, 1659], 'confidence': 96}, {'word': 'Date', 'left': 838, 'top': 1620, 'width': 84, 'height': 30, 'x1': 838, 'y1': 1620, 'x2': 922, 'y2': 1650, 'bbox': [838, 1620, 922, 1650], 'confidence': 96}, {'word': 'dated', 'left': 946, 'top': 1620, 'width': 101, 'height': 30, 'x1': 946, 'y1': 1620, 'x2': 1047, 'y2': 1650, 'bbox': [946, 1620, 1047, 1650], 'confidence': 96}, {'word': '05', 'left': 1060, 'top': 1619, 'width': 41, 'height': 31, 'x1': 1060, 'y1': 1619, 'x2': 1101, 'y2': 1650, 'bbox': [1060, 1619, 1101, 1650], 'confidence': 96}, {'word': 'January', 'left': 1113, 'top': 1619, 'width': 154, 'height': 39, 'x1': 1113, 'y1': 1619, 'x2': 1267, 'y2': 1658, 'bbox': [1113, 1619, 1267, 1658], 'confidence': 96}, {'word': '2021,', 'left': 1278, 'top': 1619, 'width': 97, 'height': 39, 'x1': 1278, 'y1': 1619, 'x2': 1375, 'y2': 1658, 'bbox': [1278, 1619, 1375, 1658], 'confidence': 96}, {'word': 'Please', 'left': 1398, 'top': 1619, 'width': 115, 'height': 30, 'x1': 1398, 'y1': 1619, 'x2': 1513, 'y2': 1649, 'bbox': [1398, 1619, 1513, 1649], 'confidence': 96}, {'word': 'pay', 'left': 1526, 'top': 1627, 'width': 65, 'height': 30, 'x1': 1526, 'y1': 1627, 'x2': 1591, 'y2': 1657, 'bbox': [1526, 1627, 1591, 1657], 'confidence': 96}, {'word': 'against', 'left': 1604, 'top': 1618, 'width': 132, 'height': 39, 'x1': 1604, 'y1': 1618, 'x2': 1736, 'y2': 1657, 'bbox': [1604, 1618, 1736, 1657], 'confidence': 96}, {'word': 'this', 'left': 1747, 'top': 1617, 'width': 65, 'height': 31, 'x1': 1747, 'y1': 1617, 'x2': 1812, 'y2': 1648, 'bbox': [1747, 1617, 1812, 1648], 'confidence': 96}, {'word': 'Bill', 'left': 1825, 'top': 1617, 'width': 64, 'height': 30, 'x1': 1825, 'y1': 1617, 'x2': 1889, 'y2': 1647, 'bbox': [1825, 1617, 1889, 1647], 'confidence': 96}, {'word': 'of', 'left': 1901, 'top': 1617, 'width': 39, 'height': 30, 'x1': 1901, 'y1': 1617, 'x2': 1940, 'y2': 1647, 'bbox': [1901, 1617, 1940, 1647], 'confidence': 96}, {'word': 'Exchange', 'left': 1948, 'top': 1617, 'width': 179, 'height': 38, 'x1': 1948, 'y1': 1617, 'x2': 2127, 'y2': 1655, 'bbox': [1948, 1617, 2127, 1655], 'confidence': 96}, {'word': 'to', 'left': 344, 'top': 1673, 'width': 35, 'height': 28, 'x1': 344, 'y1': 1673, 'x2': 379, 'y2': 1701, 'bbox': [344, 1673, 379, 1701], 'confidence': 95}, {'word': 'the', 'left': 394, 'top': 1658, 'width': 57, 'height': 43, 'x1': 394, 'y1': 1658, 'x2': 451, 'y2': 1701, 'bbox': [394, 1658, 451, 1701], 'confidence': 94}, {'word': 'order', 'left': 460, 'top': 1660, 'width': 108, 'height': 41, 'x1': 460, 'y1': 1660, 'x2': 568, 'y2': 1701, 'bbox': [460, 1660, 568, 1701], 'confidence': 94}, {'word': 'of', 'left': 582, 'top': 1670, 'width': 39, 'height': 31, 'x1': 582, 'y1': 1670, 'x2': 621, 'y2': 1701, 'bbox': [582, 1670, 621, 1701], 'confidence': 93}, {'word': '—', 'left': 642, 'top': 1687, 'width': 24, 'height': 5, 'x1': 642, 'y1': 1687, 'x2': 666, 'y2': 1692, 'bbox': [642, 1687, 666, 1692], 'confidence': 90}, {'word': 'ABU', 'left': 702, 'top': 1654, 'width': 73, 'height': 58, 'x1': 702, 'y1': 1654, 'x2': 775, 'y2': 1712, 'bbox': [702, 1654, 775, 1712], 'confidence': 54}, {'word': 'DHABI', 'left': 789, 'top': 1654, 'width': 134, 'height': 58, 'x1': 789, 'y1': 1654, 'x2': 923, 'y2': 1712, 'bbox': [789, 1654, 923, 1712], 'confidence': 54}, {'word': 'COMMERCIAL', 'left': 938, 'top': 1668, 'width': 312, 'height': 31, 'x1': 938, 'y1': 1668, 'x2': 1250, 'y2': 1699, 'bbox': [938, 1668, 1250, 1699], 'confidence': 94}, {'word': 'BANK', 'left': 1265, 'top': 1668, 'width': 126, 'height': 30, 'x1': 1265, 'y1': 1668, 'x2': 1391, 'y2': 1698, 'bbox': [1265, 1668, 1391, 1698], 'confidence': 90}, {'word': ',', 'left': 1384, 'top': 1654, 'width': 20, 'height': 58, 'x1': 1384, 'y1': 1654, 'x2': 1404, 'y2': 1712, 'bbox': [1384, 1654, 1404, 1712], 'confidence': 90}, {'word': 'Trade', 'left': 1427, 'top': 1668, 'width': 112, 'height': 30, 'x1': 1427, 'y1': 1668, 'x2': 1539, 'y2': 1698, 'bbox': [1427, 1668, 1539, 1698], 'confidence': 96}, {'word': 'Finance', 'left': 1554, 'top': 1667, 'width': 146, 'height': 30, 'x1': 1554, 'y1': 1667, 'x2': 1700, 'y2': 1697, 'bbox': [1554, 1667, 1700, 1697], 'confidence': 96}, {'word': 'Department,', 'left': 1714, 'top': 1667, 'width': 233, 'height': 39, 'x1': 1714, 'y1': 1667, 'x2': 1947, 'y2': 1706, 'bbox': [1714, 1667, 1947, 1706], 'confidence': 93}, {'word': 'P.O.Box', 'left': 1975, 'top': 1666, 'width': 152, 'height': 30, 'x1': 1975, 'y1': 1666, 'x2': 2127, 'y2': 1696, 'bbox': [1975, 1666, 2127, 1696], 'confidence': 90}, {'word': '38660,', 'left': 344, 'top': 1720, 'width': 118, 'height': 37, 'x1': 344, 'y1': 1720, 'x2': 462, 'y2': 1757, 'bbox': [344, 1720, 462, 1757], 'confidence': 96}, {'word': 'Abu', 'left': 477, 'top': 1720, 'width': 78, 'height': 30, 'x1': 477, 'y1': 1720, 'x2': 555, 'y2': 1750, 'bbox': [477, 1720, 555, 1750], 'confidence': 95}, {'word': 'Dhabi,', 'left': 571, 'top': 1719, 'width': 122, 'height': 37, 'x1': 571, 'y1': 1719, 'x2': 693, 'y2': 1756, 'bbox': [571, 1719, 693, 1756], 'confidence': 93}, {'word': 'U.A.E', 'left': 708, 'top': 1719, 'width': 110, 'height': 31, 'x1': 708, 'y1': 1719, 'x2': 818, 'y2': 1750, 'bbox': [708, 1719, 818, 1750], 'confidence': 91}, {'word': 'a', 'left': 834, 'top': 1728, 'width': 20, 'height': 21, 'x1': 834, 'y1': 1728, 'x2': 854, 'y2': 1749, 'bbox': [834, 1728, 854, 1749], 'confidence': 94}, {'word': 'sum', 'left': 869, 'top': 1727, 'width': 75, 'height': 22, 'x1': 869, 'y1': 1727, 'x2': 944, 'y2': 1749, 'bbox': [869, 1727, 944, 1749], 'confidence': 94}, {'word': 'of', 'left': 961, 'top': 1718, 'width': 38, 'height': 31, 'x1': 961, 'y1': 1718, 'x2': 999, 'y2': 1749, 'bbox': [961, 1718, 999, 1749], 'confidence': 93}, {'word': 'AED', 'left': 1023, 'top': 1718, 'width': 87, 'height': 30, 'x1': 1023, 'y1': 1718, 'x2': 1110, 'y2': 1748, 'bbox': [1023, 1718, 1110, 1748], 'confidence': 89}, {'word': '125,806.35', 'left': 1130, 'top': 1717, 'width': 187, 'height': 37, 'x1': 1130, 'y1': 1717, 'x2': 1317, 'y2': 1754, 'bbox': [1130, 1717, 1317, 1754], 'confidence': 91}, {'word': '(', 'left': 1335, 'top': 1719, 'width': 7, 'height': 35, 'x1': 1335, 'y1': 1719, 'x2': 1342, 'y2': 1754, 'bbox': [1335, 1719, 1342, 1754], 'confidence': 92}, {'word': 'One', 'left': 1364, 'top': 1717, 'width': 70, 'height': 30, 'x1': 1364, 'y1': 1717, 'x2': 1434, 'y2': 1747, 'bbox': [1364, 1717, 1434, 1747], 'confidence': 96}, {'word': 'Hundred', 'left': 1449, 'top': 1715, 'width': 150, 'height': 32, 'x1': 1449, 'y1': 1715, 'x2': 1599, 'y2': 1747, 'bbox': [1449, 1715, 1599, 1747], 'confidence': 96}, {'word': 'Twenty', 'left': 1614, 'top': 1717, 'width': 132, 'height': 38, 'x1': 1614, 'y1': 1717, 'x2': 1746, 'y2': 1755, 'bbox': [1614, 1717, 1746, 1755], 'confidence': 96}, {'word': 'Five', 'left': 1760, 'top': 1715, 'width': 77, 'height': 31, 'x1': 1760, 'y1': 1715, 'x2': 1837, 'y2': 1746, 'bbox': [1760, 1715, 1837, 1746], 'confidence': 96}, {'word': 'Thousand', 'left': 1851, 'top': 1714, 'width': 170, 'height': 32, 'x1': 1851, 'y1': 1714, 'x2': 2021, 'y2': 1746, 'bbox': [1851, 1714, 2021, 1746], 'confidence': 96}, {'word': 'Eight', 'left': 2035, 'top': 1714, 'width': 94, 'height': 40, 'x1': 2035, 'y1': 1714, 'x2': 2129, 'y2': 1754, 'bbox': [2035, 1714, 2129, 1754], 'confidence': 95}, {'word': 'Hundred', 'left': 344, 'top': 1769, 'width': 152, 'height': 32, 'x1': 344, 'y1': 1769, 'x2': 496, 'y2': 1801, 'bbox': [344, 1769, 496, 1801], 'confidence': 95}, {'word': 'Six', 'left': 516, 'top': 1769, 'width': 56, 'height': 32, 'x1': 516, 'y1': 1769, 'x2': 572, 'y2': 1801, 'bbox': [516, 1769, 572, 1801], 'confidence': 96}, {'word': 'Dirhams', 'left': 592, 'top': 1768, 'width': 146, 'height': 32, 'x1': 592, 'y1': 1768, 'x2': 738, 'y2': 1800, 'bbox': [592, 1768, 738, 1800], 'confidence': 95}, {'word': 'and', 'left': 760, 'top': 1768, 'width': 60, 'height': 32, 'x1': 760, 'y1': 1768, 'x2': 820, 'y2': 1800, 'bbox': [760, 1768, 820, 1800], 'confidence': 94}, {'word': 'Thirty', 'left': 839, 'top': 1767, 'width': 107, 'height': 40, 'x1': 839, 'y1': 1767, 'x2': 946, 'y2': 1807, 'bbox': [839, 1767, 946, 1807], 'confidence': 94}, {'word': 'Five', 'left': 966, 'top': 1767, 'width': 76, 'height': 32, 'x1': 966, 'y1': 1767, 'x2': 1042, 'y2': 1799, 'bbox': [966, 1767, 1042, 1799], 'confidence': 96}, {'word': 'Fils)', 'left': 1061, 'top': 1766, 'width': 135, 'height': 38, 'x1': 1061, 'y1': 1766, 'x2': 1196, 'y2': 1804, 'bbox': [1061, 1766, 1196, 1804], 'confidence': 42}, {'word': 'Only', 'left': 1216, 'top': 1767, 'width': 90, 'height': 39, 'x1': 1216, 'y1': 1767, 'x2': 1306, 'y2': 1806, 'bbox': [1216, 1767, 1306, 1806], 'confidence': 96}, {'word': 'for', 'left': 1326, 'top': 1767, 'width': 55, 'height': 31, 'x1': 1326, 'y1': 1767, 'x2': 1381, 'y2': 1798, 'bbox': [1326, 1767, 1381, 1798], 'confidence': 96}, {'word': 'our', 'left': 1400, 'top': 1776, 'width': 64, 'height': 22, 'x1': 1400, 'y1': 1776, 'x2': 1464, 'y2': 1798, 'bbox': [1400, 1776, 1464, 1798], 'confidence': 96}, {'word': 'invoice', 'left': 1484, 'top': 1766, 'width': 128, 'height': 31, 'x1': 1484, 'y1': 1766, 'x2': 1612, 'y2': 1797, 'bbox': [1484, 1766, 1612, 1797], 'confidence': 93}, {'word': 'No._PSJ210021', 'left': 1632, 'top': 1765, 'width': 268, 'height': 32, 'x1': 1632, 'y1': 1765, 'x2': 1900, 'y2': 1797, 'bbox': [1632, 1765, 1900, 1797], 'confidence': 39}, {'word': 'dated', 'left': 1945, 'top': 1765, 'width': 101, 'height': 31, 'x1': 1945, 'y1': 1765, 'x2': 2046, 'y2': 1796, 'bbox': [1945, 1765, 2046, 1796], 'confidence': 88}, {'word': '_12', 'left': 2065, 'top': 1765, 'width': 63, 'height': 37, 'x1': 2065, 'y1': 1765, 'x2': 2128, 'y2': 1802, 'bbox': [2065, 1765, 2128, 1802], 'confidence': 92}, {'word': 'January', 'left': 344, 'top': 1820, 'width': 135, 'height': 38, 'x1': 344, 'y1': 1820, 'x2': 479, 'y2': 1858, 'bbox': [344, 1820, 479, 1858], 'confidence': 87}, {'word': '202.', 'left': 501, 'top': 1819, 'width': 73, 'height': 31, 'x1': 501, 'y1': 1819, 'x2': 574, 'y2': 1850, 'bbox': [501, 1819, 574, 1850], 'confidence': 87}, {'word': 'To:_', 'left': 345, 'top': 2070, 'width': 61, 'height': 30, 'x1': 345, 'y1': 2070, 'x2': 406, 'y2': 2100, 'bbox': [345, 2070, 406, 2100], 'confidence': 91}, {'word': 'ARAB', 'left': 442, 'top': 2069, 'width': 118, 'height': 30, 'x1': 442, 'y1': 2069, 'x2': 560, 'y2': 2099, 'bbox': [442, 2069, 560, 2099], 'confidence': 96}, {'word': 'BANK', 'left': 573, 'top': 2068, 'width': 122, 'height': 31, 'x1': 573, 'y1': 2068, 'x2': 695, 'y2': 2099, 'bbox': [573, 2068, 695, 2099], 'confidence': 96}, {'word': 'FOR', 'left': 706, 'top': 2068, 'width': 84, 'height': 31, 'x1': 706, 'y1': 2068, 'x2': 790, 'y2': 2099, 'bbox': [706, 2068, 790, 2099], 'confidence': 95}, {'word': 'INVESTMENT', 'left': 801, 'top': 2067, 'width': 275, 'height': 31, 'x1': 801, 'y1': 2067, 'x2': 1076, 'y2': 2098, 'bbox': [801, 2067, 1076, 2098], 'confidence': 95}, {'word': 'AND', 'left': 1087, 'top': 2067, 'width': 92, 'height': 30, 'x1': 1087, 'y1': 2067, 'x2': 1179, 'y2': 2097, 'bbox': [1087, 2067, 1179, 2097], 'confidence': 95}, {'word': 'FOREIGN', 'left': 1191, 'top': 2066, 'width': 187, 'height': 31, 'x1': 1191, 'y1': 2066, 'x2': 1378, 'y2': 2097, 'bbox': [1191, 2066, 1378, 2097], 'confidence': 95}, {'word': 'TRADE', 'left': 1390, 'top': 2066, 'width': 143, 'height': 30, 'x1': 1390, 'y1': 2066, 'x2': 1533, 'y2': 2096, 'bbox': [1390, 2066, 1533, 2096], 'confidence': 96}, {'word': 'ed', 'left': 1258, 'top': 2379, 'width': 82, 'height': 57, 'x1': 1258, 'y1': 2379, 'x2': 1340, 'y2': 2436, 'bbox': [1258, 2379, 1340, 2436], 'confidence': 0}, {'word': 'Zo', 'left': 1150, 'top': 2434, 'width': 48, 'height': 48, 'x1': 1150, 'y1': 2434, 'x2': 1198, 'y2': 2482, 'bbox': [1150, 2434, 1198, 2482], 'confidence': 62}, {'word': 'etl', 'left': 1226, 'top': 2417, 'width': 56, 'height': 69, 'x1': 1226, 'y1': 2417, 'x2': 1282, 'y2': 2486, 'bbox': [1226, 2417, 1282, 2486], 'confidence': 0}, {'word': 'oag', 'left': 1295, 'top': 2417, 'width': 53, 'height': 69, 'x1': 1295, 'y1': 2417, 'x2': 1348, 'y2': 2486, 'bbox': [1295, 2417, 1348, 2486], 'confidence': 0}, {'word': '.', 'left': 1364, 'top': 2477, 'width': 5, 'height': 7, 'x1': 1364, 'y1': 2477, 'x2': 1369, 'y2': 2484, 'bbox': [1364, 2477, 1369, 2484], 'confidence': 47}, {'word': 'RP', 'left': 1135, 'top': 2482, 'width': 23, 'height': 28, 'x1': 1135, 'y1': 2482, 'x2': 1158, 'y2': 2510, 'bbox': [1135, 2482, 1158, 2510], 'confidence': 31}, {'word': 'tory', 'left': 1185, 'top': 2498, 'width': 74, 'height': 21, 'x1': 1185, 'y1': 2498, 'x2': 1259, 'y2': 2519, 'bbox': [1185, 2498, 1259, 2519], 'confidence': 0}, {'word': '%', 'left': 1270, 'top': 2509, 'width': 17, 'height': 17, 'x1': 1270, 'y1': 2509, 'x2': 1287, 'y2': 2526, 'bbox': [1270, 2509, 1287, 2526], 'confidence': 54}, {'word': 'Ny', 'left': 1327, 'top': 2462, 'width': 62, 'height': 87, 'x1': 1327, 'y1': 2462, 'x2': 1389, 'y2': 2549, 'bbox': [1327, 2462, 1389, 2549], 'confidence': 9}, {'word': "/'", 'left': 816, 'top': 2450, 'width': 68, 'height': 171, 'x1': 816, 'y1': 2450, 'x2': 884, 'y2': 2621, 'bbox': [816, 2450, 884, 2621], 'confidence': 86}, {'word': '«(ari', 'left': 1102, 'top': 2508, 'width': 270, 'height': 81, 'x1': 1102, 'y1': 2508, 'x2': 1372, 'y2': 2589, 'bbox': [1102, 2508, 1372, 2589], 'confidence': 18}, {'word': '©', 'left': 1030, 'top': 2581, 'width': 8, 'height': 13, 'x1': 1030, 'y1': 2581, 'x2': 1038, 'y2': 2594, 'bbox': [1030, 2581, 1038, 2594], 'confidence': 41}, {'word': ',0,', 'left': 1178, 'top': 2582, 'width': 5, 'height': 6, 'x1': 1178, 'y1': 2582, 'x2': 1183, 'y2': 2588, 'bbox': [1178, 2582, 1183, 2588], 'confidence': 9}, {'word': 'Box:', 'left': 1204, 'top': 2569, 'width': 64, 'height': 24, 'x1': 1204, 'y1': 2569, 'x2': 1268, 'y2': 2593, 'bbox': [1204, 2569, 1268, 2593], 'confidence': 90}, {'word': '14527', 'left': 1278, 'top': 2572, 'width': 50, 'height': 25, 'x1': 1278, 'y1': 2572, 'x2': 1328, 'y2': 2597, 'bbox': [1278, 2572, 1328, 2597], 'confidence': 86}, {'word': '|', 'left': 1359, 'top': 2565, 'width': 13, 'height': 37, 'x1': 1359, 'y1': 2565, 'x2': 1372, 'y2': 2602, 'bbox': [1359, 2565, 1372, 2602], 'confidence': 86}, {'word': '*&', 'left': 1379, 'top': 2570, 'width': 26, 'height': 26, 'x1': 1379, 'y1': 2570, 'x2': 1405, 'y2': 2596, 'bbox': [1379, 2570, 1405, 2596], 'confidence': 17}, {'word': '(|', 'left': 797, 'top': 2581, 'width': 86, 'height': 72, 'x1': 797, 'y1': 2581, 'x2': 883, 'y2': 2653, 'bbox': [797, 2581, 883, 2653], 'confidence': 55}, {'word': 'VI', 'left': 899, 'top': 2562, 'width': 43, 'height': 80, 'x1': 899, 'y1': 2562, 'x2': 942, 'y2': 2642, 'bbox': [899, 2562, 942, 2642], 'confidence': 39}, {'word': '|', 'left': 967, 'top': 2590, 'width': 30, 'height': 26, 'x1': 967, 'y1': 2590, 'x2': 997, 'y2': 2616, 'bbox': [967, 2590, 997, 2616], 'confidence': 0}, {'word': 'WAYS', 'left': 1085, 'top': 2587, 'width': 149, 'height': 54, 'x1': 1085, 'y1': 2587, 'x2': 1234, 'y2': 2641, 'bbox': [1085, 2587, 1234, 2641], 'confidence': 3}, {'word': 'Kalman', 'left': 1242, 'top': 2572, 'width': 100, 'height': 69, 'x1': 1242, 'y1': 2572, 'x2': 1342, 'y2': 2641, 'bbox': [1242, 2572, 1342, 2641], 'confidence': 0}, {'word': 'YN', 'left': 1122, 'top': 2638, 'width': 46, 'height': 48, 'x1': 1122, 'y1': 2638, 'x2': 1168, 'y2': 2686, 'bbox': [1122, 2638, 1168, 2686], 'confidence': 46}, {'word': 'UAE.', 'left': 1214, 'top': 2640, 'width': 69, 'height': 26, 'x1': 1214, 'y1': 2640, 'x2': 1283, 'y2': 2666, 'bbox': [1214, 2640, 1283, 2666], 'confidence': 68}, {'word': 'ty', 'left': 1334, 'top': 2629, 'width': 54, 'height': 62, 'x1': 1334, 'y1': 2629, 'x2': 1388, 'y2': 2691, 'bbox': [1334, 2629, 1388, 2691], 'confidence': 21}, {'word': 'OUR', 'left': 1156, 'top': 2672, 'width': 190, 'height': 59, 'x1': 1156, 'y1': 2672, 'x2': 1346, 'y2': 2731, 'bbox': [1156, 2672, 1346, 2731], 'confidence': 0}, {'word': 'Chailly-Montreux', 'left': 652, 'top': 3288, 'width': 251, 'height': 34, 'x1': 652, 'y1': 3288, 'x2': 903, 'y2': 3322, 'bbox': [652, 3288, 903, 3322], 'confidence': 88}, {'word': '|', 'left': 916, 'top': 3281, 'width': 5, 'height': 39, 'x1': 916, 'y1': 3281, 'x2': 921, 'y2': 3320, 'bbox': [916, 3281, 921, 3320], 'confidence': 89}, {'word': 'Geneva', 'left': 933, 'top': 3281, 'width': 131, 'height': 39, 'x1': 933, 'y1': 3281, 'x2': 1064, 'y2': 3320, 'bbox': [933, 3281, 1064, 3320], 'confidence': 95}, {'word': '|', 'left': 1056, 'top': 3276, 'width': 13, 'height': 50, 'x1': 1056, 'y1': 3276, 'x2': 1069, 'y2': 3326, 'bbox': [1056, 3276, 1069, 3326], 'confidence': 95}, {'word': 'Zurich', 'left': 1078, 'top': 3287, 'width': 93, 'height': 26, 'x1': 1078, 'y1': 3287, 'x2': 1171, 'y2': 3313, 'bbox': [1078, 3287, 1171, 3313], 'confidence': 96}, {'word': '|', 'left': 1185, 'top': 3280, 'width': 4, 'height': 40, 'x1': 1185, 'y1': 3280, 'x2': 1189, 'y2': 3320, 'bbox': [1185, 3280, 1189, 3320], 'confidence': 96}, {'word': 'Dubai', 'left': 1203, 'top': 3287, 'width': 86, 'height': 26, 'x1': 1203, 'y1': 3287, 'x2': 1289, 'y2': 3313, 'bbox': [1203, 3287, 1289, 3313], 'confidence': 94}, {'word': '|', 'left': 1306, 'top': 3280, 'width': 1, 'height': 40, 'x1': 1306, 'y1': 3280, 'x2': 1307, 'y2': 3320, 'bbox': [1306, 3280, 1307, 3320], 'confidence': 94}, {'word': 'Bangkok', 'left': 1321, 'top': 3286, 'width': 133, 'height': 34, 'x1': 1321, 'y1': 3286, 'x2': 1454, 'y2': 3320, 'bbox': [1321, 3286, 1454, 3320], 'confidence': 96}, {'word': '|', 'left': 1465, 'top': 3280, 'width': 5, 'height': 38, 'x1': 1465, 'y1': 3280, 'x2': 1470, 'y2': 3318, 'bbox': [1465, 3280, 1470, 3318], 'confidence': 93}, {'word': 'www.ginoxgroup.com', 'left': 1482, 'top': 3286, 'width': 343, 'height': 33, 'x1': 1482, 'y1': 3286, 'x2': 1825, 'y2': 3319, 'bbox': [1482, 3286, 1825, 3319], 'confidence': 22}], 'total_words': 165, 'image_path': '/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/testing_images/Trade Finance_20210208071246_1.00_page_4.jpeg', 'timestamp': '2026-04-14T09:56:41.098335'}

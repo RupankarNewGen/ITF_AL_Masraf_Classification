@@ -1,0 +1,43 @@
+{
+    "directories": {
+        "BASE_DIR": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification",
+        "SPLIT_RESULTS_DIR": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/New_test_data_jsons_splitted",
+        "WORKING_DATA_DIR": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/New_test_data_jsons_results",
+        "OCR_DIR": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/New_test_data_ocr_complete",
+        "TARGET_SEARCH_FOLDERS": [
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/aishiki_AlmasRaf_test_pdfs/test_set2",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/aishiki_AlmasRaf_test_pdfs/test_set_1",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/aishiki_AlmasRaf_test_pdfs/DOC_3_splitted",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/aishiki_AlmasRaf_test_pdfs/DOC_5_splitted"
+        ],
+        "LABEL_SEARCH_FOLDERS": [
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_BOE/labels_boe",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_BOL/labels_bol",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_CI/labels_ci",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_COO/labels_coo",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_CS/labels_cs",
+            "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_PL/labels_pl"
+        ]
+    },
+    "classes_file_map": {
+        "BOE": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_BOE/classes.txt",
+        "BOL": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_BOL/classes.txt",
+        "CI": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_CI/classes.txt",
+        "COO": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_COO/classes.txt",
+        "CS": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_CS/classes.txt",
+        "PL": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/Annotations_Test/Test_PL/classes.txt"
+    },
+    "settings": {
+        "fuzzy_threshold": 75,
+        "save_images_and_labels": true,
+        "enable_field_filtering": false
+    },
+    "evaluation_fields": {
+        "CS": [],
+        "BOE": [],
+        "BOL": [],
+        "CI": [],
+        "COO": [],
+        "PL": []
+    }
+}

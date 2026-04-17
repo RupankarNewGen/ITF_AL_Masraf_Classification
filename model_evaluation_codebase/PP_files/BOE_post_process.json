@@ -1,0 +1,57 @@
+{
+  "numeric_fields": [],
+  "address_fields": [
+    "drawee_address",
+    "drawer_address",
+    "drawee_bank_address",
+    "drawer_bank_address",
+    "issuing_bank_address"
+  ],
+  "date_fields": [
+    "bill_exchange_date",
+    "invoice_date",
+    "indicator_date",
+    "invoice_due_date",
+    "lc_date",
+    "issue_date"
+  ],
+  "single_line_fields": [
+    "drawee_name",
+    "drawer_name",
+    "drawer_bank_name",
+    "drawee_bank_name",
+    "amount_in_words",
+    "diclaration_by",
+    "tenore_details",
+    "issuing_bank",
+    "stamp_endorsed"
+  ],
+  "single_word_fields": [
+    "tenor_type",
+    "usance_tenor",
+    "tenor_indicator",
+    "indicator_type",
+    "original_or_copy",
+    "original_number",
+    "issue_place",
+    "total_original_number"
+  ],
+  "multi_line_fields": [
+    "goods_discription"
+  ],
+  "master_fields": [
+    "boe_currency",
+    "boe_amount",
+    "invoice_currency",
+    "invoice_amount"
+  ],
+  "critical_fields": [
+    "bill_exchange_no",
+    "invoice_no",
+    "lc_ref_no"
+  ],
+  "remove_fields": [
+    "sign",
+    "stamp"
+  ]
+}

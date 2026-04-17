@@ -1,0 +1,155 @@
+{
+    "Trade Finance_20210615075057_1.00_page_11.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "Banker",
+                    "left": 2221,
+                    "top": 627,
+                    "width": 141,
+                    "height": 41,
+                    "x1": 2221,
+                    "y1": 627,
+                    "x2": 2362,
+                    "y2": 668,
+                    "Confidence": 99
+                },
+                {
+                    "word": "or",
+                    "left": 2375,
+                    "top": 649,
+                    "width": 42,
+                    "height": 24,
+                    "x1": 2375,
+                    "y1": 649,
+                    "x2": 2417,
+                    "y2": 673,
+                    "Confidence": 99
+                },
+                {
+                    "word": "river",
+                    "left": 2431,
+                    "top": 605,
+                    "width": 113,
+                    "height": 79,
+                    "x1": 2431,
+                    "y1": 605,
+                    "x2": 2544,
+                    "y2": 684,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 2543,
+                    "top": 613,
+                    "width": 50,
+                    "height": 77,
+                    "x1": 2543,
+                    "y1": 613,
+                    "x2": 2593,
+                    "y2": 690,
+                    "Confidence": 99
+                },
+                {
+                    "word": "any",
+                    "left": 2600,
+                    "top": 621,
+                    "width": 81,
+                    "height": 49,
+                    "x1": 2600,
+                    "y1": 621,
+                    "x2": 2681,
+                    "y2": 670,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bank,",
+                    "left": 2696,
+                    "top": 621,
+                    "width": 109,
+                    "height": 49,
+                    "x1": 2696,
+                    "y1": 621,
+                    "x2": 2805,
+                    "y2": 670,
+                    "Confidence": 99
+                },
+                {
+                    "word": "soPisc",
+                    "left": 2212,
+                    "top": 673,
+                    "width": 655,
+                    "height": 118,
+                    "x1": 2212,
+                    "y1": 673,
+                    "x2": 2867,
+                    "y2": 791,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Authorised",
+                    "left": 2192,
+                    "top": 951,
+                    "width": 221,
+                    "height": 73,
+                    "x1": 2192,
+                    "y1": 951,
+                    "x2": 2413,
+                    "y2": 1024,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Signature",
+                    "left": 2427,
+                    "top": 930,
+                    "width": 202,
+                    "height": 88,
+                    "x1": 2427,
+                    "y1": 930,
+                    "x2": 2629,
+                    "y2": 1018,
+                    "Confidence": 99
+                },
+                {
+                    "word": ".y",
+                    "left": 2677,
+                    "top": 945,
+                    "width": 135,
+                    "height": 67,
+                    "x1": 2677,
+                    "y1": 945,
+                    "x2": 2812,
+                    "y2": 1012,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

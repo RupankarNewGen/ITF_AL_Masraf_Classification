@@ -1,0 +1,143 @@
+{
+    "Trade Finance_20210810165536_1.00_page_12.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "any",
+                    "left": 1002,
+                    "top": 1981,
+                    "width": 195,
+                    "height": 71,
+                    "x1": 1002,
+                    "y1": 1981,
+                    "x2": 1197,
+                    "y2": 2052,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bank",
+                    "left": 1204,
+                    "top": 1981,
+                    "width": 66,
+                    "height": 56,
+                    "x1": 1204,
+                    "y1": 1981,
+                    "x2": 1270,
+                    "y2": 2037,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Finaneis",
+                    "left": 1276,
+                    "top": 1968,
+                    "width": 123,
+                    "height": 69,
+                    "x1": 1276,
+                    "y1": 1968,
+                    "x2": 1399,
+                    "y2": 2037,
+                    "Confidence": 99
+                },
+                {
+                    "word": "othe",
+                    "left": 898,
+                    "top": 2049,
+                    "width": 137,
+                    "height": 43,
+                    "x1": 898,
+                    "y1": 2049,
+                    "x2": 1035,
+                    "y2": 2092,
+                    "Confidence": 99
+                },
+                {
+                    "word": "order",
+                    "left": 1044,
+                    "top": 2043,
+                    "width": 63,
+                    "height": 38,
+                    "x1": 1044,
+                    "y1": 2043,
+                    "x2": 1107,
+                    "y2": 2081,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 1115,
+                    "top": 2038,
+                    "width": 32,
+                    "height": 50,
+                    "x1": 1115,
+                    "y1": 2038,
+                    "x2": 1147,
+                    "y2": 2088,
+                    "Confidence": 99
+                },
+                {
+                    "word": "company",
+                    "left": 1158,
+                    "top": 2040,
+                    "width": 136,
+                    "height": 52,
+                    "x1": 1158,
+                    "y1": 2040,
+                    "x2": 1294,
+                    "y2": 2092,
+                    "Confidence": 99
+                },
+                {
+                    "word": "BANK,",
+                    "left": 1304,
+                    "top": 2048,
+                    "width": 84,
+                    "height": 33,
+                    "x1": 1304,
+                    "y1": 2048,
+                    "x2": 1388,
+                    "y2": 2081,
+                    "Confidence": 99
+                },
+                {
+                    "word": "=",
+                    "left": 898,
+                    "top": 2074,
+                    "width": 504,
+                    "height": 144,
+                    "x1": 898,
+                    "y1": 2074,
+                    "x2": 1402,
+                    "y2": 2218,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

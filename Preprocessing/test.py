@@ -97,7 +97,7 @@ def get_raw_model_response(image_path):
 
 if __name__ == "__main__":
     # Choose one of the images that produced the "No JSON found" error
-    TEST_IMAGE = "/datadrive2/IDF_AL_MASRAF/test_images/Trade Finance_20210216165325_1.00_page_9.jpeg"
+    TEST_IMAGE = "/datadrive2/IDF_AL_MASRAF/Al_MASHRAF_523_categorized_data/BOL/Trade Finance_20210216165325_1.00_page_14.jpeg"
     
     
     get_raw_model_response(TEST_IMAGE)

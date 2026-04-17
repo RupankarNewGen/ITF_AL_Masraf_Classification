@@ -1,0 +1,71 @@
+{
+    "Trade Finance_20210712151950_1.00_page_12.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "caw:'",
+                    "left": 1411,
+                    "top": 999,
+                    "width": 129,
+                    "height": 42,
+                    "x1": 1411,
+                    "y1": 999,
+                    "x2": 1540,
+                    "y2": 1041,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 1411,
+                    "top": 1036,
+                    "width": 34,
+                    "height": 35,
+                    "x1": 1411,
+                    "y1": 1036,
+                    "x2": 1445,
+                    "y2": 1071,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Can",
+                    "left": 1451,
+                    "top": 1022,
+                    "width": 89,
+                    "height": 50,
+                    "x1": 1451,
+                    "y1": 1022,
+                    "x2": 1540,
+                    "y2": 1072,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "upside-down"
+        }
+    }
+}

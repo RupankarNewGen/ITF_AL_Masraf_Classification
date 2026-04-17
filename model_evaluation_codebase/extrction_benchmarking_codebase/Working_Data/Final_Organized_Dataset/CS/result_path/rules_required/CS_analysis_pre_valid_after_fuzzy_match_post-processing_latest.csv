@@ -1,0 +1,61 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210824112119_1.00_page_10.png,drawee_country,,,0,0,[],
+1,Trade Finance_20210824112119_1.00_page_10.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,69,0,"[314, 786, 877, 856]","[310, 781, 883, 814]"
+2,Trade Finance_20210824112119_1.00_page_10.png,draft_number,,,0,0,[],
+3,Trade Finance_20210824112119_1.00_page_10.png,drawer_bank_name,,ARAB BANK FOR INVESTMENT AND FOREIG,0,0,"[736, 1190, 1440, 1222]","[1475, 410, 1920, 532]"
+4,Trade Finance_20210824112119_1.00_page_10.png,document_enclosed,,,0,0,[],
+5,Trade Finance_20210824112119_1.00_page_10.png,csh_due_date,,,0,0,[],
+6,Trade Finance_20210824112119_1.00_page_10.png,is_stamp,,FALSE,0,0,[],
+7,Trade Finance_20210824112119_1.00_page_10.png,csh_drawn_under_lc_number,TF1921870002,TF1921870002,100,1,"[736, 1021, 974, 1050]","[732, 1020, 989, 1051]"
+8,Trade Finance_20210824112119_1.00_page_10.png,csh_presentation_date,17-AUG-21,17/08/2021,42,0,"[518, 709, 696, 744]","[508, 701, 703, 754]"
+9,Trade Finance_20210824112119_1.00_page_10.png,drawee_name,AL MASRAF ISLAMIC ,AL MASRAF — ISLAMICTRADE,81,1,"[734, 1127, 1116, 1151]","[735, 1127, 1131, 1154]"
+10,Trade Finance_20210824112119_1.00_page_10.png,drawer_country,,,0,0,[],
+11,Trade Finance_20210824112119_1.00_page_10.png,charges,,,0,0,[],
+12,Trade Finance_20210824112119_1.00_page_10.png,csh_bill_currency,AED,,0,0,[],"[732, 1156, 811, 1191]"
+13,Trade Finance_20210824112119_1.00_page_10.png,csh_bill_amount,"115,510.50","115,510.50",100,1,"[838, 1158, 1036, 1190]","[832, 1158, 1045, 1189]"
+14,Trade Finance_20210824112119_1.00_page_10.png,drawer_name,SEAGULL (HVAC) INDUSTRY LLC,SEAGULL (HVAC) INDUSTRY,92,1,"[736, 1088, 1200, 1120]","[733, 1087, 1357, 1127]"
+15,Trade Finance_20210824112119_1.00_page_19.png,drawee_country,,,0,0,[],
+16,Trade Finance_20210824112119_1.00_page_19.png,drawee_bank_name,Abu Dhabi Commercial Bank,ABU DHABI COMMERCIAL BANK,100,1,"[266, 879, 842, 921]","[253, 873, 851, 925]"
+17,Trade Finance_20210824112119_1.00_page_19.png,draft_number,,,0,0,[],
+18,Trade Finance_20210824112119_1.00_page_19.png,drawer_bank_name,INDUSTRY SEAGULL HVAC LLC,SEAGULL HVAC INDUSTRY LLC,64,0,"[580, 446, 1784, 520]","[544, 435, 1843, 550]"
+19,Trade Finance_20210824112119_1.00_page_19.png,document_enclosed,,,0,0,[],
+20,Trade Finance_20210824112119_1.00_page_19.png,csh_due_date,,,0,0,[],
+21,Trade Finance_20210824112119_1.00_page_19.png,is_stamp,,FALSE,0,0,[],
+22,Trade Finance_20210824112119_1.00_page_19.png,csh_drawn_under_lc_number,TF1921870002,TF1921870002,100,1,"[702, 1178, 1013, 1213]","[695, 1166, 1021, 1233]"
+23,Trade Finance_20210824112119_1.00_page_19.png,csh_presentation_date,"15, 2021",15/08/2021,67,0,"[266, 766, 580, 805]","[406, 759, 603, 811]"
+24,Trade Finance_20210824112119_1.00_page_19.png,drawee_name,,,0,0,[],
+25,Trade Finance_20210824112119_1.00_page_19.png,drawer_country,,,0,0,[],
+26,Trade Finance_20210824112119_1.00_page_19.png,charges,,,0,0,[],
+27,Trade Finance_20210824112119_1.00_page_19.png,csh_bill_currency,AED,,0,0,[],"[888, 1752, 991, 1813]"
+28,Trade Finance_20210824112119_1.00_page_19.png,csh_bill_amount,"115,510.50",,0,0,[],"[991, 1746, 1202, 1819]"
+29,Trade Finance_20210824112119_1.00_page_19.png,drawer_name,,,0,0,[],
+30,Trade Finance_20210824112119_1.00_page_5.png,drawee_country,,,0,0,[],
+31,Trade Finance_20210824112119_1.00_page_5.png,drawee_bank_name,"ABU DHABI COMMERCIAL BANK, DUBAI",,0,0,[],"[292, 931, 837, 965]"
+32,Trade Finance_20210824112119_1.00_page_5.png,draft_number,,,0,0,[],
+33,Trade Finance_20210824112119_1.00_page_5.png,drawer_bank_name,MASRAF,"ABU DHABI COMMERCIAL BANK, DUBAIALMASRAF",26,0,"[297, 939, 826, 960]","[1748, 294, 2168, 389]"
+34,Trade Finance_20210824112119_1.00_page_5.png,document_enclosed,,,0,0,[],
+35,Trade Finance_20210824112119_1.00_page_5.png,csh_due_date,,,0,0,[],
+36,Trade Finance_20210824112119_1.00_page_5.png,is_stamp,,FALSE,0,0,[],
+37,Trade Finance_20210824112119_1.00_page_5.png,csh_drawn_under_lc_number,TF1921870002V,TF1921870002,96,1,"[1138, 1083, 1431, 1136]","[1133, 1094, 1351, 1127]"
+38,Trade Finance_20210824112119_1.00_page_5.png,csh_presentation_date,,01/08/2021,0,0,"[1965, 643, 2154, 664]",
+39,Trade Finance_20210824112119_1.00_page_5.png,drawee_name,Al Masraf Islamic ,AL MASRAF — ISLAMIC,92,1,"[1138, 742, 1465, 763]","[1133, 738, 1482, 766]"
+40,Trade Finance_20210824112119_1.00_page_5.png,drawer_country,,,0,0,[],
+41,Trade Finance_20210824112119_1.00_page_5.png,charges,,,0,0,[],
+42,Trade Finance_20210824112119_1.00_page_5.png,csh_bill_currency,,AED,0,0,"[1138, 1125, 1398, 1153]","[1134, 1132, 1193, 1157]"
+43,Trade Finance_20210824112119_1.00_page_5.png,csh_bill_amount,,115510.50,0,0,"[1138, 1125, 1398, 1153]","[1195, 1133, 1351, 1157]"
+44,Trade Finance_20210824112119_1.00_page_5.png,drawer_name,SEAGULL HVAC INDUSTRY LLC,SEAGULL HVAC INDUSTRY LLC,100,1,"[299, 745, 727, 763]","[292, 739, 738, 766]"
+45,Trade Finance_20210824112119_1.00_page_6.png,drawee_country,,,0,0,[],
+46,Trade Finance_20210824112119_1.00_page_6.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAFTRADE~ARAB BANK FOR INVESTMENT AND FOREIG,46,0,"[313, 784, 942, 851]","[304, 781, 910, 817]"
+47,Trade Finance_20210824112119_1.00_page_6.png,draft_number,,,0,0,[],
+48,Trade Finance_20210824112119_1.00_page_6.png,drawer_bank_name,,,100,1,[],"[1518, 385, 2008, 519]"
+49,Trade Finance_20210824112119_1.00_page_6.png,document_enclosed,,,0,0,[],
+50,Trade Finance_20210824112119_1.00_page_6.png,csh_due_date,,,0,0,[],
+51,Trade Finance_20210824112119_1.00_page_6.png,is_stamp,,FALSE,0,0,[],
+52,Trade Finance_20210824112119_1.00_page_6.png,csh_drawn_under_lc_number,TF1921870002,TF1921870002,100,1,"[752, 1020, 1048, 1065]","[749, 1026, 1021, 1057]"
+53,Trade Finance_20210824112119_1.00_page_6.png,csh_presentation_date,17-AUG-21,17/08/2021,42,0,"[525, 714, 713, 742]","[520, 701, 729, 751]"
+54,Trade Finance_20210824112119_1.00_page_6.png,drawee_name,AL MASRAF ISLAMIC ,AL MASRAF — ISLAMIC,92,1,"[755, 1139, 1152, 1171]","[751, 1133, 1164, 1168]"
+55,Trade Finance_20210824112119_1.00_page_6.png,drawer_country,,,0,0,[],
+56,Trade Finance_20210824112119_1.00_page_6.png,charges,,,0,0,[],
+57,Trade Finance_20210824112119_1.00_page_6.png,csh_bill_currency,AED,AED,100,1,"[755, 1175, 816, 1199]","[755, 1176, 822, 1203]"
+58,Trade Finance_20210824112119_1.00_page_6.png,csh_bill_amount,"115,510.50•","115,510.50",95,1,"[863, 1160, 1130, 1206]","[858, 1173, 1071, 1205]"
+59,Trade Finance_20210824112119_1.00_page_6.png,drawer_name,SEAGULL (HVAC) INDUSTRY LLC,SEAGULL (HVAC) INDUSTRY,92,1,"[757, 1097, 1238, 1132]","[749, 1104, 1407, 1133]"

@@ -1,0 +1,119 @@
+{
+    "Trade Finance_20210318073204_1.00_page_15.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "Pay",
+                    "left": 2730,
+                    "top": 231,
+                    "width": 65,
+                    "height": 56,
+                    "x1": 2730,
+                    "y1": 231,
+                    "x2": 2795,
+                    "y2": 287,
+                    "Confidence": 99
+                },
+                {
+                    "word": "to",
+                    "left": 2803,
+                    "top": 240,
+                    "width": 30,
+                    "height": 39,
+                    "x1": 2803,
+                    "y1": 240,
+                    "x2": 2833,
+                    "y2": 279,
+                    "Confidence": 99
+                },
+                {
+                    "word": "the",
+                    "left": 2842,
+                    "top": 243,
+                    "width": 51,
+                    "height": 39,
+                    "x1": 2842,
+                    "y1": 243,
+                    "x2": 2893,
+                    "y2": 282,
+                    "Confidence": 99
+                },
+                {
+                    "word": "order",
+                    "left": 2903,
+                    "top": 247,
+                    "width": 84,
+                    "height": 40,
+                    "x1": 2903,
+                    "y1": 247,
+                    "x2": 2987,
+                    "y2": 287,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of",
+                    "left": 2995,
+                    "top": 251,
+                    "width": 32,
+                    "height": 36,
+                    "x1": 2995,
+                    "y1": 251,
+                    "x2": 3027,
+                    "y2": 287,
+                    "Confidence": 99
+                },
+                {
+                    "word": "any",
+                    "left": 3034,
+                    "top": 262,
+                    "width": 58,
+                    "height": 38,
+                    "x1": 3034,
+                    "y1": 262,
+                    "x2": 3092,
+                    "y2": 300,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Bank",
+                    "left": 3102,
+                    "top": 254,
+                    "width": 81,
+                    "height": 41,
+                    "x1": 3102,
+                    "y1": 254,
+                    "x2": 3183,
+                    "y2": 295,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

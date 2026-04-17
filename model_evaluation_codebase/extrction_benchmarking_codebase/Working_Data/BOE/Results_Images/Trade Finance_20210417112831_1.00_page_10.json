@@ -1,0 +1,119 @@
+{
+    "Trade Finance_20210417112831_1.00_page_10.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999854564666748
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {},
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        },
+        "ocrInfo": {
+            "Text_and_Coordinates": [
+                {
+                    "word": "C",
+                    "left": 861,
+                    "top": 476,
+                    "width": 31,
+                    "height": 29,
+                    "x1": 861,
+                    "y1": 476,
+                    "x2": 892,
+                    "y2": 505,
+                    "Confidence": 99
+                },
+                {
+                    "word": "he",
+                    "left": 1518,
+                    "top": 2367,
+                    "width": 58,
+                    "height": 34,
+                    "x1": 1518,
+                    "y1": 2367,
+                    "x2": 1576,
+                    "y2": 2401,
+                    "Confidence": 99
+                },
+                {
+                    "word": "order",
+                    "left": 1593,
+                    "top": 2362,
+                    "width": 122,
+                    "height": 37,
+                    "x1": 1593,
+                    "y1": 2362,
+                    "x2": 1715,
+                    "y2": 2399,
+                    "Confidence": 99
+                },
+                {
+                    "word": "of:",
+                    "left": 1731,
+                    "top": 2358,
+                    "width": 56,
+                    "height": 37,
+                    "x1": 1731,
+                    "y1": 2358,
+                    "x2": 1787,
+                    "y2": 2395,
+                    "Confidence": 99
+                },
+                {
+                    "word": "|",
+                    "left": 1405,
+                    "top": 2701,
+                    "width": 7,
+                    "height": 77,
+                    "x1": 1405,
+                    "y1": 2701,
+                    "x2": 1412,
+                    "y2": 2778,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Authorized",
+                    "left": 1543,
+                    "top": 2706,
+                    "width": 249,
+                    "height": 44,
+                    "x1": 1543,
+                    "y1": 2706,
+                    "x2": 1792,
+                    "y2": 2750,
+                    "Confidence": 99
+                },
+                {
+                    "word": "Signet",
+                    "left": 1810,
+                    "top": 2705,
+                    "width": 138,
+                    "height": 43,
+                    "x1": 1810,
+                    "y1": 2705,
+                    "x2": 1948,
+                    "y2": 2748,
+                    "Confidence": 99
+                }
+            ],
+            "orientation": "none"
+        }
+    }
+}

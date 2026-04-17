@@ -1,0 +1,40 @@
+{
+  "total": 5,
+  "processed": 3,
+  "failed": 2,
+  "results": [
+    {
+      "image": "A09862_20210125164420_1.00_page_22.jpeg",
+      "status": "failed",
+      "error": "No matching OCR file found"
+    },
+    {
+      "image": "A09862_20210125165541_1.00_page_9.jpeg",
+      "status": "success",
+      "ocr_file": "A09862_20210125165541_1.00_page_9_textAndCoordinates.txt",
+      "words_detected": 335,
+      "visualization": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/abbyy_results/A09862_20210125165541_1.00_page_9_ocr_visualization.png"
+    },
+    {
+      "image": "A09904_20210202180600_1.00_page_7.jpeg",
+      "status": "failed",
+      "error": "No matching OCR file found"
+    },
+    {
+      "image": "Trade Finance_20210208071246_1.00_page_4.jpeg",
+      "status": "success",
+      "ocr_file": "Trade Finance_20210208071246_1.00_page_4_textAndCoordinates.txt",
+      "words_detected": 143,
+      "visualization": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/abbyy_results/Trade Finance_20210208071246_1.00_page_4_ocr_visualization.png"
+    },
+    {
+      "image": "Trade Finance_20210216165325_1.00_page_32.jpeg",
+      "status": "success",
+      "ocr_file": "Trade Finance_20210216165325_1.00_page_32_textAndCoordinates.txt",
+      "words_detected": 583,
+      "visualization": "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/OCR/abbyy_results/Trade Finance_20210216165325_1.00_page_32_ocr_visualization.png"
+    }
+  ],
+  "start_time": "2026-04-14T07:04:38.774248",
+  "end_time": "2026-04-14T07:04:45.522245"
+}
