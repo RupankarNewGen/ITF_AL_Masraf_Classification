@@ -1,9 +1,0 @@
-,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
-0,Trade Finance_20210520184923_1.00_page_10.png,csh_drawn_under_lc_number,TF2034500008,TF2034500008,100,1,"[620, 996, 931, 1031]","[618, 993, 937, 1034]"
-1,Trade Finance_20210520184923_1.00_page_10.png,csh_bill_currency,USD,USD,100,1,"[1253, 737, 1347, 775]","[1249, 735, 1349, 779]"
-2,Trade Finance_20210520184923_1.00_page_10.png,csh_bill_amount,"9,639.00—","9,639.00",94,1,"[1362, 737, 1589, 779]","[1357, 733, 1544, 777]"
-3,Trade Finance_20210520184923_1.00_page_10.png,drawer_name,"KUKA (HK) TRADE CO., LIMITED","KUKA (HK) TRADE CO., LIMITED",100,1,"[622, 1147, 1324, 1193]","[617, 1145, 1330, 1188]"
-4,Trade Finance_20210520184923_1.00_page_14.png,csh_drawn_under_lc_number,TF2034500008,TF2034500008/,96,1,"[616, 1054, 980, 1089]","[613, 1047, 921, 1090]"
-5,Trade Finance_20210520184923_1.00_page_14.png,csh_bill_currency,USD,USD,100,1,"[1220, 808, 1309, 843]","[1217, 801, 1308, 845]"
-6,Trade Finance_20210520184923_1.00_page_14.png,csh_bill_amount,"9,639.00","9,639.00",100,1,"[1324, 808, 1542, 850]","[1322, 803, 1498, 843]"
-7,Trade Finance_20210520184923_1.00_page_14.png,drawer_name,"KUKA (HK) TRADE CO., LIMITED","KUKA (HK) TRADE CO., LIMITED",100,1,"[619, 1202, 1289, 1244]","[616, 1200, 1288, 1240]"

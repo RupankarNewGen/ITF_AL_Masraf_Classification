@@ -1,9 +1,0 @@
-,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
-0,mohammedkm_23-01-2026_8-50-01_page_2.png,amount_in_words,THIRTY FIVE THOUSAND ONE HUNDRED SEVEN AND SIXTY ONLY,U S. DOLLARS THIRTY FIVE THOUSAND ONE HUNDRED SEVEN AND SIXTY ONLY,89,1,"[166, 1413, 1540, 1452]","[419, 1409, 1543, 1453]"
-1,mohammedkm_23-01-2026_8-50-01_page_2.png,bill_exchange_no,PC9732,PC9732,100,1,"[243, 989, 458, 1031]","[294, 981, 419, 1022]"
-2,mohammedkm_23-01-2026_8-50-01_page_2.png,boe_amount,107.60,"107.60,",92,1,"[543, 1126, 729, 1164]","[483, 1118, 666, 1164]"
-3,mohammedkm_23-01-2026_8-50-01_page_2.png,boe_currency,USD,USD,100,1,"[414, 1122, 528, 1157]","[413, 1118, 474, 1164]"
-4,mohammedkm_23-01-2026_8-50-01_page_2.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,100,1,"[287, 2150, 1146, 2181]","[285, 2138, 1159, 2188]"
-5,mohammedkm_23-01-2026_8-50-01_page_2.png,drawer_bank_name,"MIZUHO BANK, LTD","MIZUHO BANK, LTD",100,1,"[558, 1304, 883, 1336]","[556, 1296, 891, 1342]"
-6,mohammedkm_23-01-2026_8-50-01_page_2.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[424, 2048, 694, 2090]","[443, 2047, 715, 2086]"
-7,mohammedkm_23-01-2026_8-50-01_page_2.png,tenore_details,AT 120 DAYS AFTER BILL OF LADING DATE,120 DAYS AFTER BILL OF LADING,88,1,"[166, 1213, 942, 1255]","[165, 1208, 954, 1251]"

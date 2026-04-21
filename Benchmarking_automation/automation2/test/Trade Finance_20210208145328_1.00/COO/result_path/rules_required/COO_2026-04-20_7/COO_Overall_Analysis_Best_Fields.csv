@@ -1,8 +1,0 @@
-,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
-0,Trade Finance_20210208145328_1.00_page_31.png,lc_ref_no,NUMBERTF2019500005,NUMBERTF2019500005,100,1,"[993, 1803, 1310, 1828]","[1121, 1800, 1310, 1833]"
-1,Trade Finance_20210208145328_1.00_page_31.png,final_destination,UNITED ARAB EMIRATES,UNITED ARAB EMIRATESS,98,1,"[262, 1204, 711, 1236]","[259, 1210, 608, 1241]"
-2,Trade Finance_20210208145328_1.00_page_31.png,consignee_name,UNITED FURNITURE CO LLC,UNITED FURNITURECO LLC,98,1,"[259, 563, 679, 591]","[265, 558, 694, 589]"
-3,Trade Finance_20210208145328_1.00_page_31.png,country_of_origin_of_goods,CHINA,CHINA,100,1,"[2167, 602, 2279, 630]","[1005, 2029, 1096, 2056]"
-4,Trade Finance_20210208145328_1.00_page_31.png,issue_date,JULY 13.2020,JULY 13.2020,100,1,"[860, 1842, 1428, 1873]","[854, 1845, 1039, 1878]"
-5,Trade Finance_20210208145328_1.00_page_31.png,means_of_transport,SEA,SEA,100,1,"[420, 871, 571, 893]","[423, 871, 521, 900]"
-6,Trade Finance_20210208145328_1.00_page_31.png,certificate_no,21C3305A027100003,21C3305A027100003,100,1,"[1517, 283, 1891, 322]","[1528, 283, 1857, 324]"

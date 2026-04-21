@@ -1,5 +1,0 @@
-,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
-0,Trade Finance_20210617185649_1.00_page_11.png,lc_ref_no,TF2000700001,TF2000700001,100,1,"[1043, 1492, 1186, 1513]","[1040, 1492, 1190, 1515]"
-1,Trade Finance_20210617185649_1.00_page_11.png,date_of_invoice,08/06/2021,08/06/2021,100,1,"[336, 726, 449, 751]","[331, 729, 452, 749]"
-2,Trade Finance_20210617185649_1.00_page_11.png,beneficiary_drawer_exporter_seller_supplier_name,Arflu SA,ARFLU SA,100,1,"[266, 435, 360, 453]","[262, 434, 360, 458]"
-3,Trade Finance_20210617185649_1.00_page_11.png,invoice_amount,"103.060,80","103.060,80",100,1,"[1191, 1555, 1300, 1576]","[1191, 1553, 1302, 1580]"
