@@ -1,0 +1,273 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_2.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 90,
+            "model_score": 0.9995760321617126
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "bill_exchange_no": {
+                "value": "PC9732",
+                "coordinate": [
+                    [
+                        243,
+                        989,
+                        458,
+                        1031
+                    ]
+                ],
+                "model_confidence": [
+                    0.999684
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {
+                "value": "USD",
+                "coordinate": [
+                    [
+                        414,
+                        1122,
+                        528,
+                        1157
+                    ]
+                ],
+                "model_confidence": [
+                    0.808956
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "107. 60,",
+                "coordinate": [
+                    [
+                        543,
+                        1126,
+                        729,
+                        1164
+                    ]
+                ],
+                "model_confidence": [
+                    0.999474
+                ],
+                "ocr_confidence": []
+            },
+            "tenore_details": {
+                "value": "120 DAYS AFTER BILL OF LADING",
+                "coordinate": [
+                    [
+                        166,
+                        1213,
+                        942,
+                        1255
+                    ]
+                ],
+                "model_confidence": [
+                    0.999854
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "MIZUHO BANK, LTD",
+                "coordinate": [
+                    [
+                        558,
+                        1304,
+                        883,
+                        1336
+                    ]
+                ],
+                "model_confidence": [
+                    0.999697
+                ],
+                "ocr_confidence": []
+            },
+            "amount_in_words": {
+                "value": "U. S. DOLLARS THIRTY FIVE THOUSAND ONE HUNDRED SEVEN AND SIXTY ONLY",
+                "coordinate": [
+                    [
+                        166,
+                        1413,
+                        1540,
+                        1452
+                    ]
+                ],
+                "model_confidence": [
+                    0.996299
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_name": {
+                "value": "NEW EAST GENERAL TRADING FZCO",
+                "coordinate": [
+                    [
+                        454,
+                        1613,
+                        1046,
+                        1645
+                    ]
+                ],
+                "model_confidence": [
+                    0.736547
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "PLOT S21006, FREE ZONE TRADING STREET, JAFZA SOUTH ZONE 2, JEBEL ALI, DU BAI, UAE.",
+                "coordinate": [
+                    [
+                        451,
+                        1680,
+                        1885,
+                        1782
+                    ]
+                ],
+                "model_confidence": [
+                    0.991107
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2534300022",
+                "coordinate": [
+                    [
+                        424,
+                        2048,
+                        694,
+                        2090
+                    ]
+                ],
+                "model_confidence": [
+                    0.999878
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "16/12/2025",
+                "coordinate": [
+                    [
+                        1669,
+                        2052,
+                        1890,
+                        2083
+                    ]
+                ],
+                "model_confidence": [
+                    0.999611
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+                "coordinate": [
+                    [
+                        287,
+                        2150,
+                        1146,
+                        2181
+                    ]
+                ],
+                "model_confidence": [
+                    0.999327
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "23/12/2025",
+                "coordinate": [
+                    [
+                        1652,
+                        1038,
+                        1922,
+                        1073
+                    ]
+                ],
+                "model_confidence": [
+                    0.999712
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "declaration_by": {
+                "value": "THE YOKOHAMA RUBBER CO LTD",
+                "coordinate": [
+                    [
+                        1597,
+                        2188,
+                        2054,
+                        2213
+                    ]
+                ],
+                "model_confidence": [
+                    0.992298
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {},
+            "drawee_country": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "country_of_origin": {},
+            "invoice_no": {},
+            "invoice_date": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "signature": {},
+            "issue_place": {},
+            "stamp": {},
+            "drawee_bank_address": {},
+            "drawee_bank_country": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "total_original_number": {},
+            "goods_description": {},
+            "tenor_details": {},
+            "issuing_bank": {},
+            "issuing_bank_address": {},
+            "issuing_bank_country": {},
+            "stamp_endorsed": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

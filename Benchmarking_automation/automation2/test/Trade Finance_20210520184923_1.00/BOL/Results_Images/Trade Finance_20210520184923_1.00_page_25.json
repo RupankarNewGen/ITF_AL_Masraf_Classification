@@ -1,0 +1,414 @@
+{
+    "Trade Finance_20210520184923_1.00_page_25.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999793767929077
+        },
+        "predicted_class": "BOL",
+        "confidence": "0.8655466857599095",
+        "extraction_result": {
+            "bill_exchange_date": {
+                "value": "IAT21070~01/01/2021",
+                "coordinate": [
+                    [
+                        960,
+                        2283,
+                        1151,
+                        2311
+                    ],
+                    [
+                        1975,
+                        2712,
+                        2277,
+                        2856
+                    ]
+                ],
+                "model_confidence": [
+                    0.990726,
+                    0.766736
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "1~804",
+                "coordinate": [
+                    [
+                        1257,
+                        2286,
+                        1277,
+                        2311
+                    ],
+                    [
+                        1802,
+                        2821,
+                        1990,
+                        2867
+                    ]
+                ],
+                "model_confidence": [
+                    0.902489,
+                    0.413299
+                ],
+                "ocr_confidence": []
+            },
+            "stamp": {
+                "value": "RJAH, UAE~5",
+                "coordinate": [
+                    [
+                        537,
+                        1030,
+                        752,
+                        1062
+                    ],
+                    [
+                        1938,
+                        2884,
+                        1965,
+                        2898
+                    ]
+                ],
+                "model_confidence": [
+                    0.971514,
+                    0.593729
+                ],
+                "ocr_confidence": []
+            },
+            "diclaration_by": {
+                "value": "ORIENT OVERSEAS CONTAINER LINE, AS CARRIER,~FOR",
+                "coordinate": [
+                    [
+                        1663,
+                        3095,
+                        2114,
+                        3169
+                    ],
+                    [
+                        2263,
+                        3071,
+                        2292,
+                        3095
+                    ]
+                ],
+                "model_confidence": [
+                    0.98757,
+                    0.880343
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_name": {
+                "value": "COOL ORIEL NT OVERSEAS CONTAINER LINE CO L IMITED~FURNISHINGS",
+                "coordinate": [
+                    [
+                        141,
+                        168,
+                        1289,
+                        358
+                    ],
+                    [
+                        539,
+                        946,
+                        799,
+                        970
+                    ]
+                ],
+                "model_confidence": [
+                    0.93344,
+                    0.775871
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "PAN EMIRATES HOME L.L.C~KUKA HK TRADE",
+                "coordinate": [
+                    [
+                        111,
+                        946,
+                        512,
+                        1013
+                    ],
+                    [
+                        113,
+                        334,
+                        425,
+                        358
+                    ]
+                ],
+                "model_confidence": [
+                    0.983017,
+                    0.535932
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_no": {
+                "value": "DFSU6781368~OOLU2121664400",
+                "coordinate": [
+                    [
+                        84,
+                        1554,
+                        341,
+                        1579
+                    ],
+                    [
+                        1740,
+                        334,
+                        2072,
+                        362
+                    ]
+                ],
+                "model_confidence": [
+                    0.551971,
+                    0.982515
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "PO BOX: 23197, SHA~RM 1907, 19/F, TOW ER 2, GRAND CENTRAL PLAZA, 138 SHATIN NT",
+                "coordinate": [
+                    [
+                        111,
+                        1030,
+                        529,
+                        1058
+                    ],
+                    [
+                        113,
+                        376,
+                        804,
+                        510
+                    ]
+                ],
+                "model_confidence": [
+                    0.996355,
+                    0.894559
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_address": {
+                "value": "RURAL HONGKONG",
+                "coordinate": [
+                    [
+                        113,
+                        478,
+                        532,
+                        506
+                    ]
+                ],
+                "model_confidence": [
+                    0.606068
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "A RAB BANK FOR INVESTMENT AND FOR EIGN TRADE",
+                "coordinate": [
+                    [
+                        113,
+                        643,
+                        826,
+                        717
+                    ]
+                ],
+                "model_confidence": [
+                    0.915596
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF20345 00 008",
+                "coordinate": [
+                    [
+                        779,
+                        1709,
+                        1059,
+                        1734
+                    ]
+                ],
+                "model_confidence": [
+                    0.996896
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "10/12/2020",
+                "coordinate": [
+                    [
+                        1136,
+                        1741,
+                        1371,
+                        1766
+                    ]
+                ],
+                "model_confidence": [
+                    0.999299
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "BANK FOR INVESTMENT AND FOREIGN TRADE",
+                "coordinate": [
+                    [
+                        779,
+                        1769,
+                        1443,
+                        1825
+                    ]
+                ],
+                "model_confidence": [
+                    0.995196
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "2745.000KGS 65.000CBM",
+                "coordinate": [
+                    [
+                        1661,
+                        1924,
+                        2235,
+                        1952
+                    ]
+                ],
+                "model_confidence": [
+                    0.998428
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {
+                "value": "USD",
+                "coordinate": [
+                    [
+                        346,
+                        2223,
+                        393,
+                        2244
+                    ]
+                ],
+                "model_confidence": [
+                    0.880832
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address_country": {
+                "value": "ER",
+                "coordinate": [
+                    [
+                        111,
+                        1030,
+                        529,
+                        1058
+                    ]
+                ],
+                "model_confidence": [
+                    0.945457
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "bill_of_lading_number": {},
+            "bill_of_lading_issue_date": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "consignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "carrier_name": {},
+            "carrier_country": {},
+            "agent_name": {},
+            "agent_country": {},
+            "pre_carriage_by": {},
+            "vessel_name": {},
+            "voyage_number": {},
+            "container_number": {},
+            "place_of_receipt": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "port_of_discharge_place": {},
+            "port_of_discharge_country": {},
+            "final_destination": {},
+            "final_destination_place": {},
+            "final_destination_country": {},
+            "shipped_onboard_date": {},
+            "bol_original_number": {},
+            "bol_original_or_copy": {},
+            "freight_collect_at": {},
+            "freight_collect_or_prepaid": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "place_of_issue": {},
+            "signed_by_carrier": {},
+            "signed_by_named_agent": {},
+            "lc_ref_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature": {},
+            "net_weight": {},
+            "gross_weight": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "country_of_origin": {},
+            "goods_description": {},
+            "goods_quantity": {},
+            "dimension": {},
+            "goods_marks_and_nos": {},
+            "mode_of_transport": {},
+            "measurement": {},
+            "master_name": {},
+            "signed_by_master": {},
+            "total_original_no": {},
+            "stamped_vessel_or_cargo_name": {},
+            "charter": {},
+            "stamped_port_of_loading": {},
+            "stamped_onboard_date": {},
+            "carriage_condition": {},
+            "stamped_shipped_onboard_date": {},
+            "shipment_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

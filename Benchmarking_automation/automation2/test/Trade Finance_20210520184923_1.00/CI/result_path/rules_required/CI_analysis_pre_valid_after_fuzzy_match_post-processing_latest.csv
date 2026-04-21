@@ -1,0 +1,121 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210520184923_1.00_page_13.png,lc_ref_no,TF2034500008,TF2034500008,100,1,"[1874, 478, 2052, 499]","[1874, 474, 2056, 506]"
+1,Trade Finance_20210520184923_1.00_page_13.png,lc_ref_no,NUMBERTF2034500008,NUMBERTF2034500008,100,1,"[480, 1864, 725, 1882]","[577, 1863, 732, 1885]"
+2,Trade Finance_20210520184923_1.00_page_13.png,beneficiary_bank_name,"VIA KUKA(HK)TRADE CO., LIMITED ZHEJIANG KUKA MERLIN FURNITURE COLTD",,0,0,[],"[571, 151, 1816, 185]"
+3,Trade Finance_20210520184923_1.00_page_13.png,date_of_invoice,"Apr.29,2021",29/04/2021,57,0,"[1874, 446, 2012, 471]","[1869, 442, 2015, 470]"
+4,Trade Finance_20210520184923_1.00_page_13.png,total_quantity_of_goods,15SETSPACKEDIN90BAGSALL,,0,0,[],"[989, 1351, 1364, 1375]"
+5,Trade Finance_20210520184923_1.00_page_13.png,invoice_currency,USD,,0,0,[],"[2246, 1351, 2294, 1371]"
+6,Trade Finance_20210520184923_1.00_page_13.png,goods_description,FURNITURE,,0,0,[],"[208, 859, 344, 892]"
+7,Trade Finance_20210520184923_1.00_page_13.png,incoterm,,,0,0,[],
+8,Trade Finance_20210520184923_1.00_page_13.png,remitter_drawee_applicant_importer_buyer_name,EMIRATES HOME FURNISHINGS L.L.C PAN,PAN EMIRATES HOME FURNISHINGS LLC,85,1,"[215, 355, 747, 379]","[206, 352, 756, 381]"
+9,Trade Finance_20210520184923_1.00_page_13.png,beneficiary_drawer_exporter_seller_supplier_name,,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",0,0,"[581, 154, 1809, 186]",
+10,Trade Finance_20210520184923_1.00_page_13.png,invoice_due_date,,,0,0,[],
+11,Trade Finance_20210520184923_1.00_page_13.png,lc_date,ISSUE10.12.2020,10/12/2020,64,0,"[319, 1899, 497, 1917]","[392, 1895, 501, 1922]"
+12,Trade Finance_20210520184923_1.00_page_13.png,is_stamp,,FALSE,0,0,[],
+13,Trade Finance_20210520184923_1.00_page_13.png,consignee_address,,,0,0,[],
+14,Trade Finance_20210520184923_1.00_page_13.png,beneficiary_iban_number,,,0,0,[],
+15,Trade Finance_20210520184923_1.00_page_13.png,invoice_amount,9639.00,,0,0,[],"[2298, 1350, 2379, 1371]"
+16,Trade Finance_20210520184923_1.00_page_13.png,beneficiary_country,,CHINA,0,0,"[752, 193, 1644, 246]",
+17,Trade Finance_20210520184923_1.00_page_13.png,remitter_country,,,0,0,[],
+18,Trade Finance_20210520184923_1.00_page_13.png,consignor_name,,,0,0,[],
+19,Trade Finance_20210520184923_1.00_page_13.png,country_of_final_destination,,,0,0,[],
+20,Trade Finance_20210520184923_1.00_page_16.png,lc_ref_no,TF2034500008,TF2034500008,100,1,"[1817, 554, 1990, 575]","[1814, 551, 1995, 584]"
+21,Trade Finance_20210520184923_1.00_page_16.png,lc_ref_no,,NUMBERTF2034500008,0,0,"[477, 1878, 710, 1907]","[571, 1878, 721, 1900]"
+22,Trade Finance_20210520184923_1.00_page_16.png,beneficiary_bank_name,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",,0,0,[],"[580, 238, 1825, 272]"
+23,Trade Finance_20210520184923_1.00_page_16.png,date_of_invoice,"Apr.29,2021",29/04/2021,57,0,"[1819, 519, 1953, 547]","[1813, 521, 1959, 550]"
+24,Trade Finance_20210520184923_1.00_page_16.png,total_quantity_of_goods,IN15SETSALLPACKED90,,0,0,[],"[970, 1391, 1327, 1414]"
+25,Trade Finance_20210520184923_1.00_page_16.png,invoice_currency,USD,,0,0,[],"[2168, 1396, 2215, 1416]"
+26,Trade Finance_20210520184923_1.00_page_16.png,goods_description,FURNITURE,,0,0,[],"[229, 911, 357, 940]"
+27,Trade Finance_20210520184923_1.00_page_16.png,incoterm,,,0,0,[],
+28,Trade Finance_20210520184923_1.00_page_16.png,remitter_drawee_applicant_importer_buyer_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,100,1,"[232, 417, 745, 446]","[224, 423, 752, 451]"
+29,Trade Finance_20210520184923_1.00_page_16.png,beneficiary_drawer_exporter_seller_supplier_name,,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",0,0,"[586, 238, 1760, 270]",
+30,Trade Finance_20210520184923_1.00_page_16.png,invoice_due_date,,,0,0,[],
+31,Trade Finance_20210520184923_1.00_page_16.png,lc_date,ISSUE10.12.2020,10/12/2020,64,0,"[321, 1910, 492, 1928]","[391, 1909, 500, 1936]"
+32,Trade Finance_20210520184923_1.00_page_16.png,is_stamp,,FALSE,0,0,[],
+33,Trade Finance_20210520184923_1.00_page_16.png,consignee_address,,,0,0,[],
+34,Trade Finance_20210520184923_1.00_page_16.png,beneficiary_iban_number,,,0,0,[],
+35,Trade Finance_20210520184923_1.00_page_16.png,invoice_amount,9639.00,,0,0,[],"[2219, 1398, 2298, 1416]"
+36,Trade Finance_20210520184923_1.00_page_16.png,beneficiary_country,,CHINA,0,0,"[747, 273, 1601, 323]",
+37,Trade Finance_20210520184923_1.00_page_16.png,remitter_country,,,0,0,[],
+38,Trade Finance_20210520184923_1.00_page_16.png,consignor_name,,,0,0,[],
+39,Trade Finance_20210520184923_1.00_page_16.png,country_of_final_destination,,,0,0,[],
+40,Trade Finance_20210520184923_1.00_page_17.png,lc_ref_no,TF2034500008,ERTF2034500008,92,1,"[525, 1877, 710, 1895]","[1808, 547, 1989, 580]"
+41,Trade Finance_20210520184923_1.00_page_17.png,lc_ref_no,NUMBERTF2034500008,TF2034500008,80,0,"[1811, 548, 1981, 573]","[566, 1875, 715, 1896]"
+42,Trade Finance_20210520184923_1.00_page_17.png,beneficiary_bank_name,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",,0,0,[],"[574, 235, 1762, 270]"
+43,Trade Finance_20210520184923_1.00_page_17.png,date_of_invoice,"Apr.29,2021",29/04/2021,57,0,"[1813, 516, 1944, 544]","[1806, 518, 1951, 546]"
+44,Trade Finance_20210520184923_1.00_page_17.png,total_quantity_of_goods,15SETSALLPACKEDIN90BAGS,,0,0,[],"[967, 1388, 1323, 1412]"
+45,Trade Finance_20210520184923_1.00_page_17.png,invoice_currency,USD,,0,0,[],"[2161, 1392, 2208, 1411]"
+46,Trade Finance_20210520184923_1.00_page_17.png,goods_description,FURNITURE,,0,0,[],"[223, 911, 350, 939]"
+47,Trade Finance_20210520184923_1.00_page_17.png,incoterm,,,0,0,[],
+48,Trade Finance_20210520184923_1.00_page_17.png,remitter_drawee_applicant_importer_buyer_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME.FURNISHINGS LLC,97,1,"[227, 421, 737, 446]","[225, 420, 751, 449]"
+49,Trade Finance_20210520184923_1.00_page_17.png,beneficiary_drawer_exporter_seller_supplier_name,,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",0,0,"[577, 235, 1754, 270]",
+50,Trade Finance_20210520184923_1.00_page_17.png,invoice_due_date,,,0,0,[],
+51,Trade Finance_20210520184923_1.00_page_17.png,lc_date,ISSUE10.12.2020,10/12/2020,64,0,"[315, 1909, 486, 1926]","[381, 1905, 490, 1932]"
+52,Trade Finance_20210520184923_1.00_page_17.png,is_stamp,,FALSE,0,0,[],
+53,Trade Finance_20210520184923_1.00_page_17.png,consignee_address,,,0,0,[],
+54,Trade Finance_20210520184923_1.00_page_17.png,beneficiary_iban_number,,,0,0,[],
+55,Trade Finance_20210520184923_1.00_page_17.png,invoice_amount,9639.00,,0,0,[],"[2211, 1392, 2289, 1414]"
+56,Trade Finance_20210520184923_1.00_page_17.png,beneficiary_country,,CHINA,0,0,"[740, 274, 1594, 323]",
+57,Trade Finance_20210520184923_1.00_page_17.png,remitter_country,,,0,0,[],
+58,Trade Finance_20210520184923_1.00_page_17.png,consignor_name,,,0,0,[],
+59,Trade Finance_20210520184923_1.00_page_17.png,country_of_final_destination,,,0,0,[],
+60,Trade Finance_20210520184923_1.00_page_18.png,lc_ref_no,TF2034500008,TF2034500008,100,1,"[1816, 555, 1989, 576]","[1810, 554, 1991, 587]"
+61,Trade Finance_20210520184923_1.00_page_18.png,lc_ref_no,NUMBERTF2034500008,BERTF2034500008,91,1,"[523, 1877, 708, 1898]","[569, 1877, 711, 1899]"
+62,Trade Finance_20210520184923_1.00_page_18.png,beneficiary_bank_name,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",,0,0,[],"[577, 238, 1764, 272]"
+63,Trade Finance_20210520184923_1.00_page_18.png,date_of_invoice,"Apr.29,2021",29/04/2021,57,0,"[1818, 523, 1952, 548]","[1811, 525, 1956, 554]"
+64,Trade Finance_20210520184923_1.00_page_18.png,total_quantity_of_goods,15SETSALLPACKEDIN90BAGS,,0,0,[],"[973, 1392, 1329, 1416]"
+65,Trade Finance_20210520184923_1.00_page_18.png,invoice_currency,USD,,0,0,[],"[2166, 1398, 2213, 1418]"
+66,Trade Finance_20210520184923_1.00_page_18.png,goods_description,FURNITURE,,0,0,[],"[230, 911, 353, 939]"
+67,Trade Finance_20210520184923_1.00_page_18.png,incoterm,,,0,0,[],
+68,Trade Finance_20210520184923_1.00_page_18.png,remitter_drawee_applicant_importer_buyer_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,100,1,"[234, 421, 742, 446]","[230, 424, 756, 453]"
+69,Trade Finance_20210520184923_1.00_page_18.png,beneficiary_drawer_exporter_seller_supplier_name,,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",0,0,"[587, 239, 1762, 274]",
+70,Trade Finance_20210520184923_1.00_page_18.png,invoice_due_date,,,0,0,[],
+71,Trade Finance_20210520184923_1.00_page_18.png,lc_date,ISSUE10.12.2020,10/12/2020,64,0,"[320, 1909, 491, 1926]","[388, 1905, 497, 1932]"
+72,Trade Finance_20210520184923_1.00_page_18.png,is_stamp,,FALSE,0,0,[],
+73,Trade Finance_20210520184923_1.00_page_18.png,consignee_address,,,0,0,[],
+74,Trade Finance_20210520184923_1.00_page_18.png,beneficiary_iban_number,,,0,0,[],
+75,Trade Finance_20210520184923_1.00_page_18.png,invoice_amount,9639.00,,0,0,[],"[2218, 1398, 2297, 1419]"
+76,Trade Finance_20210520184923_1.00_page_18.png,beneficiary_country,,CHINA,0,0,"[747, 277, 1601, 326]",
+77,Trade Finance_20210520184923_1.00_page_18.png,remitter_country,,,0,0,[],
+78,Trade Finance_20210520184923_1.00_page_18.png,consignor_name,,,0,0,[],
+79,Trade Finance_20210520184923_1.00_page_18.png,country_of_final_destination,,,0,0,[],
+80,Trade Finance_20210520184923_1.00_page_19.png,lc_ref_no,TF2034500008,TF2034500008,100,1,"[1819, 563, 1988, 584]","[1816, 560, 1998, 593]"
+81,Trade Finance_20210520184923_1.00_page_19.png,lc_ref_no,3ERTF2034500008,ERTF2034500000,90,1,"[527, 1886, 710, 1904]","[569, 1884, 712, 1906]"
+82,Trade Finance_20210520184923_1.00_page_19.png,beneficiary_bank_name,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",,0,0,[],"[579, 241, 1770, 276]"
+83,Trade Finance_20210520184923_1.00_page_19.png,date_of_invoice,"Apr.29,2021",29/04/2021,57,0,"[1819, 528, 1951, 559]","[1817, 529, 1962, 558]"
+84,Trade Finance_20210520184923_1.00_page_19.png,total_quantity_of_goods,15SETSALLPACKEDINSOBAGS,,0,0,[],"[976, 1397, 1334, 1421]"
+85,Trade Finance_20210520184923_1.00_page_19.png,invoice_currency,USD,,0,0,[],"[2167, 1403, 2214, 1423]"
+86,Trade Finance_20210520184923_1.00_page_19.png,goods_description,FURNITURE,FURNITURE,100,1,"[230, 918, 346, 939]","[227, 915, 351, 943]"
+87,Trade Finance_20210520184923_1.00_page_19.png,incoterm,,,0,0,[],
+88,Trade Finance_20210520184923_1.00_page_19.png,remitter_drawee_applicant_importer_buyer_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,100,1,"[232, 429, 742, 454]","[230, 429, 757, 457]"
+89,Trade Finance_20210520184923_1.00_page_19.png,beneficiary_drawer_exporter_seller_supplier_name,,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",0,0,"[586, 246, 1762, 278]",
+90,Trade Finance_20210520184923_1.00_page_19.png,invoice_due_date,,,0,0,[],
+91,Trade Finance_20210520184923_1.00_page_19.png,lc_date,ISSUE10.12.2020,10/12/2020,64,0,"[319, 1914, 490, 1936]","[384, 1912, 494, 1939]"
+92,Trade Finance_20210520184923_1.00_page_19.png,is_stamp,,FALSE,0,0,[],
+93,Trade Finance_20210520184923_1.00_page_19.png,consignee_address,,,0,0,[],
+94,Trade Finance_20210520184923_1.00_page_19.png,beneficiary_iban_number,,,0,0,[],
+95,Trade Finance_20210520184923_1.00_page_19.png,invoice_amount,9639.00,,0,0,[],"[2219, 1402, 2297, 1423]"
+96,Trade Finance_20210520184923_1.00_page_19.png,beneficiary_country,,CHINA,0,0,"[747, 281, 1604, 330]",
+97,Trade Finance_20210520184923_1.00_page_19.png,remitter_country,,,0,0,[],
+98,Trade Finance_20210520184923_1.00_page_19.png,consignor_name,,,0,0,[],
+99,Trade Finance_20210520184923_1.00_page_19.png,country_of_final_destination,,,0,0,[],
+100,Trade Finance_20210520184923_1.00_page_20.png,lc_ref_no,TF2034500008,TF2034500008,100,1,"[1814, 547, 1985, 572]","[1814, 546, 1996, 579]"
+101,Trade Finance_20210520184923_1.00_page_20.png,lc_ref_no,NUMBERTF2034500008,NUMBERTF2034500008,100,1,"[470, 1874, 705, 1891]","[567, 1872, 717, 1893]"
+102,Trade Finance_20210520184923_1.00_page_20.png,beneficiary_bank_name,"ZHEJIANG KUKA FURNITURECO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED MERLIN",,0,0,[],"[576, 235, 1767, 269]"
+103,Trade Finance_20210520184923_1.00_page_20.png,date_of_invoice,"Apr.29,2021",29/04/2021,57,0,"[1814, 515, 1943, 540]","[1812, 517, 1957, 545]"
+104,Trade Finance_20210520184923_1.00_page_20.png,total_quantity_of_goods,15SETSALLPACKEDIN90BAGS,,0,0,[],"[970, 1386, 1327, 1409]"
+105,Trade Finance_20210520184923_1.00_page_20.png,invoice_currency,USD,,0,0,[],"[2163, 1389, 2211, 1409]"
+106,Trade Finance_20210520184923_1.00_page_20.png,goods_description,FURNITURE,,0,0,[],"[223, 909, 351, 938]"
+107,Trade Finance_20210520184923_1.00_page_20.png,incoterm,,,0,0,[],
+108,Trade Finance_20210520184923_1.00_page_20.png,remitter_drawee_applicant_importer_buyer_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FL RNISHINGS LLC,96,1,"[230, 421, 737, 442]","[226, 419, 754, 448]"
+109,Trade Finance_20210520184923_1.00_page_20.png,beneficiary_drawer_exporter_seller_supplier_name,,"ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",0,0,"[579, 235, 1757, 266]",
+110,Trade Finance_20210520184923_1.00_page_20.png,invoice_due_date,,,0,0,[],
+111,Trade Finance_20210520184923_1.00_page_20.png,lc_date,ISSUE10.12.2020,10/12/2020,64,0,"[319, 1905, 487, 1923]","[382, 1902, 492, 1929]"
+112,Trade Finance_20210520184923_1.00_page_20.png,is_stamp,,FALSE,0,0,[],
+113,Trade Finance_20210520184923_1.00_page_20.png,consignee_address,,,0,0,[],
+114,Trade Finance_20210520184923_1.00_page_20.png,beneficiary_iban_number,,,0,0,[],
+115,Trade Finance_20210520184923_1.00_page_20.png,invoice_amount,9639.00,,0,0,[],"[2213, 1390, 2292, 1411]"
+116,Trade Finance_20210520184923_1.00_page_20.png,beneficiary_country,,CHINA,0,0,"[742, 270, 1594, 319]",
+117,Trade Finance_20210520184923_1.00_page_20.png,remitter_country,,,0,0,[],
+118,Trade Finance_20210520184923_1.00_page_20.png,consignor_name,,,0,0,[],
+119,Trade Finance_20210520184923_1.00_page_20.png,country_of_final_destination,,,0,0,[],

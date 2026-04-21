@@ -1,0 +1,77 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210603075228_1.00_page_14.png,lc_ref_no,TF2030670000,TF2030670000,100,1,"[1497, 663, 1723, 691]","[1496, 659, 1731, 698]"
+1,Trade Finance_20210603075228_1.00_page_14.png,beneficiary_bank_name,,,0,0,[],
+2,Trade Finance_20210603075228_1.00_page_14.png,date_of_invoice,23.05.2021,23/05/2021,80,1,"[2104, 495, 2312, 530]","[2096, 486, 2322, 547]"
+3,Trade Finance_20210603075228_1.00_page_14.png,total_quantity_of_goods,,,0,0,[],
+4,Trade Finance_20210603075228_1.00_page_14.png,invoice_currency,AED,,0,0,[],"[1060, 1721, 1177, 1762]"
+5,Trade Finance_20210603075228_1.00_page_14.png,goods_description,Reinforcement steel cut and bend steel,"REINFORCEMENT STEEL,CUT AND BEND STEEL",97,1,"[96, 916, 658, 944]","[95, 907, 673, 957]"
+6,Trade Finance_20210603075228_1.00_page_14.png,incoterm,,,0,0,[],
+7,Trade Finance_20210603075228_1.00_page_14.png,remitter_drawee_applicant_importer_buyer_name,AL MASRAF - ISLAMIC,AL MASRAF - ISLAMIC,100,1,"[106, 611, 500, 639]","[102, 609, 511, 645]"
+8,Trade Finance_20210603075228_1.00_page_14.png,beneficiary_drawer_exporter_seller_supplier_name,UTMOST,UTMOST,100,1,"[1601, 347, 1829, 389]","[1586, 336, 1833, 399]"
+9,Trade Finance_20210603075228_1.00_page_14.png,invoice_due_date,,,0,0,[],
+10,Trade Finance_20210603075228_1.00_page_14.png,lc_date,01.11.2020,01/11/2020,80,1,"[1938, 663, 2104, 691]","[1933, 660, 2111, 700]"
+11,Trade Finance_20210603075228_1.00_page_14.png,is_stamp,,FALSE,0,0,[],
+12,Trade Finance_20210603075228_1.00_page_14.png,consignee_address,,,0,0,[],
+13,Trade Finance_20210603075228_1.00_page_14.png,beneficiary_iban_number,,,0,0,[],
+14,Trade Finance_20210603075228_1.00_page_14.png,invoice_amount,"48,505.46","48,505.46",100,1,"[1891, 1731, 2064, 1770]","[1884, 1721, 2073, 1769]"
+15,Trade Finance_20210603075228_1.00_page_14.png,beneficiary_country,,,0,0,[],
+16,Trade Finance_20210603075228_1.00_page_14.png,remitter_country,,NG,0,0,"[106, 667, 851, 741]",
+17,Trade Finance_20210603075228_1.00_page_14.png,consignor_name,,,0,0,[],
+18,Trade Finance_20210603075228_1.00_page_14.png,country_of_final_destination,,,0,0,[],
+19,Trade Finance_20210603075228_1.00_page_16.png,lc_ref_no,TF2030670000,TF2030670000,100,1,"[1490, 663, 1718, 691]","[1496, 659, 1731, 698]"
+20,Trade Finance_20210603075228_1.00_page_16.png,beneficiary_bank_name,,,0,0,[],
+21,Trade Finance_20210603075228_1.00_page_16.png,date_of_invoice,23.05.2021,23/05/2021,80,1,"[2087, 460, 2305, 526]","[2096, 486, 2322, 538]"
+22,Trade Finance_20210603075228_1.00_page_16.png,total_quantity_of_goods,,,0,0,[],
+23,Trade Finance_20210603075228_1.00_page_16.png,invoice_currency,AED,,0,0,[],"[1056, 1725, 1173, 1766]"
+24,Trade Finance_20210603075228_1.00_page_16.png,goods_description,Reinforcement steel and be nd steel. cut,"REINFORCEMENT STEEL,CUT AND BE ND STEEL",89,1,"[91, 916, 653, 944]","[89, 914, 667, 949]"
+25,Trade Finance_20210603075228_1.00_page_16.png,incoterm,,,0,0,[],
+26,Trade Finance_20210603075228_1.00_page_16.png,remitter_drawee_applicant_importer_buyer_name,AL MASRAF ISLAMIC ,AL MASRAF - ISLAMIC,92,1,"[99, 611, 492, 639]","[102, 609, 511, 645]"
+27,Trade Finance_20210603075228_1.00_page_16.png,beneficiary_drawer_exporter_seller_supplier_name,UTMOST,COUR UTMOST,71,0,"[1589, 249, 1822, 393]","[1586, 336, 1833, 399]"
+28,Trade Finance_20210603075228_1.00_page_16.png,invoice_due_date,,,0,0,[],
+29,Trade Finance_20210603075228_1.00_page_16.png,lc_date,01.11.2020,01/11/2020,80,1,"[1931, 663, 2099, 691]","[1933, 660, 2111, 700]"
+30,Trade Finance_20210603075228_1.00_page_16.png,is_stamp,,FALSE,0,0,[],
+31,Trade Finance_20210603075228_1.00_page_16.png,consignee_address,,,0,0,[],
+32,Trade Finance_20210603075228_1.00_page_16.png,beneficiary_iban_number,,,0,0,[],
+33,Trade Finance_20210603075228_1.00_page_16.png,invoice_amount,"48,505.46","48,505.46",100,1,"[1891, 1727, 2062, 1766]","[1884, 1721, 2073, 1769]"
+34,Trade Finance_20210603075228_1.00_page_16.png,beneficiary_country,,,0,0,[],
+35,Trade Finance_20210603075228_1.00_page_16.png,remitter_country,,,0,0,[],
+36,Trade Finance_20210603075228_1.00_page_16.png,consignor_name,,,0,0,[],
+37,Trade Finance_20210603075228_1.00_page_16.png,country_of_final_destination,,UAE,0,0,"[554, 2700, 623, 2728]",
+38,Trade Finance_20210603075228_1.00_page_17.png,lc_ref_no,TE2030670000,TF2030670000,92,1,"[1493, 656, 1720, 688]","[1490, 654, 1725, 693]"
+39,Trade Finance_20210603075228_1.00_page_17.png,beneficiary_bank_name,,,0,0,[],
+40,Trade Finance_20210603075228_1.00_page_17.png,date_of_invoice,23.05.2021,23/05/2021,80,1,"[2092, 456, 2310, 523]","[2096, 486, 2322, 547]"
+41,Trade Finance_20210603075228_1.00_page_17.png,total_quantity_of_goods,,,0,0,[],
+42,Trade Finance_20210603075228_1.00_page_17.png,invoice_currency,AED,,0,0,[],"[1060, 1721, 1177, 1762]"
+43,Trade Finance_20210603075228_1.00_page_17.png,goods_description,"Reinforcement steel ,cut and bend steel","REINFORCEMENT STEEL,CUT AND BE ND STEEL",97,1,"[96, 909, 658, 944]","[95, 914, 662, 950]"
+44,Trade Finance_20210603075228_1.00_page_17.png,incoterm,,,0,0,[],
+45,Trade Finance_20210603075228_1.00_page_17.png,remitter_drawee_applicant_importer_buyer_name,AL MASRAF - ISLAMIC,AL MASRAF ISLAMIC,94,1,"[99, 611, 497, 639]","[102, 609, 511, 645]"
+46,Trade Finance_20210603075228_1.00_page_17.png,beneficiary_drawer_exporter_seller_supplier_name,UTMOST,LUG UTMOST,75,0,"[1594, 249, 1824, 386]","[1586, 336, 1833, 399]"
+47,Trade Finance_20210603075228_1.00_page_17.png,invoice_due_date,,,0,0,[],
+48,Trade Finance_20210603075228_1.00_page_17.png,lc_date,"01,11,2020",01/01/2020,70,0,"[1936, 660, 2102, 688]","[1928, 656, 2106, 695]"
+49,Trade Finance_20210603075228_1.00_page_17.png,is_stamp,,FALSE,0,0,[],
+50,Trade Finance_20210603075228_1.00_page_17.png,consignee_address,,,0,0,[],
+51,Trade Finance_20210603075228_1.00_page_17.png,beneficiary_iban_number,,,0,0,[],
+52,Trade Finance_20210603075228_1.00_page_17.png,invoice_amount,"48,505.46","48,505.46",100,1,"[1896, 1724, 2064, 1763]","[1884, 1721, 2073, 1769]"
+53,Trade Finance_20210603075228_1.00_page_17.png,beneficiary_country,,,0,0,[],
+54,Trade Finance_20210603075228_1.00_page_17.png,remitter_country,,,0,0,[],
+55,Trade Finance_20210603075228_1.00_page_17.png,consignor_name,,,0,0,[],
+56,Trade Finance_20210603075228_1.00_page_17.png,country_of_final_destination,,,0,0,[],
+57,Trade Finance_20210603075228_1.00_page_18.png,lc_ref_no,TF2030670000,TF2030670000,100,1,"[1493, 668, 1720, 704]","[1491, 668, 1725, 707]"
+58,Trade Finance_20210603075228_1.00_page_18.png,beneficiary_bank_name,,,0,0,[],
+59,Trade Finance_20210603075228_1.00_page_18.png,date_of_invoice,23.05.2021,23/05/2021,80,1,"[2100, 503, 2307, 538]","[2089, 487, 2315, 548]"
+60,Trade Finance_20210603075228_1.00_page_18.png,total_quantity_of_goods,,,0,0,[],
+61,Trade Finance_20210603075228_1.00_page_18.png,invoice_currency,AED,,0,0,[],"[1057, 1734, 1173, 1775]"
+62,Trade Finance_20210603075228_1.00_page_18.png,goods_description,Reinforcement steel scut and bend steel,STEELC KB,33,0,"[365, 1569, 572, 1598]","[91, 911, 667, 961]"
+63,Trade Finance_20210603075228_1.00_page_18.png,incoterm,,,0,0,[],
+64,Trade Finance_20210603075228_1.00_page_18.png,remitter_drawee_applicant_importer_buyer_name,MASRAF AL ISLAMIC ,AL MASRAF - ISLAMIC,81,1,"[101, 616, 493, 644]","[97, 618, 505, 654]"
+65,Trade Finance_20210603075228_1.00_page_18.png,beneficiary_drawer_exporter_seller_supplier_name,UTMOST,UGNI UTMOST,71,0,"[1594, 253, 1828, 397]","[1596, 350, 1842, 413]"
+66,Trade Finance_20210603075228_1.00_page_18.png,invoice_due_date,,,0,0,[],
+67,Trade Finance_20210603075228_1.00_page_18.png,lc_date,01.11.2020,01/11/2020,80,1,"[1934, 672, 2100, 704]","[1930, 669, 2107, 709]"
+68,Trade Finance_20210603075228_1.00_page_18.png,is_stamp,,FALSE,0,0,[],
+69,Trade Finance_20210603075228_1.00_page_18.png,consignee_address,,,0,0,[],
+70,Trade Finance_20210603075228_1.00_page_18.png,beneficiary_iban_number,,,0,0,[],
+71,Trade Finance_20210603075228_1.00_page_18.png,invoice_amount,"48,505.46","48,505.46",100,1,"[1890, 1738, 2060, 1777]","[1885, 1729, 2073, 1777]"
+72,Trade Finance_20210603075228_1.00_page_18.png,beneficiary_country,,,0,0,[],
+73,Trade Finance_20210603075228_1.00_page_18.png,remitter_country,,NG,0,0,"[103, 672, 848, 749]",
+74,Trade Finance_20210603075228_1.00_page_18.png,consignor_name,,,0,0,[],
+75,Trade Finance_20210603075228_1.00_page_18.png,country_of_final_destination,,UAE,0,0,"[547, 2706, 619, 2731]",

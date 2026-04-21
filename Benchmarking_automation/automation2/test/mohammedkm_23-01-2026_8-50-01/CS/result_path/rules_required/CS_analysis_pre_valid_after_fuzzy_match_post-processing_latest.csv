@@ -1,0 +1,16 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,mohammedkm_23-01-2026_8-50-01_page_1.png,drawee_country,,,0,0,[],
+1,mohammedkm_23-01-2026_8-50-01_page_1.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,88,1,"[1550, 722, 2071, 799]","[685, 487, 1226, 570]"
+2,mohammedkm_23-01-2026_8-50-01_page_1.png,draft_number,,,0,0,[],
+3,mohammedkm_23-01-2026_8-50-01_page_1.png,drawer_bank_name,"Mizuho Bank, Ltd","MIZUHO BANK, LTD",100,1,"[1634, 3041, 2222, 3108]","[836, 164, 1497, 241]"
+4,mohammedkm_23-01-2026_8-50-01_page_1.png,document_enclosed,,,0,0,[],
+5,mohammedkm_23-01-2026_8-50-01_page_1.png,csh_due_date,,,0,0,[],
+6,mohammedkm_23-01-2026_8-50-01_page_1.png,is_stamp,,FALSE,0,0,[],
+7,mohammedkm_23-01-2026_8-50-01_page_1.png,csh_drawn_under_lc_number,TF2534300022,TF2534300022,100,1,"[265, 1094, 483, 1126]","[262, 1086, 496, 1132]"
+8,mohammedkm_23-01-2026_8-50-01_page_1.png,csh_presentation_date,2026-01-13,13/01/2026,40,0,"[1940, 392, 2126, 424]","[1931, 384, 2127, 427]"
+9,mohammedkm_23-01-2026_8-50-01_page_1.png,drawee_name,,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,0,0,"[694, 487, 1208, 568]",
+10,mohammedkm_23-01-2026_8-50-01_page_1.png,drawer_country,,,0,0,[],
+11,mohammedkm_23-01-2026_8-50-01_page_1.png,charges,,,0,0,[],
+12,mohammedkm_23-01-2026_8-50-01_page_1.png,csh_bill_currency,USD,USD,100,1,"[141, 1469, 205, 1504]","[135, 1462, 206, 1509]"
+13,mohammedkm_23-01-2026_8-50-01_page_1.png,csh_bill_amount,"35,107.60","35,107.60",100,1,"[555, 1469, 746, 1508]","[540, 1468, 752, 1509]"
+14,mohammedkm_23-01-2026_8-50-01_page_1.png,drawer_name,,,0,0,[],

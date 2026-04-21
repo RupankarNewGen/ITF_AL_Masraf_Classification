@@ -1,0 +1,176 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_8.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999817609786987
+        },
+        "predicted_class": "BOL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "carrier_name": {
+                "value": "EVERGREEN LINE",
+                "coordinate": [
+                    [
+                        290,
+                        122,
+                        1257,
+                        206
+                    ]
+                ],
+                "model_confidence": [
+                    0.985782
+                ],
+                "ocr_confidence": []
+            },
+            "total_original_no": {
+                "value": "M.V. EVER LOGIC",
+                "coordinate": [
+                    [
+                        44,
+                        277,
+                        458,
+                        305
+                    ]
+                ],
+                "model_confidence": [
+                    0.999926
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_name": {
+                "value": "1703082W",
+                "coordinate": [
+                    [
+                        493,
+                        273,
+                        736,
+                        305
+                    ]
+                ],
+                "model_confidence": [
+                    0.999601
+                ],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_number": {
+                "value": "EGLV060500263293",
+                "coordinate": [
+                    [
+                        1009,
+                        273,
+                        1443,
+                        305
+                    ]
+                ],
+                "model_confidence": [
+                    0.99989
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "bill_of_lading_issue_date": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "consignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "carrier_country": {},
+            "agent_name": {},
+            "agent_country": {},
+            "pre_carriage_by": {},
+            "voyage_number": {},
+            "container_number": {},
+            "place_of_receipt": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "port_of_discharge_place": {},
+            "port_of_discharge_country": {},
+            "final_destination": {},
+            "final_destination_place": {},
+            "final_destination_country": {},
+            "shipped_onboard_date": {},
+            "bol_original_number": {},
+            "bol_original_or_copy": {},
+            "freight_collect_at": {},
+            "freight_collect_or_prepaid": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "place_of_issue": {},
+            "signed_by_carrier": {},
+            "signed_by_named_agent": {},
+            "lc_ref_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "lc_date": {},
+            "signature": {},
+            "stamp": {},
+            "net_weight": {},
+            "gross_weight": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "country_of_origin": {},
+            "goods_description": {},
+            "goods_quantity": {},
+            "dimension": {},
+            "goods_marks_and_nos": {},
+            "mode_of_transport": {},
+            "measurement": {},
+            "master_name": {},
+            "signed_by_master": {},
+            "stamped_vessel_or_cargo_name": {},
+            "charter": {},
+            "stamped_port_of_loading": {},
+            "stamped_onboard_date": {},
+            "carriage_condition": {},
+            "stamped_shipped_onboard_date": {},
+            "shipment_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

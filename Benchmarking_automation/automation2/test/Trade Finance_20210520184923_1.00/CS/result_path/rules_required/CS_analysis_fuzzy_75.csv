@@ -1,0 +1,32 @@
+File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+Trade Finance_20210520184923_1.00_page_10.png,drawee_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF) ,ARAB BK FOR INV. N FOREI-GN TRADE,70,0,"[620, 1045, 1495, 1084]","[214, 686, 1243, 782]"
+Trade Finance_20210520184923_1.00_page_10.png,draft_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawer_bank_name,BANK OF CHINA,BANK OF CHINA,100,1,"[365, 242, 647, 266]","[372, 239, 654, 270]"
+Trade Finance_20210520184923_1.00_page_10.png,document_enclosed,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,csh_due_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,is_stamp,,FALSE,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,csh_drawn_under_lc_number,TF2034500008,TF2034500008,100,1,"[620, 996, 931, 1031]","[618, 993, 937, 1034]"
+Trade Finance_20210520184923_1.00_page_10.png,csh_presentation_date,2021/05/17,17/05/2021,60,0,"[1537, 414, 1767, 449]","[1535, 406, 1773, 456]"
+Trade Finance_20210520184923_1.00_page_10.png,drawee_name,FURNISHINGS LLC PAN EMIRATES HOME,PAN EMIRATES HOME FURNISHINGS LLC,52,0,"[622, 1095, 1584, 1133]","[619, 1097, 1558, 1134]"
+Trade Finance_20210520184923_1.00_page_10.png,drawer_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,charges,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,csh_bill_currency,USD,USD,100,1,"[1253, 737, 1347, 775]","[1249, 735, 1349, 779]"
+Trade Finance_20210520184923_1.00_page_10.png,csh_bill_amount,"9,639.00—","9,639.00",94,1,"[1362, 737, 1589, 779]","[1357, 733, 1544, 777]"
+Trade Finance_20210520184923_1.00_page_10.png,drawer_name,"KUKA (HK) TRADE CO., LIMITED","KUKA (HK) TRADE CO., LIMITED",100,1,"[622, 1147, 1324, 1193]","[617, 1145, 1330, 1188]"
+Trade Finance_20210520184923_1.00_page_14.png,drawee_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawee_bank_name,,"ARAB BK FOR INV. N FOREI-GN TRADE,",0,0,"[614, 1100, 1450, 1142]",
+Trade Finance_20210520184923_1.00_page_14.png,draft_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_name,BANK OF CHINA,,0,0,[],"[385, 325, 650, 355]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,,0,0,[],"[236, 753, 1205, 842]"
+Trade Finance_20210520184923_1.00_page_14.png,document_enclosed,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,csh_due_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,is_stamp,,FALSE,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,csh_drawn_under_lc_number,TF2034500008,TF2034500008/,96,1,"[616, 1054, 980, 1089]","[613, 1047, 921, 1090]"
+Trade Finance_20210520184923_1.00_page_14.png,csh_presentation_date,2021/05/17,17/05/2021,60,0,"[1497, 495, 1715, 530]","[1494, 496, 1719, 535]"
+Trade Finance_20210520184923_1.00_page_14.png,drawee_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,100,1,"[619, 1149, 1535, 1188]","[612, 1150, 1501, 1195]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,charges,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,csh_bill_currency,USD,USD,100,1,"[1220, 808, 1309, 843]","[1217, 801, 1308, 845]"
+Trade Finance_20210520184923_1.00_page_14.png,csh_bill_amount,"9,639.00","9,639.00",100,1,"[1324, 808, 1542, 850]","[1322, 803, 1498, 843]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_name,"KUKA (HK) TRADE CO., LIMITED","KUKA (HK) TRADE CO., LIMITED",100,1,"[619, 1202, 1289, 1244]","[616, 1200, 1288, 1240]"

@@ -1,0 +1,257 @@
+{
+    "Trade Finance_20210617185649_1.00_page_15.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999792575836182
+        },
+        "predicted_class": "PL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "ARFLU, S.A.",
+                "coordinate": [
+                    [
+                        1020,
+                        388,
+                        1144,
+                        413
+                    ]
+                ],
+                "model_confidence": [
+                    0.99993
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "POLIGONO TELLERONDO, CALLE OLABIDE, SOPELA-SIZKARA 48600SPAIN..",
+                "coordinate": [
+                    [
+                        1011,
+                        416,
+                        1485,
+                        476
+                    ]
+                ],
+                "model_confidence": [
+                    0.999942
+                ],
+                "ocr_confidence": []
+            },
+            "incoterm": {
+                "value": "CFR~CER ABU DHABI",
+                "coordinate": [
+                    [
+                        867,
+                        2056,
+                        1915,
+                        2095
+                    ],
+                    [
+                        946,
+                        1709,
+                        1169,
+                        1727
+                    ]
+                ],
+                "model_confidence": [
+                    0.999483,
+                    0.791197
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2000700001",
+                "coordinate": [
+                    [
+                        949,
+                        2190,
+                        1203,
+                        2221
+                    ]
+                ],
+                "model_confidence": [
+                    0.999332
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "20/01/2007",
+                "coordinate": [
+                    [
+                        1443,
+                        2190,
+                        1569,
+                        2218
+                    ]
+                ],
+                "model_confidence": [
+                    0.999114
+                ],
+                "ocr_confidence": []
+            },
+            "description_of_goods": {
+                "value": "TRUNNION MOUNTED BALL VALVE,",
+                "coordinate": [
+                    [
+                        842,
+                        911,
+                        1218,
+                        939
+                    ]
+                ],
+                "model_confidence": [
+                    0.998981
+                ],
+                "ocr_confidence": []
+            },
+            "total_quantity_of_goods": {
+                "value": "41",
+                "coordinate": [
+                    [
+                        1339,
+                        1688,
+                        1369,
+                        1713
+                    ]
+                ],
+                "model_confidence": [
+                    0.99962
+                ],
+                "ocr_confidence": []
+            },
+            "net_weight": {
+                "value": "10830",
+                "coordinate": [
+                    [
+                        1448,
+                        1688,
+                        1530,
+                        1713
+                    ]
+                ],
+                "model_confidence": [
+                    0.999912
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight": {
+                "value": "11660",
+                "coordinate": [
+                    [
+                        1609,
+                        1688,
+                        1690,
+                        1713
+                    ]
+                ],
+                "model_confidence": [
+                    0.999927
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1545.49,
+                        2379.74,
+                        1943.85,
+                        2724.63
+                    ]
+                ],
+                "model_confidence": [
+                    0.788
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "awb_number": {},
+            "beneficiary_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin_no": {},
+            "bill_of_lading_date": {},
+            "bill_of_lading_number": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "consignee_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "consignor_name": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "country_of_final_destination": {},
+            "country_of_final_destination_place": {},
+            "country_of_final_destination_country": {},
+            "country_of_origin_origin_of_goods": {},
+            "declaration": {},
+            "dimension": {},
+            "invoice_amount": {},
+            "invoice_currency": {},
+            "invoice_no": {},
+            "lc_date": {},
+            "notify_party_address": {},
+            "notify_party_name": {},
+            "original_copy": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "payment_terms_terms_of_delivery_payment": {},
+            "port_of_discharge": {},
+            "port_of_discharge_country": {},
+            "port_of_discharge_place": {},
+            "port_of_loading": {},
+            "pre_carriage_by": {},
+            "rate_per_unit": {},
+            "remitter_drawee_applicant_importer_buyer_name": {},
+            "remitter_address": {},
+            "remitter_country": {},
+            "track_reference": {},
+            "transaction_amount_value": {},
+            "transaction_currency": {},
+            "transaction_date": {},
+            "vessel_flight_no": {},
+            "signature": {},
+            "stamp": {},
+            "total_pages": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1545.49,
+                        2379.74,
+                        1943.85,
+                        2724.63
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.788
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

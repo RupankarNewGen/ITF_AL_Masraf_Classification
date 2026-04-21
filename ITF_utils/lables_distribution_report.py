@@ -3,7 +3,7 @@ import json
 import ast
 import csv
 from collections import Counter, defaultdict
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 
 def load_ocr_data(filepath, ocr_format): # <--- NEW: added ocr_format parameter
     """Safely loads OCR data based on the selected format ('abbyy' or 'gv')."""
@@ -81,7 +81,14 @@ def get_text_from_ocr(yolo_bbox, img_width, img_height, ocr_data):
     return final_text.strip()
 
 
-def analyze_label_distribution(labels_folder, images_folder, classes_filepath, output_filepath, ocr_folder, output_json_path, output_csv_path, ocr_format): # <--- NEW: added ocr_format parameter
+# A set of distinct colors for different classes
+BOX_COLORS = [
+    (255, 0, 0), (0, 255, 0), (0, 0, 255), (255, 165, 0), (128, 0, 128),
+    (0, 255, 255), (255, 0, 255), (255, 255, 0), (0, 128, 128), (128, 128, 0),
+    (70, 130, 180), (220, 20, 60), (0, 100, 0), (255, 140, 0), (75, 0, 130),
+]
+
+def analyze_label_distribution(labels_folder, images_folder, classes_filepath, output_filepath, ocr_folder, output_json_path, output_csv_path, ocr_format, viz_folder=None):
     print("Loading class names...")
     class_names = []
     if os.path.exists(classes_filepath):
@@ -90,6 +97,11 @@ def analyze_label_distribution(labels_folder, images_folder, classes_filepath, o
     else:
         print(f"⚠️ Classes file not found at: {classes_filepath}")
         return
+
+    # Create visualization folder if specified
+    if viz_folder:
+        os.makedirs(viz_folder, exist_ok=True)
+        print(f"Visualizations will be saved to: {viz_folder}")
 
     class_counts = Counter()
     total_valid_images = 0  
@@ -134,6 +146,7 @@ def analyze_label_distribution(labels_folder, images_folder, classes_filepath, o
             # If it passed OCR and Image checks, it's a valid image
             total_valid_images += 1
             classes_in_current_image = set() 
+            boxes_to_draw = []  # Collect boxes for visualization
 
             # --- 3. PROCESS YOLO BOXES ---
             with open(label_filepath, 'r', encoding='utf-8') as f:
@@ -161,12 +174,48 @@ def analyze_label_distribution(labels_folder, images_folder, classes_filepath, o
                                 "value": extracted_text,
                                 "image_path": final_img_path
                             })
+
+                            # Collect box info for visualization
+                            if viz_folder:
+                                x_c, y_c, w_n, h_n = yolo_bbox
+                                x1 = int((x_c - w_n / 2) * img_width)
+                                y1 = int((y_c - h_n / 2) * img_height)
+                                x2 = int((x_c + w_n / 2) * img_width)
+                                y2 = int((y_c + h_n / 2) * img_height)
+                                boxes_to_draw.append((x1, y1, x2, y2, name, class_id))
                                 
                         except ValueError:
                             continue
             
             for cid in classes_in_current_image:
                 class_counts[cid] += 1
+
+            # --- 4. DRAW VISUALIZATION ---
+            if viz_folder and boxes_to_draw:
+                viz_img = Image.open(final_img_path).convert("RGB")
+                draw = ImageDraw.Draw(viz_img)
+
+                # Try to load a reasonable font size based on image dimensions
+                font_size = max(12, min(img_width, img_height) // 70)
+                try:
+                    font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", font_size)
+                except Exception:
+                    font = ImageFont.load_default()
+
+                for (x1, y1, x2, y2, label_name, cid) in boxes_to_draw:
+                    color = BOX_COLORS[cid % len(BOX_COLORS)]
+                    line_width = max(2, min(img_width, img_height) // 300)
+                    draw.rectangle([x1, y1, x2, y2], outline=color, width=line_width)
+
+                    # Draw label text (no background)
+                    text_bbox = draw.textbbox((x1, y1), label_name, font=font)
+                    text_h = text_bbox[3] - text_bbox[1]
+                    label_y = max(0, y1 - text_h - 4)
+                    draw.text((x1 + 3, label_y), label_name, fill=color, font=font)
+
+                viz_save_path = os.path.join(viz_folder, base_name + ".jpg")
+                viz_img.save(viz_save_path, quality=90)
+                viz_img.close()
 
     # --- Generate the standard Text Report ---
     print("\nCalculating statistics...")
@@ -209,19 +258,22 @@ def analyze_label_distribution(labels_folder, images_folder, classes_filepath, o
     print(f"\n✅ Analysis complete! Report saved to: {output_filepath}")
     print(f"✅ JSON values saved to: {output_json_path}")
     print(f"✅ CSV values saved to: {output_csv_path}")
+    if viz_folder:
+        print(f"✅ Visualizations saved to: {viz_folder}")
 
 
 if __name__ == "__main__":
     
     # --- CONFIGURATION ---
-    LABELS_FOLDER = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/CS_root/Labels"
-    IMAGES_FOLDER = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/CS_root/Images"
-    OCR_FOLDER    = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/CS_root/OCR"
-    CLASSES_FILE  = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/CS_root/label.txt"
+    LABELS_FOLDER = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/Labels"
+    IMAGES_FOLDER = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/Images"
+    OCR_FOLDER    = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/OCR"
+    CLASSES_FILE  = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/label.txt"
     
-    OUTPUT_REPORT = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/CS_root/label_distribution_report.txt"
-    OUTPUT_JSON   = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/CS_root/extracted_values.json"
-    OUTPUT_CSV    = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/CS_root/extracted_values.csv"
+    OUTPUT_REPORT = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/label_distribution_report.txt"
+    OUTPUT_JSON   = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/extracted_values.json"
+    OUTPUT_CSV    = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/extracted_values.csv"
+    VIZ_FOLDER    = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/old_tf_data/PL_root/visualizations"
     
     # <--- NEW: Specify the OCR format here! ('abbyy' or 'gv')
     OCR_FORMAT    = "gv" 
@@ -234,5 +286,6 @@ if __name__ == "__main__":
         ocr_folder=OCR_FOLDER, 
         output_json_path=OUTPUT_JSON,
         output_csv_path=OUTPUT_CSV,
-        ocr_format=OCR_FORMAT # <--- NEW: Passed into function
+        ocr_format=OCR_FORMAT,
+        viz_folder=VIZ_FOLDER
     )

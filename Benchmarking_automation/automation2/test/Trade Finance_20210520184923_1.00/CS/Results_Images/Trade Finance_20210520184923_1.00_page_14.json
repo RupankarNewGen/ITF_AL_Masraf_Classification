@@ -1,0 +1,436 @@
+{
+    "Trade Finance_20210520184923_1.00_page_14.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.999925971031189
+        },
+        "predicted_class": "CS",
+        "confidence": 0.9,
+        "extraction_result": {
+            "csh_presentation_date": {
+                "value": "17/05/2021",
+                "coordinate": [
+                    [
+                        1497,
+                        495,
+                        1715,
+                        530
+                    ]
+                ],
+                "model_confidence": [
+                    0.999778
+                ],
+                "ocr_confidence": []
+            },
+            "csh_ref_no": {
+                "value": "265D20EL02628702",
+                "coordinate": [
+                    [
+                        1455,
+                        661,
+                        1859,
+                        696
+                    ]
+                ],
+                "model_confidence": [
+                    0.999801
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "ARAB BANK FOR INVESTMENT AND FOREIGN~PAN EMIRATES HOME FURNISHINGS LLC",
+                "coordinate": [
+                    [
+                        235,
+                        752,
+                        1200,
+                        794
+                    ],
+                    [
+                        619,
+                        1149,
+                        1535,
+                        1188
+                    ]
+                ],
+                "model_confidence": [
+                    0.974151,
+                    0.999869
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_address": {
+                "value": "TRADE MASRAF~ABU DHABI H.O.",
+                "coordinate": [
+                    [
+                        235,
+                        805,
+                        670,
+                        857
+                    ],
+                    [
+                        1465,
+                        1104,
+                        1834,
+                        1139
+                    ]
+                ],
+                "model_confidence": [
+                    0.377906,
+                    0.996313
+                ],
+                "ocr_confidence": []
+            },
+            "csh_bill_currency": {
+                "value": "USD",
+                "coordinate": [
+                    [
+                        1220,
+                        808,
+                        1309,
+                        843
+                    ]
+                ],
+                "model_confidence": [
+                    0.999723
+                ],
+                "ocr_confidence": []
+            },
+            "csh_bill_amount": {
+                "value": "9,639.00",
+                "coordinate": [
+                    [
+                        1324,
+                        808,
+                        1542,
+                        850
+                    ]
+                ],
+                "model_confidence": [
+                    0.999305
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "AL PO BOX 2484, MASRAF TOWER, SH. HAMDAN STREET, ABU DHABI, U.A.E-",
+                "coordinate": [
+                    [
+                        237,
+                        840,
+                        1091,
+                        956
+                    ]
+                ],
+                "model_confidence": [
+                    0.860009
+                ],
+                "ocr_confidence": []
+            },
+            "csh_drawn_under_lc_number": {
+                "value": "TF2034500008/",
+                "coordinate": [
+                    [
+                        616,
+                        1054,
+                        980,
+                        1089
+                    ]
+                ],
+                "model_confidence": [
+                    0.999654
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "ARAB BK FOR INV. N FOREI-GN TRADE,",
+                "coordinate": [
+                    [
+                        614,
+                        1100,
+                        1450,
+                        1142
+                    ]
+                ],
+                "model_confidence": [
+                    0.994948
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_name": {
+                "value": "KUKA (HK) TRADE CO., LIMITED",
+                "coordinate": [
+                    [
+                        619,
+                        1202,
+                        1289,
+                        1244
+                    ]
+                ],
+                "model_confidence": [
+                    0.999879
+                ],
+                "ocr_confidence": []
+            },
+            "tenor_indicator": {
+                "value": "SIGHT",
+                "coordinate": [
+                    [
+                        616,
+                        1251,
+                        752,
+                        1286
+                    ]
+                ],
+                "model_confidence": [
+                    0.619519
+                ],
+                "ocr_confidence": []
+            },
+            "csh_drawn_under_rules": {
+                "value": "600",
+                "coordinate": [
+                    [
+                        1671,
+                        1466,
+                        1740,
+                        1501
+                    ]
+                ],
+                "model_confidence": [
+                    0.999432
+                ],
+                "ocr_confidence": []
+            },
+            "nostro_bank_name": {
+                "value": "WELLS FARGO BANK",
+                "coordinate": [
+                    [
+                        1091,
+                        2320,
+                        1542,
+                        2355
+                    ]
+                ],
+                "model_confidence": [
+                    0.999644
+                ],
+                "ocr_confidence": []
+            },
+            "nostro_bank_address": {
+                "value": "INTERNATIONAL BRANCH~N.A. NEW YORK, NY",
+                "coordinate": [
+                    [
+                        267,
+                        2366,
+                        809,
+                        2408
+                    ],
+                    [
+                        1557,
+                        2320,
+                        1978,
+                        2362
+                    ]
+                ],
+                "model_confidence": [
+                    0.994066,
+                    0.940566
+                ],
+                "ocr_confidence": []
+            },
+            "nostro_bank_bic": {
+                "value": "BKCHHKHH",
+                "coordinate": [
+                    [
+                        705,
+                        2468,
+                        945,
+                        2503
+                    ]
+                ],
+                "model_confidence": [
+                    0.807541
+                ],
+                "ocr_confidence": []
+            },
+            "total_page": {
+                "value": "1/1",
+                "coordinate": [
+                    [
+                        2032,
+                        3097,
+                        2067,
+                        3125
+                    ]
+                ],
+                "model_confidence": [
+                    0.733509
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "document_enclosed": {
+                "draft_document": {
+                    "original": "2~' -",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "commercial_invoice_document": {
+                    "original": "5~-",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "bill_of_ladding_document": {
+                    "original": "3",
+                    "copy": "3",
+                    "non_negotiable_copy": 0,
+                    "original_current_version": "3",
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "certificate_of_origin_document": {
+                    "original": "3 '~-",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "packing_list_document": {
+                    "original": "5",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "beneficiary_certificate": {
+                    "original": "3~3~2",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": "1~1~1",
+                    "cpy_set": 0
+                },
+                "customs_invoice": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "shipping_company_certificate": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                }
+            },
+            "csh_due_date": {},
+            "tenor_type": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "usance_tenor": {},
+            "tenor_indicator_type": {},
+            "tenor_indicator_date": {},
+            "drawer_bank_name": {},
+            "drawer_bank_bic": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "drawer_ref_no": {},
+            "drawee_country": {},
+            "drawee_bank_bic": {},
+            "drawee_bank_country": {},
+            "nostro_bank_country": {},
+            "doc_delivery_instruction": {},
+            "doc_charge_instructions": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature": {},
+            "stamp": {},
+            "original": {},
+            "our_charges": {},
+            "your_charges": {},
+            "less_your_charges": {},
+            "plus_our_charges": {},
+            "commissioned_charges": {},
+            "less_commission_charges": {},
+            "swift_charges": {},
+            "postal_charges": {},
+            "other_charges": {},
+            "total_bill_amount": {},
+            "original_number": {},
+            "total_original": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {},
+            "charges": {},
+            "final_destination": {},
+            "advanced_charges": {},
+            "additional_charges": {},
+            "payment_at_sight": {},
+            "payment_before_sight": {},
+            "advance_payment": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

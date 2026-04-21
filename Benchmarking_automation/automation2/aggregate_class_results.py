@@ -13,7 +13,7 @@ except Exception:
     BENCHMARKING_DIR = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/New_test_data_jsons_results"
     SPLIT_RESULTS_DIR = "/datadrive2/IDF_AL_MASRAF/ITF_Al_Masraf_Classification/Data/New_test_data_jsons_splitted"
 
-OUTPUT_DIR = os.path.join(BENCHMARKING_DIR, "aggregated_class_results")
+OUTPUT_DIR = os.path.join(BENCHMARKING_DIR, "class_wise_aggerate_results")
 
 def aggregate_class_reports(csv_suffix, final_suffix_name):
     # Search for all generated workitem CSVs matching the requested suffix
@@ -81,7 +81,7 @@ def generate_document_level_summary():
     summary_data = []
     
     # Iterate through all document folders in BENCHMARKING_DIR (like DOC_3)
-    document_folders = [d for d in os.listdir(BENCHMARKING_DIR) if os.path.isdir(os.path.join(BENCHMARKING_DIR, d)) and d != "aggregated_class_results"]
+    document_folders = [d for d in os.listdir(BENCHMARKING_DIR) if os.path.isdir(os.path.join(BENCHMARKING_DIR, d)) and d != "class_wise_aggerate_results"]
     
     for doc_name in document_folders:
         doc_folder_path = os.path.join(BENCHMARKING_DIR, doc_name)
@@ -138,7 +138,7 @@ def generate_document_level_summary():
     ])
     
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    summary_export_path = os.path.join(OUTPUT_DIR, "final_document_level_summary.csv")
+    summary_export_path = os.path.join(BENCHMARKING_DIR, "final_document_level_summary.csv")
     final_df.to_csv(summary_export_path, index=False)
     print(f"\n✅ Document-level summary created at: {summary_export_path}")
 

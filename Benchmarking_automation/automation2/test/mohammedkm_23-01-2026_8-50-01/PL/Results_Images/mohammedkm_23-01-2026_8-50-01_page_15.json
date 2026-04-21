@@ -1,0 +1,335 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_15.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999861717224121
+        },
+        "predicted_class": "PL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "description_of_goods": {
+                "value": "YOKOHAMA BRAND TYRES.",
+                "coordinate": [
+                    [
+                        34,
+                        1582,
+                        446,
+                        1613
+                    ]
+                ],
+                "model_confidence": [
+                    0.999697
+                ],
+                "ocr_confidence": []
+            },
+            "declaration": {
+                "value": "THE YOKOHAMA RUBBER CO., LTD.",
+                "coordinate": [
+                    [
+                        1637,
+                        2834,
+                        2218,
+                        2869
+                    ]
+                ],
+                "model_confidence": [
+                    0.998566
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "THE YOKOHAMA RUBBER CO.,LTD.",
+                "coordinate": [
+                    [
+                        999,
+                        91,
+                        1726,
+                        143
+                    ]
+                ],
+                "model_confidence": [
+                    0.999934
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "21, OIWAKE, HIRATSUKA, KANAGAWA 254-8601 ",
+                "coordinate": [
+                    [
+                        999,
+                        150,
+                        2041,
+                        210
+                    ]
+                ],
+                "model_confidence": [
+                    0.999944
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "28/12/2025",
+                "coordinate": [
+                    [
+                        39,
+                        329,
+                        367,
+                        420
+                    ]
+                ],
+                "model_confidence": [
+                    0.998168
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "P09732",
+                "coordinate": [
+                    [
+                        1776,
+                        333,
+                        1984,
+                        431
+                    ]
+                ],
+                "model_confidence": [
+                    0.999845
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_name": {
+                "value": "NEW EAST GENERAL TRADING FZCO",
+                "coordinate": [
+                    [
+                        81,
+                        508,
+                        667,
+                        543
+                    ]
+                ],
+                "model_confidence": [
+                    0.999805
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_address": {
+                "value": "PLOT S21006, FREE ZONE TRADING STREET, JAFZA SOUTH ZONE 2, JEBEL ALI, DUBAI, UAE.",
+                "coordinate": [
+                    [
+                        79,
+                        554,
+                        684,
+                        680
+                    ]
+                ],
+                "model_confidence": [
+                    0.999824
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_name": {
+                "value": "EVER CHANT",
+                "coordinate": [
+                    [
+                        76,
+                        1090,
+                        277,
+                        1122
+                    ]
+                ],
+                "model_confidence": [
+                    0.989661
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_flight_no": {
+                "value": "V. 2055-105N",
+                "coordinate": [
+                    [
+                        302,
+                        1090,
+                        521,
+                        1122
+                    ]
+                ],
+                "model_confidence": [
+                    0.988097
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2534300022",
+                "coordinate": [
+                    [
+                        1223,
+                        1273,
+                        1463,
+                        1304
+                    ]
+                ],
+                "model_confidence": [
+                    0.999517
+                ],
+                "ocr_confidence": []
+            },
+            "total_quantity_of_goods": {
+                "value": "388 PCS",
+                "coordinate": [
+                    [
+                        1292,
+                        2122,
+                        1431,
+                        2153
+                    ]
+                ],
+                "model_confidence": [
+                    0.998975
+                ],
+                "ocr_confidence": []
+            },
+            "net_weight": {
+                "value": "6, 362.",
+                "coordinate": [
+                    [
+                        1741,
+                        2122,
+                        1850,
+                        2160
+                    ]
+                ],
+                "model_confidence": [
+                    0.848227
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight": {
+                "value": "252 KGS.",
+                "coordinate": [
+                    [
+                        1843,
+                        2122,
+                        1920,
+                        2203
+                    ]
+                ],
+                "model_confidence": [
+                    0.934834
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1827.45,
+                        2879.47,
+                        2369.32,
+                        3022.75
+                    ]
+                ],
+                "model_confidence": [
+                    0.815
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_country": {
+                "value": "JAPAN",
+                "coordinate": [
+                    [
+                        999,
+                        150,
+                        2041,
+                        210
+                    ]
+                ],
+                "model_confidence": [
+                    0.999944
+                ],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "awb_number": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin_no": {},
+            "bill_of_lading_date": {},
+            "bill_of_lading_number": {},
+            "consignee_country": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "consignor_name": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "country_of_final_destination": {},
+            "country_of_final_destination_place": {},
+            "country_of_final_destination_country": {},
+            "country_of_origin_origin_of_goods": {},
+            "dimension": {},
+            "incoterm": {},
+            "invoice_amount": {},
+            "invoice_currency": {},
+            "lc_date": {},
+            "notify_party_address": {},
+            "notify_party_name": {},
+            "original_copy": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "payment_terms_terms_of_delivery_payment": {},
+            "port_of_discharge": {},
+            "port_of_discharge_country": {},
+            "port_of_discharge_place": {},
+            "port_of_loading": {},
+            "pre_carriage_by": {},
+            "rate_per_unit": {},
+            "remitter_drawee_applicant_importer_buyer_name": {},
+            "remitter_address": {},
+            "remitter_country": {},
+            "track_reference": {},
+            "transaction_amount_value": {},
+            "transaction_currency": {},
+            "transaction_date": {},
+            "signature": {},
+            "stamp": {},
+            "total_pages": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1827.45,
+                        2879.47,
+                        2369.32,
+                        3022.75
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.815
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

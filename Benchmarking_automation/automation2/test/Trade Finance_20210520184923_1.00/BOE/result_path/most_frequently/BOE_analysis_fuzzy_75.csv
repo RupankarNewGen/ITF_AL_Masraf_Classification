@@ -1,0 +1,107 @@
+File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+Trade Finance_20210520184923_1.00_page_11.png,bill_exchange_no,220JJ61360564,220JJ61360564,100,1,"[259, 485, 517, 520]","[259, 484, 522, 525]"
+Trade Finance_20210520184923_1.00_page_11.png,bill_exchange_date,2021/05/14,14/05/2021,60,0,"[1884, 478, 2064, 506]","[1883, 477, 2071, 515]"
+Trade Finance_20210520184923_1.00_page_11.png,boe_currency,USD,USD,100,1,"[178, 587, 259, 619]","[167, 583, 279, 631]"
+Trade Finance_20210520184923_1.00_page_11.png,boe_amount,"9,639.00","9,639.00",100,1,"[527, 594, 663, 629]","[518, 586, 665, 627]"
+Trade Finance_20210520184923_1.00_page_11.png,drawee_name,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,drawee_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,drawee_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,drawer_name,KUKA HK,,0,0,[],"[531, 852, 737, 912]"
+Trade Finance_20210520184923_1.00_page_11.png,drawer_name,SIGHT,,0,0,[],"[628, 701, 755, 749]"
+Trade Finance_20210520184923_1.00_page_11.png,drawer_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,drawer_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,country_of_origin,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,invoice_no,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,invoice_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,invoice_currency,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,invoice_amount,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,tenor_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,usance_tenor,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,tenor_indicator,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,indicator_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,indicator_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,invoice_due_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,original_or_copy,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,original_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,signature,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,drawer_bank_name,FOR INVESTMENT AND FOREIGN TRADE ABU DHABI(HEAD OFFICE) ARAB BANK,"KUKA (HK) TRADE CO., LIMITED",28,0,"[534, 861, 1111, 900]","[334, 1426, 1804, 1474]"
+Trade Finance_20210520184923_1.00_page_11.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,92,1,"[259, 1583, 997, 1656]","[259, 1576, 999, 1610]"
+Trade Finance_20210520184923_1.00_page_11.png,issue_place,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,amount_in_words,HUNDRED AND THIRTY NINE ONLY. NINE THOUSAND SIX,UNITED STATES DOLLARS NINE THOUSAND SIX HUNDRED AND THIRTY NINE ONLY,50,0,"[371, 992, 1760, 1027]","[801, 996, 1767, 1027]"
+Trade Finance_20210520184923_1.00_page_11.png,drawee_bank_address,TRADEABUDHABIHEADOFFICE,ABUDHABIHEAD,69,0,"[383, 1625, 675, 1660]","[262, 1630, 818, 1665]"
+Trade Finance_20210520184923_1.00_page_11.png,drawer_bank_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,total_original_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,tenore_details,,SIGHT,0,0,"[638, 703, 737, 731]",
+Trade Finance_20210520184923_1.00_page_11.png,issuing_bank,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_11.png,issuing_bank_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,bill_exchange_no,220JJ61360564,220JJ61360564,100,1,"[262, 481, 519, 516]","[255, 478, 531, 523]"
+Trade Finance_20210520184923_1.00_page_12.png,bill_exchange_date,2021/05/14,14/05/2021,60,0,"[1889, 470, 2069, 502]","[1883, 469, 2081, 506]"
+Trade Finance_20210520184923_1.00_page_12.png,boe_currency,USD,USD,100,1,"[175, 586, 255, 618]","[164, 577, 259, 634]"
+Trade Finance_20210520184923_1.00_page_12.png,boe_amount,"9,639.00",639.00,86,1,"[524, 593, 661, 628]","[519, 589, 663, 626]"
+Trade Finance_20210520184923_1.00_page_12.png,drawee_name,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,drawee_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,drawee_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,drawer_name,HK KUKA,,0,0,[],"[531, 856, 736, 899]"
+Trade Finance_20210520184923_1.00_page_12.png,drawer_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,drawer_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,country_of_origin,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,invoice_no,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,invoice_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,invoice_currency,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,invoice_amount,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,tenor_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,usance_tenor,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,tenor_indicator,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,indicator_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,indicator_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,invoice_due_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,original_or_copy,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,original_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,signature,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,drawer_bank_name,DHABIHEAD OFFICE) ARAB BANK FOR INVESTMENT AND FOREIGN TRADE ABU,"KUKA (HK) TRADE CO., LIMITED",30,0,"[539, 856, 1114, 895]","[350, 1430, 1813, 1467]"
+Trade Finance_20210520184923_1.00_page_12.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,92,1,"[250, 1580, 987, 1654]","[247, 1574, 997, 1615]"
+Trade Finance_20210520184923_1.00_page_12.png,issue_place,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,amount_in_words,NINE THOUSAND SIX HUNDRED AND THIRTY NINE ONLY,STATES 1_EUNITED DOLLARS NINE THOUSAND SIX HUNDRED AND THIRTY NINE ONLY,79,1,"[175, 969, 1760, 1025]","[811, 989, 1764, 1022]"
+Trade Finance_20210520184923_1.00_page_12.png,diclaration_by,"KUKA (HK) TRADE CO., LIMITED",,0,0,[],"[1199, 1628, 1726, 1669]"
+Trade Finance_20210520184923_1.00_page_12.png,drawee_bank_address,,ABU DHABI(HEAD OFFICE~LOGISTICS,0,0,"[373, 1622, 799, 1671]",
+Trade Finance_20210520184923_1.00_page_12.png,drawer_bank_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,total_original_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,tenore_details,SIGHT,SIGHT,100,1,"[641, 698, 740, 741]","[621, 681, 754, 754]"
+Trade Finance_20210520184923_1.00_page_12.png,issuing_bank,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_12.png,issuing_bank_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,bill_exchange_no,220JJ61360561,220JJ61360564,92,1,"[277, 554, 524, 586]","[273, 554, 532, 592]"
+Trade Finance_20210520184923_1.00_page_15.png,bill_exchange_date,2021/05/14,01/01/2021,60,0,"[1827, 554, 1998, 586]","[1828, 550, 2004, 592]"
+Trade Finance_20210520184923_1.00_page_15.png,boe_currency,USD,USD,100,1,"[198, 649, 274, 681]","[191, 651, 281, 685]"
+Trade Finance_20210520184923_1.00_page_15.png,boe_amount,"9,639.00","9,639.00",100,1,"[532, 656, 663, 691]","[524, 651, 663, 693]"
+Trade Finance_20210520184923_1.00_page_15.png,boe_amount,,,0,0,[],"[2914, 2015, 3353, 3155]"
+Trade Finance_20210520184923_1.00_page_15.png,drawee_name,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,drawee_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,drawee_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,drawer_name,KUKA HK,,0,0,[],"[534, 911, 722, 965]"
+Trade Finance_20210520184923_1.00_page_15.png,drawer_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,drawer_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,country_of_origin,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,invoice_no,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,invoice_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,invoice_currency,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,invoice_amount,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,tenor_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,usance_tenor,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,tenor_indicator,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,indicator_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,indicator_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,invoice_due_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,original_or_copy,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,original_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,signature,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,drawer_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE ABU DHABI(HEAD OFFICE,"KUKA (HK) TRADE CO., LIMITED",30,0,"[539, 913, 1089, 955]","[355, 1468, 1742, 1513]"
+Trade Finance_20210520184923_1.00_page_15.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,92,1,"[269, 1608, 975, 1678]","[273, 1607, 985, 1644]"
+Trade Finance_20210520184923_1.00_page_15.png,drawee_bank_name,DHABIHEAD TRADE ABU OFFICE,,0,0,[],"[266, 1652, 813, 1689]"
+Trade Finance_20210520184923_1.00_page_15.png,issue_place,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,amount_in_words,NINE THOUSAND SIX HUNDRED AND THIRTY NINE ONLY,UNITED STATES DOLLARS NINE THOUSAND SIX HUNDRED AND THIRTY NINE ONLY,81,1,"[378, 1036, 1705, 1092]","[790, 1045, 1716, 1086]"
+Trade Finance_20210520184923_1.00_page_15.png,drawee_bank_address,,ABU DHABIHEAD,0,0,"[386, 1647, 663, 1685]",
+Trade Finance_20210520184923_1.00_page_15.png,drawer_bank_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,total_original_number,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,tenore_details,SIGHT,SIGHT,100,1,"[638, 765, 767, 811]","[621, 748, 742, 808]"
+Trade Finance_20210520184923_1.00_page_15.png,issuing_bank,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_15.png,issuing_bank_address,,,0,0,[],

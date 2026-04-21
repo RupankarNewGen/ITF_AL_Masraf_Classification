@@ -1,0 +1,226 @@
+{
+    "Trade Finance_20210520184923_1.00_page_32.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9998397827148438
+        },
+        "predicted_class": "BOL",
+        "confidence": "0.9885742664337158",
+        "extraction_result": {
+            "drawer_name": {
+                "value": "ORIEN OVERSEAS CONTAINER LINE",
+                "coordinate": [
+                    [
+                        384,
+                        176,
+                        1268,
+                        235
+                    ]
+                ],
+                "model_confidence": [
+                    0.568035
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "OOLU2121664400",
+                "coordinate": [
+                    [
+                        1970,
+                        316,
+                        2236,
+                        341
+                    ]
+                ],
+                "model_confidence": [
+                    0.996531
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "OOCLUAE LLC",
+                "coordinate": [
+                    [
+                        65,
+                        584,
+                        397,
+                        619
+                    ]
+                ],
+                "model_confidence": [
+                    0.999317
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "OFFICE 1601, 16TH FLOOR, THE H HC EL OFFIC ETOWER, NO.1 SHEIKH ZAYED R D (TRADE CENTRE AREA) DUBAI, U.A.E 971 4 5203000",
+                "coordinate": [
+                    [
+                        62,
+                        623,
+                        913,
+                        788
+                    ]
+                ],
+                "model_confidence": [
+                    0.986867
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "1, E",
+                "coordinate": [
+                    [
+                        1582,
+                        2826,
+                        1680,
+                        2988
+                    ]
+                ],
+                "model_confidence": [
+                    0.788528
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1471.38,
+                        3081.55,
+                        1930.18,
+                        3227.57
+                    ]
+                ],
+                "model_confidence": [
+                    0.799
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address_country": {
+                "value": "NO",
+                "coordinate": [
+                    [
+                        62,
+                        623,
+                        913,
+                        788
+                    ]
+                ],
+                "model_confidence": [
+                    0.986867
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "bill_of_lading_number": {},
+            "bill_of_lading_issue_date": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "consignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "carrier_name": {},
+            "carrier_country": {},
+            "agent_name": {},
+            "agent_country": {},
+            "pre_carriage_by": {},
+            "vessel_name": {},
+            "voyage_number": {},
+            "container_number": {},
+            "place_of_receipt": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "port_of_discharge_place": {},
+            "port_of_discharge_country": {},
+            "final_destination": {},
+            "final_destination_place": {},
+            "final_destination_country": {},
+            "shipped_onboard_date": {},
+            "bol_original_number": {},
+            "bol_original_or_copy": {},
+            "freight_collect_at": {},
+            "freight_collect_or_prepaid": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "place_of_issue": {},
+            "signed_by_carrier": {},
+            "signed_by_named_agent": {},
+            "lc_ref_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "lc_date": {},
+            "signature": {},
+            "stamp": {},
+            "net_weight": {},
+            "gross_weight": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "country_of_origin": {},
+            "goods_description": {},
+            "goods_quantity": {},
+            "dimension": {},
+            "goods_marks_and_nos": {},
+            "mode_of_transport": {},
+            "measurement": {},
+            "master_name": {},
+            "signed_by_master": {},
+            "total_original_no": {},
+            "stamped_vessel_or_cargo_name": {},
+            "charter": {},
+            "stamped_port_of_loading": {},
+            "stamped_onboard_date": {},
+            "carriage_condition": {},
+            "stamped_shipped_onboard_date": {},
+            "shipment_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1471.38,
+                        3081.55,
+                        1930.18,
+                        3227.57
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.799
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

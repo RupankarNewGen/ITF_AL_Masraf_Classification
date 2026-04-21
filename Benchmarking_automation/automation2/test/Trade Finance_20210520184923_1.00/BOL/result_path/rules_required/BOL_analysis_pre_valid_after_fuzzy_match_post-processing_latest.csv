@@ -1,0 +1,362 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210520184923_1.00_page_21.png,final_destination,"AJMAN, UAE",,0,0,[],"[792, 1403, 979, 1432]"
+1,Trade Finance_20210520184923_1.00_page_21.png,lc_ref_number,TF2034500008,,0,0,[],"[769, 1708, 1056, 1737]"
+2,Trade Finance_20210520184923_1.00_page_21.png,consignee_country,,,0,0,[],
+3,Trade Finance_20210520184923_1.00_page_21.png,freight_collect_or_prepaid,DESTINATION,,0,0,[],"[1224, 1648, 1491, 1679]"
+4,Trade Finance_20210520184923_1.00_page_21.png,stamped_vessel_or_cargo_name,,,0,0,[],
+5,Trade Finance_20210520184923_1.00_page_21.png,shipper_name,KUKA HK TRADE CO LIMITED,,0,0,[],"[110, 331, 682, 365]"
+6,Trade Finance_20210520184923_1.00_page_21.png,signed_by_named_agent,,,0,0,[],
+7,Trade Finance_20210520184923_1.00_page_21.png,charter,,,0,0,[],
+8,Trade Finance_20210520184923_1.00_page_21.png,goods_description,FURNITURE,,0,0,[],"[772, 1616, 991, 1647]"
+9,Trade Finance_20210520184923_1.00_page_21.png,stamped_port_of_loading,,,0,0,[],
+10,Trade Finance_20210520184923_1.00_page_21.png,carrier_name,ORIENT LINE OVERSEAS CONTAINER,,0,0,[],"[399, 181, 1264, 236]"
+11,Trade Finance_20210520184923_1.00_page_21.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[791, 1326, 1145, 1358]"
+12,Trade Finance_20210520184923_1.00_page_21.png,pre_carriage_by,,,0,0,[],
+13,Trade Finance_20210520184923_1.00_page_21.png,bill_of_lading_number,002121664400,,0,0,[],"[1736, 335, 2073, 364]"
+14,Trade Finance_20210520184923_1.00_page_21.png,agent_name,,,0,0,[],
+15,Trade Finance_20210520184923_1.00_page_21.png,container_number,6781368,,0,0,[],"[79, 1556, 342, 1585]"
+16,Trade Finance_20210520184923_1.00_page_21.png,stamped_onboard_date,,,0,0,[],
+17,Trade Finance_20210520184923_1.00_page_21.png,lc_date,10.12.2020,,0,0,[],"[1132, 1737, 1367, 1768]"
+18,Trade Finance_20210520184923_1.00_page_21.png,consignee_name,TO THE ORDER OF ‘ARAB BANK FOR INVESTMENT AND FOREIGN TRADE1,,0,0,[],"[108, 640, 824, 727]"
+19,Trade Finance_20210520184923_1.00_page_21.png,vessel_name,ARGUS,,0,0,[],"[101, 1334, 205, 1361]"
+20,Trade Finance_20210520184923_1.00_page_21.png,consignee_address,,,0,0,[],
+21,Trade Finance_20210520184923_1.00_page_21.png,is_stamp,,FALSE,0,0,[],
+22,Trade Finance_20210520184923_1.00_page_21.png,carriage_condition,,,0,0,[],
+23,Trade Finance_20210520184923_1.00_page_21.png,port_of_discharge,"AJMAN,UAE",,0,0,[],"[103, 1402, 289, 1430]"
+24,Trade Finance_20210520184923_1.00_page_21.png,gross_weight,2745000KGS,,0,0,[],"[1655, 1920, 1916, 1952]"
+25,Trade Finance_20210520184923_1.00_page_21.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[791, 1326, 1145, 1358]"
+26,Trade Finance_20210520184923_1.00_page_21.png,shipped_onboard_date,20217 4 MAY,,0,0,[],"[1968, 2720, 2207, 2752]"
+27,Trade Finance_20210520184923_1.00_page_21.png,shipment_date,,,0,0,[],
+28,Trade Finance_20210520184923_1.00_page_21.png,bill_of_lading_issue_date,MAY 2021,,0,0,[],"[1970, 2827, 2200, 2863]"
+29,Trade Finance_20210520184923_1.00_page_21.png,stamped_shipped_onboard_date,,,0,0,[],
+30,Trade Finance_20210520184923_1.00_page_22.png,final_destination,,,0,0,[],
+31,Trade Finance_20210520184923_1.00_page_22.png,lc_ref_number,,,0,0,[],
+32,Trade Finance_20210520184923_1.00_page_22.png,consignee_country,,,0,0,[],
+33,Trade Finance_20210520184923_1.00_page_22.png,freight_collect_or_prepaid,,,0,0,[],
+34,Trade Finance_20210520184923_1.00_page_22.png,stamped_vessel_or_cargo_name,,,0,0,[],
+35,Trade Finance_20210520184923_1.00_page_22.png,shipper_name,,,0,0,[],
+36,Trade Finance_20210520184923_1.00_page_22.png,signed_by_named_agent,,,0,0,[],
+37,Trade Finance_20210520184923_1.00_page_22.png,charter,,,0,0,[],
+38,Trade Finance_20210520184923_1.00_page_22.png,goods_description,,,0,0,[],
+39,Trade Finance_20210520184923_1.00_page_22.png,stamped_port_of_loading,,,0,0,[],
+40,Trade Finance_20210520184923_1.00_page_22.png,carrier_name,ORIENT LONE® OVERSEAS CONTAINER,,0,0,[],"[398, 183, 1277, 235]"
+41,Trade Finance_20210520184923_1.00_page_22.png,port_of_loading,,,0,0,[],
+42,Trade Finance_20210520184923_1.00_page_22.png,pre_carriage_by,,,0,0,[],
+43,Trade Finance_20210520184923_1.00_page_22.png,bill_of_lading_number,002121664400,,0,0,[],"[1993, 319, 2261, 346]"
+44,Trade Finance_20210520184923_1.00_page_22.png,agent_name,,,0,0,[],
+45,Trade Finance_20210520184923_1.00_page_22.png,container_number,,,0,0,[],
+46,Trade Finance_20210520184923_1.00_page_22.png,stamped_onboard_date,,,0,0,[],
+47,Trade Finance_20210520184923_1.00_page_22.png,lc_date,,,0,0,[],
+48,Trade Finance_20210520184923_1.00_page_22.png,consignee_name,,,0,0,[],
+49,Trade Finance_20210520184923_1.00_page_22.png,vessel_name,ARGUS,,0,0,[],"[230, 311, 330, 337]"
+50,Trade Finance_20210520184923_1.00_page_22.png,consignee_address,,,0,0,[],
+51,Trade Finance_20210520184923_1.00_page_22.png,is_stamp,,FALSE,0,0,[],
+52,Trade Finance_20210520184923_1.00_page_22.png,carriage_condition,,,0,0,[],
+53,Trade Finance_20210520184923_1.00_page_22.png,port_of_discharge,,,0,0,[],
+54,Trade Finance_20210520184923_1.00_page_22.png,gross_weight,,,0,0,[],
+55,Trade Finance_20210520184923_1.00_page_22.png,port_of_loading,,,0,0,[],
+56,Trade Finance_20210520184923_1.00_page_22.png,shipped_onboard_date,,,0,0,[],
+57,Trade Finance_20210520184923_1.00_page_22.png,shipment_date,,,0,0,[],
+58,Trade Finance_20210520184923_1.00_page_22.png,bill_of_lading_issue_date,,,0,0,[],
+59,Trade Finance_20210520184923_1.00_page_22.png,stamped_shipped_onboard_date,,,0,0,[],
+60,Trade Finance_20210520184923_1.00_page_23.png,final_destination,"AJMAN, UAE",,0,0,[],"[789, 1405, 977, 1432]"
+61,Trade Finance_20210520184923_1.00_page_23.png,lc_ref_number,TF2034500008,,0,0,[],"[766, 1706, 1055, 1735]"
+62,Trade Finance_20210520184923_1.00_page_23.png,consignee_country,,,0,0,[],
+63,Trade Finance_20210520184923_1.00_page_23.png,freight_collect_or_prepaid,DESTINATION,,0,0,[],"[1218, 1647, 1489, 1678]"
+64,Trade Finance_20210520184923_1.00_page_23.png,stamped_vessel_or_cargo_name,,,0,0,[],
+65,Trade Finance_20210520184923_1.00_page_23.png,shipper_name,KUKA HK TRADE CO LIMITED,,0,0,[],"[107, 329, 678, 362]"
+66,Trade Finance_20210520184923_1.00_page_23.png,shipper_name,ARGUS,,0,0,[],"[97, 1332, 201, 1358]"
+67,Trade Finance_20210520184923_1.00_page_23.png,signed_by_named_agent,,,0,0,[],
+68,Trade Finance_20210520184923_1.00_page_23.png,charter,,,0,0,[],
+69,Trade Finance_20210520184923_1.00_page_23.png,goods_description,FURNITURE,,0,0,[],"[771, 1615, 985, 1645]"
+70,Trade Finance_20210520184923_1.00_page_23.png,stamped_port_of_loading,,,0,0,[],
+71,Trade Finance_20210520184923_1.00_page_23.png,carrier_name,ORIENT OVERSEAS LINES CONTAINER,,0,0,[],"[396, 177, 1268, 236]"
+72,Trade Finance_20210520184923_1.00_page_23.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[789, 1329, 1139, 1358]"
+73,Trade Finance_20210520184923_1.00_page_23.png,pre_carriage_by,,,0,0,[],
+74,Trade Finance_20210520184923_1.00_page_23.png,bill_of_lading_number,002121664400,,0,0,[],"[1732, 332, 2067, 365]"
+75,Trade Finance_20210520184923_1.00_page_23.png,agent_name,,,0,0,[],
+76,Trade Finance_20210520184923_1.00_page_23.png,container_number,6781368,,0,0,[],"[75, 1553, 337, 1583]"
+77,Trade Finance_20210520184923_1.00_page_23.png,stamped_onboard_date,,,0,0,[],
+78,Trade Finance_20210520184923_1.00_page_23.png,lc_date,10.12.2020,10/12/2020,80,1,"[1126, 1738, 1361, 1766]","[1127, 1738, 1363, 1767]"
+79,Trade Finance_20210520184923_1.00_page_23.png,consignee_name,TO THE ORDER OF ‘ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,,0,0,[],"[102, 640, 823, 721]"
+80,Trade Finance_20210520184923_1.00_page_23.png,vessel_name,,,0,0,[],
+81,Trade Finance_20210520184923_1.00_page_23.png,consignee_address,,,0,0,[],
+82,Trade Finance_20210520184923_1.00_page_23.png,is_stamp,,FALSE,0,0,[],
+83,Trade Finance_20210520184923_1.00_page_23.png,carriage_condition,,,0,0,[],
+84,Trade Finance_20210520184923_1.00_page_23.png,port_of_discharge,"AJMAN,UAE",,0,0,[],"[97, 1400, 280, 1428]"
+85,Trade Finance_20210520184923_1.00_page_23.png,gross_weight,2745000KGS,,0,0,[],"[1652, 1922, 1914, 1953]"
+86,Trade Finance_20210520184923_1.00_page_23.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[789, 1329, 1139, 1358]"
+87,Trade Finance_20210520184923_1.00_page_23.png,shipped_onboard_date,20217 4 MAY,,0,0,[],"[1963, 2721, 2200, 2750]"
+88,Trade Finance_20210520184923_1.00_page_23.png,shipment_date,,,0,0,[],
+89,Trade Finance_20210520184923_1.00_page_23.png,bill_of_lading_issue_date,MAY 2021,,0,0,[],"[1965, 2831, 2200, 2858]"
+90,Trade Finance_20210520184923_1.00_page_23.png,stamped_shipped_onboard_date,,,0,0,[],
+91,Trade Finance_20210520184923_1.00_page_24.png,final_destination,,,0,0,[],
+92,Trade Finance_20210520184923_1.00_page_24.png,lc_ref_number,,,0,0,[],
+93,Trade Finance_20210520184923_1.00_page_24.png,consignee_country,,,0,0,[],
+94,Trade Finance_20210520184923_1.00_page_24.png,freight_collect_or_prepaid,,,0,0,[],
+95,Trade Finance_20210520184923_1.00_page_24.png,stamped_vessel_or_cargo_name,,,0,0,[],
+96,Trade Finance_20210520184923_1.00_page_24.png,shipper_name,,,0,0,[],
+97,Trade Finance_20210520184923_1.00_page_24.png,signed_by_named_agent,,,0,0,[],
+98,Trade Finance_20210520184923_1.00_page_24.png,charter,,,0,0,[],
+99,Trade Finance_20210520184923_1.00_page_24.png,goods_description,,,0,0,[],
+100,Trade Finance_20210520184923_1.00_page_24.png,stamped_port_of_loading,,,0,0,[],
+101,Trade Finance_20210520184923_1.00_page_24.png,carrier_name,ORIENT OVERSEAS LINES CONTAINER,,0,0,[],"[394, 183, 1272, 245]"
+102,Trade Finance_20210520184923_1.00_page_24.png,port_of_loading,,,0,0,[],
+103,Trade Finance_20210520184923_1.00_page_24.png,pre_carriage_by,,,0,0,[],
+104,Trade Finance_20210520184923_1.00_page_24.png,bill_of_lading_number,002121664400,,0,0,[],"[2000, 322, 2264, 349]"
+105,Trade Finance_20210520184923_1.00_page_24.png,agent_name,,,0,0,[],
+106,Trade Finance_20210520184923_1.00_page_24.png,container_number,,,0,0,[],
+107,Trade Finance_20210520184923_1.00_page_24.png,stamped_onboard_date,,,0,0,[],
+108,Trade Finance_20210520184923_1.00_page_24.png,lc_date,,,0,0,[],
+109,Trade Finance_20210520184923_1.00_page_24.png,consignee_name,,,0,0,[],
+110,Trade Finance_20210520184923_1.00_page_24.png,vessel_name,ARGUS,,0,0,[],"[234, 313, 329, 337]"
+111,Trade Finance_20210520184923_1.00_page_24.png,consignee_address,,,0,0,[],
+112,Trade Finance_20210520184923_1.00_page_24.png,is_stamp,,FALSE,0,0,[],
+113,Trade Finance_20210520184923_1.00_page_24.png,carriage_condition,,,0,0,[],
+114,Trade Finance_20210520184923_1.00_page_24.png,port_of_discharge,,,0,0,[],
+115,Trade Finance_20210520184923_1.00_page_24.png,gross_weight,,,0,0,[],
+116,Trade Finance_20210520184923_1.00_page_24.png,port_of_loading,,,0,0,[],
+117,Trade Finance_20210520184923_1.00_page_24.png,shipped_onboard_date,,,0,0,[],
+118,Trade Finance_20210520184923_1.00_page_24.png,shipment_date,,,0,0,[],
+119,Trade Finance_20210520184923_1.00_page_24.png,bill_of_lading_issue_date,,,0,0,[],
+120,Trade Finance_20210520184923_1.00_page_24.png,stamped_shipped_onboard_date,,,0,0,[],
+121,Trade Finance_20210520184923_1.00_page_25.png,final_destination,"AJMAN, UAE",,0,0,[],"[797, 1404, 984, 1433]"
+122,Trade Finance_20210520184923_1.00_page_25.png,lc_ref_number,TF2034500008,,0,0,[],"[775, 1705, 1065, 1736]"
+123,Trade Finance_20210520184923_1.00_page_25.png,consignee_country,,,0,0,[],
+124,Trade Finance_20210520184923_1.00_page_25.png,freight_collect_or_prepaid,DESTINATION,,0,0,[],"[1229, 1650, 1498, 1678]"
+125,Trade Finance_20210520184923_1.00_page_25.png,stamped_vessel_or_cargo_name,,,0,0,[],
+126,Trade Finance_20210520184923_1.00_page_25.png,shipper_name,KUKA HK TRADE CO LIMITED,,0,0,[],"[114, 333, 689, 364]"
+127,Trade Finance_20210520184923_1.00_page_25.png,signed_by_named_agent,,,0,0,[],
+128,Trade Finance_20210520184923_1.00_page_25.png,charter,,,0,0,[],
+129,Trade Finance_20210520184923_1.00_page_25.png,goods_description,,,0,0,[],
+130,Trade Finance_20210520184923_1.00_page_25.png,stamped_port_of_loading,,,0,0,[],
+131,Trade Finance_20210520184923_1.00_page_25.png,carrier_name,ORIENT LONE® OVERSEAS CONTAINER,,0,0,[],"[403, 180, 1273, 236]"
+132,Trade Finance_20210520184923_1.00_page_25.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[797, 1331, 1147, 1357]"
+133,Trade Finance_20210520184923_1.00_page_25.png,pre_carriage_by,,,0,0,[],
+134,Trade Finance_20210520184923_1.00_page_25.png,bill_of_lading_number,002121664400,,0,0,[],"[1739, 333, 2082, 362]"
+135,Trade Finance_20210520184923_1.00_page_25.png,agent_name,,,0,0,[],
+136,Trade Finance_20210520184923_1.00_page_25.png,container_number,6781368,,0,0,[],"[82, 1553, 347, 1586]"
+137,Trade Finance_20210520184923_1.00_page_25.png,stamped_onboard_date,,,0,0,[],
+138,Trade Finance_20210520184923_1.00_page_25.png,lc_date,10.12.2020,10/12/2020,80,1,"[1136, 1741, 1371, 1766]","[1134, 1737, 1373, 1769]"
+139,Trade Finance_20210520184923_1.00_page_25.png,consignee_name,TO THE ORDER OF ‘ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,,0,0,[],"[109, 641, 832, 725]"
+140,Trade Finance_20210520184923_1.00_page_25.png,vessel_name,ARGUS,,0,0,[],"[106, 1334, 210, 1360]"
+141,Trade Finance_20210520184923_1.00_page_25.png,consignee_address,,,0,0,[],
+142,Trade Finance_20210520184923_1.00_page_25.png,is_stamp,,FALSE,0,0,[],
+143,Trade Finance_20210520184923_1.00_page_25.png,carriage_condition,,,0,0,[],
+144,Trade Finance_20210520184923_1.00_page_25.png,port_of_discharge,"AJMAN,UAE",,0,0,[],"[108, 1402, 292, 1432]"
+145,Trade Finance_20210520184923_1.00_page_25.png,gross_weight,2745000KGS,,0,0,[],"[1662, 1923, 1927, 1954]"
+146,Trade Finance_20210520184923_1.00_page_25.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[797, 1331, 1147, 1357]"
+147,Trade Finance_20210520184923_1.00_page_25.png,shipped_onboard_date,4 MAY,,0,0,[],"[1973, 2721, 2211, 2752]"
+148,Trade Finance_20210520184923_1.00_page_25.png,shipment_date,,,0,0,[],
+149,Trade Finance_20210520184923_1.00_page_25.png,bill_of_lading_issue_date,4 MAY 2021,,0,0,[],"[1973, 2831, 2208, 2860]"
+150,Trade Finance_20210520184923_1.00_page_25.png,stamped_shipped_onboard_date,,,0,0,[],
+151,Trade Finance_20210520184923_1.00_page_26.png,final_destination,,,0,0,[],
+152,Trade Finance_20210520184923_1.00_page_26.png,lc_ref_number,,,0,0,[],
+153,Trade Finance_20210520184923_1.00_page_26.png,consignee_country,,,0,0,[],
+154,Trade Finance_20210520184923_1.00_page_26.png,freight_collect_or_prepaid,,,0,0,[],
+155,Trade Finance_20210520184923_1.00_page_26.png,stamped_vessel_or_cargo_name,,,0,0,[],
+156,Trade Finance_20210520184923_1.00_page_26.png,shipper_name,,,0,0,[],
+157,Trade Finance_20210520184923_1.00_page_26.png,signed_by_named_agent,,,0,0,[],
+158,Trade Finance_20210520184923_1.00_page_26.png,charter,,,0,0,[],
+159,Trade Finance_20210520184923_1.00_page_26.png,goods_description,,,0,0,[],
+160,Trade Finance_20210520184923_1.00_page_26.png,stamped_port_of_loading,,,0,0,[],
+161,Trade Finance_20210520184923_1.00_page_26.png,carrier_name,ORIENT OVERSEAS CONTAINER LINE,,0,0,[],"[388, 174, 1258, 230]"
+162,Trade Finance_20210520184923_1.00_page_26.png,port_of_loading,,,0,0,[],
+163,Trade Finance_20210520184923_1.00_page_26.png,pre_carriage_by,,,0,0,[],
+164,Trade Finance_20210520184923_1.00_page_26.png,bill_of_lading_number,002121664400,,0,0,[],"[1993, 306, 2257, 333]"
+165,Trade Finance_20210520184923_1.00_page_26.png,agent_name,,,0,0,[],
+166,Trade Finance_20210520184923_1.00_page_26.png,container_number,,,0,0,[],
+167,Trade Finance_20210520184923_1.00_page_26.png,stamped_onboard_date,,,0,0,[],
+168,Trade Finance_20210520184923_1.00_page_26.png,lc_date,,,0,0,[],
+169,Trade Finance_20210520184923_1.00_page_26.png,consignee_name,,,0,0,[],
+170,Trade Finance_20210520184923_1.00_page_26.png,vessel_name,ARGUS,,0,0,[],"[230, 308, 325, 331]"
+171,Trade Finance_20210520184923_1.00_page_26.png,consignee_address,,,0,0,[],
+172,Trade Finance_20210520184923_1.00_page_26.png,is_stamp,,FALSE,0,0,[],
+173,Trade Finance_20210520184923_1.00_page_26.png,carriage_condition,,,0,0,[],
+174,Trade Finance_20210520184923_1.00_page_26.png,port_of_discharge,,,0,0,[],
+175,Trade Finance_20210520184923_1.00_page_26.png,gross_weight,,,0,0,[],
+176,Trade Finance_20210520184923_1.00_page_26.png,port_of_loading,,,0,0,[],
+177,Trade Finance_20210520184923_1.00_page_26.png,shipped_onboard_date,,,0,0,[],
+178,Trade Finance_20210520184923_1.00_page_26.png,shipment_date,,,0,0,[],
+179,Trade Finance_20210520184923_1.00_page_26.png,bill_of_lading_issue_date,,,0,0,[],
+180,Trade Finance_20210520184923_1.00_page_26.png,stamped_shipped_onboard_date,,,0,0,[],
+181,Trade Finance_20210520184923_1.00_page_27.png,final_destination,"AJMAN, UAE",,0,0,[],"[796, 1362, 986, 1390]"
+182,Trade Finance_20210520184923_1.00_page_27.png,lc_ref_number,TF2034500008,,0,0,[],"[778, 1665, 1067, 1697]"
+183,Trade Finance_20210520184923_1.00_page_27.png,consignee_country,,,0,0,[],
+184,Trade Finance_20210520184923_1.00_page_27.png,freight_collect_or_prepaid,DESTINATION,,0,0,[],"[1233, 1612, 1505, 1645]"
+185,Trade Finance_20210520184923_1.00_page_27.png,stamped_vessel_or_cargo_name,,,0,0,[],
+186,Trade Finance_20210520184923_1.00_page_27.png,shipper_name,KUKA HK TRADE CO LIMITED,,0,0,[],"[122, 336, 699, 373]"
+187,Trade Finance_20210520184923_1.00_page_27.png,signed_by_named_agent,,,0,0,[],
+188,Trade Finance_20210520184923_1.00_page_27.png,charter,,,0,0,[],
+189,Trade Finance_20210520184923_1.00_page_27.png,goods_description,FURNITURE,,0,0,[],"[780, 1575, 1000, 1605]"
+190,Trade Finance_20210520184923_1.00_page_27.png,stamped_port_of_loading,,,0,0,[],
+191,Trade Finance_20210520184923_1.00_page_27.png,carrier_name,ORIENT LINE* OVERSEAS CONTAINER,,0,0,[],"[335, 207, 1011, 261]"
+192,Trade Finance_20210520184923_1.00_page_27.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[798, 1285, 1150, 1319]"
+193,Trade Finance_20210520184923_1.00_page_27.png,pre_carriage_by,,,0,0,[],
+194,Trade Finance_20210520184923_1.00_page_27.png,bill_of_lading_number,2121664400,,0,0,[],"[1810, 324, 2144, 353]"
+195,Trade Finance_20210520184923_1.00_page_27.png,agent_name,,,0,0,[],
+196,Trade Finance_20210520184923_1.00_page_27.png,container_number,6781368,,0,0,[],"[87, 1500, 350, 1539]"
+197,Trade Finance_20210520184923_1.00_page_27.png,stamped_onboard_date,,,0,0,[],
+198,Trade Finance_20210520184923_1.00_page_27.png,lc_date,10.12.2020,10/12/2020,80,1,"[1138, 1701, 1371, 1729]","[1137, 1700, 1379, 1733]"
+199,Trade Finance_20210520184923_1.00_page_27.png,consignee_name,TO THE ORDER OF 'ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,,0,0,[],"[121, 603, 841, 691]"
+200,Trade Finance_20210520184923_1.00_page_27.png,vessel_name,ARGUS,,0,0,[],"[107, 1280, 214, 1306]"
+201,Trade Finance_20210520184923_1.00_page_27.png,consignee_address,,,0,0,[],
+202,Trade Finance_20210520184923_1.00_page_27.png,is_stamp,,FALSE,0,0,[],
+203,Trade Finance_20210520184923_1.00_page_27.png,carriage_condition,,,0,0,[],
+204,Trade Finance_20210520184923_1.00_page_27.png,port_of_discharge,"AJMAN,UAE",,0,0,[],"[110, 1350, 296, 1377]"
+205,Trade Finance_20210520184923_1.00_page_27.png,gross_weight,2745000KGS,,0,0,[],"[1663, 1891, 1924, 1926]"
+206,Trade Finance_20210520184923_1.00_page_27.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[798, 1285, 1150, 1319]"
+207,Trade Finance_20210520184923_1.00_page_27.png,shipped_onboard_date,4 MAY 2021,,0,0,[],"[1942, 2681, 2180, 2713]"
+208,Trade Finance_20210520184923_1.00_page_27.png,shipment_date,,,0,0,[],
+209,Trade Finance_20210520184923_1.00_page_27.png,bill_of_lading_issue_date,4 MAY 2021,,0,0,[],"[1940, 2788, 2176, 2820]"
+210,Trade Finance_20210520184923_1.00_page_27.png,stamped_shipped_onboard_date,,,0,0,[],
+211,Trade Finance_20210520184923_1.00_page_28.png,final_destination,,,0,0,[],
+212,Trade Finance_20210520184923_1.00_page_28.png,lc_ref_number,,,0,0,[],
+213,Trade Finance_20210520184923_1.00_page_28.png,consignee_country,,,0,0,[],
+214,Trade Finance_20210520184923_1.00_page_28.png,freight_collect_or_prepaid,,,0,0,[],
+215,Trade Finance_20210520184923_1.00_page_28.png,stamped_vessel_or_cargo_name,,,0,0,[],
+216,Trade Finance_20210520184923_1.00_page_28.png,shipper_name,,,0,0,[],
+217,Trade Finance_20210520184923_1.00_page_28.png,signed_by_named_agent,,,0,0,[],
+218,Trade Finance_20210520184923_1.00_page_28.png,charter,,,0,0,[],
+219,Trade Finance_20210520184923_1.00_page_28.png,goods_description,,,0,0,[],
+220,Trade Finance_20210520184923_1.00_page_28.png,stamped_port_of_loading,,,0,0,[],
+221,Trade Finance_20210520184923_1.00_page_28.png,carrier_name,,,0,0,[],
+222,Trade Finance_20210520184923_1.00_page_28.png,port_of_loading,,,0,0,[],
+223,Trade Finance_20210520184923_1.00_page_28.png,pre_carriage_by,,,0,0,[],
+224,Trade Finance_20210520184923_1.00_page_28.png,bill_of_lading_number,2121664400,2121664400,100,1,"[2008, 330, 2277, 352]","[2035, 345, 2304, 371]"
+225,Trade Finance_20210520184923_1.00_page_28.png,agent_name,,,0,0,[],
+226,Trade Finance_20210520184923_1.00_page_28.png,container_number,,,0,0,[],
+227,Trade Finance_20210520184923_1.00_page_28.png,stamped_onboard_date,,,0,0,[],
+228,Trade Finance_20210520184923_1.00_page_28.png,lc_date,,,0,0,[],
+229,Trade Finance_20210520184923_1.00_page_28.png,consignee_name,,,0,0,[],
+230,Trade Finance_20210520184923_1.00_page_28.png,vessel_name,ARGUS,,0,0,[],"[236, 322, 331, 350]"
+231,Trade Finance_20210520184923_1.00_page_28.png,consignee_address,,,0,0,[],
+232,Trade Finance_20210520184923_1.00_page_28.png,is_stamp,,FALSE,0,0,[],
+233,Trade Finance_20210520184923_1.00_page_28.png,carriage_condition,,,0,0,[],
+234,Trade Finance_20210520184923_1.00_page_28.png,port_of_discharge,,,0,0,[],
+235,Trade Finance_20210520184923_1.00_page_28.png,gross_weight,,,0,0,[],
+236,Trade Finance_20210520184923_1.00_page_28.png,port_of_loading,,,0,0,[],
+237,Trade Finance_20210520184923_1.00_page_28.png,shipped_onboard_date,,,0,0,[],
+238,Trade Finance_20210520184923_1.00_page_28.png,shipment_date,,,0,0,[],
+239,Trade Finance_20210520184923_1.00_page_28.png,bill_of_lading_issue_date,,,0,0,[],
+240,Trade Finance_20210520184923_1.00_page_28.png,stamped_shipped_onboard_date,,,0,0,[],
+241,Trade Finance_20210520184923_1.00_page_29.png,final_destination,"AJMAN ,UAE",,0,0,[],"[773, 1431, 964, 1460]"
+242,Trade Finance_20210520184923_1.00_page_29.png,lc_ref_number,,,100,1,[],"[755, 1735, 1043, 1762]"
+243,Trade Finance_20210520184923_1.00_page_29.png,consignee_country,,,0,0,[],
+244,Trade Finance_20210520184923_1.00_page_29.png,freight_collect_or_prepaid,DESTINATION,,0,0,[],"[1206, 1669, 1470, 1699]"
+245,Trade Finance_20210520184923_1.00_page_29.png,stamped_vessel_or_cargo_name,,,0,0,[],
+246,Trade Finance_20210520184923_1.00_page_29.png,shipper_name,TRADE CO LIMITED KUKA HK,,0,0,[],"[76, 363, 650, 400]"
+247,Trade Finance_20210520184923_1.00_page_29.png,signed_by_named_agent,,,0,0,[],
+248,Trade Finance_20210520184923_1.00_page_29.png,charter,,,0,0,[],
+249,Trade Finance_20210520184923_1.00_page_29.png,goods_description,FURNITURE,,0,0,[],"[757, 1643, 969, 1674]"
+250,Trade Finance_20210520184923_1.00_page_29.png,stamped_port_of_loading,,,0,0,[],
+251,Trade Finance_20210520184923_1.00_page_29.png,carrier_name,LINE CONTAINER ORIENT OVERSEAS,,0,0,[],"[360, 205, 1229, 262]"
+252,Trade Finance_20210520184923_1.00_page_29.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[770, 1356, 1124, 1381]"
+253,Trade Finance_20210520184923_1.00_page_29.png,pre_carriage_by,,,0,0,[],
+254,Trade Finance_20210520184923_1.00_page_29.png,bill_of_lading_number,2121664400,,0,0,[],"[1692, 339, 2030, 371]"
+255,Trade Finance_20210520184923_1.00_page_29.png,agent_name,,,0,0,[],
+256,Trade Finance_20210520184923_1.00_page_29.png,container_number,6781368,,0,0,[],"[60, 1594, 331, 1625]"
+257,Trade Finance_20210520184923_1.00_page_29.png,stamped_onboard_date,,,0,0,[],
+258,Trade Finance_20210520184923_1.00_page_29.png,lc_date,10.12.2020,10/12/2020,80,1,"[1114, 1761, 1346, 1789]","[1111, 1760, 1349, 1791]"
+259,Trade Finance_20210520184923_1.00_page_29.png,consignee_name,OF ‘ARAB BANK FOR TO THE ORDER INVESTMENT AND FOREIGN TRADE1,,0,0,[],"[78, 670, 794, 763]"
+260,Trade Finance_20210520184923_1.00_page_29.png,vessel_name,ARGUS,,0,0,[],"[81, 1372, 187, 1400]"
+261,Trade Finance_20210520184923_1.00_page_29.png,consignee_address,,,0,0,[],
+262,Trade Finance_20210520184923_1.00_page_29.png,is_stamp,,FALSE,0,0,[],
+263,Trade Finance_20210520184923_1.00_page_29.png,carriage_condition,,,0,0,[],
+264,Trade Finance_20210520184923_1.00_page_29.png,port_of_discharge,"AJMAN,UAE",,0,0,[],"[83, 1438, 271, 1467]"
+265,Trade Finance_20210520184923_1.00_page_29.png,gross_weight,2745000KGS,,0,0,[],"[1639, 1936, 1899, 1965]"
+266,Trade Finance_20210520184923_1.00_page_29.png,port_of_loading,"NNGBOOR,CHNA",,0,0,[],"[770, 1356, 1124, 1381]"
+267,Trade Finance_20210520184923_1.00_page_29.png,shipped_onboard_date,20217 4 MAY,,0,0,[],"[1957, 2728, 2198, 2759]"
+268,Trade Finance_20210520184923_1.00_page_29.png,shipment_date,,,0,0,[],
+269,Trade Finance_20210520184923_1.00_page_29.png,bill_of_lading_issue_date,MAY 2021,,0,0,[],"[1963, 2839, 2198, 2870]"
+270,Trade Finance_20210520184923_1.00_page_29.png,stamped_shipped_onboard_date,,,0,0,[],
+271,Trade Finance_20210520184923_1.00_page_30.png,final_destination,,,0,0,[],
+272,Trade Finance_20210520184923_1.00_page_30.png,lc_ref_number,,,0,0,[],
+273,Trade Finance_20210520184923_1.00_page_30.png,consignee_country,,,0,0,[],
+274,Trade Finance_20210520184923_1.00_page_30.png,freight_collect_or_prepaid,,,0,0,[],
+275,Trade Finance_20210520184923_1.00_page_30.png,stamped_vessel_or_cargo_name,,,0,0,[],
+276,Trade Finance_20210520184923_1.00_page_30.png,shipper_name,,,0,0,[],
+277,Trade Finance_20210520184923_1.00_page_30.png,signed_by_named_agent,,,0,0,[],
+278,Trade Finance_20210520184923_1.00_page_30.png,charter,,,0,0,[],
+279,Trade Finance_20210520184923_1.00_page_30.png,goods_description,,,0,0,[],
+280,Trade Finance_20210520184923_1.00_page_30.png,stamped_port_of_loading,,,0,0,[],
+281,Trade Finance_20210520184923_1.00_page_30.png,carrier_name,LINE ORIENT OVERSEAS CONTAINER,,0,0,[],"[375, 180, 1245, 242]"
+282,Trade Finance_20210520184923_1.00_page_30.png,port_of_loading,,,0,0,[],
+283,Trade Finance_20210520184923_1.00_page_30.png,pre_carriage_by,,,0,0,[],
+284,Trade Finance_20210520184923_1.00_page_30.png,bill_of_lading_number,002121664400,,0,0,[],"[1963, 311, 2235, 338]"
+285,Trade Finance_20210520184923_1.00_page_30.png,agent_name,,,0,0,[],
+286,Trade Finance_20210520184923_1.00_page_30.png,container_number,,,0,0,[],
+287,Trade Finance_20210520184923_1.00_page_30.png,stamped_onboard_date,,,0,0,[],
+288,Trade Finance_20210520184923_1.00_page_30.png,lc_date,,,0,0,[],
+289,Trade Finance_20210520184923_1.00_page_30.png,consignee_name,,,0,0,[],
+290,Trade Finance_20210520184923_1.00_page_30.png,vessel_name,ARGUS,,0,0,[],"[214, 316, 304, 343]"
+291,Trade Finance_20210520184923_1.00_page_30.png,consignee_address,,,0,0,[],
+292,Trade Finance_20210520184923_1.00_page_30.png,is_stamp,,FALSE,0,0,[],
+293,Trade Finance_20210520184923_1.00_page_30.png,carriage_condition,,,0,0,[],
+294,Trade Finance_20210520184923_1.00_page_30.png,port_of_discharge,,,0,0,[],
+295,Trade Finance_20210520184923_1.00_page_30.png,gross_weight,,,0,0,[],
+296,Trade Finance_20210520184923_1.00_page_30.png,port_of_loading,,,0,0,[],
+297,Trade Finance_20210520184923_1.00_page_30.png,shipped_onboard_date,,,0,0,[],
+298,Trade Finance_20210520184923_1.00_page_30.png,shipment_date,,,0,0,[],
+299,Trade Finance_20210520184923_1.00_page_30.png,bill_of_lading_issue_date,,,0,0,[],
+300,Trade Finance_20210520184923_1.00_page_30.png,stamped_shipped_onboard_date,,,0,0,[],
+301,Trade Finance_20210520184923_1.00_page_31.png,final_destination,"AJMAN, UAE",,0,0,[],"[775, 1427, 967, 1457]"
+302,Trade Finance_20210520184923_1.00_page_31.png,lc_ref_number,TF2034500008,,0,0,[],"[761, 1732, 1050, 1759]"
+303,Trade Finance_20210520184923_1.00_page_31.png,consignee_country,,,0,0,[],
+304,Trade Finance_20210520184923_1.00_page_31.png,freight_collect_or_prepaid,DESTINATION,,0,0,[],"[1215, 1665, 1482, 1696]"
+305,Trade Finance_20210520184923_1.00_page_31.png,stamped_vessel_or_cargo_name,,,0,0,[],
+306,Trade Finance_20210520184923_1.00_page_31.png,shipper_name,KUKA HK TRADE GO LIMITED,,0,0,[],"[81, 359, 655, 396]"
+307,Trade Finance_20210520184923_1.00_page_31.png,signed_by_named_agent,,,0,0,[],
+308,Trade Finance_20210520184923_1.00_page_31.png,charter,,,0,0,[],
+309,Trade Finance_20210520184923_1.00_page_31.png,goods_description,FURNITURE,,0,0,[],"[765, 1642, 976, 1673]"
+310,Trade Finance_20210520184923_1.00_page_31.png,stamped_port_of_loading,,,0,0,[],
+311,Trade Finance_20210520184923_1.00_page_31.png,carrier_name,ORIENT OVERSEAS CONTAINER LINE,,0,0,[],"[373, 199, 1237, 256]"
+312,Trade Finance_20210520184923_1.00_page_31.png,port_of_loading,NNGBOOR;CHNA,,0,0,[],"[780, 1351, 1134, 1376]"
+313,Trade Finance_20210520184923_1.00_page_31.png,pre_carriage_by,,,0,0,[],
+314,Trade Finance_20210520184923_1.00_page_31.png,bill_of_lading_number,002121664400,,0,0,[],"[1703, 337, 2041, 370]"
+315,Trade Finance_20210520184923_1.00_page_31.png,agent_name,,,0,0,[],
+316,Trade Finance_20210520184923_1.00_page_31.png,container_number,6781368,,0,0,[],"[68, 1587, 338, 1618]"
+317,Trade Finance_20210520184923_1.00_page_31.png,stamped_onboard_date,,,0,0,[],
+318,Trade Finance_20210520184923_1.00_page_31.png,lc_date,10.12.2020,10/12/2020,80,1,"[1121, 1755, 1356, 1784]","[1119, 1759, 1357, 1790]"
+319,Trade Finance_20210520184923_1.00_page_31.png,consignee_name,TO THE ORDER OF ARAB BANK FOR TRADE1 INVESTMENT AND FOREIGN,,0,0,[],"[84, 668, 799, 761]"
+320,Trade Finance_20210520184923_1.00_page_31.png,vessel_name,ARGUS,,0,0,[],"[90, 1366, 196, 1395]"
+321,Trade Finance_20210520184923_1.00_page_31.png,consignee_address,,,0,0,[],
+322,Trade Finance_20210520184923_1.00_page_31.png,is_stamp,,FALSE,0,0,[],
+323,Trade Finance_20210520184923_1.00_page_31.png,carriage_condition,,,0,0,[],
+324,Trade Finance_20210520184923_1.00_page_31.png,port_of_discharge,AJMANUAE,,0,0,[],"[88, 1435, 277, 1465]"
+325,Trade Finance_20210520184923_1.00_page_31.png,gross_weight,2745000KGS,,0,0,[],"[1644, 1930, 1904, 1959]"
+326,Trade Finance_20210520184923_1.00_page_31.png,port_of_loading,NNGBOOR;CHNA,,0,0,[],"[780, 1351, 1134, 1376]"
+327,Trade Finance_20210520184923_1.00_page_31.png,shipped_onboard_date,20211 4 MAY,,0,0,[],"[1966, 2727, 2207, 2758]"
+328,Trade Finance_20210520184923_1.00_page_31.png,shipment_date,,,0,0,[],
+329,Trade Finance_20210520184923_1.00_page_31.png,bill_of_lading_issue_date,4 MAY 2021,,0,0,[],"[1968, 2837, 2203, 2868]"
+330,Trade Finance_20210520184923_1.00_page_31.png,stamped_shipped_onboard_date,,,0,0,[],
+331,Trade Finance_20210520184923_1.00_page_32.png,final_destination,,,0,0,[],
+332,Trade Finance_20210520184923_1.00_page_32.png,lc_ref_number,,,0,0,[],
+333,Trade Finance_20210520184923_1.00_page_32.png,consignee_country,,,0,0,[],
+334,Trade Finance_20210520184923_1.00_page_32.png,freight_collect_or_prepaid,,,0,0,[],
+335,Trade Finance_20210520184923_1.00_page_32.png,stamped_vessel_or_cargo_name,,,0,0,[],
+336,Trade Finance_20210520184923_1.00_page_32.png,shipper_name,,,0,0,[],
+337,Trade Finance_20210520184923_1.00_page_32.png,signed_by_named_agent,,,0,0,[],
+338,Trade Finance_20210520184923_1.00_page_32.png,charter,,,0,0,[],
+339,Trade Finance_20210520184923_1.00_page_32.png,goods_description,,,0,0,[],
+340,Trade Finance_20210520184923_1.00_page_32.png,stamped_port_of_loading,,,0,0,[],
+341,Trade Finance_20210520184923_1.00_page_32.png,carrier_name,LINE ORIENT OVERSEAS CONTAINER,,0,0,[],"[383, 184, 1246, 242]"
+342,Trade Finance_20210520184923_1.00_page_32.png,port_of_loading,,,0,0,[],
+343,Trade Finance_20210520184923_1.00_page_32.png,pre_carriage_by,,,0,0,[],
+344,Trade Finance_20210520184923_1.00_page_32.png,bill_of_lading_number,002121664400,,0,0,[],"[1967, 319, 2237, 345]"
+345,Trade Finance_20210520184923_1.00_page_32.png,agent_name,,,0,0,[],
+346,Trade Finance_20210520184923_1.00_page_32.png,container_number,,,0,0,[],
+347,Trade Finance_20210520184923_1.00_page_32.png,stamped_onboard_date,,,0,0,[],
+348,Trade Finance_20210520184923_1.00_page_32.png,lc_date,,,0,0,[],
+349,Trade Finance_20210520184923_1.00_page_32.png,consignee_name,,,0,0,[],
+350,Trade Finance_20210520184923_1.00_page_32.png,vessel_name,,,100,1,[],"[220, 316, 310, 343]"
+351,Trade Finance_20210520184923_1.00_page_32.png,consignee_address,,,0,0,[],
+352,Trade Finance_20210520184923_1.00_page_32.png,is_stamp,,FALSE,0,0,[],
+353,Trade Finance_20210520184923_1.00_page_32.png,carriage_condition,,,0,0,[],
+354,Trade Finance_20210520184923_1.00_page_32.png,port_of_discharge,,,0,0,[],
+355,Trade Finance_20210520184923_1.00_page_32.png,gross_weight,,,0,0,[],
+356,Trade Finance_20210520184923_1.00_page_32.png,port_of_loading,,,0,0,[],
+357,Trade Finance_20210520184923_1.00_page_32.png,shipped_onboard_date,,,0,0,[],
+358,Trade Finance_20210520184923_1.00_page_32.png,shipment_date,,,0,0,[],
+359,Trade Finance_20210520184923_1.00_page_32.png,bill_of_lading_issue_date,,,0,0,[],
+360,Trade Finance_20210520184923_1.00_page_32.png,stamped_shipped_onboard_date,,,0,0,[],

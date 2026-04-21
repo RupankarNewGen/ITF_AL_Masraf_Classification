@@ -1,0 +1,355 @@
+{
+    "Trade Finance_20210208145328_1.00_page_18.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999834299087524
+        },
+        "predicted_class": "CI",
+        "confidence": 0.9,
+        "extraction_result": {
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "ANJI WEIYU FURNITURE CO.LTD",
+                "coordinate": [
+                    [
+                        808,
+                        315,
+                        1591,
+                        353
+                    ]
+                ],
+                "model_confidence": [
+                    0.999905
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "NO.280, WEST SUNLIGHT ROAD, DIPU TOWN, ANJI COUNTY.ZHEJIANG PROVINCE, CHINA",
+                "coordinate": [
+                    [
+                        391,
+                        371,
+                        2008,
+                        423
+                    ]
+                ],
+                "model_confidence": [
+                    0.999861
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_drawee_applicant_importer_buyer_name": {
+                "value": "UNITED FURNITURE CO LLC",
+                "coordinate": [
+                    [
+                        248,
+                        521,
+                        672,
+                        556
+                    ]
+                ],
+                "model_confidence": [
+                    0.999893
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_address": {
+                "value": "PO BOX 7410, DUBAIUAE",
+                "coordinate": [
+                    [
+                        248,
+                        574,
+                        603,
+                        602
+                    ]
+                ],
+                "model_confidence": [
+                    0.999844
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "WY126082-1",
+                "coordinate": [
+                    [
+                        2022,
+                        581,
+                        2261,
+                        619
+                    ]
+                ],
+                "model_confidence": [
+                    0.999852
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "22/01/2021",
+                "coordinate": [
+                    [
+                        2015,
+                        672,
+                        2261,
+                        710
+                    ]
+                ],
+                "model_confidence": [
+                    0.994454
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "NUMBERTF2019500005~TF2019500005",
+                "coordinate": [
+                    [
+                        574,
+                        2201,
+                        894,
+                        2222
+                    ],
+                    [
+                        2015,
+                        717,
+                        2261,
+                        756
+                    ]
+                ],
+                "model_confidence": [
+                    0.999059,
+                    0.78072
+                ],
+                "ocr_confidence": []
+            },
+            "delivery_terms": {
+                "value": "SHANGHAI",
+                "coordinate": [
+                    [
+                        731,
+                        1953,
+                        874,
+                        1981
+                    ]
+                ],
+                "model_confidence": [
+                    0.926234
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "13/01/2025",
+                "coordinate": [
+                    [
+                        527,
+                        2261,
+                        630,
+                        2285
+                    ]
+                ],
+                "model_confidence": [
+                    0.999821
+                ],
+                "ocr_confidence": []
+            },
+            "declaration_by_issuer": {
+                "value": "ANJI VENTS FURNITURE CO., LTD",
+                "coordinate": [
+                    [
+                        1362,
+                        2726,
+                        2126,
+                        2789
+                    ]
+                ],
+                "model_confidence": [
+                    0.998626
+                ],
+                "ocr_confidence": []
+            },
+            "incoterm": {
+                "value": "FOB",
+                "coordinate": [
+                    [
+                        556,
+                        1330,
+                        965,
+                        1396
+                    ]
+                ],
+                "model_confidence": [
+                    0.999949
+                ],
+                "ocr_confidence": []
+            },
+            "goods_description": {
+                "value": "CHAIR",
+                "coordinate": [
+                    [
+                        800,
+                        1449,
+                        887,
+                        1473
+                    ]
+                ],
+                "model_confidence": [
+                    0.999509
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1695.16,
+                        2844.76,
+                        2133.59,
+                        3076.54
+                    ]
+                ],
+                "model_confidence": [
+                    0.815
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_country": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        391,
+                        371,
+                        2008,
+                        423
+                    ]
+                ],
+                "model_confidence": [
+                    0.999861
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "remitter_country": {},
+            "cosignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "notify_party_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "consignor_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "transaction_currency": {},
+            "transaction_amount_value": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "invoice_discount_ccy": {},
+            "invoice_discount_amount": {},
+            "invoice_tax_ccy": {},
+            "invoice_tax_amount": {},
+            "invoice_amount_in_words": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "total_quantity_of_goods": {},
+            "rate_per_unit": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "dimension": {},
+            "hs_code_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "beneficiary_bank_name": {},
+            "beneficiary_bank_country": {},
+            "beneficiary_account_number": {},
+            "beneficiary_iban_number": {},
+            "beneficiary_bank_identifier": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "country_of_origin_of_goods": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "country_of_final_destination": {},
+            "pre_carriage_by": {},
+            "vessel_flight_no": {},
+            "bill_of_lading_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_date": {},
+            "awb_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature_of_the_issuer": {},
+            "original_or_copy": {},
+            "place_of_receipt": {},
+            "stamp": {},
+            "additional_charges": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1695.16,
+                        2844.76,
+                        2133.59,
+                        3076.54
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.815
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

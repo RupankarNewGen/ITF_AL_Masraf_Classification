@@ -1,0 +1,247 @@
+{
+    "Trade Finance_20210520184923_1.00_page_24.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.999967098236084
+        },
+        "predicted_class": "BOL",
+        "confidence": "0.9886263012886047",
+        "extraction_result": {
+            "drawer_name": {
+                "value": "CI ORIENT OVERSEAS CONTAINER LINE",
+                "coordinate": [
+                    [
+                        136,
+                        168,
+                        1282,
+                        239
+                    ]
+                ],
+                "model_confidence": [
+                    0.997088
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "00LU2121664400",
+                "coordinate": [
+                    [
+                        1998,
+                        316,
+                        2263,
+                        348
+                    ]
+                ],
+                "model_confidence": [
+                    0.984483
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "OOCL (UAE) LLC",
+                "coordinate": [
+                    [
+                        86,
+                        580,
+                        418,
+                        616
+                    ]
+                ],
+                "model_confidence": [
+                    0.997257
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "OFFICE 1601, 16TH FLOOR, THE H HC TEL OFFIC E TOWER, NO.1 SHEIKH ZAYED D (TRADE CENTRE AREA) DUBAI, U.A.E",
+                "coordinate": [
+                    [
+                        81,
+                        619,
+                        935,
+                        753
+                    ]
+                ],
+                "model_confidence": [
+                    0.994686
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "LET CONTAINER ",
+                "coordinate": [
+                    [
+                        1626,
+                        2875,
+                        1995,
+                        3136
+                    ]
+                ],
+                "model_confidence": [
+                    0.479714
+                ],
+                "ocr_confidence": []
+            },
+            "stamp": {
+                "value": "SIGNED ORIENT OVERSEAS BY: (CHINA) CO., LTD~ORIENT 0 VERSEAS CONTAINER LINE, CARRIER AS",
+                "coordinate": [
+                    [
+                        1460,
+                        2956,
+                        1814,
+                        3041
+                    ],
+                    [
+                        1460,
+                        3157,
+                        1918,
+                        3241
+                    ]
+                ],
+                "model_confidence": [
+                    0.924151,
+                    0.971316
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1488.46,
+                        3062.16,
+                        1946.93,
+                        3223.99
+                    ]
+                ],
+                "model_confidence": [
+                    0.779
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address_country": {
+                "value": "NO",
+                "coordinate": [
+                    [
+                        81,
+                        619,
+                        935,
+                        753
+                    ]
+                ],
+                "model_confidence": [
+                    0.994686
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "bill_of_lading_number": {},
+            "bill_of_lading_issue_date": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "consignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "carrier_name": {},
+            "carrier_country": {},
+            "agent_name": {},
+            "agent_country": {},
+            "pre_carriage_by": {},
+            "vessel_name": {},
+            "voyage_number": {},
+            "container_number": {},
+            "place_of_receipt": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "port_of_discharge_place": {},
+            "port_of_discharge_country": {},
+            "final_destination": {},
+            "final_destination_place": {},
+            "final_destination_country": {},
+            "shipped_onboard_date": {},
+            "bol_original_number": {},
+            "bol_original_or_copy": {},
+            "freight_collect_at": {},
+            "freight_collect_or_prepaid": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "place_of_issue": {},
+            "signed_by_carrier": {},
+            "signed_by_named_agent": {},
+            "lc_ref_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "lc_date": {},
+            "signature": {},
+            "net_weight": {},
+            "gross_weight": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "country_of_origin": {},
+            "goods_description": {},
+            "goods_quantity": {},
+            "dimension": {},
+            "goods_marks_and_nos": {},
+            "mode_of_transport": {},
+            "measurement": {},
+            "master_name": {},
+            "signed_by_master": {},
+            "total_original_no": {},
+            "stamped_vessel_or_cargo_name": {},
+            "charter": {},
+            "stamped_port_of_loading": {},
+            "stamped_onboard_date": {},
+            "carriage_condition": {},
+            "stamped_shipped_onboard_date": {},
+            "shipment_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1488.46,
+                        3062.16,
+                        1946.93,
+                        3223.99
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.779
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

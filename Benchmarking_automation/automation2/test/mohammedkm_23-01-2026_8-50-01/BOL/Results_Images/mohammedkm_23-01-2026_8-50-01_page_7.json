@@ -1,0 +1,405 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_7.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999774694442749
+        },
+        "predicted_class": "BOL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "carrier_name": {
+                "value": "EVERGREEN LINE",
+                "coordinate": [
+                    [
+                        86,
+                        10,
+                        1270,
+                        136
+                    ]
+                ],
+                "model_confidence": [
+                    0.759217
+                ],
+                "ocr_confidence": []
+            },
+            "bol_original_or_copy": {
+                "value": "ORIGINAL",
+                "coordinate": [
+                    [
+                        1674,
+                        150,
+                        1959,
+                        189
+                    ]
+                ],
+                "model_confidence": [
+                    0.998355
+                ],
+                "ocr_confidence": []
+            },
+            "container_number": {
+                "value": "TIIU453503140HEMCNBS68843",
+                "coordinate": [
+                    [
+                        44,
+                        1596,
+                        808,
+                        1634
+                    ]
+                ],
+                "model_confidence": [
+                    0.99985
+                ],
+                "ocr_confidence": []
+            },
+            "dimension": {
+                "value": "1 X 40H",
+                "coordinate": [
+                    [
+                        595,
+                        1638,
+                        783,
+                        1669
+                    ]
+                ],
+                "model_confidence": [
+                    0.998226
+                ],
+                "ocr_confidence": []
+            },
+            "goods_quantity": {
+                "value": "38 PIECES",
+                "coordinate": [
+                    [
+                        821,
+                        1599,
+                        1054,
+                        1627
+                    ]
+                ],
+                "model_confidence": [
+                    0.99009
+                ],
+                "ocr_confidence": []
+            },
+            "goods_description": {
+                "value": "YOKOHAMA BRAND TYRES",
+                "coordinate": [
+                    [
+                        836,
+                        1680,
+                        1379,
+                        1708
+                    ]
+                ],
+                "model_confidence": [
+                    0.999614
+                ],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_number": {
+                "value": "EGLV 060500263293",
+                "coordinate": [
+                    [
+                        42,
+                        2883,
+                        369,
+                        2953
+                    ]
+                ],
+                "model_confidence": [
+                    0.999883
+                ],
+                "ocr_confidence": []
+            },
+            "measurement": {
+                "value": "60.1240 CBM",
+                "coordinate": [
+                    [
+                        2054,
+                        1490,
+                        2351,
+                        1518
+                    ]
+                ],
+                "model_confidence": [
+                    0.997373
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight": {
+                "value": "6,362.252",
+                "coordinate": [
+                    [
+                        1999,
+                        1525,
+                        2347,
+                        1561
+                    ]
+                ],
+                "model_confidence": [
+                    0.99983
+                ],
+                "ocr_confidence": []
+            },
+            "shipped_onboard_date": {
+                "value": "23/12/2025",
+                "coordinate": [
+                    [
+                        563,
+                        3051,
+                        860,
+                        3090
+                    ]
+                ],
+                "model_confidence": [
+                    0.998636
+                ],
+                "ocr_confidence": []
+            },
+            "shipper_name": {
+                "value": "ITHE YOKOHAMA RUBBER COLTD",
+                "coordinate": [
+                    [
+                        34,
+                        206,
+                        813,
+                        252
+                    ]
+                ],
+                "model_confidence": [
+                    0.999782
+                ],
+                "ocr_confidence": []
+            },
+            "shipper_address": {
+                "value": "21, OIWAKE, HIRATSUKA-SHI, KANAGAWA 254-8601, JAPAN",
+                "coordinate": [
+                    [
+                        47,
+                        259,
+                        779,
+                        333
+                    ]
+                ],
+                "model_confidence": [
+                    0.999716
+                ],
+                "ocr_confidence": []
+            },
+            "port_of_loading": {
+                "value": "SUBIC BA CODING PHILIPPINES",
+                "coordinate": [
+                    [
+                        741,
+                        1203,
+                        1034,
+                        1287
+                    ]
+                ],
+                "model_confidence": [
+                    0.825833
+                ],
+                "ocr_confidence": []
+            },
+            "place_of_issue": {
+                "value": "TOKYO",
+                "coordinate": [
+                    [
+                        560,
+                        2946,
+                        694,
+                        3002
+                    ]
+                ],
+                "model_confidence": [
+                    0.995638
+                ],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_issue_date": {
+                "value": "DEC.23,2625",
+                "coordinate": [
+                    [
+                        714,
+                        2946,
+                        994,
+                        3009
+                    ]
+                ],
+                "model_confidence": [
+                    0.999506
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1567.78,
+                        3053.4,
+                        2077.16,
+                        3318.51
+                    ]
+                ],
+                "model_confidence": [
+                    0.846
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "total_original_no": {
+                "value": "THREE",
+                "coordinate": [
+                    [
+                        563,
+                        2887,
+                        694,
+                        2915
+                    ]
+                ],
+                "model_confidence": [
+                    0.998905
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight_units": {
+                "value": "KGS",
+                "coordinate": [
+                    [
+                        1999,
+                        1525,
+                        2347,
+                        1561
+                    ]
+                ],
+                "model_confidence": [
+                    0.99983
+                ],
+                "ocr_confidence": []
+            },
+            "port_of_loading_country": {
+                "value": "PHILIPPINES",
+                "coordinate": [
+                    [
+                        741,
+                        1203,
+                        1034,
+                        1287
+                    ]
+                ],
+                "model_confidence": [
+                    0.825833
+                ],
+                "ocr_confidence": []
+            },
+            "shipper_country": {
+                "value": "JAPAN",
+                "coordinate": [
+                    [
+                        47,
+                        259,
+                        779,
+                        333
+                    ]
+                ],
+                "model_confidence": [
+                    0.999716
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "consignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "carrier_country": {},
+            "agent_name": {},
+            "agent_country": {},
+            "pre_carriage_by": {},
+            "vessel_name": {},
+            "voyage_number": {},
+            "place_of_receipt": {},
+            "port_of_discharge": {},
+            "port_of_discharge_place": {},
+            "port_of_discharge_country": {},
+            "final_destination": {},
+            "final_destination_place": {},
+            "final_destination_country": {},
+            "bol_original_number": {},
+            "freight_collect_at": {},
+            "freight_collect_or_prepaid": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signed_by_carrier": {},
+            "signed_by_named_agent": {},
+            "lc_ref_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "lc_date": {},
+            "signature": {},
+            "stamp": {},
+            "net_weight": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "country_of_origin": {},
+            "goods_marks_and_nos": {},
+            "mode_of_transport": {},
+            "master_name": {},
+            "signed_by_master": {},
+            "stamped_vessel_or_cargo_name": {},
+            "charter": {},
+            "stamped_port_of_loading": {},
+            "stamped_onboard_date": {},
+            "carriage_condition": {},
+            "stamped_shipped_onboard_date": {},
+            "shipment_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1567.78,
+                        3053.4,
+                        2077.16,
+                        3318.51
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.846
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

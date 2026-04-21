@@ -1,0 +1,460 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_3.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999765157699585
+        },
+        "predicted_class": "BOL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "carrier_name": {
+                "value": "EVERGREEN LINE",
+                "coordinate": [
+                    [
+                        89,
+                        3,
+                        1270,
+                        136
+                    ]
+                ],
+                "model_confidence": [
+                    0.98541
+                ],
+                "ocr_confidence": []
+            },
+            "shipper_name": {
+                "value": "THE YOKOHAMA RUBBER CO., LTD",
+                "coordinate": [
+                    [
+                        47,
+                        221,
+                        811,
+                        259
+                    ]
+                ],
+                "model_confidence": [
+                    0.999782
+                ],
+                "ocr_confidence": []
+            },
+            "shipper_address": {
+                "value": "21, OIWAKE, HIRATSUKA-SHI, KANAGAWA 254-8601, JAPAN",
+                "coordinate": [
+                    [
+                        44,
+                        259,
+                        776,
+                        333
+                    ]
+                ],
+                "model_confidence": [
+                    0.999826
+                ],
+                "ocr_confidence": []
+            },
+            "bol_original_or_copy": {
+                "value": "ORIGINAL",
+                "coordinate": [
+                    [
+                        1674,
+                        143,
+                        1959,
+                        185
+                    ]
+                ],
+                "model_confidence": [
+                    0.992819
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_name": {
+                "value": "TO THE ORDER OF ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+                "coordinate": [
+                    [
+                        47,
+                        501,
+                        841,
+                        568
+                    ]
+                ],
+                "model_confidence": [
+                    0.980942
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight": {
+                "value": "6,362.252",
+                "coordinate": [
+                    [
+                        1999,
+                        1522,
+                        2349,
+                        1557
+                    ]
+                ],
+                "model_confidence": [
+                    0.998926
+                ],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_number": {
+                "value": "EGLV 060500263293~FDRRB21489",
+                "coordinate": [
+                    [
+                        49,
+                        2890,
+                        374,
+                        2953
+                    ],
+                    [
+                        2051,
+                        1960,
+                        2317,
+                        2003
+                    ]
+                ],
+                "model_confidence": [
+                    0.999562,
+                    0.995194
+                ],
+                "ocr_confidence": []
+            },
+            "place_of_issue": {
+                "value": "TOKYO",
+                "coordinate": [
+                    [
+                        570,
+                        2967,
+                        694,
+                        2999
+                    ]
+                ],
+                "model_confidence": [
+                    0.997567
+                ],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_issue_date": {
+                "value": "23/12/2025",
+                "coordinate": [
+                    [
+                        721,
+                        2964,
+                        992,
+                        3006
+                    ]
+                ],
+                "model_confidence": [
+                    0.999834
+                ],
+                "ocr_confidence": []
+            },
+            "shipped_onboard_date": {
+                "value": "23/12/2025",
+                "coordinate": [
+                    [
+                        570,
+                        3051,
+                        865,
+                        3087
+                    ]
+                ],
+                "model_confidence": [
+                    0.995743
+                ],
+                "ocr_confidence": []
+            },
+            "port_of_discharge": {
+                "value": "JEBEL ALI, PORT UAE.",
+                "coordinate": [
+                    [
+                        37,
+                        1294,
+                        538,
+                        1354
+                    ]
+                ],
+                "model_confidence": [
+                    0.93204
+                ],
+                "ocr_confidence": []
+            },
+            "final_destination": {
+                "value": "JEBEL ALT, PORT UAE",
+                "coordinate": [
+                    [
+                        741,
+                        1297,
+                        1257,
+                        1350
+                    ]
+                ],
+                "model_confidence": [
+                    0.984598
+                ],
+                "ocr_confidence": []
+            },
+            "measurement": {
+                "value": "60.1240 CBM",
+                "coordinate": [
+                    [
+                        2056,
+                        1487,
+                        2354,
+                        1515
+                    ]
+                ],
+                "model_confidence": [
+                    0.998817
+                ],
+                "ocr_confidence": []
+            },
+            "container_number": {
+                "value": "TIIU453503140HEM CNBS68843",
+                "coordinate": [
+                    [
+                        47,
+                        1596,
+                        811,
+                        1634
+                    ]
+                ],
+                "model_confidence": [
+                    0.999166
+                ],
+                "ocr_confidence": []
+            },
+            "dimension": {
+                "value": "1 X 40H",
+                "coordinate": [
+                    [
+                        600,
+                        1638,
+                        786,
+                        1669
+                    ]
+                ],
+                "model_confidence": [
+                    0.99147
+                ],
+                "ocr_confidence": []
+            },
+            "goods_quantity": {
+                "value": "38 PIECES~388 PIECES",
+                "coordinate": [
+                    [
+                        826,
+                        1599,
+                        1056,
+                        1627
+                    ],
+                    [
+                        922,
+                        2252,
+                        1190,
+                        2280
+                    ]
+                ],
+                "model_confidence": [
+                    0.990738,
+                    0.99878
+                ],
+                "ocr_confidence": []
+            },
+            "goods_description": {
+                "value": "YOKOHAMA BRAND TYRES",
+                "coordinate": [
+                    [
+                        838,
+                        1676,
+                        1379,
+                        1704
+                    ]
+                ],
+                "model_confidence": [
+                    0.999439
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1594.32,
+                        3054.53,
+                        2109.38,
+                        3317.41
+                    ]
+                ],
+                "model_confidence": [
+                    0.848
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "total_original_no": {
+                "value": "THREE 3",
+                "coordinate": [
+                    [
+                        570,
+                        2883,
+                        801,
+                        2918
+                    ]
+                ],
+                "model_confidence": [
+                    0.888635
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight_units": {
+                "value": "KGS",
+                "coordinate": [
+                    [
+                        1999,
+                        1522,
+                        2349,
+                        1557
+                    ]
+                ],
+                "model_confidence": [
+                    0.998926
+                ],
+                "ocr_confidence": []
+            },
+            "shipper_country": {
+                "value": "JAPAN",
+                "coordinate": [
+                    [
+                        44,
+                        259,
+                        776,
+                        333
+                    ]
+                ],
+                "model_confidence": [
+                    0.999826
+                ],
+                "ocr_confidence": []
+            },
+            "port_of_discharge_place": {
+                "value": "JEBEL ALI, PORT UAE.",
+                "coordinate": [
+                    [
+                        37,
+                        1294,
+                        538,
+                        1354
+                    ]
+                ],
+                "model_confidence": [
+                    0.93204
+                ],
+                "ocr_confidence": []
+            },
+            "final_destination_place": {
+                "value": "JEBEL ALT, PORT UAE",
+                "coordinate": [
+                    [
+                        741,
+                        1297,
+                        1257,
+                        1350
+                    ]
+                ],
+                "model_confidence": [
+                    0.984598
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "carrier_country": {},
+            "agent_name": {},
+            "agent_country": {},
+            "pre_carriage_by": {},
+            "vessel_name": {},
+            "voyage_number": {},
+            "place_of_receipt": {},
+            "port_of_loading": {},
+            "port_of_discharge_country": {},
+            "final_destination_country": {},
+            "bol_original_number": {},
+            "freight_collect_at": {},
+            "freight_collect_or_prepaid": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signed_by_carrier": {},
+            "signed_by_named_agent": {},
+            "lc_ref_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "lc_date": {},
+            "signature": {},
+            "stamp": {},
+            "net_weight": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "country_of_origin": {},
+            "goods_marks_and_nos": {},
+            "mode_of_transport": {},
+            "master_name": {},
+            "signed_by_master": {},
+            "stamped_vessel_or_cargo_name": {},
+            "charter": {},
+            "stamped_port_of_loading": {},
+            "stamped_onboard_date": {},
+            "carriage_condition": {},
+            "stamped_shipped_onboard_date": {},
+            "shipment_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1594.32,
+                        3054.53,
+                        2109.38,
+                        3317.41
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.848
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

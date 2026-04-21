@@ -1,0 +1,365 @@
+{
+    "Trade Finance_20210208145328_1.00_page_31.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999328851699829
+        },
+        "predicted_class": "COO",
+        "confidence": 0.9,
+        "extraction_result": {
+            "consignor_name": {
+                "value": "ANJI WEIYU FURNITURE CO.LTDP",
+                "coordinate": [
+                    [
+                        259,
+                        269,
+                        761,
+                        304
+                    ]
+                ],
+                "model_confidence": [
+                    0.99941
+                ],
+                "ocr_confidence": []
+            },
+            "consignor_address": {
+                "value": "DIPU TOWN, ANJI COUNTY.ZHEJIANG PROVINCE, CHINA A/C NO330140311002205064392",
+                "coordinate": [
+                    [
+                        257,
+                        336,
+                        1013,
+                        388
+                    ]
+                ],
+                "model_confidence": [
+                    0.999686
+                ],
+                "ocr_confidence": []
+            },
+            "certificate_no": {
+                "value": "21C3305A0271/00003",
+                "coordinate": [
+                    [
+                        1517,
+                        283,
+                        1891,
+                        322
+                    ]
+                ],
+                "model_confidence": [
+                    0.998648
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_name": {
+                "value": "CHAMBER",
+                "coordinate": [
+                    [
+                        1324,
+                        385,
+                        1596,
+                        430
+                    ]
+                ],
+                "model_confidence": [
+                    0.998783
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_name": {
+                "value": "UNITED FURNITURECO L.L.C",
+                "coordinate": [
+                    [
+                        259,
+                        563,
+                        679,
+                        591
+                    ]
+                ],
+                "model_confidence": [
+                    0.999708
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_address": {
+                "value": "PO BOX 7410 DUBAI UAE TEL:04-3391640. FAX04331650.",
+                "coordinate": [
+                    [
+                        259,
+                        588,
+                        679,
+                        668
+                    ]
+                ],
+                "model_confidence": [
+                    0.999763
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_address": {
+                "value": "BUILDING.INTERNATIONAL. BUILDING TRADE NO.137FENGHUANG ROAD, HUZHOU1~THE",
+                "coordinate": [
+                    [
+                        1307,
+                        3046,
+                        2071,
+                        3113
+                    ],
+                    [
+                        1643,
+                        602,
+                        1708,
+                        630
+                    ]
+                ],
+                "model_confidence": [
+                    0.980716,
+                    0.530759
+                ],
+                "ocr_confidence": []
+            },
+            "country_of_origin_of_goods": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        2167,
+                        602,
+                        2279,
+                        630
+                    ]
+                ],
+                "model_confidence": [
+                    0.933054
+                ],
+                "ocr_confidence": []
+            },
+            "from_place": {
+                "value": "SHANGHAI PORT,CHINA",
+                "coordinate": [
+                    [
+                        360,
+                        843,
+                        687,
+                        871
+                    ]
+                ],
+                "model_confidence": [
+                    0.99926
+                ],
+                "ocr_confidence": []
+            },
+            "to_place": {
+                "value": "EMIRATES~JEBEL ALI PORT, UNITED ARAB",
+                "coordinate": [
+                    [
+                        264,
+                        868,
+                        412,
+                        893
+                    ],
+                    [
+                        746,
+                        840,
+                        1169,
+                        871
+                    ]
+                ],
+                "model_confidence": [
+                    0.998376,
+                    0.999088
+                ],
+                "ocr_confidence": []
+            },
+            "means_of_transport": {
+                "value": "BY SEA",
+                "coordinate": [
+                    [
+                        420,
+                        871,
+                        571,
+                        893
+                    ]
+                ],
+                "model_confidence": [
+                    0.999222
+                ],
+                "ocr_confidence": []
+            },
+            "final_destination": {
+                "value": "UNITED ARAB EMIRATESS",
+                "coordinate": [
+                    [
+                        262,
+                        1204,
+                        711,
+                        1236
+                    ]
+                ],
+                "model_confidence": [
+                    0.999177
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "WY126082-1",
+                "coordinate": [
+                    [
+                        2031,
+                        1481,
+                        2200,
+                        1505
+                    ]
+                ],
+                "model_confidence": [
+                    0.999663
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_date": {
+                "value": "JAN.20,2021\u2018",
+                "coordinate": [
+                    [
+                        2031,
+                        1512,
+                        2234,
+                        1537
+                    ]
+                ],
+                "model_confidence": [
+                    0.999808
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "NUMBER:TF2019500005",
+                "coordinate": [
+                    [
+                        993,
+                        1803,
+                        1310,
+                        1828
+                    ]
+                ],
+                "model_confidence": [
+                    0.999687
+                ],
+                "ocr_confidence": []
+            },
+            "issue_date": {
+                "value": "JULY 13.2020",
+                "coordinate": [
+                    [
+                        860,
+                        1842,
+                        1428,
+                        1873
+                    ]
+                ],
+                "model_confidence": [
+                    0.66959
+                ],
+                "ocr_confidence": []
+            },
+            "page_no": {
+                "value": "1 OF 1",
+                "coordinate": [
+                    [
+                        1265,
+                        3330,
+                        1329,
+                        3354
+                    ]
+                ],
+                "model_confidence": [
+                    0.997882
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "consignor_country": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        257,
+                        336,
+                        1013,
+                        388
+                    ]
+                ],
+                "model_confidence": [
+                    0.999686
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_country": {},
+            "ref_no": {},
+            "consignee_country": {},
+            "vessel_details": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "marks_and_no_of_packages": {},
+            "description_of_goods": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "declaration_by_exporter": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "certificate_stamped": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "lc_date": {},
+            "signature": {},
+            "declaration_by_certification": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "total_pages": {},
+            "total_original": {},
+            "stamp": {},
+            "expiry_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

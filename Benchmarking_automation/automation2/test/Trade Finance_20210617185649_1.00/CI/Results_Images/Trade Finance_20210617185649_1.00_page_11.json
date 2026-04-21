@@ -1,0 +1,386 @@
+{
+    "Trade Finance_20210617185649_1.00_page_11.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999728202819824
+        },
+        "predicted_class": "CI",
+        "confidence": "0.7479567602276802",
+        "extraction_result": {
+            "goods_description": {
+                "value": "BALL VALVES",
+                "coordinate": [
+                    [
+                        1297,
+                        1338,
+                        1421,
+                        1355
+                    ]
+                ],
+                "model_confidence": [
+                    0.999682
+                ],
+                "ocr_confidence": []
+            },
+            "incoterm": {
+                "value": "CFR",
+                "coordinate": [
+                    [
+                        1008,
+                        1369,
+                        1542,
+                        1390
+                    ]
+                ],
+                "model_confidence": [
+                    0.999959
+                ],
+                "ocr_confidence": []
+            },
+            "country_of_origin_of_goods": {
+                "value": "SPAIN EUROPE",
+                "coordinate": [
+                    [
+                        1250,
+                        1401,
+                        1406,
+                        1422
+                    ]
+                ],
+                "model_confidence": [
+                    0.999568
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2000700001",
+                "coordinate": [
+                    [
+                        1043,
+                        1492,
+                        1186,
+                        1513
+                    ]
+                ],
+                "model_confidence": [
+                    0.999356
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "20/01/2007",
+                "coordinate": [
+                    [
+                        1307,
+                        1492,
+                        1376,
+                        1510
+                    ]
+                ],
+                "model_confidence": [
+                    0.999824
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_amount": {
+                "value": "103.060,80",
+                "coordinate": [
+                    [
+                        1191,
+                        1555,
+                        1300,
+                        1576
+                    ]
+                ],
+                "model_confidence": [
+                    0.99955
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_amount_in_words": {
+                "value": "ONE HUNDRED AND THREE THOUSAND AND SIXTY US DOLLARS AND EIGHTY",
+                "coordinate": [
+                    [
+                        991,
+                        1555,
+                        1747,
+                        1608
+                    ]
+                ],
+                "model_confidence": [
+                    0.999854
+                ],
+                "ocr_confidence": []
+            },
+            "page_no": {
+                "value": "1",
+                "coordinate": [
+                    [
+                        2237,
+                        3153,
+                        2249,
+                        3174
+                    ]
+                ],
+                "model_confidence": [
+                    0.999557
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "ARFLU S.A.",
+                "coordinate": [
+                    [
+                        266,
+                        435,
+                        360,
+                        453
+                    ]
+                ],
+                "model_confidence": [
+                    0.999811
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "C OLABIDE, 13-POL. IND. TE ILERIONDO 48600 SOPELANA (BIZKAIA)-",
+                "coordinate": [
+                    [
+                        266,
+                        463,
+                        618,
+                        526
+                    ]
+                ],
+                "model_confidence": [
+                    0.999884
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_drawer_exporter_seller_supplier_tin": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "consignee_address": {
+                "value": "MUSAFFAH INDUSTRIAL AREA-ABU DHABI (EMIRATOS ARABES UNIDOS)-",
+                "coordinate": [
+                    [
+                        1527,
+                        495,
+                        2163,
+                        551
+                    ]
+                ],
+                "model_confidence": [
+                    0.999615
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "08/06/2021",
+                "coordinate": [
+                    [
+                        336,
+                        726,
+                        449,
+                        751
+                    ]
+                ],
+                "model_confidence": [
+                    0.999195
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "PV20200197-1",
+                "coordinate": [
+                    [
+                        818,
+                        730,
+                        964,
+                        751
+                    ]
+                ],
+                "model_confidence": [
+                    0.999791
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1594.95,
+                        1810.44,
+                        2123.6,
+                        2102.44
+                    ]
+                ],
+                "model_confidence": [
+                    0.794
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_country": {
+                "value": "SPAIN",
+                "coordinate": [
+                    [
+                        266,
+                        463,
+                        618,
+                        526
+                    ]
+                ],
+                "model_confidence": [
+                    0.999884
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_country": {
+                "value": "UNITED ARAB EMIRATES",
+                "coordinate": [
+                    [
+                        1527,
+                        495,
+                        2163,
+                        551
+                    ]
+                ],
+                "model_confidence": [
+                    0.999615
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_name": {
+                "value": "AL ASAB GENERAL TRANSPORT & CONTRACTING LLC M15,",
+                "coordinate": [
+                    [
+                        1559,
+                        463,
+                        2133,
+                        491
+                    ]
+                ],
+                "model_confidence": [
+                    0.999718
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "remitter_drawee_applicant_importer_buyer_name": {},
+            "remitter_address": {},
+            "remitter_country": {},
+            "cosignee_name": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "notify_party_country": {},
+            "consignor_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "transaction_currency": {},
+            "transaction_amount_value": {},
+            "invoice_currency": {},
+            "invoice_discount_ccy": {},
+            "invoice_discount_amount": {},
+            "invoice_tax_ccy": {},
+            "invoice_tax_amount": {},
+            "total_quantity_of_goods": {},
+            "rate_per_unit": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "dimension": {},
+            "hs_code_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "beneficiary_bank_name": {},
+            "beneficiary_bank_country": {},
+            "beneficiary_account_number": {},
+            "beneficiary_iban_number": {},
+            "beneficiary_bank_identifier": {},
+            "delivery_terms": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "country_of_final_destination": {},
+            "pre_carriage_by": {},
+            "vessel_flight_no": {},
+            "bill_of_lading_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_date": {},
+            "awb_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "declaration_by_issuer": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature_of_the_issuer": {},
+            "original_or_copy": {},
+            "place_of_receipt": {},
+            "stamp": {},
+            "additional_charges": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1594.95,
+                        1810.44,
+                        2123.6,
+                        2102.44
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.794
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

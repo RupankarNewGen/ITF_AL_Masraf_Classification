@@ -1,0 +1,69 @@
+File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+Trade Finance_20210520184923_1.00_page_10.png,csh_ref_no,265D20EL02628702,265D20EL02628702,100,1,"[1495, 582, 1918, 617]","[1497, 579, 1922, 624]"
+Trade Finance_20210520184923_1.00_page_10.png,csh_ref_no,REF265D20EL02628702,,0,0,[],"[1570, 3115, 1856, 3142]"
+Trade Finance_20210520184923_1.00_page_10.png,csh_bill_currency,USD,USD,100,1,"[1253, 737, 1347, 775]","[1249, 735, 1349, 779]"
+Trade Finance_20210520184923_1.00_page_10.png,csh_bill_amount,"9,639.00—","9,639.00",94,1,"[1362, 737, 1589, 779]","[1357, 733, 1544, 777]"
+Trade Finance_20210520184923_1.00_page_10.png,csh_drawn_under_rules,,600,0,0,"[1725, 1418, 1821, 1467]",
+Trade Finance_20210520184923_1.00_page_10.png,tenor_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,usance_tenor,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,tenor_indicator,,SIGHT,0,0,"[622, 1200, 763, 1235]",
+Trade Finance_20210520184923_1.00_page_10.png,tenor_indicator_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,tenor_indicator_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawer_bank_name,BANK OF CHINA,BANK OF CHINA,100,1,"[365, 242, 647, 266]","[372, 239, 654, 270]"
+Trade Finance_20210520184923_1.00_page_10.png,drawer_bank_bic,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawer_bank_address,HONOKONO,,0,0,[],"[667, 245, 795, 265]"
+Trade Finance_20210520184923_1.00_page_10.png,drawer_bank_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawer_name,"KUKA (HK) TRADE CO., LIMITED","KUKA (HK) TRADE CO., LIMITED",100,1,"[622, 1147, 1324, 1193]","[617, 1145, 1330, 1188]"
+Trade Finance_20210520184923_1.00_page_10.png,drawer_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawer_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawer_ref_no,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawee_name,FURNISHINGS LLC PAN EMIRATES HOME,PAN EMIRATES HOME FURNISHINGS LLC,52,0,"[622, 1095, 1584, 1133]","[619, 1097, 1558, 1134]"
+Trade Finance_20210520184923_1.00_page_10.png,drawee_address,,"PO BOX 2484, AL MASRAF TOWER, SH. STREET, U.A.E/HAMDAN ABU DHABI",0,0,"[222, 789, 1127, 888]",
+Trade Finance_20210520184923_1.00_page_10.png,drawee_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF) ,ARAB BK FOR INV. N FOREI-GN TRADE,70,0,"[620, 1045, 1495, 1084]","[214, 686, 1243, 782]"
+Trade Finance_20210520184923_1.00_page_10.png,drawee_bank_bic,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,drawee_bank_address,POBOX2484ALMASRAFTOWERSHHAMDANSTREETABUDHABIUAEz,ABUDHABIHO,28,0,"[1512, 1042, 1900, 1081]","[219, 790, 1093, 886]"
+Trade Finance_20210520184923_1.00_page_10.png,drawee_bank_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,nostro_bank_name,,WELLS FARGO BANK N.A.,0,0,"[1124, 2309, 1693, 2348]",
+Trade Finance_20210520184923_1.00_page_10.png,nostro_bank_bic,,BKCHHKHH,0,0,"[721, 2467, 973, 2502]",
+Trade Finance_20210520184923_1.00_page_10.png,nostro_bank_address,,"INTERNATIONAL BRANCH~NEW YORK, NY",0,0,"[264, 2365, 830, 2400]",
+Trade Finance_20210520184923_1.00_page_10.png,nostro_bank_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,doc_delivery_instruction,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,doc_charge_instructions,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,document_enclosed,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_10.png,total_bill_amount,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,csh_ref_no,265D20EL02628702,265D20EL02628702,100,1,"[1455, 661, 1859, 696]","[1455, 659, 1865, 698]"
+Trade Finance_20210520184923_1.00_page_14.png,csh_ref_no,REF265D20EL02628702,,0,0,[],"[1436, 3090, 1798, 3126]"
+Trade Finance_20210520184923_1.00_page_14.png,csh_bill_currency,USD,USD,100,1,"[1220, 808, 1309, 843]","[1217, 801, 1308, 845]"
+Trade Finance_20210520184923_1.00_page_14.png,csh_bill_amount,"9,639.00","9,639.00",100,1,"[1324, 808, 1542, 850]","[1322, 803, 1498, 843]"
+Trade Finance_20210520184923_1.00_page_14.png,csh_drawn_under_rules,,600,0,0,"[1671, 1466, 1740, 1501]",
+Trade Finance_20210520184923_1.00_page_14.png,tenor_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,usance_tenor,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,tenor_indicator,,SIGHT,0,0,"[616, 1251, 752, 1286]",
+Trade Finance_20210520184923_1.00_page_14.png,tenor_indicator_type,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,tenor_indicator_date,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_name,BANK OF CHINA,,0,0,[],"[385, 325, 650, 355]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE (AL MASRAF,,0,0,[],"[236, 753, 1205, 842]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_bic,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_address,IIONGKONO,,0,0,[],"[666, 331, 788, 351]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_address,POBOX2484ALMASRAFTOWERSHHAMDANSTREETABUDHABIUAE,,0,0,[],"[233, 851, 1059, 946]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_bank_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawer_name,"KUKA (HK) TRADE CO., LIMITED","KUKA (HK) TRADE CO., LIMITED",100,1,"[619, 1202, 1289, 1244]","[616, 1200, 1288, 1240]"
+Trade Finance_20210520184923_1.00_page_14.png,drawer_address,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawer_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawer_ref_no,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawee_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,100,1,"[619, 1149, 1535, 1188]","[612, 1150, 1501, 1195]"
+Trade Finance_20210520184923_1.00_page_14.png,drawee_address,,"AL PO BOX 2484, MASRAF TOWER, SH. HAMDAN STREET, ABU DHABI, U.A.E-",0,0,"[237, 840, 1091, 956]",
+Trade Finance_20210520184923_1.00_page_14.png,drawee_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawee_bank_name,,"ARAB BK FOR INV. N FOREI-GN TRADE,",0,0,"[614, 1100, 1450, 1142]",
+Trade Finance_20210520184923_1.00_page_14.png,drawee_bank_bic,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,drawee_bank_address,,TRADE MASRAF~ABU DHABI H.O.,0,0,"[235, 805, 670, 857]",
+Trade Finance_20210520184923_1.00_page_14.png,drawee_bank_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,nostro_bank_name,,WELLS FARGO BANK,0,0,"[1091, 2320, 1542, 2355]",
+Trade Finance_20210520184923_1.00_page_14.png,nostro_bank_bic,,BKCHHKHH,0,0,"[705, 2468, 945, 2503]",
+Trade Finance_20210520184923_1.00_page_14.png,nostro_bank_address,,"INTERNATIONAL BRANCH~N.A. NEW YORK, NY",0,0,"[267, 2366, 809, 2408]",
+Trade Finance_20210520184923_1.00_page_14.png,nostro_bank_country,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,doc_delivery_instruction,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,doc_charge_instructions,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,document_enclosed,,,0,0,[],
+Trade Finance_20210520184923_1.00_page_14.png,total_bill_amount,,,0,0,[],

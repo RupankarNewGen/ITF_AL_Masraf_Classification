@@ -1,0 +1,321 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_18.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.999984860420227
+        },
+        "predicted_class": "PL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "THE YOKOHAMA RUBBER CO.,LTD.",
+                "coordinate": [
+                    [
+                        1024,
+                        105,
+                        1751,
+                        161
+                    ]
+                ],
+                "model_confidence": [
+                    0.999932
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "21, OIWAKE, HIRATSUKA, KANAGAWA 254-8601, ",
+                "coordinate": [
+                    [
+                        1024,
+                        164,
+                        2066,
+                        231
+                    ]
+                ],
+                "model_confidence": [
+                    0.999918
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_name": {
+                "value": "EVER CHANT",
+                "coordinate": [
+                    [
+                        101,
+                        1101,
+                        300,
+                        1136
+                    ]
+                ],
+                "model_confidence": [
+                    0.992055
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_flight_no": {
+                "value": "V. 2055105N",
+                "coordinate": [
+                    [
+                        322,
+                        1101,
+                        543,
+                        1136
+                    ]
+                ],
+                "model_confidence": [
+                    0.997398
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2534300022",
+                "coordinate": [
+                    [
+                        1240,
+                        1290,
+                        1481,
+                        1322
+                    ]
+                ],
+                "model_confidence": [
+                    0.999536
+                ],
+                "ocr_confidence": []
+            },
+            "declaration": {
+                "value": "THE YOKOHAMA RUBBER CO., LTD.",
+                "coordinate": [
+                    [
+                        1644,
+                        2859,
+                        2225,
+                        2897
+                    ]
+                ],
+                "model_confidence": [
+                    0.998781
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "23/12/2025",
+                "coordinate": [
+                    [
+                        111,
+                        385,
+                        498,
+                        424
+                    ]
+                ],
+                "model_confidence": [
+                    0.999549
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "PC9732",
+                "coordinate": [
+                    [
+                        1798,
+                        350,
+                        2004,
+                        442
+                    ]
+                ],
+                "model_confidence": [
+                    0.9999
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_name": {
+                "value": "NEW EAST GENERAL TRADING FZCO",
+                "coordinate": [
+                    [
+                        109,
+                        519,
+                        692,
+                        557
+                    ]
+                ],
+                "model_confidence": [
+                    0.999825
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_address": {
+                "value": "PLOT S21006, FREE ZONE TRADING STREET, JAFZA SOUTH ZONE 2, JEBEL ALI, DUBAI, UAE.",
+                "coordinate": [
+                    [
+                        106,
+                        564,
+                        712,
+                        691
+                    ]
+                ],
+                "model_confidence": [
+                    0.999856
+                ],
+                "ocr_confidence": []
+            },
+            "description_of_goods": {
+                "value": "YOKOHAMA BRAND TYRES.",
+                "coordinate": [
+                    [
+                        54,
+                        1592,
+                        466,
+                        1627
+                    ]
+                ],
+                "model_confidence": [
+                    0.999645
+                ],
+                "ocr_confidence": []
+            },
+            "total_quantity_of_goods": {
+                "value": "388 PCS",
+                "coordinate": [
+                    [
+                        1307,
+                        2143,
+                        1443,
+                        2174
+                    ]
+                ],
+                "model_confidence": [
+                    0.995324
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight": {
+                "value": "6,362.252 KGS.",
+                "coordinate": [
+                    [
+                        1751,
+                        2146,
+                        1932,
+                        2227
+                    ]
+                ],
+                "model_confidence": [
+                    0.829179
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1833.16,
+                        2897.87,
+                        2388.01,
+                        3049.55
+                    ]
+                ],
+                "model_confidence": [
+                    0.862
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_country": {
+                "value": "JAPAN",
+                "coordinate": [
+                    [
+                        1024,
+                        164,
+                        2066,
+                        231
+                    ]
+                ],
+                "model_confidence": [
+                    0.999918
+                ],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "awb_number": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin_no": {},
+            "bill_of_lading_date": {},
+            "bill_of_lading_number": {},
+            "consignee_country": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "consignor_name": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "country_of_final_destination": {},
+            "country_of_final_destination_place": {},
+            "country_of_final_destination_country": {},
+            "country_of_origin_origin_of_goods": {},
+            "dimension": {},
+            "incoterm": {},
+            "invoice_amount": {},
+            "invoice_currency": {},
+            "lc_date": {},
+            "net_weight": {},
+            "notify_party_address": {},
+            "notify_party_name": {},
+            "original_copy": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "payment_terms_terms_of_delivery_payment": {},
+            "port_of_discharge": {},
+            "port_of_discharge_country": {},
+            "port_of_discharge_place": {},
+            "port_of_loading": {},
+            "pre_carriage_by": {},
+            "rate_per_unit": {},
+            "remitter_drawee_applicant_importer_buyer_name": {},
+            "remitter_address": {},
+            "remitter_country": {},
+            "track_reference": {},
+            "transaction_amount_value": {},
+            "transaction_currency": {},
+            "transaction_date": {},
+            "signature": {},
+            "stamp": {},
+            "total_pages": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1833.16,
+                        2897.87,
+                        2388.01,
+                        3049.55
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.862
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

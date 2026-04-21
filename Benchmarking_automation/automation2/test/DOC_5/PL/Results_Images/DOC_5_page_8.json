@@ -1,0 +1,249 @@
+{
+    "DOC_5_page_8.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 180,
+            "model_score": 0.9999258518218994
+        },
+        "predicted_class": "PL",
+        "confidence": "0.9856566190719604",
+        "extraction_result": {
+            "drawer_name": {
+                "value": "HANGZHOU HISAZUMI HOLDINGS CO.,LTD.",
+                "coordinate": [
+                    [
+                        696,
+                        252,
+                        1730,
+                        294
+                    ]
+                ],
+                "model_confidence": [
+                    0.999682
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_address": {
+                "value": "NO.780 BINKANG ROAD, BINJIANG DISTRICT, HANGZHOU, ZHEJIANG, ",
+                "coordinate": [
+                    [
+                        723,
+                        375,
+                        1700,
+                        413
+                    ]
+                ],
+                "model_confidence": [
+                    0.999373
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "PAN EMIRATES HOME FURNISHINGS L.L.C",
+                "coordinate": [
+                    [
+                        118,
+                        1020,
+                        495,
+                        1097
+                    ]
+                ],
+                "model_confidence": [
+                    0.999357
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "PO BOX: 23 197, SHARJAH UAE",
+                "coordinate": [
+                    [
+                        118,
+                        1111,
+                        371,
+                        1188
+                    ]
+                ],
+                "model_confidence": [
+                    0.999799
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2102700010~WX20HIS576",
+                "coordinate": [
+                    [
+                        1120,
+                        1574,
+                        1365,
+                        1606
+                    ],
+                    [
+                        2069,
+                        754,
+                        2305,
+                        785
+                    ]
+                ],
+                "model_confidence": [
+                    0.999408,
+                    0.97097
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_no": {
+                "value": "IP0020668",
+                "coordinate": [
+                    [
+                        2097,
+                        943,
+                        2275,
+                        971
+                    ]
+                ],
+                "model_confidence": [
+                    0.983129
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "22/04/2021",
+                "coordinate": [
+                    [
+                        2055,
+                        1122,
+                        2312,
+                        1164
+                    ]
+                ],
+                "model_confidence": [
+                    0.999678
+                ],
+                "ocr_confidence": []
+            },
+            "diclaration_by": {
+                "value": "HANGZHOU HISAZUMI HOLDINGS CO LTD",
+                "coordinate": [
+                    [
+                        1170,
+                        3131,
+                        1841,
+                        3187
+                    ]
+                ],
+                "model_confidence": [
+                    0.993717
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_address_country": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        723,
+                        375,
+                        1700,
+                        413
+                    ]
+                ],
+                "model_confidence": [
+                    0.999373
+                ],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "awb_number": {},
+            "beneficiary_address": {},
+            "beneficiary_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_name": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin_no": {},
+            "bill_of_lading_date": {},
+            "bill_of_lading_number": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "consignee_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "consignor_name": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "country_of_final_destination": {},
+            "country_of_final_destination_place": {},
+            "country_of_final_destination_country": {},
+            "country_of_origin_origin_of_goods": {},
+            "date_of_invoice": {},
+            "declaration": {},
+            "description_of_goods": {},
+            "dimension": {},
+            "gross_weight": {},
+            "incoterm": {},
+            "invoice_amount": {},
+            "invoice_currency": {},
+            "invoice_no": {},
+            "lc_date": {},
+            "net_weight": {},
+            "notify_party_address": {},
+            "notify_party_name": {},
+            "original_copy": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "payment_terms_terms_of_delivery_payment": {},
+            "port_of_discharge": {},
+            "port_of_discharge_country": {},
+            "port_of_discharge_place": {},
+            "port_of_loading": {},
+            "pre_carriage_by": {},
+            "rate_per_unit": {},
+            "remitter_drawee_applicant_importer_buyer_name": {},
+            "remitter_address": {},
+            "remitter_country": {},
+            "total_quantity_of_goods": {},
+            "track_reference": {},
+            "transaction_amount_value": {},
+            "transaction_currency": {},
+            "transaction_date": {},
+            "vessel_flight_no": {},
+            "signature": {},
+            "stamp": {},
+            "total_pages": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

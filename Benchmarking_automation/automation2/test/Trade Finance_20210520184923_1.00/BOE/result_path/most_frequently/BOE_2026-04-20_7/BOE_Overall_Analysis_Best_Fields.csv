@@ -1,0 +1,7 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210520184923_1.00_page_11.png,bill_exchange_no,220JJ61360564,220JJ61360564,100,1,"[259, 485, 517, 520]","[259, 484, 522, 525]"
+1,Trade Finance_20210520184923_1.00_page_11.png,boe_currency,USD,USD,100,1,"[178, 587, 259, 619]","[167, 583, 279, 631]"
+2,Trade Finance_20210520184923_1.00_page_12.png,bill_exchange_no,220JJ61360564,220JJ61360564,100,1,"[262, 481, 519, 516]","[255, 478, 531, 523]"
+3,Trade Finance_20210520184923_1.00_page_12.png,boe_currency,USD,USD,100,1,"[175, 586, 255, 618]","[164, 577, 259, 634]"
+4,Trade Finance_20210520184923_1.00_page_15.png,bill_exchange_no,220JJ61360561,220JJ61360564,92,1,"[277, 554, 524, 586]","[273, 554, 532, 592]"
+5,Trade Finance_20210520184923_1.00_page_15.png,boe_currency,USD,USD,100,1,"[198, 649, 274, 681]","[191, 651, 281, 685]"

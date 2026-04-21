@@ -18,7 +18,7 @@ SPLIT_RESULTS_DIR = config["directories"]["SPLIT_RESULTS_DIR"]
 WORKING_DATA_DIR = config["directories"]["WORKING_DATA_DIR"]
 OCR_DIR = config["directories"]["OCR_DIR"]
 
-CONSTRUCTOR_SCRIPT = os.path.join(BASE_DIR, "Preprocessing/benchmarking_data_constructor.py")
+CONSTRUCTOR_SCRIPT = os.path.join(BASE_DIR, "Benchmarking_automation/automation2/benchmarking_data_constructor.py")
 YOLO_GT_SCRIPT = os.path.join(BASE_DIR, "model_evaluation_codebase/extrction_benchmarking_codebase/yolo_to_gt_converter.py")
 REPORT_EVAL_SCRIPT = os.path.join(BASE_DIR, "model_evaluation_codebase/extrction_benchmarking_codebase/report_generator_rupankar_v3.py")
 

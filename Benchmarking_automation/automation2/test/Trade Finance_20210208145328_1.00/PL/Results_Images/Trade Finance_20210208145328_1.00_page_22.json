@@ -1,0 +1,307 @@
+{
+    "Trade Finance_20210208145328_1.00_page_22.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999866485595703
+        },
+        "predicted_class": "PL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "ANJIWEIYU FURNITURE CO.LTD",
+                "coordinate": [
+                    [
+                        804,
+                        273,
+                        1562,
+                        311
+                    ]
+                ],
+                "model_confidence": [
+                    0.99993
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "NO.280, WEST SUNLIGHT ROAD, DIPU TOWN, ANJI COUNTY.ZHEJIANG PROVINCE, CHINA",
+                "coordinate": [
+                    [
+                        505,
+                        339,
+                        1861,
+                        378
+                    ]
+                ],
+                "model_confidence": [
+                    0.999948
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_drawee_applicant_importer_buyer_name": {
+                "value": "UNITED FURNITURE CO L.L.C",
+                "coordinate": [
+                    [
+                        188,
+                        480,
+                        599,
+                        511
+                    ]
+                ],
+                "model_confidence": [
+                    0.999713
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_address": {
+                "value": "PO BOX 7410, DUBAIUAE~FOBSHANGHAICHINA AS PER INCOTERMS2010",
+                "coordinate": [
+                    [
+                        175,
+                        529,
+                        529,
+                        560
+                    ],
+                    [
+                        470,
+                        1321,
+                        869,
+                        1384
+                    ]
+                ],
+                "model_confidence": [
+                    0.99938,
+                    0.950064
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "WY126082-1",
+                "coordinate": [
+                    [
+                        1968,
+                        522,
+                        2282,
+                        564
+                    ]
+                ],
+                "model_confidence": [
+                    0.999787
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "22-JAN-21",
+                "coordinate": [
+                    [
+                        1965,
+                        613,
+                        2099,
+                        651
+                    ]
+                ],
+                "model_confidence": [
+                    0.999803
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "NUMBER:TF2019500005~TF2019500005",
+                "coordinate": [
+                    [
+                        510,
+                        1930,
+                        826,
+                        1955
+                    ],
+                    [
+                        1968,
+                        658,
+                        2159,
+                        683
+                    ]
+                ],
+                "model_confidence": [
+                    0.997704,
+                    0.997038
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_name": {
+                "value": "V./V.:CONTI CORDOBA",
+                "coordinate": [
+                    [
+                        1611,
+                        749,
+                        1906,
+                        777
+                    ]
+                ],
+                "model_confidence": [
+                    0.997394
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_flight_no": {
+                "value": "2127W",
+                "coordinate": [
+                    [
+                        1916,
+                        749,
+                        2005,
+                        770
+                    ]
+                ],
+                "model_confidence": [
+                    0.995684
+                ],
+                "ocr_confidence": []
+            },
+            "declaration": {
+                "value": "ANJI WEIYU FURNITURE CO., LTD",
+                "coordinate": [
+                    [
+                        1381,
+                        2470,
+                        2146,
+                        2529
+                    ]
+                ],
+                "model_confidence": [
+                    0.999345
+                ],
+                "ocr_confidence": []
+            },
+            "description_of_goods": {
+                "value": "FURNITURE",
+                "coordinate": [
+                    [
+                        472,
+                        1212,
+                        621,
+                        1233
+                    ]
+                ],
+                "model_confidence": [
+                    0.998635
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1769.84,
+                        2602.93,
+                        2194.1,
+                        2797.02
+                    ]
+                ],
+                "model_confidence": [
+                    0.834
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_country": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        505,
+                        339,
+                        1861,
+                        378
+                    ]
+                ],
+                "model_confidence": [
+                    0.999948
+                ],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "awb_number": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin_no": {},
+            "bill_of_lading_date": {},
+            "bill_of_lading_number": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "consignee_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "consignor_name": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "country_of_final_destination": {},
+            "country_of_final_destination_place": {},
+            "country_of_final_destination_country": {},
+            "country_of_origin_origin_of_goods": {},
+            "dimension": {},
+            "gross_weight": {},
+            "incoterm": {},
+            "invoice_amount": {},
+            "invoice_currency": {},
+            "lc_date": {},
+            "net_weight": {},
+            "notify_party_address": {},
+            "notify_party_name": {},
+            "original_copy": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "payment_terms_terms_of_delivery_payment": {},
+            "port_of_discharge": {},
+            "port_of_discharge_country": {},
+            "port_of_discharge_place": {},
+            "port_of_loading": {},
+            "pre_carriage_by": {},
+            "rate_per_unit": {},
+            "remitter_country": {},
+            "total_quantity_of_goods": {},
+            "track_reference": {},
+            "transaction_amount_value": {},
+            "transaction_currency": {},
+            "transaction_date": {},
+            "signature": {},
+            "stamp": {},
+            "total_pages": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1769.84,
+                        2602.93,
+                        2194.1,
+                        2797.02
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.834
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

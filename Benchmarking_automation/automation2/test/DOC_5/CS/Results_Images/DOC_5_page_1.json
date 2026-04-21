@@ -1,0 +1,427 @@
+{
+    "DOC_5_page_1.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 180,
+            "model_score": 0.999971866607666
+        },
+        "predicted_class": "CS",
+        "confidence": "0.9672759771347046",
+        "extraction_result": {
+            "drawee_bank_name": {
+                "value": "BANK OF CHINA~ARAB BANK FOR INVESTMENT AND FOREIGN TRADE MASRAF,",
+                "coordinate": [
+                    [
+                        312,
+                        171,
+                        592,
+                        196
+                    ],
+                    [
+                        1244,
+                        620,
+                        1941,
+                        690
+                    ]
+                ],
+                "model_confidence": [
+                    0.917117,
+                    0.954268
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_address": {
+                "value": "ZHEJIANG~NEW YORK",
+                "coordinate": [
+                    [
+                        629,
+                        168,
+                        815,
+                        196
+                    ],
+                    [
+                        1281,
+                        1823,
+                        1452,
+                        1848
+                    ]
+                ],
+                "model_confidence": [
+                    0.681832,
+                    0.998988
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "BANK FOR INVESTMENT AND FOREIGN TRADE ABU DHABI ANGZHOU HISAZUMI CO.,LTD~BRANCH~J.P.MORGAN CHASE BANK",
+                "coordinate": [
+                    [
+                        530,
+                        1027,
+                        1509,
+                        1094
+                    ],
+                    [
+                        832,
+                        168,
+                        991,
+                        196
+                    ],
+                    [
+                        867,
+                        1820,
+                        1274,
+                        1848
+                    ]
+                ],
+                "model_confidence": [
+                    0.68742,
+                    0.388239,
+                    0.999004
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "30/04/2021",
+                "coordinate": [
+                    [
+                        1985,
+                        336,
+                        2136,
+                        364
+                    ]
+                ],
+                "model_confidence": [
+                    0.999102
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "AUTHORIZED SIGNATURE(S)\u2014 UP A01966~YOURS FAITHFULLY,",
+                "coordinate": [
+                    [
+                        1507,
+                        2496,
+                        2052,
+                        2612
+                    ],
+                    [
+                        1512,
+                        2118,
+                        1725,
+                        2149
+                    ]
+                ],
+                "model_confidence": [
+                    0.923981,
+                    0.753654
+                ],
+                "ocr_confidence": []
+            },
+            "diclaration_by": {
+                "value": "FOR BANK OF CHINA LIMITED FOR BANK OF CHINA ZHEJIANG",
+                "coordinate": [
+                    [
+                        1415,
+                        2230,
+                        1980,
+                        2405
+                    ]
+                ],
+                "model_confidence": [
+                    0.98129
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_address": {
+                "value": "PO BOX 2484, AL MASRAF TOWER, SH HAMDAN STREET, ABU DHABI, UAE",
+                "coordinate": [
+                    [
+                        1241,
+                        659,
+                        1918,
+                        757
+                    ]
+                ],
+                "model_confidence": [
+                    0.99975
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "F2102700010",
+                "coordinate": [
+                    [
+                        530,
+                        992,
+                        708,
+                        1020
+                    ]
+                ],
+                "model_confidence": [
+                    0.999198
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "HOLDINGS",
+                "coordinate": [
+                    [
+                        867,
+                        1066,
+                        1028,
+                        1090
+                    ]
+                ],
+                "model_confidence": [
+                    0.476666
+                ],
+                "ocr_confidence": []
+            },
+            "tenore_details": {
+                "value": "SIGHT",
+                "coordinate": [
+                    [
+                        609,
+                        1248,
+                        718,
+                        1280
+                    ]
+                ],
+                "model_confidence": [
+                    0.999302
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {
+                "value": "USD",
+                "coordinate": [
+                    [
+                        1643,
+                        1185,
+                        1708,
+                        1220
+                    ]
+                ],
+                "model_confidence": [
+                    0.998971
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "16,684.60 16,684.60",
+                "coordinate": [
+                    [
+                        1715,
+                        1423,
+                        1841,
+                        1574
+                    ]
+                ],
+                "model_confidence": [
+                    0.99019
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        585.64,
+                        874.9,
+                        966.67,
+                        1032.33
+                    ]
+                ],
+                "model_confidence": [
+                    0.839
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_country": {
+                "value": "SH AL",
+                "coordinate": [
+                    [
+                        1241,
+                        659,
+                        1918,
+                        757
+                    ]
+                ],
+                "model_confidence": [
+                    0.99975
+                ],
+                "ocr_confidence": []
+            },
+            "document_enclosed": {
+                "draft_document": {
+                    "original": "2",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "commercial_invoice_document": {
+                    "original": ". 5",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "packing_list_document": {
+                    "original": "5",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "bill_of_ladding_document": {
+                    "original": "3",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": "3",
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "certificate_of_origin_document": {
+                    "original": "3",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "beneficiary_certificate": {
+                    "original": "1~+~1",
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "certificate_of_weight_document": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                }
+            },
+            "csh_presentation_date": {},
+            "csh_ref_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "csh_bill_currency": {},
+            "csh_bill_amount": {},
+            "csh_due_date": {},
+            "csh_drawn_under_rules": {},
+            "csh_drawn_under_lc_number": {},
+            "tenor_type": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "tenor_indicator_type": {},
+            "tenor_indicator_date": {},
+            "drawer_bank_bic": {},
+            "drawer_bank_country": {},
+            "drawer_name": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "drawer_ref_no": {},
+            "drawee_address": {},
+            "drawee_country": {},
+            "drawee_bank_bic": {},
+            "nostro_bank_name": {},
+            "nostro_bank_bic": {},
+            "nostro_bank_address": {},
+            "nostro_bank_country": {},
+            "doc_delivery_instruction": {},
+            "doc_charge_instructions": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature": {},
+            "stamp": {},
+            "original": {},
+            "total_page": {},
+            "our_charges": {},
+            "your_charges": {},
+            "less_your_charges": {},
+            "plus_our_charges": {},
+            "commissioned_charges": {},
+            "less_commission_charges": {},
+            "swift_charges": {},
+            "postal_charges": {},
+            "other_charges": {},
+            "total_bill_amount": {},
+            "original_number": {},
+            "total_original": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {},
+            "charges": {},
+            "final_destination": {},
+            "advanced_charges": {},
+            "additional_charges": {},
+            "payment_at_sight": {},
+            "payment_before_sight": {},
+            "advance_payment": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        585.64,
+                        874.9,
+                        966.67,
+                        1032.33
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.839
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

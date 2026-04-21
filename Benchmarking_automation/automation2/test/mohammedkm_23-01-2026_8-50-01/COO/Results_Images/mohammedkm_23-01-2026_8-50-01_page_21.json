@@ -1,0 +1,331 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_21.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999817609786987
+        },
+        "predicted_class": "COO",
+        "confidence": 0.9,
+        "extraction_result": {
+            "certificate_no": {
+                "value": "482972",
+                "coordinate": [
+                    [
+                        1669,
+                        143,
+                        1922,
+                        203
+                    ]
+                ],
+                "model_confidence": [
+                    0.989121
+                ],
+                "ocr_confidence": []
+            },
+            "consignor_name": {
+                "value": "THE YOKOHAMA RUBBER CO., LTD",
+                "coordinate": [
+                    [
+                        325,
+                        217,
+                        1027,
+                        252
+                    ]
+                ],
+                "model_confidence": [
+                    0.999876
+                ],
+                "ocr_confidence": []
+            },
+            "consignor_address": {
+                "value": "ON BEHALF OF YOKOHAMA TIRE PHILIPPINES, INC. IE 5 CLARK FREEPORT ZONE, 2023 PHILIPPINES",
+                "coordinate": [
+                    [
+                        325,
+                        277,
+                        1175,
+                        361
+                    ]
+                ],
+                "model_confidence": [
+                    0.999864
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_name": {
+                "value": "NEW EAST GENERAL TRADING FZCO",
+                "coordinate": [
+                    [
+                        322,
+                        526,
+                        932,
+                        554
+                    ]
+                ],
+                "model_confidence": [
+                    0.99987
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_address": {
+                "value": "PLOT 521006, FREE ZONE TRADING STREET, JAFZA SOUTH ZONE 2, JEBELI ALI, DUBAI, UAE",
+                "coordinate": [
+                    [
+                        322,
+                        582,
+                        1089,
+                        666
+                    ]
+                ],
+                "model_confidence": [
+                    0.999916
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_name": {
+                "value": "PHILIPPINE CHAMBER OF COMMERCE AND INDUSTRY",
+                "coordinate": [
+                    [
+                        1282,
+                        420,
+                        2297,
+                        452
+                    ]
+                ],
+                "model_confidence": [
+                    0.999662
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_address": {
+                "value": "3F CIP BUILDING, 1030 CAMPUS AVE. MCKINLEY TOWN CENTER, FORT BONIFACIO, TAGUIG CITY LOC. 114 & 129",
+                "coordinate": [
+                    [
+                        1272,
+                        463,
+                        2302,
+                        526
+                    ]
+                ],
+                "model_confidence": [
+                    0.995781
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_details": {
+                "value": "EVER CHANT 2055-105N",
+                "coordinate": [
+                    [
+                        771,
+                        901,
+                        1168,
+                        929
+                    ]
+                ],
+                "model_confidence": [
+                    0.998718
+                ],
+                "ocr_confidence": []
+            },
+            "to_place": {
+                "value": "JEBEL ALI PORT, UAE",
+                "coordinate": [
+                    [
+                        744,
+                        975,
+                        1089,
+                        1006
+                    ]
+                ],
+                "model_confidence": [
+                    0.999709
+                ],
+                "ocr_confidence": []
+            },
+            "final_destination": {
+                "value": "UNITED ARAB EMIRATES",
+                "coordinate": [
+                    [
+                        751,
+                        1059,
+                        1163,
+                        1098
+                    ]
+                ],
+                "model_confidence": [
+                    0.988802
+                ],
+                "ocr_confidence": []
+            },
+            "country_of_origin_of_goods": {
+                "value": "PHILIPPINES",
+                "coordinate": [
+                    [
+                        868,
+                        1157,
+                        1071,
+                        1185
+                    ]
+                ],
+                "model_confidence": [
+                    0.998006
+                ],
+                "ocr_confidence": []
+            },
+            "issue_date": {
+                "value": "01/07/2025",
+                "coordinate": [
+                    [
+                        1828,
+                        1164,
+                        1942,
+                        1210
+                    ]
+                ],
+                "model_confidence": [
+                    0.599852
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF25343C",
+                "coordinate": [
+                    [
+                        1089,
+                        1775,
+                        1235,
+                        1799
+                    ]
+                ],
+                "model_confidence": [
+                    0.999559
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1696.66,
+                        2138.6,
+                        2144.88,
+                        2308.69
+                    ]
+                ],
+                "model_confidence": [
+                    0.828
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "final_destination_country": {
+                "value": "UNITED ARAB EMIRATES",
+                "coordinate": [
+                    [
+                        751,
+                        1059,
+                        1163,
+                        1098
+                    ]
+                ],
+                "model_confidence": [
+                    0.988802
+                ],
+                "ocr_confidence": []
+            },
+            "consignor_country": {
+                "value": "PHILIPPINES",
+                "coordinate": [
+                    [
+                        325,
+                        277,
+                        1175,
+                        361
+                    ]
+                ],
+                "model_confidence": [
+                    0.999864
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_country": {},
+            "ref_no": {},
+            "consignee_country": {},
+            "means_of_transport": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "from_place": {},
+            "marks_and_no_of_packages": {},
+            "description_of_goods": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "invoice_no": {},
+            "invoice_date": {},
+            "declaration_by_exporter": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "certificate_stamped": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "lc_date": {},
+            "signature": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "declaration_by_certification": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "total_pages": {},
+            "total_original": {},
+            "stamp": {},
+            "expiry_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1696.66,
+                        2138.6,
+                        2144.88,
+                        2308.69
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.828
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

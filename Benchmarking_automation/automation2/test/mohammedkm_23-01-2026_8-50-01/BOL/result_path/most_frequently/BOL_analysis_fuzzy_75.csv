@@ -1,0 +1,178 @@
+File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+mohammedkm_23-01-2026_8-50-01_page_3.png,bill_of_lading_number,060500263293,060500263293,100.0,1,"[49, 2890, 374, 2953]","[46, 2887, 382, 2956]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,bill_of_lading_number,060500263293,21489,3.5518853692906305e-05,0,"[2051, 1960, 2317, 2003]","[1358, 221, 1686, 256]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,bill_of_lading_issue_date,"DEC.23,2025",23/12/2025,57.0,0,"[721, 2964, 992, 3006]","[715, 2966, 994, 3004]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,shipper_name,"THE YOKOHAMA RUBBER CO., LTD","THE YOKOHAMA RUBBER CO., LTD",100.0,1,"[47, 221, 811, 259]","[48, 224, 815, 255]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,shipper_address,21OIWAKEHIRATSUKASHI2548601KANAGAWAJAPAN,21OIWAKEHIRATSUKASHIKANAGAWA2548601JAPAN,82.0,1,"[44, 259, 776, 333]","[44, 260, 757, 328]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,consignee_name,TO THE ORDER OF ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,TO THE ORDER OF ARAB BANK FOR INVESTMENT AND FOREIGN TRADE,100.0,1,"[47, 501, 841, 568]","[44, 502, 845, 573]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,consignee_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,notify_party_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,notify_party_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,carrier_name,EVERGREEN LINE,EVERGREEN LINE,100.0,1,"[89, 3, 1270, 136]","[300, 38, 1275, 118]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,carrier_country,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,pre_carriage_by,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,vessel_name,EVER LOGIC,,0.0,0,[],"[47, 1218, 298, 1254]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,voyage_number,1703082,,0.0,0,[],"[322, 1219, 551, 1253]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,container_number,,45350314068843,0.0,0,"[47, 1596, 811, 1634]","[45, 1599, 342, 1631]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,place_of_receipt,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,port_of_loading,SUBCBAvNESH,,0.0,0,[],"[739, 1216, 1018, 1288]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,port_of_discharge,"ALI,JEBELRTUAE","JEBELALI,RTUAE.",69.0,0,"[37, 1294, 538, 1354]","[46, 1313, 522, 1348]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,final_destination,"JEBELS ALT, PORT UAE","JEBEL ALT, PORT UAE",97.0,1,"[741, 1297, 1257, 1350]","[743, 1316, 1263, 1349]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,shipped_onboard_date,"DEC.23,2025",23/12/2025,57.0,0,"[570, 3051, 865, 3087]","[567, 3052, 868, 3081]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,bol_original_number,THREE (3),,0.0,0,[],"[567, 2886, 789, 2917]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,freight_collect_at,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,freight_collect_or_prepaid,,,100.0,1,[],"[1429, 2886, 1565, 2917]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,place_of_issue,TOKYO,TOKYO,100.0,1,"[570, 2967, 694, 2999]","[569, 2965, 698, 3002]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,signed_by_carrier,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,country_of_origin,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_3.png,goods_description,YOKOHAMA BRAND TYRES,YOKOHAMA BRAND TYRES,100.0,1,"[838, 1676, 1379, 1704]","[837, 1677, 1383, 1709]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,goods_quantity,,38,0.0,0,"[826, 1599, 1056, 1627]","[792, 1595, 1066, 1629]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,gross_weight,6362252KGS,6362252,100.0,1,"[1999, 1522, 2349, 1557]","[1997, 1523, 2353, 1555]"
+mohammedkm_23-01-2026_8-50-01_page_3.png,measurement,601240 CBM,601240 CBM,100.0,1,"[2056, 1487, 2354, 1515]","[2055, 1485, 2356, 1518]"
+mohammedkm_23-01-2026_8-50-01_page_4.png,bill_of_lading_number,060500263293,060500263293,100.0,1,"[1012, 273, 1448, 305]","[1007, 272, 1450, 312]"
+mohammedkm_23-01-2026_8-50-01_page_4.png,bill_of_lading_issue_date,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,shipper_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,shipper_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,consignee_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,consignee_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,notify_party_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,notify_party_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,carrier_name,EVERGREEN LINE,EVERGREEN LINE,100.0,1,"[292, 122, 1262, 210]","[282, 122, 1261, 213]"
+mohammedkm_23-01-2026_8-50-01_page_4.png,carrier_country,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,pre_carriage_by,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,vessel_name,MV EVER LOGIC,1703082W,0.0,0,"[493, 259, 739, 305]","[43, 270, 465, 310]"
+mohammedkm_23-01-2026_8-50-01_page_4.png,voyage_number,1703082,,0.0,0,[],"[491, 272, 740, 310]"
+mohammedkm_23-01-2026_8-50-01_page_4.png,container_number,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,place_of_receipt,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,port_of_loading,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,port_of_discharge,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,final_destination,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,shipped_onboard_date,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,bol_original_number,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,freight_collect_at,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,freight_collect_or_prepaid,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,place_of_issue,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,signed_by_carrier,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,country_of_origin,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,goods_description,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,goods_quantity,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,gross_weight,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_4.png,measurement,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,bill_of_lading_number,060500263293,060500263293,100.0,1,"[49, 2887, 374, 2957]","[46, 2887, 382, 2956]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,bill_of_lading_number,060500263293,,0.0,0,[],"[1359, 224, 1688, 260]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,bill_of_lading_issue_date,DCC 609 6060 ,"2625 DEC.23,",16.0,0,"[721, 2936, 1014, 3009]","[715, 2966, 994, 3004]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,shipper_name,RUBBER CO. THE YOKOHAMA LTD,THE YOKOHAMA RUBBER COLTD,62.0,0,"[37, 206, 813, 256]","[48, 226, 815, 258]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,shipper_address,21OIWAKEHIRATSUKASHIKANAGAWA2548601JAPAN,21OIWAKEHIRATSUKASHIKANAGAWA2548601JAPAN,100.0,1,"[49, 263, 779, 336]","[45, 262, 758, 331]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,consignee_name,TO THE ORDER OF ARAB BANK INVESTMENT AND FOREIGN TRADE,TO ORDER OF ARAB BANK THE FOR INVESTMENT AND FOREIGN TRADE,89.0,1,"[37, 487, 935, 571]","[44, 502, 845, 573]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,consignee_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,notify_party_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,notify_party_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,carrier_name,EVERGREEN LINE,EVERGREEN LINE,100.0,1,"[302, 42, 1272, 122]","[300, 41, 1275, 124]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,carrier_country,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,pre_carriage_by,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,vessel_name,LOGIC EVER,,0.0,0,[],"[47, 1218, 298, 1254]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,voyage_number,1703082,,0.0,0,[],"[322, 1219, 551, 1253]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,container_number,,45350314068843,0.0,0,"[49, 1596, 813, 1634]","[45, 1599, 342, 1631]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,place_of_receipt,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,port_of_loading,BAYSUBCHNES,,0.0,0,[],"[739, 1216, 1018, 1288]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,port_of_discharge,"JEBELALI,RTUAE","JEBELALI,RTUAE",100.0,1,"[37, 1301, 518, 1354]","[46, 1313, 522, 1348]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,final_destination,JEBEL ALTPORT UAE,"JEBEL ALT, PORT UAE",94.0,1,"[744, 1301, 1260, 1354]","[743, 1316, 1263, 1349]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,shipped_onboard_date,"DEC.23,2025",23/12/2025,57.0,0,"[565, 3051, 865, 3090]","[566, 3056, 867, 3085]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,bol_original_number,THREE,,0.0,0,[],"[572, 2890, 794, 2921]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,freight_collect_at,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,freight_collect_or_prepaid,,,100.0,1,[],"[1429, 2886, 1567, 2919]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,place_of_issue,TOK I T V,TOKYO,43.0,0,"[565, 2950, 699, 3002]","[569, 2965, 698, 3002]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,signed_by_carrier,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,country_of_origin,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_5.png,goods_description,YOKOHAMA BRAND TYRES,YOKOHAMA BRAND TYRES,100.0,1,"[838, 1680, 1384, 1708]","[836, 1681, 1381, 1713]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,goods_quantity,,38,0.0,0,"[826, 1599, 1059, 1631]","[792, 1600, 1066, 1633]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,gross_weight,6362252KGS,6362252,100.0,1,"[2004, 1525, 2351, 1561]","[2002, 1526, 2357, 1558]"
+mohammedkm_23-01-2026_8-50-01_page_5.png,measurement,601240 CBM,601240 CBM,100.0,1,"[2056, 1487, 2354, 1518]","[2055, 1487, 2356, 1519]"
+mohammedkm_23-01-2026_8-50-01_page_6.png,bill_of_lading_number,060500263293,060500263293,100.0,1,"[1009, 280, 1446, 308]","[1010, 277, 1452, 317]"
+mohammedkm_23-01-2026_8-50-01_page_6.png,bill_of_lading_issue_date,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,shipper_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,shipper_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,consignee_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,consignee_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,notify_party_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,notify_party_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,carrier_name,EVERGREEN LINE,EVERGREEN LINE,100.0,1,"[287, 133, 1257, 213]","[284, 133, 1262, 214]"
+mohammedkm_23-01-2026_8-50-01_page_6.png,carrier_country,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,pre_carriage_by,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,vessel_name,MV EVER LOGIC,1703082W,0.0,0,"[491, 277, 736, 308]","[45, 275, 467, 315]"
+mohammedkm_23-01-2026_8-50-01_page_6.png,voyage_number,1703082,,0.0,0,[],"[489, 278, 737, 317]"
+mohammedkm_23-01-2026_8-50-01_page_6.png,container_number,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,place_of_receipt,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,port_of_loading,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,port_of_discharge,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,final_destination,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,shipped_onboard_date,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,bol_original_number,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,freight_collect_at,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,freight_collect_or_prepaid,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,place_of_issue,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,signed_by_carrier,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,country_of_origin,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,goods_description,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,goods_quantity,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,gross_weight,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_6.png,measurement,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,bill_of_lading_number,060500263293,060500263293,100.0,1,"[42, 2883, 369, 2953]","[41, 2887, 376, 2956]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,bill_of_lading_number,060500263293,,0.0,0,[],"[1358, 224, 1688, 259]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,bill_of_lading_issue_date,"DEC.23,2025","DEC.23,2625",91.0,1,"[714, 2946, 994, 3009]","[713, 2968, 988, 3002]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,shipper_name,"THE YOKOHAMA RUBBER CO., LTD",ITHE YOKOHAMA RUBBER COLTD,93.0,1,"[34, 206, 813, 252]","[46, 225, 813, 256]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,shipper_address,21OIWAKEHIRATSUKASHI2548601KANAGAWAJAPAN,21OIWAKEHIRATSUKASHIKANAGAWA2548601JAPAN,82.0,1,"[47, 259, 779, 333]","[46, 260, 759, 328]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,consignee_name,TO TRE ORDER OF ARAL BANK INVESTMENT AND FOREIGN TRADE,,0.0,0,[],"[44, 502, 845, 573]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,consignee_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,notify_party_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,notify_party_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,carrier_name,EVERGREEN LINE,EVERGREEN LINE,100.0,1,"[86, 10, 1270, 136]","[300, 43, 1275, 123]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,carrier_country,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,pre_carriage_by,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,vessel_name,EVERLOGIC,,0.0,0,[],"[47, 1218, 298, 1254]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,voyage_number,1703082,,0.0,0,[],"[322, 1219, 551, 1253]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,container_number,,45350314068843,0.0,0,"[44, 1596, 808, 1634]","[45, 1599, 342, 1631]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,place_of_receipt,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,port_of_loading,SUBCBAveHNES,SUBCBACONGHNES,77.0,1,"[741, 1203, 1034, 1287]","[739, 1216, 1018, 1288]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,port_of_discharge,"JEBELALI,RTUAE",,0.0,0,[],"[46, 1313, 522, 1348]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,final_destination,"JEBELS ALT, PORT UAE",,0.0,0,[],"[743, 1316, 1263, 1349]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,shipped_onboard_date,Dec.,23/12/2025,0.0,0,"[563, 3051, 860, 3090]","[564, 3054, 865, 3083]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,bol_original_number,(3) THREE,,0.0,0,[],"[562, 2889, 784, 2920]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,freight_collect_at,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,freight_collect_or_prepaid,,,100.0,1,[],"[1429, 2886, 1565, 2917]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,place_of_issue,TOKYO,TOKYO,100.0,1,"[560, 2946, 694, 3002]","[569, 2965, 698, 3002]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,signed_by_carrier,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,country_of_origin,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_7.png,goods_description,YOKOHAMA BRAND TYRES,YOKOHAMA BRAND TYRES,100.0,1,"[836, 1680, 1379, 1708]","[837, 1677, 1383, 1709]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,goods_quantity,,38,0.0,0,"[821, 1599, 1054, 1627]","[786, 1599, 1061, 1632]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,gross_weight,6362252KGS,6362252,100.0,1,"[1999, 1525, 2347, 1561]","[1997, 1528, 2353, 1559]"
+mohammedkm_23-01-2026_8-50-01_page_7.png,measurement,601240 CBM,601240 CBM,100.0,1,"[2054, 1490, 2351, 1518]","[2053, 1488, 2354, 1521]"
+mohammedkm_23-01-2026_8-50-01_page_8.png,bill_of_lading_number,060500263293,060500263293,100.0,1,"[1009, 273, 1443, 305]","[1007, 272, 1450, 312]"
+mohammedkm_23-01-2026_8-50-01_page_8.png,bill_of_lading_issue_date,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,shipper_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,shipper_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,consignee_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,consignee_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,notify_party_name,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,notify_party_address,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,carrier_name,EVERGREEN LINE,EVERGREEN LINE,100.0,1,"[290, 122, 1257, 206]","[282, 122, 1261, 213]"
+mohammedkm_23-01-2026_8-50-01_page_8.png,carrier_country,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,pre_carriage_by,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,vessel_name,MV EVER LOGIC,1703082W,0.0,0,"[493, 273, 736, 305]","[43, 270, 465, 310]"
+mohammedkm_23-01-2026_8-50-01_page_8.png,voyage_number,1703082,,0.0,0,[],"[491, 272, 740, 310]"
+mohammedkm_23-01-2026_8-50-01_page_8.png,container_number,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,place_of_receipt,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,port_of_loading,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,port_of_discharge,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,final_destination,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,shipped_onboard_date,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,bol_original_number,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,freight_collect_at,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,freight_collect_or_prepaid,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,place_of_issue,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,signed_by_carrier,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,country_of_origin,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,goods_description,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,goods_quantity,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,gross_weight,,,0.0,0,[],
+mohammedkm_23-01-2026_8-50-01_page_8.png,measurement,,,0.0,0,[],

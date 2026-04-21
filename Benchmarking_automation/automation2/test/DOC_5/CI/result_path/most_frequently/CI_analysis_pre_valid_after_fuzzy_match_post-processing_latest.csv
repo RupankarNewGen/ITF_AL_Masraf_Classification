@@ -1,0 +1,44 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,DOC_5_page_3.png,remitter_drawee_applicant_importer_buyer_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,100,1,"[1410, 820, 2057, 848]","[931, 546, 1368, 567]"
+1,DOC_5_page_3.png,remitter_address,POBOX23197SHARJAHUAE,,0,0,[],"[934, 572, 1090, 626]"
+2,DOC_5_page_3.png,remitter_country,,,0,0,[],
+3,DOC_5_page_3.png,cosignee_name,,,0,0,[],
+4,DOC_5_page_3.png,consignee_address,,,0,0,[],
+5,DOC_5_page_3.png,consignee_country,,,0,0,[],
+6,DOC_5_page_3.png,beneficiary_drawer_exporter_seller_supplier_name,"HANGZHOUHISAZUMIHO CO.,LTD. LDINGS",HANGZHOU HISAZUMI HOLDINGS COLTD,73,0,"[758, 259, 1663, 294]","[73, 543, 521, 570]"
+7,DOC_5_page_3.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+8,DOC_5_page_3.png,beneficiary_address,NO780BinkangRoadBinjiangDistrictHangzhouZhejiangChina,NO780BINKANGROADBINJIANGDISTRICTHANGZHOUZHEJIANGCHINA,100,1,"[783, 378, 1655, 413]","[71, 573, 660, 599]"
+9,DOC_5_page_3.png,beneficiary_country,,,0,0,[],
+10,DOC_5_page_3.png,invoice_no,HIS21069,HIS21069,100,1,"[2094, 445, 2238, 473]","[1390, 293, 1491, 320]"
+11,DOC_5_page_3.png,date_of_invoice,"Apr.22,2021",22/04/2021,57,0,"[2077, 704, 2255, 732]","[1375, 467, 1502, 493]"
+12,DOC_5_page_3.png,invoice_currency,USD,USD,100,1,"[2134, 1753, 2206, 1781]","[1410, 1156, 1470, 1189]"
+13,DOC_5_page_3.png,invoice_amount,"16,684.60",,0,0,[],"[1428, 1899, 1534, 1925]"
+14,DOC_5_page_3.png,invoice_amount_in_words,USD SIXTEEN THOUSAND SIX HUNDRED AND EIGHTY-FOUR AND,,0,0,[],"[380, 1942, 1123, 1965]"
+15,DOC_5_page_3.png,invoice_amount_in_words,CENTS SIXTY ONLY,,0,0,[],"[250, 1975, 476, 2003]"
+16,DOC_5_page_3.png,goods_description,HOUSEHOLD ITEMS,HOUSE OLD ITEMS,93,1,"[386, 1588, 718, 1616]","[247, 1051, 475, 1079]"
+17,DOC_5_page_3.png,goods_description,CUSHION RUG,CUSHION,78,1,"[961, 1820, 1118, 1851]","[630, 1733, 744, 1811]"
+18,DOC_5_page_3.png,total_quantity_of_goods,4884,,0,0,[],"[1112, 1898, 1167, 1928]"
+19,DOC_5_page_3.png,rate_per_unit,,,0,0,[],
+20,DOC_5_page_3.png,beneficiary_bank_name,,,0,0,[],
+21,DOC_5_page_3.png,beneficiary_bank_country,,,0,0,[],
+22,DOC_5_page_3.png,beneficiary_account_number,,,0,0,[],
+23,DOC_5_page_3.png,beneficiary_iban_number,,,0,0,[],
+24,DOC_5_page_3.png,beneficiary_bank_identifier,,,0,0,[],
+25,DOC_5_page_3.png,delivery_terms,,,0,0,[],
+26,DOC_5_page_3.png,tenor_type,,,0,0,[],
+27,DOC_5_page_3.png,usance_tenor,,,0,0,[],
+28,DOC_5_page_3.png,tenor_indicator,,,0,0,[],
+29,DOC_5_page_3.png,indicator_type,,,0,0,[],
+30,DOC_5_page_3.png,indicator_date,,,0,0,[],
+31,DOC_5_page_3.png,invoice_due_date,,,0,0,[],
+32,DOC_5_page_3.png,incoterm,,,0,0,[],
+33,DOC_5_page_3.png,country_of_origin_of_goods,,,0,0,[],
+34,DOC_5_page_3.png,port_of_loading,,,0,0,[],
+35,DOC_5_page_3.png,port_of_discharge,,,0,0,[],
+36,DOC_5_page_3.png,country_of_final_destination,,,0,0,[],
+37,DOC_5_page_3.png,vessel_flight_no,,,0,0,[],
+38,DOC_5_page_3.png,bill_of_lading_no,,,0,0,[],
+39,DOC_5_page_3.png,bill_of_lading_date,,,0,0,[],
+40,DOC_5_page_3.png,declaration_by_issuer,HOLDINGS HANGZHOU HISAZUMI COLTD,,0,0,[],"[848, 2050, 1314, 2094]"
+41,DOC_5_page_3.png,lc_ref_no,TF2102700010,TF2102700010,100,1,"[716, 1353, 951, 1392]","[466, 900, 633, 926]"
+42,DOC_5_page_3.png,lc_date,,,0,0,[],

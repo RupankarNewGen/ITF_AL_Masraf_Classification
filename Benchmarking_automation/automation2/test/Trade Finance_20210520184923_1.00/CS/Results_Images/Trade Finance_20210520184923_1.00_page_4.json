@@ -1,0 +1,201 @@
+{
+    "Trade Finance_20210520184923_1.00_page_4.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9987605810165405
+        },
+        "predicted_class": "CS",
+        "confidence": 0.9,
+        "extraction_result": {
+            "drawer_bank_name": {
+                "value": "ALMASRAF",
+                "coordinate": [
+                    [
+                        1802,
+                        390,
+                        2166,
+                        446
+                    ]
+                ],
+                "model_confidence": [
+                    0.99981
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "document_enclosed": {
+                "commercial_invoice_document": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "bill_of_ladding_document": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "certificate_of_origin_document": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "insurance_certificate_document": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "packing_list_document": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "beneficiary_certificate": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                },
+                "inspection_certificate": {
+                    "original": 0,
+                    "copy": 0,
+                    "non_negotiable_copy": 0,
+                    "original_current_version": 0,
+                    "copy_current_version": 0,
+                    "org_set": 0,
+                    "cpy_set": 0
+                }
+            },
+            "csh_presentation_date": {},
+            "csh_ref_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "csh_bill_currency": {},
+            "csh_bill_amount": {},
+            "csh_due_date": {},
+            "csh_drawn_under_rules": {},
+            "csh_drawn_under_lc_number": {},
+            "tenor_type": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "tenor_indicator_type": {},
+            "tenor_indicator_date": {},
+            "drawer_bank_bic": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "drawer_name": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "drawer_ref_no": {},
+            "drawee_name": {},
+            "drawee_address": {},
+            "drawee_country": {},
+            "drawee_bank_name": {},
+            "drawee_bank_bic": {},
+            "drawee_bank_address": {},
+            "drawee_bank_country": {},
+            "nostro_bank_name": {},
+            "nostro_bank_bic": {},
+            "nostro_bank_address": {},
+            "nostro_bank_country": {},
+            "doc_delivery_instruction": {},
+            "doc_charge_instructions": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature": {},
+            "stamp": {},
+            "original": {},
+            "total_page": {},
+            "our_charges": {},
+            "your_charges": {},
+            "less_your_charges": {},
+            "plus_our_charges": {},
+            "commissioned_charges": {},
+            "less_commission_charges": {},
+            "swift_charges": {},
+            "postal_charges": {},
+            "other_charges": {},
+            "total_bill_amount": {},
+            "original_number": {},
+            "total_original": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {},
+            "charges": {},
+            "final_destination": {},
+            "advanced_charges": {},
+            "additional_charges": {},
+            "payment_at_sight": {},
+            "payment_before_sight": {},
+            "advance_payment": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

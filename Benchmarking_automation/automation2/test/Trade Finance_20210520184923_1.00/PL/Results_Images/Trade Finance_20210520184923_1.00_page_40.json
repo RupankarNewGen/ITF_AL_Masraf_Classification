@@ -1,0 +1,307 @@
+{
+    "Trade Finance_20210520184923_1.00_page_40.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999552965164185
+        },
+        "predicted_class": "PL",
+        "confidence": 0.9,
+        "extraction_result": {
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "KUKAHKTRADE CO., LIMITED",
+                "coordinate": [
+                    [
+                        956,
+                        239,
+                        1391,
+                        274
+                    ]
+                ],
+                "model_confidence": [
+                    0.999955
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "RM 1907, 19/F, TOWER 2, GRAND CENTRAL PLAZA 138 SHATIN RURAL, NT, HONGKONG",
+                "coordinate": [
+                    [
+                        749,
+                        284,
+                        1601,
+                        309
+                    ]
+                ],
+                "model_confidence": [
+                    0.999966
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_drawee_applicant_importer_buyer_name": {
+                "value": "PAN EMIRATES HOME FURNISHINGS L.L.C",
+                "coordinate": [
+                    [
+                        249,
+                        408,
+                        761,
+                        446
+                    ]
+                ],
+                "model_confidence": [
+                    0.999698
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_address": {
+                "value": "P.O.BOX 23197, SHARJAH, UAE",
+                "coordinate": [
+                    [
+                        187,
+                        443,
+                        608,
+                        478
+                    ]
+                ],
+                "model_confidence": [
+                    0.986166
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "220JJ61-36056-4",
+                "coordinate": [
+                    [
+                        1863,
+                        425,
+                        2054,
+                        446
+                    ]
+                ],
+                "model_confidence": [
+                    0.999933
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "APR 29,2021 MAY 04,2021",
+                "coordinate": [
+                    [
+                        1861,
+                        541,
+                        1999,
+                        605
+                    ]
+                ],
+                "model_confidence": [
+                    0.999736
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF203450008",
+                "coordinate": [
+                    [
+                        1858,
+                        664,
+                        2014,
+                        682
+                    ]
+                ],
+                "model_confidence": [
+                    0.998034
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_name": {
+                "value": "ARGUS",
+                "coordinate": [
+                    [
+                        1861,
+                        696,
+                        1950,
+                        717
+                    ]
+                ],
+                "model_confidence": [
+                    0.959828
+                ],
+                "ocr_confidence": []
+            },
+            "vessel_flight_no": {
+                "value": "112W OOLU2121664400",
+                "coordinate": [
+                    [
+                        1861,
+                        696,
+                        2069,
+                        752
+                    ]
+                ],
+                "model_confidence": [
+                    0.991968
+                ],
+                "ocr_confidence": []
+            },
+            "description_of_goods": {
+                "value": "FURNITURE",
+                "coordinate": [
+                    [
+                        341,
+                        967,
+                        457,
+                        985
+                    ]
+                ],
+                "model_confidence": [
+                    0.8102
+                ],
+                "ocr_confidence": []
+            },
+            "declaration": {
+                "value": "KOKA HK) TRADE CO.. LIMITED FOR LOGISTICS COMMUNICATION ONLY",
+                "coordinate": [
+                    [
+                        1184,
+                        1336,
+                        1836,
+                        1459
+                    ]
+                ],
+                "model_confidence": [
+                    0.910508
+                ],
+                "ocr_confidence": []
+            },
+            "gross_weight": {
+                "value": "2745",
+                "coordinate": [
+                    [
+                        2034,
+                        1551,
+                        2078,
+                        1565
+                    ]
+                ],
+                "model_confidence": [
+                    0.999824
+                ],
+                "ocr_confidence": []
+            },
+            "net_weight": {
+                "value": "2340",
+                "coordinate": [
+                    [
+                        2118,
+                        1547,
+                        2163,
+                        1565
+                    ]
+                ],
+                "model_confidence": [
+                    0.999779
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1463.83,
+                        1442.78,
+                        1696.01,
+                        1580.21
+                    ]
+                ],
+                "model_confidence": [
+                    0.855
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "awb_number": {},
+            "beneficiary_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin_no": {},
+            "bill_of_lading_date": {},
+            "bill_of_lading_number": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "consignee_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "consignor_name": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "country_of_final_destination": {},
+            "country_of_final_destination_place": {},
+            "country_of_final_destination_country": {},
+            "country_of_origin_origin_of_goods": {},
+            "dimension": {},
+            "incoterm": {},
+            "invoice_amount": {},
+            "invoice_currency": {},
+            "lc_date": {},
+            "notify_party_address": {},
+            "notify_party_name": {},
+            "original_copy": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "payment_terms_terms_of_delivery_payment": {},
+            "port_of_discharge": {},
+            "port_of_discharge_country": {},
+            "port_of_discharge_place": {},
+            "port_of_loading": {},
+            "pre_carriage_by": {},
+            "rate_per_unit": {},
+            "remitter_country": {},
+            "total_quantity_of_goods": {},
+            "track_reference": {},
+            "transaction_amount_value": {},
+            "transaction_currency": {},
+            "transaction_date": {},
+            "signature": {},
+            "stamp": {},
+            "total_pages": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1463.83,
+                        1442.78,
+                        1696.01,
+                        1580.21
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.855
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

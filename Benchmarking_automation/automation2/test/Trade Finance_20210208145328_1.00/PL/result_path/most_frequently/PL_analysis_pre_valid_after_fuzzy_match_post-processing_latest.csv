@@ -1,0 +1,26 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210208145328_1.00_page_22.png,beneficiary_address,NO280WESTSUNLIGHTROADDIPUTOWNANJICOUNTYZHEJIANGPROVINCECHINA,NO280WESTSUNLIGHTROADDIPUTOWNANJICOUNTYZHEJIANGPROVINCECHINA,100,1,"[505, 339, 1861, 378]","[489, 334, 1879, 379]"
+1,Trade Finance_20210208145328_1.00_page_22.png,beneficiary_drawer_exporter_seller_supplier_name,ANJI WEIYU FURNITURE COLTD,ANJIWEIYU FURNITURE COLTD,98,1,"[804, 273, 1562, 311]","[791, 259, 1581, 320]"
+2,Trade Finance_20210208145328_1.00_page_22.png,beneficiary_drawer_exporter_seller_supplier_tin_no,,,0,0,[],
+3,Trade Finance_20210208145328_1.00_page_22.png,consignee_address,POBOX7410DUBALUAETEL043391640FAX04331650,,0,0,[],"[178, 524, 622, 604]"
+4,Trade Finance_20210208145328_1.00_page_22.png,consignee_name,UNITED FURNITURE CO LLC,,0,0,[],"[182, 472, 616, 514]"
+5,Trade Finance_20210208145328_1.00_page_22.png,shipper_name,,,0,0,[],
+6,Trade Finance_20210208145328_1.00_page_22.png,shipper_address,,,0,0,[],
+7,Trade Finance_20210208145328_1.00_page_22.png,country_of_final_destination,,,0,0,[],
+8,Trade Finance_20210208145328_1.00_page_22.png,country_of_origin_origin_of_goods,,,0,0,[],
+9,Trade Finance_20210208145328_1.00_page_22.png,date_of_invoice,22-Jan-21,22-JAN-21,100,1,"[1965, 613, 2099, 651]","[1961, 609, 2105, 646]"
+10,Trade Finance_20210208145328_1.00_page_22.png,declaration,ANJI WEIYU FURNITURE CO. LTD,"ANJI WEIYU FURNITURE CO., LTD",98,1,"[1381, 2470, 2146, 2529]","[1362, 2466, 2170, 2547]"
+11,Trade Finance_20210208145328_1.00_page_22.png,description_of_goods,FURNITURE,FURNITURE,100,1,"[472, 1212, 621, 1233]","[469, 1203, 628, 1241]"
+12,Trade Finance_20210208145328_1.00_page_22.png,gross_weight,612000,,0,0,[],"[1782, 1805, 1917, 1846]"
+13,Trade Finance_20210208145328_1.00_page_22.png,invoice_no,WY1260821,WY1260821,100,1,"[1968, 522, 2282, 564]","[1967, 520, 2147, 556]"
+14,Trade Finance_20210208145328_1.00_page_22.png,net_weight,518400,,0,0,[],"[1976, 1799, 2114, 1852]"
+15,Trade Finance_20210208145328_1.00_page_22.png,original_copy,,,0,0,[],
+16,Trade Finance_20210208145328_1.00_page_22.png,port_of_discharge,,,0,0,[],
+17,Trade Finance_20210208145328_1.00_page_22.png,port_of_loading,,,0,0,[],
+18,Trade Finance_20210208145328_1.00_page_22.png,pre_carriage_by,,,0,0,[],
+19,Trade Finance_20210208145328_1.00_page_22.png,remitter_drawee_applicant_importer_buyer_name,,UNITED FURNITURE CO L.L.C,0,0,"[188, 480, 599, 511]",
+20,Trade Finance_20210208145328_1.00_page_22.png,remitter_address,,"PO BOX 7410, DUBAIUAE~FOBSHANGHAICHINA AS PER INCOTERMS2010",0,0,"[175, 529, 529, 560]",
+21,Trade Finance_20210208145328_1.00_page_22.png,total_quantity_of_goods,720PCS,,0,0,[],"[1469, 1802, 1597, 1846]"
+22,Trade Finance_20210208145328_1.00_page_22.png,track_reference,,,0,0,[],
+23,Trade Finance_20210208145328_1.00_page_22.png,vessel_flight_no,,2127W,0,0,"[1916, 749, 2005, 770]",
+24,Trade Finance_20210208145328_1.00_page_22.png,vessel_name,VVCONTI CORDOBA 2127W,VVCONTI CORDOBA,83,1,"[1611, 749, 1906, 777]","[1599, 742, 2018, 779]"

@@ -1,0 +1,341 @@
+{
+    "Trade Finance_20210520184923_1.00_page_20.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999823570251465
+        },
+        "predicted_class": "CI",
+        "confidence": 0.9,
+        "extraction_result": {
+            "country_of_origin_of_goods": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        222,
+                        1484,
+                        289,
+                        1502
+                    ]
+                ],
+                "model_confidence": [
+                    0.960864
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_amount_in_words": {
+                "value": "NINE THOUSAND SIX HUNDRED AND THIRTY NINE",
+                "coordinate": [
+                    [
+                        465,
+                        1762,
+                        965,
+                        1797
+                    ]
+                ],
+                "model_confidence": [
+                    0.999844
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "NUMBERTF2034500008~TF2034500008",
+                "coordinate": [
+                    [
+                        470,
+                        1874,
+                        705,
+                        1891
+                    ],
+                    [
+                        1814,
+                        547,
+                        1985,
+                        572
+                    ]
+                ],
+                "model_confidence": [
+                    0.99608,
+                    0.996123
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "10/12/2020",
+                "coordinate": [
+                    [
+                        319,
+                        1905,
+                        487,
+                        1923
+                    ]
+                ],
+                "model_confidence": [
+                    0.986932
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_drawee_applicant_importer_buyer_name": {
+                "value": "PAN EMIRATES HOME FL RNISHINGS L.L.C",
+                "coordinate": [
+                    [
+                        230,
+                        421,
+                        737,
+                        442
+                    ]
+                ],
+                "model_confidence": [
+                    0.999866
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_address": {
+                "value": "P.O.BOX 23197, SHARJAH UAE",
+                "coordinate": [
+                    [
+                        222,
+                        452,
+                        727,
+                        473
+                    ]
+                ],
+                "model_confidence": [
+                    0.939341
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "ZHEJIANG KUKA MERLIN FURNITURE CO.,LTD. VIA KUKA(HK)TRADE CO., LIMITED",
+                "coordinate": [
+                    [
+                        579,
+                        235,
+                        1757,
+                        266
+                    ]
+                ],
+                "model_confidence": [
+                    0.999754
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "NO.189, SANFENG ROAD, QIANJIN INDUSTRIAL ZONE, JJANGDONG, HANGZHOU, CHINA RM 1907, 19/F.TOWER 2. GRAND CENTRAL PLAZA138 SHATIN RURAL, NT, HONGKONG",
+                "coordinate": [
+                    [
+                        742,
+                        270,
+                        1594,
+                        319
+                    ]
+                ],
+                "model_confidence": [
+                    0.999807
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "220JJ61-36056-4",
+                "coordinate": [
+                    [
+                        1814,
+                        421,
+                        2005,
+                        442
+                    ]
+                ],
+                "model_confidence": [
+                    0.999867
+                ],
+                "ocr_confidence": []
+            },
+            "tenor_indicator": {
+                "value": "LC AT SIGHT",
+                "coordinate": [
+                    [
+                        1814,
+                        484,
+                        1931,
+                        508
+                    ]
+                ],
+                "model_confidence": [
+                    0.99796
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "29/04/2021",
+                "coordinate": [
+                    [
+                        1814,
+                        515,
+                        1943,
+                        540
+                    ]
+                ],
+                "model_confidence": [
+                    0.998623
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1484.74,
+                        1378.6,
+                        1700.82,
+                        1511.71
+                    ]
+                ],
+                "model_confidence": [
+                    0.794
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_country": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        742,
+                        270,
+                        1594,
+                        319
+                    ]
+                ],
+                "model_confidence": [
+                    0.999807
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "remitter_country": {},
+            "cosignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "notify_party_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "consignor_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "transaction_currency": {},
+            "transaction_amount_value": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "invoice_discount_ccy": {},
+            "invoice_discount_amount": {},
+            "invoice_tax_ccy": {},
+            "invoice_tax_amount": {},
+            "goods_description": {},
+            "total_quantity_of_goods": {},
+            "rate_per_unit": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "dimension": {},
+            "hs_code_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "beneficiary_bank_name": {},
+            "beneficiary_bank_country": {},
+            "beneficiary_account_number": {},
+            "beneficiary_iban_number": {},
+            "beneficiary_bank_identifier": {},
+            "delivery_terms": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "incoterm": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "country_of_final_destination": {},
+            "pre_carriage_by": {},
+            "vessel_flight_no": {},
+            "bill_of_lading_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_date": {},
+            "awb_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "declaration_by_issuer": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature_of_the_issuer": {},
+            "original_or_copy": {},
+            "place_of_receipt": {},
+            "stamp": {},
+            "additional_charges": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1484.74,
+                        1378.6,
+                        1700.82,
+                        1511.71
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.794
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

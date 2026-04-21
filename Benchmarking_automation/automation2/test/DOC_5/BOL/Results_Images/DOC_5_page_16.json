@@ -1,0 +1,384 @@
+{
+    "DOC_5_page_16.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 180,
+            "model_score": 0.9999779462814331
+        },
+        "predicted_class": "BOL",
+        "confidence": "0.913912545889616",
+        "extraction_result": {
+            "lc_ref_no": {
+                "value": "IAT21070",
+                "coordinate": [
+                    [
+                        1018,
+                        2198,
+                        1194,
+                        2223
+                    ]
+                ],
+                "model_confidence": [
+                    0.73746
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "THE PURPOSE OF~11, CONTAINER~CA",
+                "coordinate": [
+                    [
+                        1846,
+                        1771,
+                        2164,
+                        1795
+                    ],
+                    [
+                        1960,
+                        2949,
+                        2176,
+                        3005
+                    ],
+                    [
+                        2208,
+                        2588,
+                        2236,
+                        2616
+                    ]
+                ],
+                "model_confidence": [
+                    0.72705,
+                    0.856512,
+                    0.9718
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "24/04/2021",
+                "coordinate": [
+                    [
+                        1978,
+                        2602,
+                        2270,
+                        2752
+                    ]
+                ],
+                "model_confidence": [
+                    0.92717
+                ],
+                "ocr_confidence": []
+            },
+            "stamp": {
+                "value": "RIER FOR 1 ER(S)/PACKAGE (S) FROM THE PAR TY WHO~55 ), M",
+                "coordinate": [
+                    [
+                        1641,
+                        1767,
+                        2223,
+                        1851
+                    ],
+                    [
+                        1824,
+                        2679,
+                        1980,
+                        2788
+                    ]
+                ],
+                "model_confidence": [
+                    0.809999,
+                    0.996351
+                ],
+                "ocr_confidence": []
+            },
+            "diclaration_by": {
+                "value": "ORIENT OVERSEAS LINE, AS CARRIER~ORIENT OVERSEAS CONTAINER ACTINA) CO., LTD~FOR",
+                "coordinate": [
+                    [
+                        1680,
+                        2977,
+                        1973,
+                        3040
+                    ],
+                    [
+                        1742,
+                        2791,
+                        2193,
+                        2854
+                    ],
+                    [
+                        2260,
+                        2949,
+                        2280,
+                        2966
+                    ]
+                ],
+                "model_confidence": [
+                    0.846133,
+                    0.793111,
+                    0.635531
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_name": {
+                "value": "HANGZHOU HISAZUMI HOLDINGS CO., LTD~ORIENT OVERSEAS CONTAINER LINE",
+                "coordinate": [
+                    [
+                        213,
+                        336,
+                        803,
+                        410
+                    ],
+                    [
+                        428,
+                        129,
+                        1318,
+                        189
+                    ]
+                ],
+                "model_confidence": [
+                    0.930942,
+                    0.954195
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "OFFICE 1601, 16TH FLOOR, THE H HO TEL OFFICE~PO BOX: 23197, SHARJAH UAE~0. 780 BINKANG RD, BINJIANG DISTRICT.HANGZHOU CHINA",
+                "coordinate": [
+                    [
+                        173,
+                        1956,
+                        830,
+                        2016
+                    ],
+                    [
+                        208,
+                        999,
+                        795,
+                        1031
+                    ],
+                    [
+                        213,
+                        427,
+                        852,
+                        547
+                    ]
+                ],
+                "model_confidence": [
+                    0.915858,
+                    0.999758,
+                    0.816348
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_address": {
+                "value": "ZHEJIANG",
+                "coordinate": [
+                    [
+                        651,
+                        476,
+                        865,
+                        512
+                    ]
+                ],
+                "model_confidence": [
+                    0.524323
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_no": {
+                "value": "FSCU8525186~00LU2031787510",
+                "coordinate": [
+                    [
+                        180,
+                        1500,
+                        426,
+                        1525
+                    ],
+                    [
+                        1767,
+                        350,
+                        2084,
+                        378
+                    ]
+                ],
+                "model_confidence": [
+                    0.946373,
+                    0.99109
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+                "coordinate": [
+                    [
+                        210,
+                        638,
+                        872,
+                        708
+                    ]
+                ],
+                "model_confidence": [
+                    0.954256
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "OOCL (UAE) LLC~PAN EMIRATES HOME FURNISHINGS L.L.C",
+                "coordinate": [
+                    [
+                        176,
+                        1928,
+                        500,
+                        1956
+                    ],
+                    [
+                        205,
+                        918,
+                        872,
+                        985
+                    ]
+                ],
+                "model_confidence": [
+                    0.978409,
+                    0.998246
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "2557.300KGS 66.327CBM",
+                "coordinate": [
+                    [
+                        1685,
+                        1655,
+                        2233,
+                        1683
+                    ]
+                ],
+                "model_confidence": [
+                    0.997109
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address_country": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        173,
+                        1956,
+                        830,
+                        2016
+                    ]
+                ],
+                "model_confidence": [
+                    0.9106546666666667
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "bill_of_lading_number": {},
+            "bill_of_lading_issue_date": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "consignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "carrier_name": {},
+            "carrier_country": {},
+            "agent_name": {},
+            "agent_country": {},
+            "pre_carriage_by": {},
+            "vessel_name": {},
+            "voyage_number": {},
+            "container_number": {},
+            "place_of_receipt": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "port_of_discharge_place": {},
+            "port_of_discharge_country": {},
+            "final_destination": {},
+            "final_destination_place": {},
+            "final_destination_country": {},
+            "shipped_onboard_date": {},
+            "bol_original_number": {},
+            "bol_original_or_copy": {},
+            "freight_collect_at": {},
+            "freight_collect_or_prepaid": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "place_of_issue": {},
+            "signed_by_carrier": {},
+            "signed_by_named_agent": {},
+            "lc_ref_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "lc_date": {},
+            "signature": {},
+            "net_weight": {},
+            "gross_weight": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "country_of_origin": {},
+            "goods_description": {},
+            "goods_quantity": {},
+            "dimension": {},
+            "goods_marks_and_nos": {},
+            "mode_of_transport": {},
+            "measurement": {},
+            "master_name": {},
+            "signed_by_master": {},
+            "total_original_no": {},
+            "stamped_vessel_or_cargo_name": {},
+            "charter": {},
+            "stamped_port_of_loading": {},
+            "stamped_onboard_date": {},
+            "carriage_condition": {},
+            "stamped_shipped_onboard_date": {},
+            "shipment_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

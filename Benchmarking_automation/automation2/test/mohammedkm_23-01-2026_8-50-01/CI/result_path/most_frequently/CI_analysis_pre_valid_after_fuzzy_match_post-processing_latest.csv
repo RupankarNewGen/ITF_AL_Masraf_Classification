@@ -1,0 +1,253 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,mohammedkm_23-01-2026_8-50-01_page_9.png,remitter_drawee_applicant_importer_buyer_name,NEW EAST GENERAL TRADING FZCO,,0,0,[],"[69, 503, 678, 546]"
+1,mohammedkm_23-01-2026_8-50-01_page_9.png,remitter_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,,0,0,[],"[71, 551, 791, 686]"
+2,mohammedkm_23-01-2026_8-50-01_page_9.png,remitter_country,,,0,0,[],
+3,mohammedkm_23-01-2026_8-50-01_page_9.png,cosignee_name,,,0,0,[],
+4,mohammedkm_23-01-2026_8-50-01_page_9.png,consignee_address,,,0,0,[],
+5,mohammedkm_23-01-2026_8-50-01_page_9.png,consignee_country,,,0,0,[],
+6,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_drawer_exporter_seller_supplier_name,THE YOKOHAMA RUBBER COLTD,,0,0,[],"[993, 77, 1731, 135]"
+7,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+8,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_address,21OiwakeHiratsukaKanagawa2548601Japan,,0,0,[],"[983, 144, 2050, 206]"
+9,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_country,,,0,0,[],
+10,mohammedkm_23-01-2026_8-50-01_page_9.png,invoice_no,PC9732,,0,0,[],"[1813, 368, 1988, 420]"
+11,mohammedkm_23-01-2026_8-50-01_page_9.png,date_of_invoice,"December 23, 2025",,0,0,[],"[74, 373, 476, 417]"
+12,mohammedkm_23-01-2026_8-50-01_page_9.png,invoice_currency,USD,,0,0,[],"[2003, 2109, 2066, 2156]"
+13,mohammedkm_23-01-2026_8-50-01_page_9.png,invoice_amount,107.60,,0,0,[],"[2066, 2114, 2248, 2154]"
+14,mohammedkm_23-01-2026_8-50-01_page_9.png,invoice_amount_in_words,,,0,0,[],
+15,mohammedkm_23-01-2026_8-50-01_page_9.png,goods_description,YOKOHAMA BRAND TYRES,,0,0,[],"[28, 1657, 462, 1705]"
+16,mohammedkm_23-01-2026_8-50-01_page_9.png,total_quantity_of_goods,388PCS,,0,0,[],"[1212, 2111, 1364, 2154]"
+17,mohammedkm_23-01-2026_8-50-01_page_9.png,rate_per_unit,,,0,0,[],
+18,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_bank_name,,,0,0,[],
+19,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_bank_country,,,0,0,[],
+20,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_account_number,,,0,0,[],
+21,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_iban_number,,,0,0,[],
+22,mohammedkm_23-01-2026_8-50-01_page_9.png,beneficiary_bank_identifier,,,0,0,[],
+23,mohammedkm_23-01-2026_8-50-01_page_9.png,delivery_terms,LC AT 120 DAYS AFTER BILL OF LADING DATE,,0,0,[],"[1213, 1352, 2063, 1393]"
+24,mohammedkm_23-01-2026_8-50-01_page_9.png,tenor_type,,,0,0,[],
+25,mohammedkm_23-01-2026_8-50-01_page_9.png,usance_tenor,,,0,0,[],
+26,mohammedkm_23-01-2026_8-50-01_page_9.png,tenor_indicator,,,0,0,[],
+27,mohammedkm_23-01-2026_8-50-01_page_9.png,indicator_type,,,0,0,[],
+28,mohammedkm_23-01-2026_8-50-01_page_9.png,indicator_date,,,0,0,[],
+29,mohammedkm_23-01-2026_8-50-01_page_9.png,invoice_due_date,,,0,0,[],
+30,mohammedkm_23-01-2026_8-50-01_page_9.png,incoterm,CIF,,0,0,[],"[1353, 1559, 2226, 1612]"
+31,mohammedkm_23-01-2026_8-50-01_page_9.png,country_of_origin_of_goods,,,0,0,[],
+32,mohammedkm_23-01-2026_8-50-01_page_9.png,port_of_loading,,,0,0,[],
+33,mohammedkm_23-01-2026_8-50-01_page_9.png,port_of_discharge,,,0,0,[],
+34,mohammedkm_23-01-2026_8-50-01_page_9.png,country_of_final_destination,,,0,0,[],
+35,mohammedkm_23-01-2026_8-50-01_page_9.png,vessel_flight_no,2055105N,,0,0,[],"[339, 1084, 530, 1129]"
+36,mohammedkm_23-01-2026_8-50-01_page_9.png,bill_of_lading_no,,,0,0,[],
+37,mohammedkm_23-01-2026_8-50-01_page_9.png,bill_of_lading_date,,,0,0,[],
+38,mohammedkm_23-01-2026_8-50-01_page_9.png,declaration_by_issuer,"The Yokohama Rubber Co., Ltd",,0,0,[],"[1612, 2908, 2219, 2959]"
+39,mohammedkm_23-01-2026_8-50-01_page_9.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1223, 1269, 1463, 1301]","[1213, 1257, 1481, 1306]"
+40,mohammedkm_23-01-2026_8-50-01_page_9.png,lc_date,,,0,0,[],
+41,mohammedkm_23-01-2026_8-50-01_page_9.png,vessel_name,EVER CHANT,,0,0,[],"[77, 1081, 287, 1129]"
+42,mohammedkm_23-01-2026_8-50-01_page_10.png,remitter_drawee_applicant_importer_buyer_name,NEW EAST GENERAL TRADING FZCO,,0,0,[],"[69, 496, 678, 540]"
+43,mohammedkm_23-01-2026_8-50-01_page_10.png,remitter_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,,0,0,[],"[71, 546, 791, 681]"
+44,mohammedkm_23-01-2026_8-50-01_page_10.png,remitter_country,,,0,0,[],
+45,mohammedkm_23-01-2026_8-50-01_page_10.png,cosignee_name,,,0,0,[],
+46,mohammedkm_23-01-2026_8-50-01_page_10.png,consignee_address,,,0,0,[],
+47,mohammedkm_23-01-2026_8-50-01_page_10.png,consignee_country,,,0,0,[],
+48,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_drawer_exporter_seller_supplier_name,THE YOKOHAMA RUBBER COLTD,,0,0,[],"[1002, 73, 1739, 132]"
+49,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+50,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_address,21OiwakeHiratsukaKanagawa2548601Japan,,0,0,[],"[993, 134, 2060, 208]"
+51,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_country,,,0,0,[],
+52,mohammedkm_23-01-2026_8-50-01_page_10.png,invoice_no,PC9732,,0,0,[],"[1813, 368, 1988, 420]"
+53,mohammedkm_23-01-2026_8-50-01_page_10.png,date_of_invoice,"December 23, 2025",,0,0,[],"[80, 364, 481, 407]"
+54,mohammedkm_23-01-2026_8-50-01_page_10.png,invoice_currency,USD,,0,0,[],"[2010, 2109, 2073, 2156]"
+55,mohammedkm_23-01-2026_8-50-01_page_10.png,invoice_amount,107.60,,0,0,[],"[2074, 2112, 2257, 2152]"
+56,mohammedkm_23-01-2026_8-50-01_page_10.png,invoice_amount_in_words,,,0,0,[],
+57,mohammedkm_23-01-2026_8-50-01_page_10.png,goods_description,YOKOHAMA BRAND TYRES,,0,0,[],"[28, 1657, 462, 1705]"
+58,mohammedkm_23-01-2026_8-50-01_page_10.png,total_quantity_of_goods,388PCS,,0,0,[],"[1216, 2105, 1367, 2148]"
+59,mohammedkm_23-01-2026_8-50-01_page_10.png,rate_per_unit,,,0,0,[],
+60,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_bank_name,,,0,0,[],
+61,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_bank_country,,,0,0,[],
+62,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_account_number,,,0,0,[],
+63,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_iban_number,,,0,0,[],
+64,mohammedkm_23-01-2026_8-50-01_page_10.png,beneficiary_bank_identifier,,,0,0,[],
+65,mohammedkm_23-01-2026_8-50-01_page_10.png,delivery_terms,LC AT 120 DAYS AFTER BILL OF LADING DATE,,0,0,[],"[1213, 1352, 2063, 1393]"
+66,mohammedkm_23-01-2026_8-50-01_page_10.png,tenor_type,,,0,0,[],
+67,mohammedkm_23-01-2026_8-50-01_page_10.png,usance_tenor,,,0,0,[],
+68,mohammedkm_23-01-2026_8-50-01_page_10.png,tenor_indicator,,,0,0,[],
+69,mohammedkm_23-01-2026_8-50-01_page_10.png,indicator_type,,,0,0,[],
+70,mohammedkm_23-01-2026_8-50-01_page_10.png,indicator_date,,,0,0,[],
+71,mohammedkm_23-01-2026_8-50-01_page_10.png,invoice_due_date,,,0,0,[],
+72,mohammedkm_23-01-2026_8-50-01_page_10.png,incoterm,GIF JEBEL ALI PORT IN UNITED ARAB EMIRATES,,0,0,[],"[1353, 1559, 2226, 1612]"
+73,mohammedkm_23-01-2026_8-50-01_page_10.png,country_of_origin_of_goods,,,0,0,[],
+74,mohammedkm_23-01-2026_8-50-01_page_10.png,port_of_loading,,,0,0,[],
+75,mohammedkm_23-01-2026_8-50-01_page_10.png,port_of_discharge,,,0,0,[],
+76,mohammedkm_23-01-2026_8-50-01_page_10.png,country_of_final_destination,,,0,0,[],
+77,mohammedkm_23-01-2026_8-50-01_page_10.png,vessel_flight_no,2055105N,,0,0,[],"[347, 1080, 537, 1125]"
+78,mohammedkm_23-01-2026_8-50-01_page_10.png,bill_of_lading_no,,,0,0,[],
+79,mohammedkm_23-01-2026_8-50-01_page_10.png,bill_of_lading_date,,,0,0,[],
+80,mohammedkm_23-01-2026_8-50-01_page_10.png,declaration_by_issuer,"The Yokohama Rubber Co., Ltd",,0,0,[],"[1612, 2908, 2219, 2959]"
+81,mohammedkm_23-01-2026_8-50-01_page_10.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1228, 1266, 1468, 1297]","[1213, 1257, 1481, 1306]"
+82,mohammedkm_23-01-2026_8-50-01_page_10.png,lc_date,,23/12/2025,0,0,"[1228, 1087, 1488, 1122]",
+83,mohammedkm_23-01-2026_8-50-01_page_10.png,vessel_name,EVER CHANT,,0,0,[],"[78, 1075, 288, 1123]"
+84,mohammedkm_23-01-2026_8-50-01_page_11.png,remitter_drawee_applicant_importer_buyer_name,NEW EAST GENERAL TRADING FZCO,,0,0,[],"[72, 503, 682, 546]"
+85,mohammedkm_23-01-2026_8-50-01_page_11.png,remitter_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,,0,0,[],"[71, 546, 791, 681]"
+86,mohammedkm_23-01-2026_8-50-01_page_11.png,remitter_country,,,0,0,[],
+87,mohammedkm_23-01-2026_8-50-01_page_11.png,cosignee_name,,,0,0,[],
+88,mohammedkm_23-01-2026_8-50-01_page_11.png,consignee_address,,,0,0,[],
+89,mohammedkm_23-01-2026_8-50-01_page_11.png,consignee_country,,,0,0,[],
+90,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_drawer_exporter_seller_supplier_name,THE YOKOHAMA RUBBER COLTD,,0,0,[],"[1002, 73, 1739, 132]"
+91,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+92,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_address,21OiwakeHiratsukaKanagawa2548601Japan,,0,0,[],"[993, 134, 2060, 208]"
+93,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_country,,,0,0,[],
+94,mohammedkm_23-01-2026_8-50-01_page_11.png,invoice_no,PC9732,,0,0,[],"[1813, 377, 1988, 429]"
+95,mohammedkm_23-01-2026_8-50-01_page_11.png,date_of_invoice,"December 23, 2025",,0,0,[],"[80, 368, 481, 412]"
+96,mohammedkm_23-01-2026_8-50-01_page_11.png,invoice_currency,USD,,0,0,[],"[1999, 2115, 2062, 2162]"
+97,mohammedkm_23-01-2026_8-50-01_page_11.png,invoice_amount,107.60,,0,0,[],"[2064, 2121, 2246, 2161]"
+98,mohammedkm_23-01-2026_8-50-01_page_11.png,invoice_amount_in_words,,,0,0,[],
+99,mohammedkm_23-01-2026_8-50-01_page_11.png,goods_description,YOKOHAMA BRAND TYRES,,0,0,[],"[28, 1657, 462, 1705]"
+100,mohammedkm_23-01-2026_8-50-01_page_11.png,total_quantity_of_goods,388PCS,,0,0,[],"[1208, 2111, 1360, 2155]"
+101,mohammedkm_23-01-2026_8-50-01_page_11.png,rate_per_unit,,,0,0,[],
+102,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_bank_name,,,0,0,[],
+103,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_bank_country,,,0,0,[],
+104,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_account_number,,,0,0,[],
+105,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_iban_number,,,0,0,[],
+106,mohammedkm_23-01-2026_8-50-01_page_11.png,beneficiary_bank_identifier,,,0,0,[],
+107,mohammedkm_23-01-2026_8-50-01_page_11.png,delivery_terms,LC AT 120 DAYS AFTER BILL OF LADING DATE,,0,0,[],"[1217, 1359, 2066, 1400]"
+108,mohammedkm_23-01-2026_8-50-01_page_11.png,tenor_type,,,0,0,[],
+109,mohammedkm_23-01-2026_8-50-01_page_11.png,usance_tenor,,,0,0,[],
+110,mohammedkm_23-01-2026_8-50-01_page_11.png,tenor_indicator,,,0,0,[],
+111,mohammedkm_23-01-2026_8-50-01_page_11.png,indicator_type,,,0,0,[],
+112,mohammedkm_23-01-2026_8-50-01_page_11.png,indicator_date,,,0,0,[],
+113,mohammedkm_23-01-2026_8-50-01_page_11.png,invoice_due_date,,,0,0,[],
+114,mohammedkm_23-01-2026_8-50-01_page_11.png,incoterm,CIF,,0,0,[],"[1352, 1568, 2225, 1621]"
+115,mohammedkm_23-01-2026_8-50-01_page_11.png,country_of_origin_of_goods,,,0,0,[],
+116,mohammedkm_23-01-2026_8-50-01_page_11.png,port_of_loading,,,0,0,[],
+117,mohammedkm_23-01-2026_8-50-01_page_11.png,port_of_discharge,,,0,0,[],
+118,mohammedkm_23-01-2026_8-50-01_page_11.png,country_of_final_destination,,,0,0,[],
+119,mohammedkm_23-01-2026_8-50-01_page_11.png,vessel_flight_no,2055105N,,0,0,[],"[339, 1083, 530, 1129]"
+120,mohammedkm_23-01-2026_8-50-01_page_11.png,bill_of_lading_no,,,0,0,[],
+121,mohammedkm_23-01-2026_8-50-01_page_11.png,bill_of_lading_date,,,0,0,[],
+122,mohammedkm_23-01-2026_8-50-01_page_11.png,declaration_by_issuer,"The Yokohama Rubber Co., Ltd",,0,0,[],"[1606, 2915, 2212, 2965]"
+123,mohammedkm_23-01-2026_8-50-01_page_11.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1223, 1269, 1461, 1304]","[1217, 1262, 1485, 1312]"
+124,mohammedkm_23-01-2026_8-50-01_page_11.png,lc_date,,,0,0,[],
+125,mohammedkm_23-01-2026_8-50-01_page_11.png,vessel_name,EVER CHANT,,0,0,[],"[71, 1080, 282, 1128]"
+126,mohammedkm_23-01-2026_8-50-01_page_12.png,remitter_drawee_applicant_importer_buyer_name,NEW EAST GENERAL TRADING FZCO,,0,0,[],"[71, 524, 680, 567]"
+127,mohammedkm_23-01-2026_8-50-01_page_12.png,remitter_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,,0,0,[],"[69, 566, 790, 700]"
+128,mohammedkm_23-01-2026_8-50-01_page_12.png,remitter_country,,,0,0,[],
+129,mohammedkm_23-01-2026_8-50-01_page_12.png,cosignee_name,,,0,0,[],
+130,mohammedkm_23-01-2026_8-50-01_page_12.png,consignee_address,,,0,0,[],
+131,mohammedkm_23-01-2026_8-50-01_page_12.png,consignee_country,,,0,0,[],
+132,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_drawer_exporter_seller_supplier_name,THE YOKOHAMA RUBBER COLTD,,0,0,[],"[991, 99, 1728, 158]"
+133,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+134,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_address,2548601Japan21OiwakeHiratsukaKanagawa,,0,0,[],"[993, 164, 2049, 225]"
+135,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_country,,,0,0,[],
+136,mohammedkm_23-01-2026_8-50-01_page_12.png,invoice_no,PG9732,,0,0,[],"[1809, 393, 1985, 445]"
+137,mohammedkm_23-01-2026_8-50-01_page_12.png,date_of_invoice,December 23. 2025,,0,0,[],"[76, 390, 478, 433]"
+138,mohammedkm_23-01-2026_8-50-01_page_12.png,invoice_currency,USD,,0,0,[],"[1999, 2130, 2062, 2178]"
+139,mohammedkm_23-01-2026_8-50-01_page_12.png,invoice_amount,107.60,,0,0,[],"[2064, 2135, 2246, 2175]"
+140,mohammedkm_23-01-2026_8-50-01_page_12.png,invoice_amount_in_words,,,0,0,[],
+141,mohammedkm_23-01-2026_8-50-01_page_12.png,goods_description,YOKOHAMA BRAND TYRES,,0,0,[],"[32, 1683, 448, 1730]"
+142,mohammedkm_23-01-2026_8-50-01_page_12.png,total_quantity_of_goods,388PCS,,0,0,[],"[1203, 2135, 1354, 2179]"
+143,mohammedkm_23-01-2026_8-50-01_page_12.png,rate_per_unit,,,0,0,[],
+144,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_bank_name,,,0,0,[],
+145,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_bank_country,,,0,0,[],
+146,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_account_number,,,0,0,[],
+147,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_iban_number,,,0,0,[],
+148,mohammedkm_23-01-2026_8-50-01_page_12.png,beneficiary_bank_identifier,,,0,0,[],
+149,mohammedkm_23-01-2026_8-50-01_page_12.png,delivery_terms,LC AT 120 DAYS AFTER BILL OF LADING DATE,,0,0,[],"[1213, 1375, 2031, 1416]"
+150,mohammedkm_23-01-2026_8-50-01_page_12.png,tenor_type,,,0,0,[],
+151,mohammedkm_23-01-2026_8-50-01_page_12.png,usance_tenor,,,0,0,[],
+152,mohammedkm_23-01-2026_8-50-01_page_12.png,tenor_indicator,,,0,0,[],
+153,mohammedkm_23-01-2026_8-50-01_page_12.png,indicator_type,,,0,0,[],
+154,mohammedkm_23-01-2026_8-50-01_page_12.png,indicator_date,,,0,0,[],
+155,mohammedkm_23-01-2026_8-50-01_page_12.png,invoice_due_date,,,0,0,[],
+156,mohammedkm_23-01-2026_8-50-01_page_12.png,incoterm,CIF,,0,0,[],"[1357, 1588, 2230, 1641]"
+157,mohammedkm_23-01-2026_8-50-01_page_12.png,country_of_origin_of_goods,,,0,0,[],
+158,mohammedkm_23-01-2026_8-50-01_page_12.png,port_of_loading,,,0,0,[],
+159,mohammedkm_23-01-2026_8-50-01_page_12.png,port_of_discharge,,,0,0,[],
+160,mohammedkm_23-01-2026_8-50-01_page_12.png,country_of_final_destination,,,0,0,[],
+161,mohammedkm_23-01-2026_8-50-01_page_12.png,vessel_flight_no,2055105N,,0,0,[],"[334, 1105, 525, 1150]"
+162,mohammedkm_23-01-2026_8-50-01_page_12.png,bill_of_lading_no,,,0,0,[],
+163,mohammedkm_23-01-2026_8-50-01_page_12.png,bill_of_lading_date,,,0,0,[],
+164,mohammedkm_23-01-2026_8-50-01_page_12.png,declaration_by_issuer,"The Yokohama Rubber Co., Ltd",,0,0,[],"[1613, 2931, 2219, 2982]"
+165,mohammedkm_23-01-2026_8-50-01_page_12.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1220, 1290, 1458, 1322]","[1213, 1284, 1466, 1327]"
+166,mohammedkm_23-01-2026_8-50-01_page_12.png,lc_date,,,0,0,[],
+167,mohammedkm_23-01-2026_8-50-01_page_12.png,vessel_name,EVER CHANT,,0,0,[],"[70, 1104, 280, 1152]"
+168,mohammedkm_23-01-2026_8-50-01_page_13.png,remitter_drawee_applicant_importer_buyer_name,NEW EAST GENERAL TRADING FZCO,,0,0,[],"[71, 524, 680, 567]"
+169,mohammedkm_23-01-2026_8-50-01_page_13.png,remitter_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,,0,0,[],"[69, 566, 790, 700]"
+170,mohammedkm_23-01-2026_8-50-01_page_13.png,remitter_country,,,0,0,[],
+171,mohammedkm_23-01-2026_8-50-01_page_13.png,cosignee_name,,,0,0,[],
+172,mohammedkm_23-01-2026_8-50-01_page_13.png,consignee_address,,,0,0,[],
+173,mohammedkm_23-01-2026_8-50-01_page_13.png,consignee_country,,,0,0,[],
+174,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_drawer_exporter_seller_supplier_name,YOKOHAMA RUBBER COLTD,,0,0,[],"[991, 99, 1728, 158]"
+175,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+176,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_address,HiratsukaKanagawa2548601Japan21Oiwake,,0,0,[],"[982, 168, 2038, 229]"
+177,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_country,,,0,0,[],
+178,mohammedkm_23-01-2026_8-50-01_page_13.png,invoice_no,PC9732,,0,0,[],"[1799, 393, 1974, 445]"
+179,mohammedkm_23-01-2026_8-50-01_page_13.png,date_of_invoice,"December 23, 2025",,0,0,[],"[76, 390, 478, 433]"
+180,mohammedkm_23-01-2026_8-50-01_page_13.png,invoice_currency,USD,,0,0,[],"[1999, 2130, 2062, 2178]"
+181,mohammedkm_23-01-2026_8-50-01_page_13.png,invoice_amount,107.60,,0,0,[],"[2064, 2135, 2246, 2175]"
+182,mohammedkm_23-01-2026_8-50-01_page_13.png,invoice_amount_in_words,,,0,0,[],
+183,mohammedkm_23-01-2026_8-50-01_page_13.png,goods_description,YOKOHAMA BRAND TYRES,,0,0,[],"[32, 1683, 448, 1730]"
+184,mohammedkm_23-01-2026_8-50-01_page_13.png,total_quantity_of_goods,388PCS,,0,0,[],"[1203, 2135, 1354, 2179]"
+185,mohammedkm_23-01-2026_8-50-01_page_13.png,rate_per_unit,,,0,0,[],
+186,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_bank_name,,,0,0,[],
+187,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_bank_country,,,0,0,[],
+188,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_account_number,,,0,0,[],
+189,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_iban_number,,,0,0,[],
+190,mohammedkm_23-01-2026_8-50-01_page_13.png,beneficiary_bank_identifier,,,0,0,[],
+191,mohammedkm_23-01-2026_8-50-01_page_13.png,delivery_terms,LC AT 120 DAYS AFTER BILL OF LADING DATE,,0,0,[],"[1213, 1375, 2031, 1416]"
+192,mohammedkm_23-01-2026_8-50-01_page_13.png,tenor_type,,,0,0,[],
+193,mohammedkm_23-01-2026_8-50-01_page_13.png,usance_tenor,,,0,0,[],
+194,mohammedkm_23-01-2026_8-50-01_page_13.png,tenor_indicator,,,0,0,[],
+195,mohammedkm_23-01-2026_8-50-01_page_13.png,indicator_type,,,0,0,[],
+196,mohammedkm_23-01-2026_8-50-01_page_13.png,indicator_date,,,0,0,[],
+197,mohammedkm_23-01-2026_8-50-01_page_13.png,invoice_due_date,,,0,0,[],
+198,mohammedkm_23-01-2026_8-50-01_page_13.png,incoterm,GIF JEBEL ALI PORT IN UNITED ARAB EMIRATES,,0,0,[],"[1357, 1597, 2230, 1641]"
+199,mohammedkm_23-01-2026_8-50-01_page_13.png,country_of_origin_of_goods,,,0,0,[],
+200,mohammedkm_23-01-2026_8-50-01_page_13.png,port_of_loading,,,0,0,[],
+201,mohammedkm_23-01-2026_8-50-01_page_13.png,port_of_discharge,,,0,0,[],
+202,mohammedkm_23-01-2026_8-50-01_page_13.png,country_of_final_destination,,,0,0,[],
+203,mohammedkm_23-01-2026_8-50-01_page_13.png,vessel_flight_no,2055105N,,0,0,[],"[334, 1105, 525, 1150]"
+204,mohammedkm_23-01-2026_8-50-01_page_13.png,bill_of_lading_no,,,0,0,[],
+205,mohammedkm_23-01-2026_8-50-01_page_13.png,bill_of_lading_date,,,0,0,[],
+206,mohammedkm_23-01-2026_8-50-01_page_13.png,declaration_by_issuer,"The Yokohama Rubber Co., Ltd",,0,0,[],"[1613, 2931, 2219, 2982]"
+207,mohammedkm_23-01-2026_8-50-01_page_13.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1218, 1290, 1458, 1322]","[1213, 1284, 1466, 1327]"
+208,mohammedkm_23-01-2026_8-50-01_page_13.png,lc_date,,,0,0,[],
+209,mohammedkm_23-01-2026_8-50-01_page_13.png,vessel_name,EVER CHANT,,0,0,[],"[70, 1104, 280, 1152]"
+210,mohammedkm_23-01-2026_8-50-01_page_14.png,remitter_drawee_applicant_importer_buyer_name,NEW EAST GENERAL TRADING FZCO,,0,0,[],"[71, 529, 680, 572]"
+211,mohammedkm_23-01-2026_8-50-01_page_14.png,remitter_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,,0,0,[],"[69, 575, 790, 710]"
+212,mohammedkm_23-01-2026_8-50-01_page_14.png,remitter_country,,,0,0,[],
+213,mohammedkm_23-01-2026_8-50-01_page_14.png,cosignee_name,,,0,0,[],
+214,mohammedkm_23-01-2026_8-50-01_page_14.png,consignee_address,,,0,0,[],
+215,mohammedkm_23-01-2026_8-50-01_page_14.png,consignee_country,,,0,0,[],
+216,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_drawer_exporter_seller_supplier_name,THE YOKOHAMA RUBBER COLTD,,0,0,[],"[991, 99, 1728, 158]"
+217,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+218,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_address,21OiwakeHiratsukaKanagawa2548601Japan,,0,0,[],"[986, 166, 2042, 227]"
+219,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_country,,,0,0,[],
+220,mohammedkm_23-01-2026_8-50-01_page_14.png,invoice_no,PC9732,,0,0,[],"[1809, 393, 1985, 445]"
+221,mohammedkm_23-01-2026_8-50-01_page_14.png,date_of_invoice,"December 23, 2025",,0,0,[],"[76, 397, 478, 440]"
+222,mohammedkm_23-01-2026_8-50-01_page_14.png,invoice_currency,USD,,0,0,[],"[1999, 2130, 2062, 2178]"
+223,mohammedkm_23-01-2026_8-50-01_page_14.png,invoice_amount,107.60,,0,0,[],"[2064, 2135, 2246, 2175]"
+224,mohammedkm_23-01-2026_8-50-01_page_14.png,invoice_amount_in_words,,,0,0,[],
+225,mohammedkm_23-01-2026_8-50-01_page_14.png,goods_description,YOKOHAMA BRAND TYRES,,0,0,[],"[32, 1688, 448, 1735]"
+226,mohammedkm_23-01-2026_8-50-01_page_14.png,total_quantity_of_goods,388PCS,,0,0,[],"[1203, 2135, 1354, 2179]"
+227,mohammedkm_23-01-2026_8-50-01_page_14.png,rate_per_unit,,,0,0,[],
+228,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_bank_name,,,0,0,[],
+229,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_bank_country,,,0,0,[],
+230,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_account_number,,,0,0,[],
+231,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_iban_number,,,0,0,[],
+232,mohammedkm_23-01-2026_8-50-01_page_14.png,beneficiary_bank_identifier,,,0,0,[],
+233,mohammedkm_23-01-2026_8-50-01_page_14.png,delivery_terms,LC AT 120 DAYS AFTER BILL OF LADING DATE,,0,0,[],"[1214, 1378, 2032, 1419]"
+234,mohammedkm_23-01-2026_8-50-01_page_14.png,tenor_type,,,0,0,[],
+235,mohammedkm_23-01-2026_8-50-01_page_14.png,usance_tenor,,,0,0,[],
+236,mohammedkm_23-01-2026_8-50-01_page_14.png,tenor_indicator,,,0,0,[],
+237,mohammedkm_23-01-2026_8-50-01_page_14.png,indicator_type,,,0,0,[],
+238,mohammedkm_23-01-2026_8-50-01_page_14.png,indicator_date,,,0,0,[],
+239,mohammedkm_23-01-2026_8-50-01_page_14.png,invoice_due_date,,,0,0,[],
+240,mohammedkm_23-01-2026_8-50-01_page_14.png,incoterm,GIF JEBEL ALI PORT IN UNITED ARAB EMIRATES,,0,0,[],"[1357, 1588, 2230, 1641]"
+241,mohammedkm_23-01-2026_8-50-01_page_14.png,country_of_origin_of_goods,,,0,0,[],
+242,mohammedkm_23-01-2026_8-50-01_page_14.png,port_of_loading,,,0,0,[],
+243,mohammedkm_23-01-2026_8-50-01_page_14.png,port_of_discharge,,,0,0,[],
+244,mohammedkm_23-01-2026_8-50-01_page_14.png,country_of_final_destination,,,0,0,[],
+245,mohammedkm_23-01-2026_8-50-01_page_14.png,vessel_flight_no,2055105N,,0,0,[],"[335, 1110, 526, 1156]"
+246,mohammedkm_23-01-2026_8-50-01_page_14.png,bill_of_lading_no,,,0,0,[],
+247,mohammedkm_23-01-2026_8-50-01_page_14.png,bill_of_lading_date,,,0,0,[],
+248,mohammedkm_23-01-2026_8-50-01_page_14.png,declaration_by_issuer,"The Yokohama Rubber Co., Ltd",,0,0,[],"[1613, 2931, 2219, 2982]"
+249,mohammedkm_23-01-2026_8-50-01_page_14.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1218, 1294, 1458, 1326]","[1213, 1284, 1466, 1327]"
+250,mohammedkm_23-01-2026_8-50-01_page_14.png,lc_date,,23/12/2025,0,0,"[1218, 1112, 1478, 1150]",
+251,mohammedkm_23-01-2026_8-50-01_page_14.png,vessel_name,EVER CHANT,,0,0,[],"[70, 1104, 280, 1152]"

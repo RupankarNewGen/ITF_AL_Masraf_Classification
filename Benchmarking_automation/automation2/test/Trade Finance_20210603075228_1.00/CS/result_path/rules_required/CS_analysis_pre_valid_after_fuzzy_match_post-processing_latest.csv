@@ -1,0 +1,48 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210603075228_1.00_page_3.png,drawee_country,,,0,0,[],
+1,Trade Finance_20210603075228_1.00_page_3.png,drawee_bank_name,,,0,0,[],
+2,Trade Finance_20210603075228_1.00_page_3.png,draft_number,,,0,0,[],
+3,Trade Finance_20210603075228_1.00_page_3.png,drawer_bank_name,mashreq,MASHREQMOL,82,1,"[1577, 199, 2306, 273]","[1566, 201, 1840, 275]"
+4,Trade Finance_20210603075228_1.00_page_3.png,document_enclosed,,,0,0,[],
+5,Trade Finance_20210603075228_1.00_page_3.png,csh_due_date,,,0,0,[],
+6,Trade Finance_20210603075228_1.00_page_3.png,is_stamp,,FALSE,0,0,[],
+7,Trade Finance_20210603075228_1.00_page_3.png,csh_drawn_under_lc_number,032ELUC203060009,032ELUC203060009,100,1,"[1028, 732, 1418, 760]","[1024, 727, 1430, 764]"
+8,Trade Finance_20210603075228_1.00_page_3.png,csh_presentation_date,29-MAY-21,29-MAY-21,100,1,"[402, 543, 620, 571]","[403, 535, 630, 576]"
+9,Trade Finance_20210603075228_1.00_page_3.png,drawee_name,"Mashreqbank Foreign Trade Centre, psc",AL MASRAF — ISLAMIC,36,0,"[1072, 1303, 1545, 1331]","[222, 206, 1158, 246]"
+10,Trade Finance_20210603075228_1.00_page_3.png,drawee_name,AL MASRAF - ISLAMIC,AL MASRAF — ISLAMIC,95,1,"[1072, 1303, 1545, 1331]","[1071, 1299, 1556, 1333]"
+11,Trade Finance_20210603075228_1.00_page_3.png,drawer_country,,,0,0,[],
+12,Trade Finance_20210603075228_1.00_page_3.png,charges,,,0,0,[],
+13,Trade Finance_20210603075228_1.00_page_3.png,csh_bill_currency,AED,AED,100,1,"[1072, 1969, 1144, 1997]","[1071, 1967, 1145, 2001]"
+14,Trade Finance_20210603075228_1.00_page_3.png,csh_bill_amount,"48,505.46","48,505.46",100,1,"[1226, 1969, 1443, 2000]","[1226, 1960, 1449, 1996]"
+15,Trade Finance_20210603075228_1.00_page_3.png,drawer_name,UTMOST MANUFACTURING BR,UTMOST MANUFACTURING BR,100,1,"[1075, 1541, 1646, 1569]","[1072, 1536, 1659, 1578]"
+16,Trade Finance_20210603075228_1.00_page_4.png,drawee_country,,,0,0,[],
+17,Trade Finance_20210603075228_1.00_page_4.png,drawee_bank_name,,,0,0,[],
+18,Trade Finance_20210603075228_1.00_page_4.png,draft_number,,,0,0,[],
+19,Trade Finance_20210603075228_1.00_page_4.png,drawer_bank_name,,"UAE CENTRAL BANK,~OUR H.O. AED",0,0,"[281, 1023, 689, 1054]",
+20,Trade Finance_20210603075228_1.00_page_4.png,document_enclosed,,,0,0,[],
+21,Trade Finance_20210603075228_1.00_page_4.png,csh_due_date,,,0,0,[],
+22,Trade Finance_20210603075228_1.00_page_4.png,is_stamp,,FALSE,0,0,[],
+23,Trade Finance_20210603075228_1.00_page_4.png,csh_drawn_under_lc_number,,,0,0,[],
+24,Trade Finance_20210603075228_1.00_page_4.png,csh_presentation_date,,,0,0,[],
+25,Trade Finance_20210603075228_1.00_page_4.png,drawee_name,,,0,0,[],
+26,Trade Finance_20210603075228_1.00_page_4.png,drawer_country,,,0,0,[],
+27,Trade Finance_20210603075228_1.00_page_4.png,charges,,,0,0,[],
+28,Trade Finance_20210603075228_1.00_page_4.png,csh_bill_currency,,,0,0,[],
+29,Trade Finance_20210603075228_1.00_page_4.png,csh_bill_amount,,,0,0,[],
+30,Trade Finance_20210603075228_1.00_page_4.png,drawer_name,,PAGE 2 OF 2,0,0,"[1997, 31, 2222, 77]",
+31,Trade Finance_20210603075228_1.00_page_10.png,drawee_country,,,0,0,[],
+32,Trade Finance_20210603075228_1.00_page_10.png,drawee_bank_name,,,0,0,[],
+33,Trade Finance_20210603075228_1.00_page_10.png,draft_number,,,0,0,[],
+34,Trade Finance_20210603075228_1.00_page_10.png,drawer_bank_name,mashreq,MASHREQ,100,1,"[1525, 287, 1769, 354]","[1526, 289, 1780, 355]"
+35,Trade Finance_20210603075228_1.00_page_10.png,document_enclosed,,,0,0,[],
+36,Trade Finance_20210603075228_1.00_page_10.png,csh_due_date,,,0,0,[],
+37,Trade Finance_20210603075228_1.00_page_10.png,is_stamp,,FALSE,0,0,[],
+38,Trade Finance_20210603075228_1.00_page_10.png,csh_drawn_under_lc_number,TF2030670000,032ELUC203060009,57,0,"[999, 793, 1377, 821]","[995, 833, 1288, 871]"
+39,Trade Finance_20210603075228_1.00_page_10.png,csh_presentation_date,29-MAY-21,29-MAY-21,100,1,"[404, 607, 612, 635]","[406, 601, 624, 645]"
+40,Trade Finance_20210603075228_1.00_page_10.png,drawee_name,Foreign Mashreqbank psc. Trade Centre,AL MASRAF - ISLAMIC,36,0,"[977, 1341, 1495, 1376]","[229, 281, 1117, 326]"
+41,Trade Finance_20210603075228_1.00_page_10.png,drawee_name,AL MASRAF ISLAMIC ,AL MASRAF - ISLAMIC,92,1,"[977, 1341, 1495, 1376]","[1039, 1337, 1503, 1377]"
+42,Trade Finance_20210603075228_1.00_page_10.png,drawer_country,,,0,0,[],
+43,Trade Finance_20210603075228_1.00_page_10.png,charges,,,0,0,[],
+44,Trade Finance_20210603075228_1.00_page_10.png,csh_bill_currency,AED,AED,100,1,"[1041, 1984, 1110, 2012]","[1039, 1982, 1114, 2015]"
+45,Trade Finance_20210603075228_1.00_page_10.png,csh_bill_amount,"48,505.46","48,505.46",100,1,"[1187, 1984, 1399, 2019]","[1185, 1979, 1408, 2013]"
+46,Trade Finance_20210603075228_1.00_page_10.png,drawer_name,UTMOST MANUFACTURING BR,UTMOST MANUFACTURING BR,100,1,"[1043, 1573, 1596, 1601]","[1047, 1571, 1599, 1606]"

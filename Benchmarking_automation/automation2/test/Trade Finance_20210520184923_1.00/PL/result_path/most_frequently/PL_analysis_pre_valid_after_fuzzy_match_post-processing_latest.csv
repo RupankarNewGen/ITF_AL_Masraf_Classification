@@ -1,0 +1,127 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210520184923_1.00_page_39.png,beneficiary_address,RM190719FTOWERGRANDCENTRAL2PLAZA138SHATINRURALNTHONGKONG,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,98,1,"[747, 284, 1601, 309]","[738, 284, 1611, 316]"
+1,Trade Finance_20210520184923_1.00_page_39.png,beneficiary_drawer_exporter_seller_supplier_name,"KUKAHKTRADE CO., LIMITED","KUKAHKTRADE CO., LIMITED",100,1,"[955, 242, 1391, 277]","[949, 233, 1406, 277]"
+2,Trade Finance_20210520184923_1.00_page_39.png,beneficiary_drawer_exporter_seller_supplier_tin_no,,,0,0,[],
+3,Trade Finance_20210520184923_1.00_page_39.png,consignee_address,,,0,0,[],
+4,Trade Finance_20210520184923_1.00_page_39.png,consignee_name,PAN EMIRATES HOME FURNISHINGS LLC,,0,0,[],"[242, 410, 776, 447]"
+5,Trade Finance_20210520184923_1.00_page_39.png,consignee_name,"POBOX 23197,SHARJAH ,UAE TEL97165030823",,0,0,[],"[242, 448, 622, 507]"
+6,Trade Finance_20210520184923_1.00_page_39.png,shipper_name,,,0,0,[],
+7,Trade Finance_20210520184923_1.00_page_39.png,shipper_address,,,0,0,[],
+8,Trade Finance_20210520184923_1.00_page_39.png,country_of_final_destination,,,0,0,[],
+9,Trade Finance_20210520184923_1.00_page_39.png,country_of_origin_origin_of_goods,,,0,0,[],
+10,Trade Finance_20210520184923_1.00_page_39.png,date_of_invoice,"Apr 29,2021","APR 29,2021 MAY 04,2021",65,0,"[1859, 545, 2000, 608]","[1855, 544, 2007, 575]"
+11,Trade Finance_20210520184923_1.00_page_39.png,declaration,CO LIMITED KUKAI HK TRADE . COMMUNICATION ONEX LOGISTICS 2,KUKAI HK) TRADE CO. . LIMITED,51,0,"[1203, 1354, 1847, 1396]","[1196, 1350, 1883, 1456]"
+12,Trade Finance_20210520184923_1.00_page_39.png,description_of_goods,FURNITURE,P5555CM615RAFNO CONNECTOR EOCAIAEINO NC01HY1 CONNECTOR3P4545CM3,14,0,"[1037, 1136, 1532, 1238]","[336, 964, 467, 994]"
+13,Trade Finance_20210520184923_1.00_page_39.png,gross_weight,2745,2745,100,1,"[2017, 1554, 2079, 1569]","[2026, 1551, 2088, 1573]"
+14,Trade Finance_20210520184923_1.00_page_39.png,invoice_no,220JJ61360664,220JJ61360664,100,1,"[1861, 429, 2055, 453]","[1854, 420, 2064, 460]"
+15,Trade Finance_20210520184923_1.00_page_39.png,net_weight,2340,2340,100,1,"[2114, 1554, 2164, 1569]","[2112, 1550, 2173, 1574]"
+16,Trade Finance_20210520184923_1.00_page_39.png,original_copy,,,0,0,[],
+17,Trade Finance_20210520184923_1.00_page_39.png,port_of_discharge,,,0,0,[],
+18,Trade Finance_20210520184923_1.00_page_39.png,port_of_loading,,,0,0,[],
+19,Trade Finance_20210520184923_1.00_page_39.png,pre_carriage_by,BY SEA,,0,0,[],"[43, 820, 162, 872]"
+20,Trade Finance_20210520184923_1.00_page_39.png,remitter_drawee_applicant_importer_buyer_name,,PAN EMIRATES HOME FL IRNISHINGS L.L.C,0,0,"[250, 418, 760, 453]",
+21,Trade Finance_20210520184923_1.00_page_39.png,remitter_address,,"P.O.BOX 23197, SHARJAH UAE",0,0,"[250, 446, 606, 474]",
+22,Trade Finance_20210520184923_1.00_page_39.png,total_quantity_of_goods,90,,0,0,[],"[1255, 1547, 1284, 1573]"
+23,Trade Finance_20210520184923_1.00_page_39.png,track_reference,,,0,0,[],
+24,Trade Finance_20210520184923_1.00_page_39.png,vessel_flight_no,,112W OOLU2121664400,0,0,"[1861, 700, 2069, 759]",
+25,Trade Finance_20210520184923_1.00_page_39.png,vessel_name,ARGUS 112W,ARGUS,67,0,"[1859, 703, 1948, 721]","[1857, 699, 2041, 731]"
+26,Trade Finance_20210520184923_1.00_page_40.png,beneficiary_address,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,100,1,"[749, 284, 1601, 309]","[737, 284, 1608, 316]"
+27,Trade Finance_20210520184923_1.00_page_40.png,beneficiary_drawer_exporter_seller_supplier_name,"KUKAHKTRADE CO., LIMITED","KUKAHKTRADE CO., LIMITED",100,1,"[956, 239, 1391, 274]","[947, 233, 1403, 277]"
+28,Trade Finance_20210520184923_1.00_page_40.png,beneficiary_drawer_exporter_seller_supplier_tin_no,,,0,0,[],
+29,Trade Finance_20210520184923_1.00_page_40.png,consignee_address,POBOX23197SHARJAHUAETEL97165030823,,0,0,[],"[242, 448, 621, 507]"
+30,Trade Finance_20210520184923_1.00_page_40.png,consignee_name,PAN HOME EMIRATES FURNISHINGS LLC,,0,0,[],"[242, 410, 775, 447]"
+31,Trade Finance_20210520184923_1.00_page_40.png,shipper_name,,,0,0,[],
+32,Trade Finance_20210520184923_1.00_page_40.png,shipper_address,,,0,0,[],
+33,Trade Finance_20210520184923_1.00_page_40.png,country_of_final_destination,,,0,0,[],
+34,Trade Finance_20210520184923_1.00_page_40.png,country_of_origin_origin_of_goods,,,0,0,[],
+35,Trade Finance_20210520184923_1.00_page_40.png,date_of_invoice,"Apr 29,2021","APR 29,2021 MAY 04,2021",65,0,"[1861, 541, 1999, 605]","[1852, 544, 2004, 575]"
+36,Trade Finance_20210520184923_1.00_page_40.png,declaration,LIMITED OKA HK) TRADE CO. . LOGISTICS COMMU ONLY,KOKA HK) TRADE CO.. LIMITED LOGISTICS COMMUNICATION ONLY,75,0,"[1184, 1336, 1836, 1459]","[1181, 1335, 1880, 1435]"
+37,Trade Finance_20210520184923_1.00_page_40.png,description_of_goods,FURNITURE,FURNITURE,100,1,"[341, 967, 457, 985]","[335, 964, 466, 994]"
+38,Trade Finance_20210520184923_1.00_page_40.png,gross_weight,2745,2745,100,1,"[2034, 1551, 2078, 1565]","[2023, 1551, 2085, 1573]"
+39,Trade Finance_20210520184923_1.00_page_40.png,invoice_no,220JJ61360564,220JJ61360564,100,1,"[1863, 425, 2054, 446]","[1851, 420, 2060, 460]"
+40,Trade Finance_20210520184923_1.00_page_40.png,net_weight,2340,2340,100,1,"[2118, 1547, 2163, 1565]","[2108, 1550, 2169, 1574]"
+41,Trade Finance_20210520184923_1.00_page_40.png,original_copy,,,0,0,[],
+42,Trade Finance_20210520184923_1.00_page_40.png,port_of_discharge,,,0,0,[],
+43,Trade Finance_20210520184923_1.00_page_40.png,port_of_loading,,,0,0,[],
+44,Trade Finance_20210520184923_1.00_page_40.png,pre_carriage_by,BY SEA,,0,0,[],"[43, 820, 161, 872]"
+45,Trade Finance_20210520184923_1.00_page_40.png,remitter_drawee_applicant_importer_buyer_name,,PAN EMIRATES HOME FURNISHINGS L.L.C,0,0,"[249, 408, 761, 446]",
+46,Trade Finance_20210520184923_1.00_page_40.png,remitter_address,,"P.O.BOX 23197, SHARJAH, UAE",0,0,"[187, 443, 608, 478]",
+47,Trade Finance_20210520184923_1.00_page_40.png,total_quantity_of_goods,90,,0,0,[],"[1253, 1547, 1282, 1573]"
+48,Trade Finance_20210520184923_1.00_page_40.png,track_reference,,,0,0,[],
+49,Trade Finance_20210520184923_1.00_page_40.png,vessel_flight_no,,112W OOLU2121664400,0,0,"[1861, 696, 2069, 752]",
+50,Trade Finance_20210520184923_1.00_page_40.png,vessel_name,112W ARGUS,ARGUS,67,0,"[1861, 696, 1950, 717]","[1854, 699, 2038, 731]"
+51,Trade Finance_20210520184923_1.00_page_41.png,beneficiary_address,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,100,1,"[746, 291, 1597, 312]","[746, 284, 1629, 316]"
+52,Trade Finance_20210520184923_1.00_page_41.png,beneficiary_drawer_exporter_seller_supplier_name,"KUKAHKTRADE CO., LIMITED","KUKAHKTRADE CO., LIMITED",100,1,"[954, 249, 1389, 280]","[944, 240, 1422, 282]"
+53,Trade Finance_20210520184923_1.00_page_41.png,beneficiary_drawer_exporter_seller_supplier_tin_no,,,0,0,[],
+54,Trade Finance_20210520184923_1.00_page_41.png,consignee_address,POBOX23197SHARJAHUAETEL97165030823,,0,0,[],"[241, 458, 625, 516]"
+55,Trade Finance_20210520184923_1.00_page_41.png,consignee_name,EMIRATES HOME FURNISHINGS L.L.C PAN,,0,0,[],"[241, 418, 771, 455]"
+56,Trade Finance_20210520184923_1.00_page_41.png,shipper_name,,,0,0,[],
+57,Trade Finance_20210520184923_1.00_page_41.png,shipper_address,,,0,0,[],
+58,Trade Finance_20210520184923_1.00_page_41.png,country_of_final_destination,,,0,0,[],
+59,Trade Finance_20210520184923_1.00_page_41.png,country_of_origin_origin_of_goods,,,0,0,[],
+60,Trade Finance_20210520184923_1.00_page_41.png,date_of_invoice,"Apr 29,2021","APR 29,2021 MAY 04.2021",65,0,"[1860, 544, 2000, 611]","[1853, 543, 2007, 574]"
+61,Trade Finance_20210520184923_1.00_page_41.png,declaration,KUKA HK TRADE CO. LIMITED . LOGISTICS COMMON,"KUKAI HK) TRADE CO. , LIMITED ONLY",72,0,"[1181, 1313, 1832, 1411]","[1176, 1316, 1845, 1420]"
+62,Trade Finance_20210520184923_1.00_page_41.png,description_of_goods,FURNITURE,FURNITURE,100,1,"[340, 979, 460, 997]","[338, 972, 470, 1002]"
+63,Trade Finance_20210520184923_1.00_page_41.png,gross_weight,2745,2745,100,1,"[2033, 1552, 2083, 1569]","[2035, 1551, 2092, 1576]"
+64,Trade Finance_20210520184923_1.00_page_41.png,invoice_no,220JJ61360564,220JJ61360564,100,1,"[1855, 428, 2055, 453]","[1853, 419, 2065, 459]"
+65,Trade Finance_20210520184923_1.00_page_41.png,net_weight,2340,2340,100,1,"[2115, 1555, 2168, 1569]","[2118, 1549, 2180, 1574]"
+66,Trade Finance_20210520184923_1.00_page_41.png,original_copy,,,0,0,[],
+67,Trade Finance_20210520184923_1.00_page_41.png,port_of_discharge,,,0,0,[],
+68,Trade Finance_20210520184923_1.00_page_41.png,port_of_loading,,,0,0,[],
+69,Trade Finance_20210520184923_1.00_page_41.png,pre_carriage_by,BY SEA,,0,0,[],"[50, 831, 169, 882]"
+70,Trade Finance_20210520184923_1.00_page_41.png,remitter_drawee_applicant_importer_buyer_name,,PAN EMIRATES HOME FURNISHINGS L.L.C,0,0,"[247, 428, 758, 449]",
+71,Trade Finance_20210520184923_1.00_page_41.png,remitter_address,,"P.O.BOX 23197, SHARJA I, UAE",0,0,"[227, 453, 605, 481]",
+72,Trade Finance_20210520184923_1.00_page_41.png,total_quantity_of_goods,90,,0,0,[],"[1256, 1550, 1285, 1576]"
+73,Trade Finance_20210520184923_1.00_page_41.png,track_reference,,,0,0,[],
+74,Trade Finance_20210520184923_1.00_page_41.png,vessel_flight_no,,112W,0,0,"[1963, 702, 2030, 723]",
+75,Trade Finance_20210520184923_1.00_page_41.png,vessel_name,ARGUS 112W,ARGUS,67,0,"[1860, 702, 1950, 723]","[1855, 697, 2041, 729]"
+76,Trade Finance_20210520184923_1.00_page_42.png,beneficiary_address,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,AM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,98,1,"[745, 288, 1599, 316]","[738, 285, 1611, 316]"
+77,Trade Finance_20210520184923_1.00_page_42.png,beneficiary_drawer_exporter_seller_supplier_name,"KUKAHK TRADE CO., LIMITED","KUKAHKTRADE CO., LIMITED",98,1,"[955, 249, 1389, 281]","[948, 243, 1405, 282]"
+78,Trade Finance_20210520184923_1.00_page_42.png,beneficiary_drawer_exporter_seller_supplier_tin_no,,,0,0,[],
+79,Trade Finance_20210520184923_1.00_page_42.png,consignee_address,POBOX23197SHARJAHUAETEL97165030823,,0,0,[],"[243, 454, 623, 512]"
+80,Trade Finance_20210520184923_1.00_page_42.png,consignee_name,PAN EMIRATES HOME FURNISHINGS LLC,,0,0,[],"[245, 413, 779, 450]"
+81,Trade Finance_20210520184923_1.00_page_42.png,shipper_name,,,0,0,[],
+82,Trade Finance_20210520184923_1.00_page_42.png,shipper_address,,,0,0,[],
+83,Trade Finance_20210520184923_1.00_page_42.png,country_of_final_destination,,,0,0,[],
+84,Trade Finance_20210520184923_1.00_page_42.png,country_of_origin_origin_of_goods,,,0,0,[],
+85,Trade Finance_20210520184923_1.00_page_42.png,date_of_invoice,"Apr 29,2021","APR 29,2021 MAY 04,2021",65,0,"[1857, 549, 2003, 616]","[1855, 544, 2007, 575]"
+86,Trade Finance_20210520184923_1.00_page_42.png,declaration,"CO LIMITED KUKAIHK) TRADE ONAL, LOGISTICS COMMUNICATION ONLY","KUKAI HK) TRADE CO. , LIMITED",52,0,"[1183, 1344, 1829, 1386]","[1172, 1338, 1883, 1447]"
+87,Trade Finance_20210520184923_1.00_page_42.png,description_of_goods,FURNITURE,,0,0,[],"[338, 972, 469, 1002]"
+88,Trade Finance_20210520184923_1.00_page_42.png,gross_weight,2745,2745,100,1,"[2030, 1555, 2077, 1573]","[2027, 1556, 2089, 1578]"
+89,Trade Finance_20210520184923_1.00_page_42.png,invoice_no,220JJ61360564,220JJ61360564,100,1,"[1857, 432, 2052, 454]","[1854, 420, 2064, 460]"
+90,Trade Finance_20210520184923_1.00_page_42.png,net_weight,2340,2340,100,1,"[2116, 1555, 2161, 1576]","[2111, 1556, 2172, 1580]"
+91,Trade Finance_20210520184923_1.00_page_42.png,original_copy,,,0,0,[],
+92,Trade Finance_20210520184923_1.00_page_42.png,port_of_discharge,,,0,0,[],
+93,Trade Finance_20210520184923_1.00_page_42.png,port_of_loading,,,0,0,[],
+94,Trade Finance_20210520184923_1.00_page_42.png,pre_carriage_by,BY SEA,,0,0,[],"[43, 821, 162, 873]"
+95,Trade Finance_20210520184923_1.00_page_42.png,remitter_drawee_applicant_importer_buyer_name,,PAN EMIRATES HOME FT IRNISHINGS L.L.C,0,0,"[247, 425, 757, 454]",
+96,Trade Finance_20210520184923_1.00_page_42.png,remitter_address,,"P.O.BOX 23197, SHARJAH UAE",0,0,"[247, 454, 606, 478]",
+97,Trade Finance_20210520184923_1.00_page_42.png,total_quantity_of_goods,90,,0,0,[],"[1255, 1548, 1284, 1574]"
+98,Trade Finance_20210520184923_1.00_page_42.png,track_reference,,,0,0,[],
+99,Trade Finance_20210520184923_1.00_page_42.png,vessel_flight_no,,112W OOLU2121664400,0,0,"[1859, 707, 2067, 763]",
+100,Trade Finance_20210520184923_1.00_page_42.png,vessel_name,ARGUS 112W,ARGUS,67,0,"[1857, 707, 1948, 725]","[1857, 699, 2041, 732]"
+101,Trade Finance_20210520184923_1.00_page_43.png,beneficiary_address,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,RM190719FTOWER2GRANDCENTRALPLAZA138SHATINRURALNTHONGKONG,100,1,"[747, 281, 1601, 309]","[738, 285, 1611, 316]"
+102,Trade Finance_20210520184923_1.00_page_43.png,beneficiary_drawer_exporter_seller_supplier_name,"KUKAHKTRADE CO., LIMITED","KUKAHKTRADE CO., LIMITED",100,1,"[955, 239, 1391, 274]","[949, 233, 1406, 277]"
+103,Trade Finance_20210520184923_1.00_page_43.png,beneficiary_drawer_exporter_seller_supplier_tin_no,,,0,0,[],
+104,Trade Finance_20210520184923_1.00_page_43.png,consignee_address,POBOX23197SHARJAHUAETEL97165030823,,0,0,[],"[242, 441, 622, 500]"
+105,Trade Finance_20210520184923_1.00_page_43.png,consignee_name,PAN EMIRATES HOME FURNISHINGS LLC,,0,0,[],"[242, 404, 776, 441]"
+106,Trade Finance_20210520184923_1.00_page_43.png,shipper_name,,,0,0,[],
+107,Trade Finance_20210520184923_1.00_page_43.png,shipper_address,,,0,0,[],
+108,Trade Finance_20210520184923_1.00_page_43.png,country_of_final_destination,,,0,0,[],
+109,Trade Finance_20210520184923_1.00_page_43.png,country_of_origin_origin_of_goods,,,0,0,[],
+110,Trade Finance_20210520184923_1.00_page_43.png,date_of_invoice,"Apr 29,2021","APR 29,2021 MAY 04,2021",65,0,"[1861, 542, 2000, 608]","[1855, 541, 2007, 572]"
+111,Trade Finance_20210520184923_1.00_page_43.png,declaration,KUKA TRADE HK co. LIMITED SOMMUPICATION ONLY INTERAATIONAL LOGISTICS,ADE CO.. LIMITED KUKA HK) TF COMMUNICATION ONLY OGISTICS INTERNATIONALL,66,0,"[1225, 1362, 1879, 1471]","[1212, 1360, 1883, 1467]"
+112,Trade Finance_20210520184923_1.00_page_43.png,description_of_goods,FURNITURE,FURNITURE,100,1,"[339, 968, 458, 985]","[336, 965, 467, 995]"
+113,Trade Finance_20210520184923_1.00_page_43.png,gross_weight,2745,2745,100,1,"[2032, 1548, 2079, 1566]","[2024, 1547, 2086, 1569]"
+114,Trade Finance_20210520184923_1.00_page_43.png,invoice_no,220JJ61360564,220JJ61360564,100,1,"[1861, 425, 2055, 447]","[1854, 420, 2064, 460]"
+115,Trade Finance_20210520184923_1.00_page_43.png,net_weight,2340,2340,100,1,"[2116, 1548, 2161, 1566]","[2107, 1548, 2168, 1573]"
+116,Trade Finance_20210520184923_1.00_page_43.png,original_copy,,,0,0,[],
+117,Trade Finance_20210520184923_1.00_page_43.png,port_of_discharge,,,0,0,[],
+118,Trade Finance_20210520184923_1.00_page_43.png,port_of_loading,,,0,0,[],
+119,Trade Finance_20210520184923_1.00_page_43.png,pre_carriage_by,BY SEA,,0,0,[],"[43, 821, 162, 873]"
+120,Trade Finance_20210520184923_1.00_page_43.png,remitter_drawee_applicant_importer_buyer_name,,PAN EMIRATES HOME FURNISHINGS L.L.C,0,0,"[247, 411, 757, 436]",
+121,Trade Finance_20210520184923_1.00_page_43.png,remitter_address,,"P.O.BOX 23197, SHARJAH, UAE",0,0,"[230, 440, 606, 478]",
+122,Trade Finance_20210520184923_1.00_page_43.png,total_quantity_of_goods,SO,,0,0,[],"[1254, 1544, 1282, 1570]"
+123,Trade Finance_20210520184923_1.00_page_43.png,track_reference,,,0,0,[],
+124,Trade Finance_20210520184923_1.00_page_43.png,vessel_flight_no,,112W OOLU2121664400,0,0,"[1861, 700, 2069, 756]",
+125,Trade Finance_20210520184923_1.00_page_43.png,vessel_name,ARGUS 112W,ARGUS,67,0,"[1859, 696, 1948, 721]","[1857, 699, 2041, 732]"

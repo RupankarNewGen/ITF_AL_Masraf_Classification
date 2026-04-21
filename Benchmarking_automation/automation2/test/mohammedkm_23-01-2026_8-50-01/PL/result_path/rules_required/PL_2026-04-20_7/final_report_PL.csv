@@ -1,0 +1,15 @@
+,Label_Name,Label_Count,Labels_Detected,Detection_Accuracy,Fuzzy_Match_Percentage,Complete_Match_Count_Detected,Complete_Match_Count,Complete_Match_Percentage
+0,bill_of_lading_date,4,0,0.0,0.0,0.0,0,0.0
+1,consignee_address,4,4,100.0,93.25,1.0,4,100.0
+2,consignee_name,4,4,100.0,100.0,1.0,4,100.0
+3,consignor_name,4,0,0.0,0.0,0.0,0,0.0
+4,country_of_final_destination,4,0,0.0,0.0,0.0,0,0.0
+5,description_of_goods,4,4,100.0,100.0,1.0,4,100.0
+6,incoterm,4,0,0.0,0.0,0.0,0,0.0
+7,invoice_amount,4,0,0.0,0.0,0.0,0,0.0
+8,invoice_currency,4,0,0.0,0.0,0.0,0,0.0
+9,is_stamp,4,4,100.0,0.0,0.0,0,0.0
+10,lc_date,4,0,0.0,0.0,0.0,0,0.0
+11,lc_ref_no,4,4,100.0,100.0,1.0,4,100.0
+12,pre_carriage_by,4,1,25.0,0.0,0.0,0,0.0
+13,OVERALL,52,21,40.38461538461539,30.25,0.7619047619047619,16,0.3076923076923077

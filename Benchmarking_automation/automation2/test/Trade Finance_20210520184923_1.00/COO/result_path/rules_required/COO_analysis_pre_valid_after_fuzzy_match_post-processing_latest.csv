@@ -1,0 +1,56 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,Trade Finance_20210520184923_1.00_page_36.png,lc_ref_no,TF2034500006DATE,TF203450000B,79,0,"[1105, 1670, 1295, 1720]","[1130, 1652, 1321, 1686]"
+1,Trade Finance_20210520184923_1.00_page_36.png,final_destination,UNITED ARAB,UNITED ARAB EMIR,81,1,"[218, 1281, 485, 1314]","[252, 1239, 594, 1273]"
+2,Trade Finance_20210520184923_1.00_page_36.png,vessel_details,,,0,0,[],
+3,Trade Finance_20210520184923_1.00_page_36.png,description_of_goods,,,0,0,[],
+4,Trade Finance_20210520184923_1.00_page_36.png,consignee_country,,,0,0,[],
+5,Trade Finance_20210520184923_1.00_page_36.png,coo_issuer_address,,THE PEOPLE’S~CHINA OF,0,0,"[1584, 619, 1851, 669]",
+6,Trade Finance_20210520184923_1.00_page_36.png,coo_issuer_name,,,0,0,[],
+7,Trade Finance_20210520184923_1.00_page_36.png,consignor_country,,,0,0,[],
+8,Trade Finance_20210520184923_1.00_page_36.png,coo_issuer_name,,,0,0,[],
+9,Trade Finance_20210520184923_1.00_page_36.png,consignee_name,PAN EMIRATES HOME FURNISHINGSLLC,PAN EMIR ATES HOME FURN ISHINGS LLC,96,1,"[204, 601, 784, 669]","[259, 587, 839, 619]"
+10,Trade Finance_20210520184923_1.00_page_36.png,lc_date,,,0,0,[],
+11,Trade Finance_20210520184923_1.00_page_36.png,is_stamp,,FALSE,0,0,[],
+12,Trade Finance_20210520184923_1.00_page_36.png,country_of_origin_of_goods,,,100,1,[],"[955, 2062, 1051, 2092]"
+13,Trade Finance_20210520184923_1.00_page_36.png,issue_date,10 12.2020,,0,0,[],"[792, 1700, 932, 1731]"
+14,Trade Finance_20210520184923_1.00_page_36.png,consignee_address,POBOX23197SHARJAHUAETEL065030823FAX065307379,POBOX23197SHARJAHUAES,62,0,"[204, 654, 784, 689]","[262, 617, 703, 672]"
+15,Trade Finance_20210520184923_1.00_page_36.png,means_of_transport,,SEA,0,0,"[1006, 895, 1119, 935]","[1054, 867, 1164, 904]"
+16,Trade Finance_20210520184923_1.00_page_36.png,certificate_no,21C36000023900088,21C36000023900088,100,1,"[1478, 313, 1791, 353]","[1531, 313, 1863, 349]"
+17,Trade Finance_20210520184923_1.00_page_36.png,consignor_name,,HANCZUIN TRADE CO. LIMITED,0,0,"[200, 398, 668, 463]",
+18,Trade Finance_20210520184923_1.00_page_37.png,lc_ref_no,TF2034500008,TF2034500008,100,1,"[1146, 1654, 1334, 1675]","[1143, 1645, 1334, 1676]"
+19,Trade Finance_20210520184923_1.00_page_37.png,final_destination,UNITED ARAB EMIRATES,,0,0,[],"[273, 1229, 631, 1263]"
+20,Trade Finance_20210520184923_1.00_page_37.png,vessel_details,,,0,0,[],
+21,Trade Finance_20210520184923_1.00_page_37.png,description_of_goods,,,0,0,[],
+22,Trade Finance_20210520184923_1.00_page_37.png,consignee_country,,SH,0,0,"[274, 612, 784, 640]",
+23,Trade Finance_20210520184923_1.00_page_37.png,coo_issuer_address,,EOPLES REPUBLIC OF CHINA,0,0,"[1762, 626, 2297, 654]",
+24,Trade Finance_20210520184923_1.00_page_37.png,coo_issuer_name,,CHAMBER ICC~PROMOTION OF INTERNATIONAL TRADE IS CHINA CHAMBER OF COMMERCE,0,0,"[1304, 401, 1641, 552]",
+25,Trade Finance_20210520184923_1.00_page_37.png,consignor_country,,HONG KONG CHINA,0,0,"[262, 330, 1178, 450]",
+26,Trade Finance_20210520184923_1.00_page_37.png,coo_issuer_name,,CHAMBER ICC~PROMOTION OF INTERNATIONAL TRADE IS CHINA CHAMBER OF COMMERCE,0,0,"[1304, 401, 1641, 552]",
+27,Trade Finance_20210520184923_1.00_page_37.png,consignee_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HC ME FURNISHINGS LLC,96,1,"[274, 584, 854, 612]","[269, 580, 863, 614]"
+28,Trade Finance_20210520184923_1.00_page_37.png,lc_date,,10/12/2020,0,0,"[807, 1700, 943, 1721]",
+29,Trade Finance_20210520184923_1.00_page_37.png,is_stamp,,FALSE,0,0,[],
+30,Trade Finance_20210520184923_1.00_page_37.png,country_of_origin_of_goods,,,100,1,[],"[969, 2062, 1065, 2089]"
+31,Trade Finance_20210520184923_1.00_page_37.png,issue_date,10.12.2020,10/05/2021,50,0,"[1777, 3259, 1941, 3287]","[802, 1696, 949, 1724]"
+32,Trade Finance_20210520184923_1.00_page_37.png,issue_date,"MAY.10,2021",10/05/2021,57,0,"[1777, 3259, 1941, 3287]","[1775, 3251, 1949, 3286]"
+33,Trade Finance_20210520184923_1.00_page_37.png,consignee_address,POBOX23197SHARJAHUAE,POBOX23197SHARJAHUAE,100,1,"[274, 612, 784, 640]","[273, 611, 706, 638]"
+34,Trade Finance_20210520184923_1.00_page_37.png,means_of_transport,SEA,SEA,100,1,"[1072, 865, 1173, 890]","[1071, 867, 1177, 887]"
+35,Trade Finance_20210520184923_1.00_page_37.png,certificate_no,21C36000023900088,21C360000239,83,0,"[1552, 309, 1760, 334]","[1549, 304, 1876, 340]"
+36,Trade Finance_20210520184923_1.00_page_37.png,consignor_name,,"ZHEJIANG KUKAM ERLIN FURNITURE CO.,LTD.",0,0,"[272, 288, 901, 327]",
+37,Trade Finance_20210520184923_1.00_page_38.png,lc_ref_no,TF2034500008,TF2034500008,100,1,"[1136, 1661, 1327, 1682]","[1134, 1658, 1325, 1689]"
+38,Trade Finance_20210520184923_1.00_page_38.png,final_destination,UNITED ARAB EMIRATES,UNITED ARAB EMIRA TES,98,1,"[259, 1242, 596, 1267]","[253, 1238, 611, 1273]"
+39,Trade Finance_20210520184923_1.00_page_38.png,vessel_details,,,0,0,[],
+40,Trade Finance_20210520184923_1.00_page_38.png,description_of_goods,,,0,0,[],
+41,Trade Finance_20210520184923_1.00_page_38.png,consignee_country,,,0,0,[],
+42,Trade Finance_20210520184923_1.00_page_38.png,coo_issuer_address,,,0,0,[],
+43,Trade Finance_20210520184923_1.00_page_38.png,coo_issuer_name,,CHINA COUNCIL FOR THE PROMOTION OF INTERNATIONAL TRADES CHINA CHAMBER OF INTERNATIONAL COMMERCE,0,0,"[1334, 908, 1904, 1087]",
+44,Trade Finance_20210520184923_1.00_page_38.png,consignor_country,,HONG KONG CHINA,0,0,"[257, 334, 1168, 447]",
+45,Trade Finance_20210520184923_1.00_page_38.png,coo_issuer_name,,CHINA COUNCIL FOR THE PROMOTION OF INTERNATIONAL TRADES CHINA CHAMBER OF INTERNATIONAL COMMERCE,0,0,"[1334, 908, 1904, 1087]",
+46,Trade Finance_20210520184923_1.00_page_38.png,consignee_name,PAN EMIRATES HOM E FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,99,1,"[264, 584, 841, 616]","[260, 584, 854, 619]"
+47,Trade Finance_20210520184923_1.00_page_38.png,lc_date,,10/12/2020,0,0,"[794, 1703, 935, 1724]",
+48,Trade Finance_20210520184923_1.00_page_38.png,is_stamp,,FALSE,0,0,[],
+49,Trade Finance_20210520184923_1.00_page_38.png,country_of_origin_of_goods,,CHINA,0,0,"[2168, 633, 2280, 661]","[960, 2068, 1056, 2096]"
+50,Trade Finance_20210520184923_1.00_page_38.png,issue_date,10.12.2020,10/05/2021,50,0,"[1765, 3266, 1928, 3294]","[789, 1703, 936, 1730]"
+51,Trade Finance_20210520184923_1.00_page_38.png,consignee_address,POBOX23197SHARJAHUAE,POBOX23197SHARJAHUAE,100,1,"[262, 608, 732, 647]","[258, 617, 692, 645]"
+52,Trade Finance_20210520184923_1.00_page_38.png,means_of_transport,SEA,SEA,100,1,"[1059, 872, 1161, 897]","[1055, 873, 1167, 906]"
+53,Trade Finance_20210520184923_1.00_page_38.png,certificate_no,21C36000023900088,21C36000023900088,100,1,"[1542, 313, 1854, 341]","[1537, 308, 1864, 345]"
+54,Trade Finance_20210520184923_1.00_page_38.png,consignor_name,,ZHEJIANG KUKA MEF LIN FURNITURE CO. LTD.,0,0,"[259, 306, 888, 330]",

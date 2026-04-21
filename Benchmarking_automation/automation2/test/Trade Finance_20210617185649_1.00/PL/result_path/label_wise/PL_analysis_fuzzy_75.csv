@@ -1,0 +1,10 @@
+File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+Trade Finance_20210617185649_1.00_page_15.png,beneficiary_drawer_exporter_seller_supplier_name,arflu INDUSTRIAL VALVES,ARFLU SA,52,0,"[1020, 388, 1144, 413]","[632, 342, 913, 483]"
+Trade Finance_20210617185649_1.00_page_15.png,beneficiary_address,PoligonoTelleriondocalleOlabide13ASopela48600biskaiaSPAIN,POLIGONOTELLERONDOCALLEOLABIDESOPELASIZKARA48600SPAIN,84,1,"[1011, 416, 1485, 476]","[1009, 415, 1400, 477]"
+Trade Finance_20210617185649_1.00_page_15.png,description_of_goods,Trunnion Mounted Ball Valve,TRUNNION MOUNTED BALL VALVE,100,1,"[842, 911, 1218, 939]","[842, 910, 1226, 944]"
+Trade Finance_20210617185649_1.00_page_15.png,total_quantity_of_goods,41,41,100,1,"[1339, 1688, 1369, 1713]","[1327, 1684, 1384, 1722]"
+Trade Finance_20210617185649_1.00_page_15.png,net_weight,10830,10830,100,1,"[1448, 1688, 1530, 1713]","[1444, 1681, 1539, 1723]"
+Trade Finance_20210617185649_1.00_page_15.png,gross_weight,11660,11660,100,1,"[1609, 1688, 1690, 1713]","[1598, 1684, 1699, 1721]"
+Trade Finance_20210617185649_1.00_page_15.png,dimension,9855,,0,0,[],"[1913, 1680, 2014, 1723]"
+Trade Finance_20210617185649_1.00_page_15.png,incoterm,CFR Abu Dhabi,CER ABU DHABI,92,1,"[946, 1709, 1169, 1727]","[941, 1701, 1186, 1742]"
+Trade Finance_20210617185649_1.00_page_15.png,sign,Uirzi INS,,0,0,"[1545.49, 2379.74, 1943.85, 2724.63]","[1530, 2373, 1933, 2720]"

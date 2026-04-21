@@ -1,0 +1,351 @@
+{
+    "Trade Finance_20210520184923_1.00_page_38.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999843835830688
+        },
+        "predicted_class": "COO",
+        "confidence": 0.9,
+        "extraction_result": {
+            "consignor_name": {
+                "value": "ZHEJIANG KUKA MEF LIN FURNITURE CO. LTD.",
+                "coordinate": [
+                    [
+                        259,
+                        306,
+                        888,
+                        330
+                    ]
+                ],
+                "model_confidence": [
+                    0.999872
+                ],
+                "ocr_confidence": []
+            },
+            "consignor_address": {
+                "value": "NO.189, SANFENG RC AD, QIANJIN INDUSTRIAL ZONE, JIANGDONG, HANGZHOU, CHINA VIA KUKA (HK) TRADE CO., LIMITED RM 1907, 19/F.TOWER 2, GRAND CENTRAL PLAZA, 138 SHATIN RURAL, NT, HONG KONG",
+                "coordinate": [
+                    [
+                        257,
+                        334,
+                        1168,
+                        447
+                    ]
+                ],
+                "model_confidence": [
+                    0.999552
+                ],
+                "ocr_confidence": []
+            },
+            "certificate_no": {
+                "value": "21C360000239/00088",
+                "coordinate": [
+                    [
+                        1542,
+                        313,
+                        1854,
+                        341
+                    ]
+                ],
+                "model_confidence": [
+                    0.998455
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_name": {
+                "value": "PAN EMIRATES HOME FURNISHINGS L.L.C,",
+                "coordinate": [
+                    [
+                        264,
+                        584,
+                        841,
+                        616
+                    ]
+                ],
+                "model_confidence": [
+                    0.999758
+                ],
+                "ocr_confidence": []
+            },
+            "consignee_address": {
+                "value": "P.O.BOX23197, SHARJAH, U.A.E.",
+                "coordinate": [
+                    [
+                        262,
+                        608,
+                        732,
+                        647
+                    ]
+                ],
+                "model_confidence": [
+                    0.999583
+                ],
+                "ocr_confidence": []
+            },
+            "country_of_origin_of_goods": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        2168,
+                        633,
+                        2280,
+                        661
+                    ]
+                ],
+                "model_confidence": [
+                    0.451574
+                ],
+                "ocr_confidence": []
+            },
+            "from_place": {
+                "value": "CHINA NINGBO",
+                "coordinate": [
+                    [
+                        351,
+                        858,
+                        557,
+                        908
+                    ]
+                ],
+                "model_confidence": [
+                    0.999391
+                ],
+                "ocr_confidence": []
+            },
+            "to_place": {
+                "value": "AJMAN UNITED ARAB EMIRATES",
+                "coordinate": [
+                    [
+                        611,
+                        869,
+                        1049,
+                        897
+                    ]
+                ],
+                "model_confidence": [
+                    0.999571
+                ],
+                "ocr_confidence": []
+            },
+            "means_of_transport": {
+                "value": "BY SEA",
+                "coordinate": [
+                    [
+                        1059,
+                        872,
+                        1161,
+                        897
+                    ]
+                ],
+                "model_confidence": [
+                    0.999052
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_name": {
+                "value": "CHINA COUNCIL FOR THE PROMOTION OF INTERNATIONAL TRADES CHINA CHAMBER OF INTERNATIONAL COMMERCE",
+                "coordinate": [
+                    [
+                        1334,
+                        908,
+                        1904,
+                        1087
+                    ]
+                ],
+                "model_confidence": [
+                    0.996768
+                ],
+                "ocr_confidence": []
+            },
+            "issue_date": {
+                "value": "10/05/2021",
+                "coordinate": [
+                    [
+                        1765,
+                        3266,
+                        1928,
+                        3294
+                    ]
+                ],
+                "model_confidence": [
+                    0.929038
+                ],
+                "ocr_confidence": []
+            },
+            "page_no": {
+                "value": "1",
+                "coordinate": [
+                    [
+                        1247,
+                        3382,
+                        1309,
+                        3403
+                    ]
+                ],
+                "model_confidence": [
+                    0.999452
+                ],
+                "ocr_confidence": []
+            },
+            "final_destination": {
+                "value": "UNITED ARAB EMIRA TES",
+                "coordinate": [
+                    [
+                        259,
+                        1242,
+                        596,
+                        1267
+                    ]
+                ],
+                "model_confidence": [
+                    0.997367
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2034500008",
+                "coordinate": [
+                    [
+                        1136,
+                        1661,
+                        1327,
+                        1682
+                    ]
+                ],
+                "model_confidence": [
+                    0.999663
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "10/12/2020",
+                "coordinate": [
+                    [
+                        794,
+                        1703,
+                        935,
+                        1724
+                    ]
+                ],
+                "model_confidence": [
+                    0.998736
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "220JJ61-36056-4",
+                "coordinate": [
+                    [
+                        2035,
+                        1520,
+                        2253,
+                        1545
+                    ]
+                ],
+                "model_confidence": [
+                    0.999795
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_date": {
+                "value": "APR.29,2021",
+                "coordinate": [
+                    [
+                        2037,
+                        1545,
+                        2198,
+                        1576
+                    ]
+                ],
+                "model_confidence": [
+                    0.999871
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "consignor_country": {
+                "value": "HONG KONG CHINA",
+                "coordinate": [
+                    [
+                        257,
+                        334,
+                        1168,
+                        447
+                    ]
+                ],
+                "model_confidence": [
+                    0.999552
+                ],
+                "ocr_confidence": []
+            },
+            "coo_issuer_address": {},
+            "coo_issuer_country": {},
+            "ref_no": {},
+            "consignee_country": {},
+            "vessel_details": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "marks_and_no_of_packages": {},
+            "description_of_goods": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "declaration_by_exporter": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "certificate_stamped": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "signature": {},
+            "declaration_by_certification": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "total_pages": {},
+            "total_original": {},
+            "stamp": {},
+            "expiry_date": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

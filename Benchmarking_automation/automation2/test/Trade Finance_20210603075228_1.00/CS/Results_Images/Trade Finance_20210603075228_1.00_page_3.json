@@ -1,0 +1,351 @@
+{
+    "Trade Finance_20210603075228_1.00_page_3.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.999980092048645
+        },
+        "predicted_class": "CS",
+        "confidence": 0.9,
+        "extraction_result": {
+            "page_no": {
+                "value": "1",
+                "coordinate": [
+                    [
+                        2138,
+                        28,
+                        2153,
+                        59
+                    ]
+                ],
+                "model_confidence": [
+                    0.998238
+                ],
+                "ocr_confidence": []
+            },
+            "total_page": {
+                "value": "2",
+                "coordinate": [
+                    [
+                        2222,
+                        28,
+                        2249,
+                        59
+                    ]
+                ],
+                "model_confidence": [
+                    0.997155
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "MASHREQBANK FOREIGN TRADE CENTRE, PSC.~MASHREQMOL",
+                "coordinate": [
+                    [
+                        224,
+                        206,
+                        1161,
+                        241
+                    ],
+                    [
+                        1577,
+                        199,
+                        2306,
+                        273
+                    ]
+                ],
+                "model_confidence": [
+                    0.999806,
+                    0.979874
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_address": {
+                "value": "P.O. BOX 9271, DUBAI,UAE",
+                "coordinate": [
+                    [
+                        229,
+                        252,
+                        820,
+                        287
+                    ]
+                ],
+                "model_confidence": [
+                    0.999515
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_bic": {
+                "value": "SWIFT:BOMLAEAD",
+                "coordinate": [
+                    [
+                        776,
+                        301,
+                        1122,
+                        329
+                    ]
+                ],
+                "model_confidence": [
+                    0.999847
+                ],
+                "ocr_confidence": []
+            },
+            "csh_presentation_date": {
+                "value": "29-MAY-21",
+                "coordinate": [
+                    [
+                        402,
+                        543,
+                        620,
+                        571
+                    ]
+                ],
+                "model_confidence": [
+                    0.999798
+                ],
+                "ocr_confidence": []
+            },
+            "csh_ref_no": {
+                "value": "032EBUN211490005",
+                "coordinate": [
+                    [
+                        1028,
+                        683,
+                        1418,
+                        711
+                    ]
+                ],
+                "model_confidence": [
+                    0.999917
+                ],
+                "ocr_confidence": []
+            },
+            "csh_drawn_under_lc_number": {
+                "value": "032ELUC203060009",
+                "coordinate": [
+                    [
+                        1028,
+                        732,
+                        1418,
+                        760
+                    ]
+                ],
+                "model_confidence": [
+                    0.999799
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "AL MASRAF \u2014 ISLAMIC",
+                "coordinate": [
+                    [
+                        1072,
+                        1303,
+                        1545,
+                        1331
+                    ]
+                ],
+                "model_confidence": [
+                    0.999843
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "ISLAMIC BANKING SERVICES BRANCH FIRST-MAIN JUMEIRA ROAD UMM SUQEIM DUBAI",
+                "coordinate": [
+                    [
+                        1075,
+                        1352,
+                        1844,
+                        1478
+                    ]
+                ],
+                "model_confidence": [
+                    0.999696
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_name": {
+                "value": "UTMOST MANUFACTURING BR",
+                "coordinate": [
+                    [
+                        1075,
+                        1541,
+                        1646,
+                        1569
+                    ]
+                ],
+                "model_confidence": [
+                    0.999903
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_address": {
+                "value": "BAHWAN COMPLEX LEVEL 1 NR BURJMAN METRO STATION NEXT TO LONDON CROWN HOTEL OPPOSITE RAK BANK PO BOX 55014",
+                "coordinate": [
+                    [
+                        1072,
+                        1587,
+                        2170,
+                        1759
+                    ]
+                ],
+                "model_confidence": [
+                    0.999888
+                ],
+                "ocr_confidence": []
+            },
+            "csh_bill_currency": {
+                "value": "AED~UAEDIRHAM",
+                "coordinate": [
+                    [
+                        1072,
+                        1969,
+                        1144,
+                        1997
+                    ],
+                    [
+                        1075,
+                        2109,
+                        1322,
+                        2137
+                    ]
+                ],
+                "model_confidence": [
+                    0.999452,
+                    0.999674
+                ],
+                "ocr_confidence": []
+            },
+            "csh_bill_amount": {
+                "value": "48,505.46",
+                "coordinate": [
+                    [
+                        1226,
+                        1969,
+                        1443,
+                        2000
+                    ]
+                ],
+                "model_confidence": [
+                    0.999845
+                ],
+                "ocr_confidence": []
+            },
+            "tenor_indicator": {
+                "value": "USANCE",
+                "coordinate": [
+                    [
+                        1075,
+                        2161,
+                        1218,
+                        2186
+                    ]
+                ],
+                "model_confidence": [
+                    0.999601
+                ],
+                "ocr_confidence": []
+            },
+            "usance_tenor": {
+                "value": "120",
+                "coordinate": [
+                    [
+                        1077,
+                        2207,
+                        1142,
+                        2232
+                    ]
+                ],
+                "model_confidence": [
+                    0.999788
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "document_enclosed": {},
+            "csh_due_date": {},
+            "csh_drawn_under_rules": {},
+            "tenor_type": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "tenor_indicator_type": {},
+            "tenor_indicator_date": {},
+            "drawer_bank_country": {},
+            "drawer_country": {},
+            "drawer_ref_no": {},
+            "drawee_country": {},
+            "drawee_bank_name": {},
+            "drawee_bank_bic": {},
+            "drawee_bank_address": {},
+            "drawee_bank_country": {},
+            "nostro_bank_name": {},
+            "nostro_bank_bic": {},
+            "nostro_bank_address": {},
+            "nostro_bank_country": {},
+            "doc_delivery_instruction": {},
+            "doc_charge_instructions": {},
+            "signature": {},
+            "stamp": {},
+            "original": {},
+            "our_charges": {},
+            "your_charges": {},
+            "less_your_charges": {},
+            "plus_our_charges": {},
+            "commissioned_charges": {},
+            "less_commission_charges": {},
+            "swift_charges": {},
+            "postal_charges": {},
+            "other_charges": {},
+            "total_bill_amount": {},
+            "original_number": {},
+            "total_original": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {},
+            "charges": {},
+            "final_destination": {},
+            "advanced_charges": {},
+            "additional_charges": {},
+            "payment_at_sight": {},
+            "payment_before_sight": {},
+            "advance_payment": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

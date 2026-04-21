@@ -1,0 +1,422 @@
+{
+    "mohammedkm_23-01-2026_8-50-01_page_9.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999862909317017
+        },
+        "predicted_class": "CI",
+        "confidence": "0.9947336912155151",
+        "extraction_result": {
+            "drawer_name": {
+                "value": "THE YOKOHAMA RUBBER CO.,LTD. YOKOHAMA",
+                "coordinate": [
+                    [
+                        255,
+                        87,
+                        1724,
+                        231
+                    ]
+                ],
+                "model_confidence": [
+                    0.99749
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_address": {
+                "value": "21, OIWAKE, HIRATSUKA, KANAGAWA 254-8601, ",
+                "coordinate": [
+                    [
+                        994,
+                        150,
+                        2036,
+                        206
+                    ]
+                ],
+                "model_confidence": [
+                    0.998342
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "YOKOHAMA TIRE PHILIPPINES,~NEW EAST GENERAL TRADING FZCO",
+                "coordinate": [
+                    [
+                        32,
+                        2427,
+                        550,
+                        2462
+                    ],
+                    [
+                        79,
+                        508,
+                        664,
+                        540
+                    ]
+                ],
+                "model_confidence": [
+                    0.566606,
+                    0.984761
+                ],
+                "ocr_confidence": []
+            },
+            "diclaration_by": {
+                "value": "INC.~THE YOKOHAMA RUBBER CO., LTD.",
+                "coordinate": [
+                    [
+                        570,
+                        2427,
+                        630,
+                        2459
+                    ],
+                    [
+                        1622,
+                        2918,
+                        2203,
+                        2953
+                    ]
+                ],
+                "model_confidence": [
+                    0.61003,
+                    0.9738
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "IE 5 CLARK FREEPORT ZONE, 2023 PHILIPPINES~PLOT S21006, FREE ZONE TRADING STREET, JAFZA SOUTH ZONE 2, JEBEL ALI, DUBAI, UAE.",
+                "coordinate": [
+                    [
+                        37,
+                        2473,
+                        865,
+                        2508
+                    ],
+                    [
+                        79,
+                        554,
+                        684,
+                        677
+                    ]
+                ],
+                "model_confidence": [
+                    0.985097,
+                    0.993478
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "23/12/2025",
+                "coordinate": [
+                    [
+                        34,
+                        326,
+                        468,
+                        413
+                    ]
+                ],
+                "model_confidence": [
+                    0.997728
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_no": {
+                "value": "PC9732",
+                "coordinate": [
+                    [
+                        1818,
+                        375,
+                        1979,
+                        417
+                    ]
+                ],
+                "model_confidence": [
+                    0.998019
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "ARAB BANK FOR INVESTMENT AND FOREIGN TRA",
+                "coordinate": [
+                    [
+                        76,
+                        1357,
+                        888,
+                        1389
+                    ]
+                ],
+                "model_confidence": [
+                    0.999404
+                ],
+                "ocr_confidence": []
+            },
+            "tenore_details": {
+                "value": "DE~LC AT 120 DAYS AFTER BILL OF LADING DATE",
+                "coordinate": [
+                    [
+                        76,
+                        1403,
+                        114,
+                        1434
+                    ],
+                    [
+                        1223,
+                        1357,
+                        2031,
+                        1392
+                    ]
+                ],
+                "model_confidence": [
+                    0.956118,
+                    0.999789
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2534300022",
+                "coordinate": [
+                    [
+                        1223,
+                        1269,
+                        1463,
+                        1301
+                    ]
+                ],
+                "model_confidence": [
+                    0.999828
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {
+                "value": "USD",
+                "coordinate": [
+                    [
+                        2029,
+                        1848,
+                        2116,
+                        1883
+                    ]
+                ],
+                "model_confidence": [
+                    0.693677
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": "388~812. 00~107. 60",
+                "coordinate": [
+                    [
+                        1215,
+                        2118,
+                        1272,
+                        2146
+                    ],
+                    [
+                        2131,
+                        1848,
+                        2247,
+                        1883
+                    ],
+                    [
+                        2133,
+                        2118,
+                        2247,
+                        2150
+                    ]
+                ],
+                "model_confidence": [
+                    0.714852,
+                    0.925642,
+                    0.813459
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1817.49,
+                        2942.56,
+                        2371.44,
+                        3095.56
+                    ]
+                ],
+                "model_confidence": [
+                    0.845
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_address_country": {
+                "value": "JAPAN",
+                "coordinate": [
+                    [
+                        994,
+                        150,
+                        2036,
+                        206
+                    ]
+                ],
+                "model_confidence": [
+                    0.998342
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address_country": {
+                "value": "IE",
+                "coordinate": [
+                    [
+                        37,
+                        2473,
+                        865,
+                        2508
+                    ]
+                ],
+                "model_confidence": [
+                    0.9892875
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "remitter_drawee_applicant_importer_buyer_name": {},
+            "remitter_address": {},
+            "remitter_country": {},
+            "cosignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "notify_party_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_name": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin": {},
+            "beneficiary_address": {},
+            "beneficiary_country": {},
+            "consignor_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "transaction_currency": {},
+            "transaction_amount_value": {},
+            "invoice_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "invoice_discount_ccy": {},
+            "invoice_discount_amount": {},
+            "invoice_tax_ccy": {},
+            "invoice_tax_amount": {},
+            "invoice_amount_in_words": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "goods_description": {},
+            "total_quantity_of_goods": {},
+            "rate_per_unit": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "dimension": {},
+            "hs_code_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "beneficiary_bank_name": {},
+            "beneficiary_bank_country": {},
+            "beneficiary_account_number": {},
+            "beneficiary_iban_number": {},
+            "beneficiary_bank_identifier": {},
+            "delivery_terms": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "incoterm": {},
+            "country_of_origin_of_goods": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "country_of_final_destination": {},
+            "pre_carriage_by": {},
+            "vessel_flight_no": {},
+            "bill_of_lading_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_date": {},
+            "awb_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "declaration_by_issuer": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature_of_the_issuer": {},
+            "original_or_copy": {},
+            "lc_date": {},
+            "place_of_receipt": {},
+            "stamp": {},
+            "additional_charges": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1817.49,
+                        2942.56,
+                        2371.44,
+                        3095.56
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.845
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

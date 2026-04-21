@@ -1,0 +1,257 @@
+{
+    "Trade Finance_20210208145328_1.00_page_4.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999717473983765
+        },
+        "predicted_class": "CS",
+        "confidence": "0.9703337550163269",
+        "extraction_result": {
+            "drawer_bank_name": {
+                "value": "ALMASRAF",
+                "coordinate": [
+                    [
+                        1844,
+                        245,
+                        2243,
+                        304
+                    ]
+                ],
+                "model_confidence": [
+                    0.999831
+                ],
+                "ocr_confidence": []
+            },
+            "csh_presentation_date": {
+                "value": "08/02/2021",
+                "coordinate": [
+                    [
+                        2035,
+                        367,
+                        2230,
+                        392
+                    ]
+                ],
+                "model_confidence": [
+                    0.999709
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {
+                "value": "UNITED FURNITURE CO L.L.C~ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+                "coordinate": [
+                    [
+                        341,
+                        1068,
+                        822,
+                        1103
+                    ],
+                    [
+                        1277,
+                        879,
+                        2144,
+                        904
+                    ]
+                ],
+                "model_confidence": [
+                    0.999859,
+                    0.999825
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_address": {
+                "value": "PO BOX 7410 DUBAI UAE TEL:04-3391640 FAX04331650",
+                "coordinate": [
+                    [
+                        336,
+                        1117,
+                        851,
+                        1194
+                    ]
+                ],
+                "model_confidence": [
+                    0.999616
+                ],
+                "ocr_confidence": []
+            },
+            "csh_bill_currency": {
+                "value": "USD",
+                "coordinate": [
+                    [
+                        611,
+                        1744,
+                        675,
+                        1773
+                    ]
+                ],
+                "model_confidence": [
+                    0.999235
+                ],
+                "ocr_confidence": []
+            },
+            "csh_bill_amount": {
+                "value": "18,604.80",
+                "coordinate": [
+                    [
+                        693,
+                        1744,
+                        849,
+                        1776
+                    ]
+                ],
+                "model_confidence": [
+                    0.999774
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_name": {
+                "value": "ANJI WEIYU FURNITURE CO.LTD",
+                "coordinate": [
+                    [
+                        1564,
+                        1173,
+                        2079,
+                        1201
+                    ]
+                ],
+                "model_confidence": [
+                    0.999938
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_address": {
+                "value": "NO.280 WEST SUNLIGHT ROAD, DIPU TOWN ANJI COUNTY.ZHEJIANG PROVINCE, CHINA",
+                "coordinate": [
+                    [
+                        1564,
+                        1222,
+                        2272,
+                        1303
+                    ]
+                ],
+                "model_confidence": [
+                    0.999891
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_address_country": {
+                "value": "CHINA",
+                "coordinate": [
+                    [
+                        1564,
+                        1222,
+                        2272,
+                        1303
+                    ]
+                ],
+                "model_confidence": [
+                    0.999891
+                ],
+                "ocr_confidence": []
+            },
+            "document_enclosed": {},
+            "csh_ref_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "csh_due_date": {},
+            "csh_drawn_under_rules": {},
+            "csh_drawn_under_lc_number": {},
+            "tenor_type": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "tenor_indicator_type": {},
+            "tenor_indicator_date": {},
+            "drawer_bank_bic": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "drawer_country": {},
+            "drawer_ref_no": {},
+            "drawee_country": {},
+            "drawee_bank_name": {},
+            "drawee_bank_bic": {},
+            "drawee_bank_address": {},
+            "drawee_bank_country": {},
+            "nostro_bank_name": {},
+            "nostro_bank_bic": {},
+            "nostro_bank_address": {},
+            "nostro_bank_country": {},
+            "doc_delivery_instruction": {},
+            "doc_charge_instructions": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature": {},
+            "stamp": {},
+            "original": {},
+            "total_page": {},
+            "our_charges": {},
+            "your_charges": {},
+            "less_your_charges": {},
+            "plus_our_charges": {},
+            "commissioned_charges": {},
+            "less_commission_charges": {},
+            "swift_charges": {},
+            "postal_charges": {},
+            "other_charges": {},
+            "total_bill_amount": {},
+            "original_number": {},
+            "total_original": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {},
+            "charges": {},
+            "final_destination": {},
+            "advanced_charges": {},
+            "additional_charges": {},
+            "payment_at_sight": {},
+            "payment_before_sight": {},
+            "advance_payment": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

@@ -1,0 +1,425 @@
+{
+    "Trade Finance_20210603075228_1.00_page_16.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.999976634979248
+        },
+        "predicted_class": "CI",
+        "confidence": 0.9,
+        "extraction_result": {
+            "beneficiary_drawer_exporter_seller_supplier_name": {
+                "value": "UTMOST BUILDING MATERIALS LLC~COUR UTMOST",
+                "coordinate": [
+                    [
+                        945,
+                        3238,
+                        1366,
+                        3273
+                    ],
+                    [
+                        1589,
+                        249,
+                        1822,
+                        393
+                    ]
+                ],
+                "model_confidence": [
+                    0.941563,
+                    0.916881
+                ],
+                "ocr_confidence": []
+            },
+            "page_no": {
+                "value": "1",
+                "coordinate": [
+                    [
+                        2139,
+                        389,
+                        2196,
+                        424
+                    ]
+                ],
+                "model_confidence": [
+                    0.99901
+                ],
+                "ocr_confidence": []
+            },
+            "goods_description": {
+                "value": "REINFORCEMENT STEEL,CUT AND BE ND STEEL.~STEEL CD B STEELC LB",
+                "coordinate": [
+                    [
+                        91,
+                        916,
+                        653,
+                        944
+                    ],
+                    [
+                        373,
+                        1566,
+                        574,
+                        1647
+                    ]
+                ],
+                "model_confidence": [
+                    0.999857,
+                    0.997182
+                ],
+                "ocr_confidence": []
+            },
+            "country_of_origin_of_goods": {
+                "value": "UAE",
+                "coordinate": [
+                    [
+                        336,
+                        1021,
+                        406,
+                        1046
+                    ]
+                ],
+                "model_confidence": [
+                    0.997102
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_amount_in_words": {
+                "value": "FORTYEIGHT THOUSAND FIVE HUNDRED FIVE AND FILLS FORTYSIX",
+                "coordinate": [
+                    [
+                        586,
+                        2458,
+                        1703,
+                        2486
+                    ]
+                ],
+                "model_confidence": [
+                    0.999886
+                ],
+                "ocr_confidence": []
+            },
+            "stamp": {
+                "value": "UTMOS0 SIGNATORY 91| 2. UTMOST MANUFACTURING UTOIDALEMIRATES.NEL.A TURING1 SAHUP 223)(BR. OF WWW.UTMOSTE(P.CO BUILDRIO:ERIALS TEL.~GOODS..52 2~23DS20~5 T %X A1 A * 09 110 ROUTPEOTAAR",
+                "coordinate": [
+                    [
+                        245,
+                        3094,
+                        1366,
+                        3353
+                    ],
+                    [
+                        1549,
+                        2500,
+                        1923,
+                        2556
+                    ],
+                    [
+                        1710,
+                        2820,
+                        1948,
+                        2869
+                    ],
+                    [
+                        1772,
+                        3006,
+                        2258,
+                        3357
+                    ]
+                ],
+                "model_confidence": [
+                    0.923264,
+                    0.908173,
+                    0.998147,
+                    0.855841
+                ],
+                "ocr_confidence": []
+            },
+            "country_of_final_destination": {
+                "value": "UAE",
+                "coordinate": [
+                    [
+                        554,
+                        2700,
+                        623,
+                        2728
+                    ]
+                ],
+                "model_confidence": [
+                    0.89062
+                ],
+                "ocr_confidence": []
+            },
+            "declaration_by_issuer": {
+                "value": "FOR UTMOST MANUFACTURING(BR O F UTMOST BUILDING MATERIALS LLC",
+                "coordinate": [
+                    [
+                        74,
+                        3090,
+                        1010,
+                        3132
+                    ]
+                ],
+                "model_confidence": [
+                    0.881464
+                ],
+                "ocr_confidence": []
+            },
+            "beneficiary_address": {
+                "value": "P. O. P. O. BOX BOX 55014, 55014, DUBAI DUBAI--U. A. E. U. A. E. 4 3553883 FAX: 971 4 3553776.",
+                "coordinate": [
+                    [
+                        916,
+                        3283,
+                        1366,
+                        3353
+                    ]
+                ],
+                "model_confidence": [
+                    0.97789
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "APPLICANTS AUTHORISED SIGNATORY",
+                "coordinate": [
+                    [
+                        1195,
+                        2914,
+                        1666,
+                        2946
+                    ]
+                ],
+                "model_confidence": [
+                    0.998021
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_no": {
+                "value": "1/2 709/3/2021",
+                "coordinate": [
+                    [
+                        450,
+                        488,
+                        784,
+                        523
+                    ]
+                ],
+                "model_confidence": [
+                    0.999899
+                ],
+                "ocr_confidence": []
+            },
+            "date_of_invoice": {
+                "value": "23/05/2021",
+                "coordinate": [
+                    [
+                        2087,
+                        460,
+                        2305,
+                        526
+                    ]
+                ],
+                "model_confidence": [
+                    0.998882
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_drawee_applicant_importer_buyer_name": {
+                "value": "AL MASRAF - ISLAMIC",
+                "coordinate": [
+                    [
+                        99,
+                        611,
+                        492,
+                        639
+                    ]
+                ],
+                "model_confidence": [
+                    0.999905
+                ],
+                "ocr_confidence": []
+            },
+            "remitter_address": {
+                "value": "P.O.BOX ISLAMIC BANK, FIRST-MAIN JUMEIRA ROAD, UMM SUQEIM DUBAI",
+                "coordinate": [
+                    [
+                        103,
+                        667,
+                        846,
+                        744
+                    ]
+                ],
+                "model_confidence": [
+                    0.999575
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2030670000",
+                "coordinate": [
+                    [
+                        1490,
+                        663,
+                        1718,
+                        691
+                    ]
+                ],
+                "model_confidence": [
+                    0.999218
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "01/11/2020",
+                "coordinate": [
+                    [
+                        1931,
+                        663,
+                        2099,
+                        691
+                    ]
+                ],
+                "model_confidence": [
+                    0.999883
+                ],
+                "ocr_confidence": []
+            },
+            "invoice_amount": {
+                "value": "48,505.46",
+                "coordinate": [
+                    [
+                        1891,
+                        1727,
+                        2062,
+                        1766
+                    ]
+                ],
+                "model_confidence": [
+                    0.999242
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        1370.17,
+                        2766.47,
+                        1584.95,
+                        2885.3
+                    ]
+                ],
+                "model_confidence": [
+                    0.761
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "transaction_date": {},
+            "remitter_country": {},
+            "cosignee_name": {},
+            "consignee_address": {},
+            "consignee_country": {},
+            "notify_party_name": {},
+            "notify_party_address": {},
+            "notify_party_country": {},
+            "beneficiary_drawer_exporter_seller_supplier_tin": {},
+            "beneficiary_country": {},
+            "consignor_name": {},
+            "consignor_address": {},
+            "consignor_country": {},
+            "shipper_name": {},
+            "shipper_address": {},
+            "shipper_country": {},
+            "transaction_currency": {},
+            "transaction_amount_value": {},
+            "invoice_currency": {},
+            "invoice_discount_ccy": {},
+            "invoice_discount_amount": {},
+            "invoice_tax_ccy": {},
+            "invoice_tax_amount": {},
+            "total_quantity_of_goods": {},
+            "rate_per_unit": {},
+            "gross_weight": {},
+            "net_weight": {},
+            "dimension": {},
+            "hs_code_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "beneficiary_bank_name": {},
+            "beneficiary_bank_country": {},
+            "beneficiary_account_number": {},
+            "beneficiary_iban_number": {},
+            "beneficiary_bank_identifier": {},
+            "delivery_terms": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "incoterm": {},
+            "port_of_loading": {},
+            "port_of_discharge": {},
+            "pre_carriage_by": {},
+            "vessel_flight_no": {},
+            "bill_of_lading_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "bill_of_lading_date": {},
+            "awb_number": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "awb_date": {},
+            "signature_of_the_issuer": {},
+            "original_or_copy": {},
+            "place_of_receipt": {},
+            "additional_charges": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        1370.17,
+                        2766.47,
+                        1584.95,
+                        2885.3
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.761
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

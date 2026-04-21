@@ -1,0 +1,325 @@
+{
+    "Trade Finance_20210520184923_1.00_page_12.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9997557997703552
+        },
+        "predicted_class": "BOE",
+        "confidence": 0.9,
+        "extraction_result": {
+            "bill_exchange_no": {
+                "value": "220JJ61360564",
+                "coordinate": [
+                    [
+                        262,
+                        481,
+                        519,
+                        516
+                    ]
+                ],
+                "model_confidence": [
+                    0.999619
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "14/05/2021",
+                "coordinate": [
+                    [
+                        1889,
+                        470,
+                        2069,
+                        502
+                    ]
+                ],
+                "model_confidence": [
+                    0.999698
+                ],
+                "ocr_confidence": []
+            },
+            "boe_currency": {
+                "value": "USD",
+                "coordinate": [
+                    [
+                        175,
+                        586,
+                        255,
+                        618
+                    ]
+                ],
+                "model_confidence": [
+                    0.999361
+                ],
+                "ocr_confidence": []
+            },
+            "boe_amount": {
+                "value": ",639.00",
+                "coordinate": [
+                    [
+                        524,
+                        593,
+                        661,
+                        628
+                    ]
+                ],
+                "model_confidence": [
+                    0.999837
+                ],
+                "ocr_confidence": []
+            },
+            "tenore_details": {
+                "value": "SIGHT",
+                "coordinate": [
+                    [
+                        641,
+                        698,
+                        740,
+                        741
+                    ]
+                ],
+                "model_confidence": [
+                    0.999862
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "KUKA (HK) TRADE CO., LIMITED",
+                "coordinate": [
+                    [
+                        539,
+                        856,
+                        1114,
+                        895
+                    ]
+                ],
+                "model_confidence": [
+                    0.996744
+                ],
+                "ocr_confidence": []
+            },
+            "amount_in_words": {
+                "value": "STATES 1_EUNITED DOLLARS NINE THOUSAND SIX HUNDRED AND THIRTY NINE ONLY,",
+                "coordinate": [
+                    [
+                        175,
+                        969,
+                        1760,
+                        1025
+                    ]
+                ],
+                "model_confidence": [
+                    0.878534
+                ],
+                "ocr_confidence": []
+            },
+            "lc_ref_no": {
+                "value": "TF2034500008",
+                "coordinate": [
+                    [
+                        817,
+                        1359,
+                        1047,
+                        1387
+                    ]
+                ],
+                "model_confidence": [
+                    0.999813
+                ],
+                "ocr_confidence": []
+            },
+            "lc_date": {
+                "value": "12/10/2020",
+                "coordinate": [
+                    [
+                        1478,
+                        1355,
+                        1658,
+                        1383
+                    ]
+                ],
+                "model_confidence": [
+                    0.999703
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_name": {
+                "value": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+                "coordinate": [
+                    [
+                        250,
+                        1580,
+                        987,
+                        1654
+                    ]
+                ],
+                "model_confidence": [
+                    0.99958
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_bank_address": {
+                "value": "ABU DHABI(HEAD OFFICE~LOGISTICS",
+                "coordinate": [
+                    [
+                        373,
+                        1622,
+                        799,
+                        1671
+                    ],
+                    [
+                        1658,
+                        1868,
+                        1792,
+                        1907
+                    ]
+                ],
+                "model_confidence": [
+                    0.743613,
+                    0.337227
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "PIMREGAE",
+                "coordinate": [
+                    [
+                        1413,
+                        1756,
+                        2084,
+                        1812
+                    ]
+                ],
+                "model_confidence": [
+                    0.955539
+                ],
+                "ocr_confidence": []
+            },
+            "stamp": {
+                "value": "KUKA HK) TRADE LIMITED CO, COMMUNICATIONQ FOR INTERNATIONAL HR",
+                "coordinate": [
+                    [
+                        1413,
+                        1808,
+                        2104,
+                        1994
+                    ]
+                ],
+                "model_confidence": [
+                    0.819487
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "TRUE",
+                "coordinate": [
+                    [
+                        778.98,
+                        2861.86,
+                        1109.04,
+                        3039.18
+                    ]
+                ],
+                "model_confidence": [
+                    0.791
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "declaration_by": {
+                "value": "FOR AND ON BEHALF OF~FOR AND ON BEHALF OF KUKA (HK) TRADE CO., LIMITED",
+                "coordinate": [
+                    [
+                        242,
+                        2528,
+                        574,
+                        2556
+                    ],
+                    [
+                        1190,
+                        1580,
+                        1723,
+                        1668
+                    ]
+                ],
+                "model_confidence": [
+                    0.998971,
+                    0.998619
+                ],
+                "ocr_confidence": []
+            },
+            "drawee_name": {},
+            "drawee_address": {},
+            "drawee_country": {},
+            "drawer_name": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "country_of_origin": {},
+            "invoice_no": {},
+            "invoice_date": {},
+            "invoice_currency": {},
+            "invoice_amount": {},
+            "tenor_type": {},
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "indicator_type": {},
+            "indicator_date": {},
+            "invoice_due_date": {},
+            "original_or_copy": {},
+            "original_number": {},
+            "signature": {},
+            "issue_place": {},
+            "drawee_bank_country": {},
+            "drawer_bank_address": {},
+            "drawer_bank_country": {},
+            "total_original_number": {},
+            "goods_description": {},
+            "tenor_details": {},
+            "issuing_bank": {},
+            "issuing_bank_address": {},
+            "issuing_bank_country": {},
+            "stamp_endorsed": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": [
+                    [
+                        778.98,
+                        2861.86,
+                        1109.04,
+                        3039.18
+                    ],
+                    [
+                        1892.01,
+                        1900.32,
+                        2221.52,
+                        2049.39
+                    ]
+                ]
+            },
+            "keys_confidence": {
+                "sign": [
+                    0.791,
+                    0.764
+                ]
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+,Label_Name,Label_Count,Labels_Detected,Detection_Accuracy,Fuzzy_Match_Percentage,Complete_Match_Count_Detected,Complete_Match_Count,Complete_Match_Percentage
+0,beneficiary_address,6,6,100.0,59.17,0.0,0,0.0
+1,beneficiary_bank_name,6,0,0.0,0.0,0.0,0,0.0
+2,country_of_origin_of_goods,6,4,66.66666666666666,22.83,0.0,0,0.0
+3,date_of_invoice,6,6,100.0,57.0,0.0,0,0.0
+4,goods_description,6,1,16.666666666666664,16.67,1.0,1,16.67
+5,invoice_amount,6,0,0.0,0.0,0.0,0,0.0
+6,invoice_amount_in_words,6,6,100.0,99.83,1.0,6,100.0
+7,invoice_currency,6,0,0.0,0.0,0.0,0,0.0
+8,invoice_no,6,6,100.0,100.0,1.0,6,100.0
+9,lc_date,6,6,100.0,64.0,0.0,0,0.0
+10,lc_ref_no,12,12,100.0,87.75,0.8333333333333334,10,83.33
+11,remitter_address,6,6,100.0,81.83,0.6666666666666666,4,66.67
+12,remitter_drawee_applicant_importer_buyer_name,6,6,100.0,96.33,1.0,6,100.0
+13,sign,6,0,0.0,33.33,0.0,2,33.33
+14,total_quantity_of_goods,6,0,0.0,0.0,0.0,0,0.0
+15,OVERALL,96,59,61.458333333333336,50.40625,0.5932203389830508,35,0.3645833333333333

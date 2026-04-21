@@ -1,0 +1,42 @@
+File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+Trade Finance_20210208145328_1.00_page_18.png,remitter_drawee_applicant_importer_buyer_name,UNITED FURNITURE CO LLC,UNITED FURNITURE CO LLC,100,1,"[248, 521, 672, 556]","[248, 513, 671, 558]"
+Trade Finance_20210208145328_1.00_page_18.png,remitter_address,POBOX7410DUBAIUAE,POBOX7410DUBAIUAE,100,1,"[248, 574, 603, 602]","[244, 568, 606, 604]"
+Trade Finance_20210208145328_1.00_page_18.png,remitter_country,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,cosignee_name,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,consignee_address,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,consignee_country,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_drawer_exporter_seller_supplier_name,ANJIWEIYU FURNITURE COLTD,ANJI WEIYU FURNITURE COLTD,98,1,"[808, 315, 1591, 353]","[795, 299, 1594, 360]"
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_drawer_exporter_seller_supplier_tin,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_address,NO280WESTSUNLIGHTROADDIPUTOWNANJICOUNTYZHEJIANGPROVINCECHINA,NO280WESTSUNLIGHTROADDIPUTOWNANJICOUNTYZHEJIANGPROVINCECHINA,100,1,"[391, 371, 2008, 423]","[386, 364, 2009, 419]"
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_country,,CHINA,0,0,"[391, 371, 2008, 423]",
+Trade Finance_20210208145328_1.00_page_18.png,invoice_no,WY1260821,WY1260821,100,1,"[2022, 581, 2261, 619]","[2011, 574, 2192, 611]"
+Trade Finance_20210208145328_1.00_page_18.png,date_of_invoice,22-Jan-21,22/01/2021,42,0,"[2015, 672, 2261, 710]","[2019, 666, 2155, 700]"
+Trade Finance_20210208145328_1.00_page_18.png,invoice_currency,USD,,0,0,[],"[2032, 1862, 2094, 1893]"
+Trade Finance_20210208145328_1.00_page_18.png,invoice_amount,"18,604.80",,0,0,[],"[2100, 1861, 2234, 1892]"
+Trade Finance_20210208145328_1.00_page_18.png,invoice_amount_in_words,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,goods_description,CHAIR,CHAIR,100,1,"[800, 1449, 887, 1473]","[789, 1442, 895, 1478]"
+Trade Finance_20210208145328_1.00_page_18.png,total_quantity_of_goods,720PCS,,0,0,[],"[1575, 1850, 1698, 1894]"
+Trade Finance_20210208145328_1.00_page_18.png,rate_per_unit,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_bank_name,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_bank_country,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_account_number,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_iban_number,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,beneficiary_bank_identifier,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,delivery_terms,SHANGHAI,SHANGHAI,100,1,"[731, 1953, 874, 1981]","[666, 1947, 885, 1982]"
+Trade Finance_20210208145328_1.00_page_18.png,tenor_type,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,usance_tenor,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,tenor_indicator,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,indicator_type,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,indicator_date,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,invoice_due_date,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,incoterm,FOB,FOB,100,1,"[556, 1330, 965, 1396]","[553, 1327, 975, 1401]"
+Trade Finance_20210208145328_1.00_page_18.png,country_of_origin_of_goods,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,port_of_loading,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,port_of_discharge,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,country_of_final_destination,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,vessel_flight_no,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,bill_of_lading_no,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,bill_of_lading_date,,,0,0,[],
+Trade Finance_20210208145328_1.00_page_18.png,declaration_by_issuer,"ANJI ... FURNITURE CO. , LTD","ANJI VENTS FURNITURE CO., LTD",84,1,"[1362, 2726, 2126, 2789]","[1350, 2724, 2135, 2793]"
+Trade Finance_20210208145328_1.00_page_18.png,lc_ref_no,TF2019500005,TF2019500005,100,1,"[2015, 717, 2261, 756]","[2017, 716, 2220, 745]"
+Trade Finance_20210208145328_1.00_page_18.png,lc_date,,13/01/2025,0,0,"[527, 2261, 630, 2285]","[521, 2256, 633, 2289]"

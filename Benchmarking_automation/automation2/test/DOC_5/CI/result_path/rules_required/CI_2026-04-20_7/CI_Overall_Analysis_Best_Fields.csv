@@ -1,0 +1,6 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,DOC_5_page_3.png,lc_ref_no,TF2102700010,TF2102700010,100,1,"[716, 1353, 951, 1392]","[466, 900, 633, 926]"
+1,DOC_5_page_3.png,invoice_currency,USD,USD,100,1,"[2134, 1753, 2206, 1781]","[1410, 1156, 1470, 1189]"
+2,DOC_5_page_3.png,goods_description,HOUSEHOLD ITEMS,HOUSE OLD ITEMS,93,1,"[386, 1588, 718, 1616]","[247, 1051, 475, 1079]"
+3,DOC_5_page_3.png,goods_description,CUSHION RUG,CUSHION,78,1,"[961, 1820, 1118, 1851]","[630, 1733, 744, 1811]"
+4,DOC_5_page_3.png,remitter_drawee_applicant_importer_buyer_name,PAN EMIRATES HOME FURNISHINGS LLC,PAN EMIRATES HOME FURNISHINGS LLC,100,1,"[1410, 820, 2057, 848]","[931, 546, 1368, 567]"

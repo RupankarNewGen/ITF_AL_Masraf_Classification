@@ -1,0 +1,53 @@
+,File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+0,mohammedkm_23-01-2026_8-50-01_page_15.png,invoice_currency,,,0,0,[],
+1,mohammedkm_23-01-2026_8-50-01_page_15.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1223, 1273, 1463, 1304]","[1218, 1267, 1487, 1319]"
+2,mohammedkm_23-01-2026_8-50-01_page_15.png,consignor_name,,,0,0,[],
+3,mohammedkm_23-01-2026_8-50-01_page_15.png,invoice_amount,,,0,0,[],
+4,mohammedkm_23-01-2026_8-50-01_page_15.png,lc_date,,,0,0,[],
+5,mohammedkm_23-01-2026_8-50-01_page_15.png,consignee_name,NEW EAST GENERAL TRADING FZCO,NEW EAST GENERAL TRADING FZCO,100,1,"[81, 508, 667, 543]","[72, 496, 681, 553]"
+6,mohammedkm_23-01-2026_8-50-01_page_15.png,description_of_goods,YOKOHAMA BRAND TYRES,YOKOHAMA BRAND TYRES,100,1,"[34, 1582, 446, 1613]","[18, 1571, 463, 1625]"
+7,mohammedkm_23-01-2026_8-50-01_page_15.png,pre_carriage_by,,,0,0,[],
+8,mohammedkm_23-01-2026_8-50-01_page_15.png,consignee_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAE,91,1,"[79, 554, 684, 680]","[72, 556, 794, 696]"
+9,mohammedkm_23-01-2026_8-50-01_page_15.png,is_stamp,,FALSE,0,0,[],
+10,mohammedkm_23-01-2026_8-50-01_page_15.png,bill_of_lading_date,,,0,0,[],
+11,mohammedkm_23-01-2026_8-50-01_page_15.png,incoterm,,,0,0,[],
+12,mohammedkm_23-01-2026_8-50-01_page_15.png,country_of_final_destination,,,0,0,[],
+13,mohammedkm_23-01-2026_8-50-01_page_16.png,invoice_currency,,,0,0,[],
+14,mohammedkm_23-01-2026_8-50-01_page_16.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1223, 1273, 1463, 1304]","[1218, 1267, 1487, 1319]"
+15,mohammedkm_23-01-2026_8-50-01_page_16.png,consignor_name,,,0,0,[],
+16,mohammedkm_23-01-2026_8-50-01_page_16.png,invoice_amount,,,0,0,[],
+17,mohammedkm_23-01-2026_8-50-01_page_16.png,lc_date,,,0,0,[],
+18,mohammedkm_23-01-2026_8-50-01_page_16.png,consignee_name,NEW EAST GENERAL TRADING FZCO,NEW EAST GENERAL TRADING FZCO,100,1,"[81, 512, 667, 543]","[72, 496, 681, 553]"
+19,mohammedkm_23-01-2026_8-50-01_page_16.png,description_of_goods,YOKOHAMA BRAND TYRES,YOKOHAMA BRAND TYRES,100,1,"[34, 1582, 449, 1613]","[18, 1571, 463, 1625]"
+20,mohammedkm_23-01-2026_8-50-01_page_16.png,pre_carriage_by,,,0,0,[],
+21,mohammedkm_23-01-2026_8-50-01_page_16.png,consignee_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAE,91,1,"[79, 557, 687, 680]","[72, 556, 794, 696]"
+22,mohammedkm_23-01-2026_8-50-01_page_16.png,is_stamp,,FALSE,0,0,[],
+23,mohammedkm_23-01-2026_8-50-01_page_16.png,bill_of_lading_date,,,0,0,[],
+24,mohammedkm_23-01-2026_8-50-01_page_16.png,incoterm,,,0,0,[],
+25,mohammedkm_23-01-2026_8-50-01_page_16.png,country_of_final_destination,,,0,0,[],
+26,mohammedkm_23-01-2026_8-50-01_page_17.png,invoice_currency,,,0,0,[],
+27,mohammedkm_23-01-2026_8-50-01_page_17.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1225, 1273, 1463, 1304]","[1218, 1267, 1487, 1319]"
+28,mohammedkm_23-01-2026_8-50-01_page_17.png,consignor_name,,,0,0,[],
+29,mohammedkm_23-01-2026_8-50-01_page_17.png,invoice_amount,,,0,0,[],
+30,mohammedkm_23-01-2026_8-50-01_page_17.png,lc_date,,,0,0,[],
+31,mohammedkm_23-01-2026_8-50-01_page_17.png,consignee_name,NEW EAST GENERAL TRADING FZCO,NEW EAST GENERAL TRADING FZCO,100,1,"[81, 508, 667, 543]","[72, 496, 681, 553]"
+32,mohammedkm_23-01-2026_8-50-01_page_17.png,description_of_goods,YOKOHAMA BRAND TYRES,YOKOHAMA BRAND TYRES,100,1,"[37, 1582, 451, 1613]","[18, 1571, 463, 1625]"
+33,mohammedkm_23-01-2026_8-50-01_page_17.png,pre_carriage_by,,"BAY,",0,0,"[200, 1182, 267, 1217]",
+34,mohammedkm_23-01-2026_8-50-01_page_17.png,consignee_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,100,1,"[81, 554, 788, 680]","[72, 556, 794, 696]"
+35,mohammedkm_23-01-2026_8-50-01_page_17.png,is_stamp,,FALSE,0,0,[],
+36,mohammedkm_23-01-2026_8-50-01_page_17.png,bill_of_lading_date,,,0,0,[],
+37,mohammedkm_23-01-2026_8-50-01_page_17.png,incoterm,,,0,0,[],
+38,mohammedkm_23-01-2026_8-50-01_page_17.png,country_of_final_destination,,,0,0,[],
+39,mohammedkm_23-01-2026_8-50-01_page_18.png,invoice_currency,,,0,0,[],
+40,mohammedkm_23-01-2026_8-50-01_page_18.png,lc_ref_no,TF2534300022,TF2534300022,100,1,"[1240, 1290, 1481, 1322]","[1236, 1284, 1493, 1329]"
+41,mohammedkm_23-01-2026_8-50-01_page_18.png,consignor_name,,,0,0,[],
+42,mohammedkm_23-01-2026_8-50-01_page_18.png,invoice_amount,,,0,0,[],
+43,mohammedkm_23-01-2026_8-50-01_page_18.png,lc_date,,,0,0,[],
+44,mohammedkm_23-01-2026_8-50-01_page_18.png,consignee_name,NEW EAST GENERAL TRADING FZCO,NEW EAST GENERAL TRADING FZCO,100,1,"[109, 519, 692, 557]","[101, 510, 710, 563]"
+45,mohammedkm_23-01-2026_8-50-01_page_18.png,description_of_goods,YOKOHAMA BRAND TYRES,YOKOHAMA BRAND TYRES,100,1,"[54, 1592, 466, 1627]","[39, 1582, 476, 1636]"
+46,mohammedkm_23-01-2026_8-50-01_page_18.png,pre_carriage_by,,,0,0,[],
+47,mohammedkm_23-01-2026_8-50-01_page_18.png,consignee_address,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAETEL9714881195,PLOTS21006FREEZONETRADINGSTREETJAFZASOUTHZONE2JEBELALIDUBAIUAE,91,1,"[106, 564, 712, 691]","[101, 564, 832, 704]"
+48,mohammedkm_23-01-2026_8-50-01_page_18.png,is_stamp,,FALSE,0,0,[],
+49,mohammedkm_23-01-2026_8-50-01_page_18.png,bill_of_lading_date,,,0,0,[],
+50,mohammedkm_23-01-2026_8-50-01_page_18.png,incoterm,,,0,0,[],
+51,mohammedkm_23-01-2026_8-50-01_page_18.png,country_of_final_destination,,,0,0,[],

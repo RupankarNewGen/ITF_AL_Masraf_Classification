@@ -1,0 +1,202 @@
+{
+    "Trade Finance_20210603075228_1.00_page_4.jpeg": {
+        "check_skew": true,
+        "check_resolution": true,
+        "check_dpi": true,
+        "model_based_orientation": {
+            "rotation_angle": 0,
+            "model_score": 0.9999723434448242
+        },
+        "predicted_class": "CS",
+        "confidence": "0.984983503818512",
+        "extraction_result": {
+            "drawer_name": {
+                "value": "PAGE 2 OF 2",
+                "coordinate": [
+                    [
+                        1997,
+                        31,
+                        2222,
+                        77
+                    ]
+                ],
+                "model_confidence": [
+                    0.576127
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_name": {
+                "value": "UAE CENTRAL BANK,~OUR H.O. AED",
+                "coordinate": [
+                    [
+                        281,
+                        1023,
+                        689,
+                        1054
+                    ],
+                    [
+                        1475,
+                        974,
+                        1769,
+                        1002
+                    ]
+                ],
+                "model_confidence": [
+                    0.999523,
+                    0.960958
+                ],
+                "ocr_confidence": []
+            },
+            "drawer_bank_address": {
+                "value": "DUBAI",
+                "coordinate": [
+                    [
+                        729,
+                        1023,
+                        865,
+                        1054
+                    ]
+                ],
+                "model_confidence": [
+                    0.997582
+                ],
+                "ocr_confidence": []
+            },
+            "sign": {
+                "value": "600,",
+                "coordinate": [
+                    [
+                        1302,
+                        1261,
+                        1386,
+                        1292
+                    ]
+                ],
+                "model_confidence": [
+                    0.344845
+                ],
+                "ocr_confidence": []
+            },
+            "bill_exchange_date": {
+                "value": "30/05/2021",
+                "coordinate": [
+                    [
+                        2029,
+                        3412,
+                        2224,
+                        3447
+                    ]
+                ],
+                "model_confidence": [
+                    0.961064
+                ],
+                "ocr_confidence": []
+            },
+            "is_signed": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "is_stamp": {
+                "value": "FALSE",
+                "coordinate": [],
+                "model_confidence": [
+                    0.0
+                ],
+                "ocr_confidence": []
+            },
+            "document_enclosed": {},
+            "csh_presentation_date": {},
+            "csh_ref_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "csh_bill_currency": {},
+            "csh_bill_amount": {},
+            "csh_due_date": {},
+            "csh_drawn_under_rules": {},
+            "csh_drawn_under_lc_number": {},
+            "tenor_type": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "usance_tenor": {},
+            "tenor_indicator": {},
+            "tenor_indicator_type": {},
+            "tenor_indicator_date": {},
+            "drawer_bank_bic": {},
+            "drawer_bank_country": {},
+            "drawer_address": {},
+            "drawer_country": {},
+            "drawer_ref_no": {},
+            "drawee_name": {},
+            "drawee_address": {},
+            "drawee_country": {},
+            "drawee_bank_name": {},
+            "drawee_bank_bic": {},
+            "drawee_bank_address": {},
+            "drawee_bank_country": {},
+            "nostro_bank_name": {},
+            "nostro_bank_bic": {},
+            "nostro_bank_address": {},
+            "nostro_bank_country": {},
+            "doc_delivery_instruction": {},
+            "doc_charge_instructions": {},
+            "page_no": {
+                "value": "",
+                "coordinate": [],
+                "model_confidence": [],
+                "ocr_confidence": []
+            },
+            "signature": {},
+            "stamp": {},
+            "original": {},
+            "total_page": {},
+            "our_charges": {},
+            "your_charges": {},
+            "less_your_charges": {},
+            "plus_our_charges": {},
+            "commissioned_charges": {},
+            "less_commission_charges": {},
+            "swift_charges": {},
+            "postal_charges": {},
+            "other_charges": {},
+            "total_bill_amount": {},
+            "original_number": {},
+            "total_original": {},
+            "freight_charges": {},
+            "insurance_charges": {},
+            "draft_number": {},
+            "charges": {},
+            "final_destination": {},
+            "advanced_charges": {},
+            "additional_charges": {},
+            "payment_at_sight": {},
+            "payment_before_sight": {},
+            "advance_payment": {}
+        },
+        "docAutoSignDetection": {
+            "keys_bboxes": {
+                "sign": []
+            },
+            "keys_confidence": {
+                "sign": []
+            }
+        },
+        "docAutoStampDetection": {
+            "keys_bboxes": {
+                "stamp": []
+            },
+            "keys_confidence": {
+                "stamp": []
+            }
+        }
+    }
+}

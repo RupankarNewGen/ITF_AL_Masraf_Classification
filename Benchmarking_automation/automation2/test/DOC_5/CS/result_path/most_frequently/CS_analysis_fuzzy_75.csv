@@ -1,0 +1,34 @@
+File_Name,label_name,actual,predicted,Accuracy,Match/No_Match,bbox,bbox_ground_truth
+DOC_5_page_1.png,csh_ref_no,BP2700721002156,,0,0,[],"[1262, 307, 1453, 332]"
+DOC_5_page_1.png,csh_bill_currency,USD,,0,0,[],"[1089, 1036, 1132, 1059]"
+DOC_5_page_1.png,csh_bill_amount,"16,684.60",,0,0,[],"[1135, 1027, 1224, 1048]"
+DOC_5_page_1.png,csh_drawn_under_rules,600,,0,0,[],"[651, 1632, 727, 1652]"
+DOC_5_page_1.png,tenor_type,"HANGZHOU HISAZUMI HOLDINGS CO.,LTD",,0,0,[],"[333, 708, 771, 730]"
+DOC_5_page_1.png,tenor_type,At Sight,,0,0,[],"[400, 832, 477, 857]"
+DOC_5_page_1.png,usance_tenor,,,0,0,[],
+DOC_5_page_1.png,tenor_indicator,,,0,0,[],
+DOC_5_page_1.png,tenor_indicator_type,,,0,0,[],
+DOC_5_page_1.png,tenor_indicator_date,,,0,0,[],
+DOC_5_page_1.png,drawer_bank_name,BANK OF CHINA ZHEJIANG BRANCH,JPMORGAN CHASE BANK,46,0,"[867, 1820, 1274, 1848]","[200, 109, 665, 137]"
+DOC_5_page_1.png,drawer_bank_bic,BKCHCNBJ910,,0,0,[],"[1239, 2162, 1414, 2185]"
+DOC_5_page_1.png,drawer_bank_address,321FENGQIROADHANGZHOUZHEJIANGPROVINCECHINA,ZHEJIANG,32,0,"[629, 168, 815, 196]","[391, 2160, 772, 2224]"
+DOC_5_page_1.png,drawer_bank_country,,,0,0,[],
+DOC_5_page_1.png,drawer_name,,,0,0,[],
+DOC_5_page_1.png,drawer_address,,,0,0,[],
+DOC_5_page_1.png,drawer_country,,,0,0,[],
+DOC_5_page_1.png,drawer_ref_no,,,0,0,[],
+DOC_5_page_1.png,drawee_name,,HOLDINGS,0,0,"[867, 1066, 1028, 1090]",
+DOC_5_page_1.png,drawee_address,,,0,0,[],
+DOC_5_page_1.png,drawee_country,,,0,0,[],
+DOC_5_page_1.png,drawee_bank_name,ARAB BANK FOR INVESTMENT AND FOREIGN,ARAB BANK FOR INVESTMENT AND FOREIGN TRADE MASRAF,85,1,"[1244, 620, 1941, 690]","[823, 409, 1298, 434]"
+DOC_5_page_1.png,drawee_bank_bic,,,0,0,[],
+DOC_5_page_1.png,drawee_bank_address,TRADEALMASRAFPOBOX2484ALMASRAFTOWERSHHAMDANSTREETABUDHABIUAE,POBOX2484ALMASRAFTOWERSHHAMDANSTREETABUDHABIUAE,88,1,"[1241, 659, 1918, 757]","[824, 439, 1275, 507]"
+DOC_5_page_1.png,drawee_bank_country,,SH AL,0,0,"[1241, 659, 1918, 757]",
+DOC_5_page_1.png,nostro_bank_name,,,0,0,[],
+DOC_5_page_1.png,nostro_bank_bic,,,0,0,[],
+DOC_5_page_1.png,nostro_bank_address,,,0,0,[],
+DOC_5_page_1.png,nostro_bank_country,,,0,0,[],
+DOC_5_page_1.png,doc_delivery_instruction,,,0,0,[],
+DOC_5_page_1.png,doc_charge_instructions,ADVISNG BANK’S CHARGES HAS BEEN PAID BY BENEFICIARY,,0,0,[],"[179, 1546, 810, 1570]"
+DOC_5_page_1.png,document_enclosed,,,0,0,[],
+DOC_5_page_1.png,total_bill_amount,,,0,0,[],
